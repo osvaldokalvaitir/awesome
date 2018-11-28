@@ -12,9 +12,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 
 ```
 {
-  // Configura tamanho e família da fonte
-  "editor.fontSize":16,
-  "editor.lineHeight":24,
+  // Configura a família da fonte
   "editor.fontFamily":"Fira Code",
   "editor.fontLigatures":true,
 }

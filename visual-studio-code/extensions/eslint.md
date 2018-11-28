@@ -13,6 +13,5 @@ Depois de instalado o Prettier e o ESLint, setar as configurações (Settings > 
 ```
   // Define a integração do Prettier com o ESLint
   "prettier.eslintIntegration": true,
-  "editor.formatOnSave": true
 }
 ```
