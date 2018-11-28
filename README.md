@@ -1,2 +1,1 @@
-# project-settings
- Project Settings
+# Project Settings
