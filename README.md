@@ -1,7 +1,5 @@
 # Projects Settings
 
-GitHub projects settings
-
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
