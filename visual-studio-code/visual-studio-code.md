@@ -8,19 +8,19 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 
 ## Fonte
 
-- [Fira Code](fira-code.md)
+- [Fira Code](fonts/fira-code.md)
 
 ## Extensões
 
-- [Color Highlight](color-highlight.md)
-- [DotEnv](dotenv.md)
-- [Dracula Official](dracula-official.md)
-- [EditorConfig for VS Code](editorconfig-for-vs-code.md)
-- [ESLint](eslint.md)
-- [Markdown All in One](markdown-all-in-one.md)
-- [Material Icon Theme](material-icon-theme.md)
-- [Nunjucks](nunjucks.md)
-- [Prettier - Code formatter](prettier-code-formatter.md)
+- [Color Highlight](extensions/color-highlight.md)
+- [DotEnv](extensions/dotenv.md)
+- [Dracula Official](extensions/dracula-official.md)
+- [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
+- [ESLint](extensions/eslint.md)
+- [Markdown All in One](extensions/markdown-all-in-one.md)
+- [Material Icon Theme](extensions/material-icon-theme.md)
+- [Nunjucks](extensions/nunjucks.md)
+- [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 
 ## Todas as Configurações
 
