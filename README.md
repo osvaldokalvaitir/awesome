@@ -1,12 +1,12 @@
-# Project Settings
+# Projects Settings
 
-GitHub project settings
+GitHub projects settings
 
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
 
-### [Node.js - Instalação](nodejs.md)
+### [Node.js - Instalação](../nodejs.md)
 
 ### [Yarn - Instalação](yarn.md)
 
