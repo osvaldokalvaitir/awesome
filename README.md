@@ -6,12 +6,12 @@ Configurações de projetos do GitHub
 
 ## Configuração Inicial
 
-- [Node.js - Instalação](nodejs/nodejs.md)
+- [Instalação do Node.js](nodejs/nodejs.md)
 
-- [Yarn - Instalação](yarn/yarn.md)
+- [Instalação do Yarn](yarn/yarn.md)
 
-- [Visual Studio Code - Instalação e Configuração](visual-studio-code/visual-studio-code.md)
+- [Instalação e Configuração do Visual Studio Code](visual-studio-code/visual-studio-code.md)
 
 ## Outras Configurações
 
-- [Docker](docker/docker.md)
+- [Instalação do Docker](docker/docker.md)
