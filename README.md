@@ -6,7 +6,7 @@ Configurações de projetos do GitHub
 
 ## Configuração Inicial
 
-### [Node.js - Instalação](../nodejs.md)
+### [Node.js - Instalação](nodejs/nodejs.md)
 
 ### [Yarn - Instalação](yarn.md)
 
