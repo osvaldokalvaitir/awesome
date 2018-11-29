@@ -4,11 +4,11 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
 ## Documentação e Instalação
 
-Clique [aqui](https://nodejs.org/) para ver a documentação e fazer a instalação.
+Clique [aqui](https://nodejs.org) para ver a documentação e fazer a instalação.
 
 // TODO: Documentar sobre o chocolatey e outros
 
-## Comandos do Projeto
+## Instalação de Projeto
 
 Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
 
@@ -18,7 +18,9 @@ Instalar as dependências do projeto:
 npm install | yarn
 ```
 
-Executar o projeto localmente:
+## Execução de Projeto no Node.js
+
+Executar o projeto Node.js localmente:
 
 ```
 npm run dev | yarn run dev

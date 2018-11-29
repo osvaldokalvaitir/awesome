@@ -10,13 +10,19 @@ Configurações de projetos do GitHub
 
 - [Instalação e Configuração do Visual Studio Code](visual-studio-code/visual-studio-code.md)
 
-## Instalação e Execução
+// TODO: Configuração dos emuladores
 
-- [Projeto em Node.js](install-run-nodejs.md)
+## Instalação de Projeto
 
-- [Projeto em React](install-run-react.md)
+- [Instalação de dependências de projeto](nodejs/nodejs.md)
 
-- [Projeto em React Native](install-run-react-native.md)
+## Execução de Projeto
+
+- [Projeto em Node.js](nodejs/nodejs.md)
+
+- [Projeto em React](nodejs/libs/create-react-app.md)
+
+- [Projeto em React Native](nodejs/libs/react-native.md)
 
 ## Outras Configurações
 
