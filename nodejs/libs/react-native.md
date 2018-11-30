@@ -1,6 +1,6 @@
 # React Native
 
-São dois pacotes para criar aplicativos com React Native.
+Uma estrutura para criar aplicativos nativos usando o React.
 
 ## Documentação
 
