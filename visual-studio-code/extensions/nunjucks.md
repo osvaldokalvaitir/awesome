@@ -14,10 +14,7 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 {
   // Inclui html nos arquivos nunjucks
   "emmet.includeLanguages": {
-    "njk": "html"
+    "nunjucks": "html"
   },
-  "files.associations": {
-    "*.njk": "njk"
-  }
 }
 ```

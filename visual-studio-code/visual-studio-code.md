@@ -74,10 +74,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
 
   // Inclui html nos arquivos nunjucks
   "emmet.includeLanguages": {
-    "njk": "html"
-  },
-  "files.associations": {
-    "*.njk": "njk"
+    "nunjucks": "html"
   }
 }
 ```
