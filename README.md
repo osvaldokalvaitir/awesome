@@ -12,6 +12,8 @@ Configurações de projetos do GitHub
 
 // TODO: Configuração dos emuladores
 
+// TODO: Configuração dos erros comuns
+
 ## Instalação de Projeto
 
 - [Instalação de dependências de projeto](nodejs/nodejs.md)
