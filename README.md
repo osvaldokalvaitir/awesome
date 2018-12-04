@@ -1,12 +1,5 @@
 # Projects Settings
 
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)(https://github.com/osvaldokalvaitir/projects-settings)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)(https://github.com/osvaldokalvaitir/projects-settings)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)(https://github.com/osvaldokalvaitir/projects-settings)
-![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)(https://github.com/osvaldokalvaitir/projects-settings)
-![GitHub language count](https://img.shields.io/github/languages/count/badges/shields.svg)(https://github.com/osvaldokalvaitir/projects-settings)
-![David](https://img.shields.io/david/osvaldokalvaitir/projects-settings.svg)
-
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
