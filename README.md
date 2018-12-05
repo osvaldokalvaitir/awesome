@@ -1,5 +1,8 @@
 # Projects Settings
 
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
