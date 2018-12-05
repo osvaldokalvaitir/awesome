@@ -3,17 +3,6 @@
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/projects-settings/blob/master/LICENSE)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
-![GitHub package version](https://img.shields.io/github/package-json/v/badges/shields.svg)
-![npm](https://img.shields.io/npm/v/:package.svg)
-![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/ritwickdey.LiveServer.svg)
-![node](https://img.shields.io/node/v/:packageName.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/badges/shields.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
-
-
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
