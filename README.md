@@ -1,8 +1,5 @@
 # Projects Settings
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/projects-settings/blob/master/LICENSE)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
