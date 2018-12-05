@@ -1,7 +1,5 @@
 # Projects Settings
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/osvaldokalvaitir/projects-settings)
-
 Configurações de projetos do GitHub
 
 ## Configuração Inicial
