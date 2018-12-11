@@ -2,6 +2,6 @@
 
 Serviço de banco de dados em nuvem totalmente gerenciado que hospeda bancos de dados do MongoDB.
 
-## Documentação e Instalação
+## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://mlab.com) para ver a documentação e fazer a instalação.
+Clique [aqui](https://mlab.com) para ver a documentação e acessar o serviço.
