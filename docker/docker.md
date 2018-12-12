@@ -15,7 +15,7 @@ Depois de instalado o Docker, é necessário efetuar o login no aplicativo.
 Criar um container e executar:
 
 ```
-docker run --name nome_container -p 5432:5432 -d -t nome_imagem
+docker run --name nome_container -p 0000:0000 -d -t nome_imagem
 ```
 
 Exibir todos os containers em execução:
