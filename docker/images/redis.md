@@ -4,7 +4,7 @@ Imagem do Redis minificada para o ambiente Docker.
 
 ## Configurações
 
-Nome da imagem: `redis:alpine`
+Nome da imagem: `redis:alpine`  
 Porta: `6379`
 
 ## Documentação e Instalação
