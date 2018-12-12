@@ -4,9 +4,9 @@ Imagem do PostgreSQL para o ambiente Docker.
 
 ## Configurações
 
-Nome da imagem: `katoza/postgis`
-Porta: `5432`
-Usuário: `docker`
+Nome da imagem: `katoza/postgis`  
+Porta: `5432`  
+Usuário: `docker`  
 Senha: `docker`
 
 ## Documentação e Instalação
