@@ -1,4 +1,4 @@
-# PostgreSQL
+# katoza/postgis
 
 Imagem do PostgreSQL para o ambiente Docker.
 

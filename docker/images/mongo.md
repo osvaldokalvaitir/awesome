@@ -1,4 +1,4 @@
-# MongoDB
+# mongo
 
 Imagem oficial do Mongo para o ambiente Docker.
 

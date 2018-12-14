@@ -1,4 +1,4 @@
-# Redis
+# redis:alpine
 
 Imagem do Redis minificada para o ambiente Docker.
 
