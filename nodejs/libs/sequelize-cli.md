@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/sequelize/cli) para ver a documentação.
 
 Clique [aqui](https://www.npmjs.com/package/sequelize-cli) para fazer a instalação.
 
-Instale como dependência de desenvolvimento e de preferência globalmente:
+Instalar como dependência de desenvolvimento e de preferência globalmente:
 
 ```
 npm install sequelize-cli --save-dev -g | yarn global add sequelize-cli -D

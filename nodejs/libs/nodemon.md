@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/remy/nodemon) para ver a documentação.
 
 Clique [aqui](https://www.npmjs.com/package/nodemon) para fazer a instalação.
 
-Instale como dependência de desenvolvimento:
+Instalar como dependência de desenvolvimento:
 
 ```
 npm install nodemon --save-dev | yarn add nodemon -D

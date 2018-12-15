@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/eslint/eslint) para ver a documentação.
 
 Clique [aqui](https://www.npmjs.com/package/eslint) para fazer a instalação.
 
-Instale como dependência de desenvolvimento:
+Instalar como dependência de desenvolvimento:
 
 ```
 npm install eslint --save-dev | yarn add eslint -D
