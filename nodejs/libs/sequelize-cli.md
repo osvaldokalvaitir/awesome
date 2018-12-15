@@ -1,0 +1,39 @@
+# sequelize-cli
+
+A interface de linha de comando (CLI) do Sequelize.
+
+## Documentação
+
+Clique [aqui](https://github.com/sequelize/cli) para ver a documentação.
+
+## Instalação
+
+Clique [aqui](https://www.npmjs.com/package/sequelize-cli) para fazer a instalação.
+
+Instale como dependência de desenvolvimento e de preferência globalmente:
+
+```
+npm install sequelize-cli --save-dev -g | yarn global add sequelize-cli -D
+```
+
+É necessário instalar também o [sequelize](sequelize.md).
+
+## Comandos do CLI
+
+Criar migration:
+
+```
+npx sequelize migration:create --name=create-nome_da_tabela
+```
+
+Criar migrations pendentes no banco de dados:
+
+```
+npx sequelize db:migrate
+```
+
+Desfazer o último comando de migration:
+
+```
+npx sequelize:migration:undo
+```
