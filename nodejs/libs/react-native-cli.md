@@ -16,7 +16,7 @@ Instalar globalmente:
 npm install -g react-native-cli | yarn global add react-native-cli
 ```
 
-## Comando do CLI
+## Comandos do CLI
 
 Criação de novo projeto:
 
