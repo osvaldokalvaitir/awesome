@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/facebook/create-react-app) para ver a documenta
 
 Clique [aqui](https://www.npmjs.com/package/create-react-app) para fazer a instalação.
 
-Instalar de preferência globalmente:
+Instalar globalmente:
 
 ```
 npm install -g create-react-app | yarn global add create-react-app

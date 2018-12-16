@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/nodemon) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install nodemon --save-dev | yarn add nodemon -D
+npm install nodemon --save-dev | yarn add nodemon --dev
 ```

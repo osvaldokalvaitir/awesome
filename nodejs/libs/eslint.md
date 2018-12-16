@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/eslint) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint --save-dev | yarn add eslint -D
+npm install eslint --save-dev | yarn add eslint --dev
 ```
 
 É necessário setar um arquivo de configuração com o comando:
