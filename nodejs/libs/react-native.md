@@ -1,6 +1,6 @@
 # React Native
 
-Uma estrutura para criar aplicativos nativos usando o React.
+Uma estrutura para criar aplicativos nativos usando o React. Não é necessário instalar esse pacote manualmente pois quando é instalado o [react-native-cli](react-native-cli.md) e executa `react-native init`, o `react-native init` chama o `npm install react-native`.
 
 ## Documentação
 
@@ -9,29 +9,3 @@ Clique [aqui](https://github.com/facebook/react-native) para ver a documentaçã
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native) para fazer a instalação.
-
-Instalação da interface de linha de comando (opcional instalar globalmente):
-
-```
-npm install -g react-native-cli | yarn global add react-native-cli
-```
-
-Criação de novo projeto:
-
-```
-react-native init nome_app
-```
-
-## Execução de Projeto no React Native
-
-Executar o projeto no Android:
-
-```
-react-native run-android
-```
-
-Executar o projeto no iOS:
-
-```
-react-native run-ios
-```

@@ -24,7 +24,7 @@ Configurações de projetos do GitHub
 
 - [Projeto em React](nodejs/libs/create-react-app.md)
 
-- [Projeto em React Native](nodejs/libs/react-native.md)
+- [Projeto em React Native](nodejs/libs/react-native-cli.md)
 
 ## Outras Configurações
 
