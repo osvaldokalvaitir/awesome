@@ -1,6 +1,6 @@
 # Create React App
 
-Cria aplicativos React sem configuração de compilação.
+Cria aplicativos ReactJS sem configuração de compilação.
 
 ## Documentação
 
