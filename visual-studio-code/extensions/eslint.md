@@ -8,10 +8,11 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscod
 
 ## Configuração
 
-Depois de instalado o Prettier e o ESLint, setar as configurações (Settings > Open settings.json):
+Depois de instalado o ESLint, setar as configurações (Settings > Open settings.json):
 
 ```
-  // Define a integração do Prettier com o ESLint
-  "prettier.eslintIntegration": true,
+  // ESLint
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
 }
 ```

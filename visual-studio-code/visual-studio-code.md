@@ -40,18 +40,21 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
 
-  // Guias auxiliares de navegação
-  "breadcrumbs.enabled": true,
+  // Configura o tamanho fonte
+  "editor.fontSize":16,
+  "editor.lineHeight":24,
 
   // Formatar ao salvar
   "editor.formatOnSave": true,
 
+  // Guias auxiliares de navegação
+  "breadcrumbs.enabled": true,
+
+  // Formatar JavaScript
+  "javascript.format.enable": false,
+
   // Define se o Html sugere tags Html5
   "html.suggest.html5": true,
-
-  // Configura o tamanho fonte
-  "editor.fontSize":16,
-  "editor.lineHeight":24,
 
   // Aumenta a fonte do terminal
   "terminal.integrated.fontSize":14,
@@ -68,6 +71,10 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
 
   // Define o tema dos ícones na sidebar
   "workbench.iconTheme":"material-icon-theme",
+
+  // ESLint
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
 
   // Define a integração do Prettier com o ESLint
   "prettier.eslintIntegration": true,
