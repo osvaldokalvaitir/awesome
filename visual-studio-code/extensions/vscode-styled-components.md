@@ -1,4 +1,4 @@
-# VSCode Styled Components
+# VSCode Styled-Components
 
 Sintaxe highlighting para styled-components.
 
