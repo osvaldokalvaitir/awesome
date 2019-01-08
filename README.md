@@ -6,7 +6,7 @@ Configurações de projetos do GitHub
 
 - [Instalação do Node.js](nodejs/nodejs.md)
 
-- [Instalação do Yarn](yarn/yarn.md)
+- [Instalação do Yarn](nodejs/package-manager/yarn.md)
 
 - [Instalação e Configuração do Visual Studio Code](visual-studio-code/visual-studio-code.md)
 
