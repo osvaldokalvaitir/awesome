@@ -8,7 +8,7 @@ Configurações de projetos do GitHub
 
 - [Instalação do Yarn](nodejs/package-manager/yarn.md)
 
-- [Instalação e Configuração do Visual Studio Code](visual-studio-code/visual-studio-code.md)
+- [Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)
 
 // TODO: Configuração dos emuladores
 
