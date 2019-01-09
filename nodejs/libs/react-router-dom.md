@@ -1,6 +1,6 @@
-# React Router
+# react-router-dom
 
-Realiza o redirecionamento das rotas.
+Ligação DOM para o React Router, que realiza o redirecionamento das rotas.
 
 ## Documentação
 
