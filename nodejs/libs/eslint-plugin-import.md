@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/benmosher/eslint-plugin-import) para ver a docu
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/eslint-plugin-import) para fazer a instalação.
+
+Instalar como dependência de desenvolvimento:
+
+```
+npm install eslint-plugin-import --save-dev | yarn add eslint-plugin-import --dev
+```

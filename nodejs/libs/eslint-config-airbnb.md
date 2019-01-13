@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/airbnb/javascript) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/eslint-config-airbnb) para fazer a instalação.
+
+Instalar como dependência de desenvolvimento:
+
+```
+npm install eslint-config-airbnb --save-dev | yarn add eslint-config-airbnb --dev
+```
