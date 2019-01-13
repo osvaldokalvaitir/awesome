@@ -4,4 +4,4 @@ O Mailtrap é um falso servidor SMTP para testar, visualizar e compartilhar e-ma
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://mailtrap.io/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://mailtrap.io) para ver a documentação e acessar o serviço.
