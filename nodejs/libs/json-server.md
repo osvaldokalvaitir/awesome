@@ -15,3 +15,5 @@ Instalar globalmente:
 ```
 npm install -g json-server | yarn global add json-server
 ```
+
+Obs: Ocorreu um erro ao tentar instalar com o yarn, mas foi resolvido instalando com o npm.
