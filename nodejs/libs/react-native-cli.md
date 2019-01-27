@@ -26,6 +26,8 @@ react-native init nome_app
 
 ### Execução de Projeto no React Native
 
+- Quando executar o projeto pela primeira vez ou quando instalar uma biblioteca que contêm código nativo que precise executar o comando `react-native link nome-da-biblioteca`, podemos executar os comandos abaixo.
+
 Executar o projeto no Android:
 
 ```
@@ -36,4 +38,26 @@ Executar o projeto no iOS:
 
 ```
 react-native run-ios
+```
+
+- Depois nos demais casos, podemos usar o seguinte comando:
+
+```
+react-native start
+```
+
+### Vincular bibliotecas que contêm código nativo
+
+Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as libs com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
+
+Para vincular a biblioteca instalada com dependências nativas:
+
+```
+react-native link nome-da-biblioteca
+```
+
+Para vincular todas as bibliotecas com dependências nativas:
+
+```
+react-native link
 ```
