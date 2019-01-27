@@ -40,13 +40,13 @@ Executar o projeto no iOS:
 react-native run-ios
 ```
 
-- Depois nos demais casos, podemos usar o seguinte comando:
+- Depois nos demais casos, podemos usar o comando:
 
 ```
 react-native start
 ```
 
-- Quando aparecer uma tela vermelha de erro ao executar o projeto, às vezes, é necessário limpar a cachê do projeto, usando o seguinte comando:
+- Quando aparecer uma tela vermelha de erro ao executar o projeto, às vezes, é necessário limpar a cache do projeto, usando o comando:
 
 ```
 react-native start --reset-cache
