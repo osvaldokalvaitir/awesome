@@ -16,4 +16,4 @@ Esta biblioteca está instável no Windows, então foi substituída pela bibliot
 
 Clique [aqui](https://github.com/valery-barysok/session-file-store/issues/51) para mais detalhes sobre o erro.
 
-Clique [aqui](https://github.com/isaacs/node-graceful-fs/issues/104) para mais detalhes sobre a atualização e comentário sobre a biblioteca 'connect-loki'.
+Clique [aqui](https://github.com/isaacs/node-graceful-fs/issues/104) para mais detalhes sobre a atualização e comentário sobre a biblioteca `connect-loki`.

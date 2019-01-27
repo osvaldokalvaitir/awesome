@@ -1,6 +1,6 @@
 # ESLint
 
-Ferramenta para identificar e relatar padrões em JavaScript. Se o projeto for em Node é recomendado a utilização do guia de estilo 'Standard' e se for em React o guia de estilo do [AirBnB](https://www.npmjs.com/package/eslint-config-airbnb-base).
+Ferramenta para identificar e relatar padrões em JavaScript. Se o projeto for em Node é recomendado a utilização do guia de estilo `Standard` e se for em React o guia de estilo do [AirBnB](https://www.npmjs.com/package/eslint-config-airbnb-base).
 
 ## Documentação
 
@@ -22,7 +22,7 @@ npm install eslint --save-dev | yarn add eslint --dev
 npx eslint --init
 ```
 
-Só é possível instalar o ESLint com o NPM, então depois que terminar a instalação e configuração, delete o arquivo 'package-lock.json' e execute o comando abaixo para instalar as dependências com o yarn:
+Só é possível instalar o ESLint com o NPM, então depois que terminar a instalação e configuração, delete o arquivo `package-lock.json` e execute o comando abaixo para instalar as dependências com o yarn:
 
 ```
 yarn
