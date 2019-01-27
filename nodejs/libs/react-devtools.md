@@ -9,3 +9,25 @@ Clique [aqui](https://github.com/jaredpalmer/formik) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://github.com/facebook/react-devtools) para fazer a instalação.
+
+Instalar como dependência de desenvolvimento:
+
+```
+npm install react-devtools --save-dev | yarn add react-devtools --dev
+```
+
+## Execução do react-devtools
+
+Para usar o react-devtools, no package.json adicione o script:
+
+```
+"scripts": {
+  "react-devtool": "react-devtools"
+},
+```
+
+Para executar o script:
+
+```
+npm run react-devtool | yarn run react-devtool
+```
