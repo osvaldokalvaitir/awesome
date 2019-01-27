@@ -46,6 +46,12 @@ react-native run-ios
 react-native start
 ```
 
+- Quando aparecer uma tela vermelha de erro ao executar o projeto, às vezes, é necessário limpar a cachê do projeto, usando o seguinte comando:
+
+```
+react-native start --reset-cache
+```
+
 ### Vincular bibliotecas que contêm código nativo
 
 Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as libs com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
