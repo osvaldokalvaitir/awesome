@@ -2,6 +2,8 @@
 
 O babel-eslint permite que você lixe todos os códigos válidos do Babel com o fantástico ESLint.
 
+Antes é necessário instalar o [ESLint](eslint.md).
+
 ## Documentação
 
 Clique [aqui](https://github.com/babel/babel-eslint) para ver a documentação.
