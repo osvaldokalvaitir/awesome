@@ -19,11 +19,9 @@ npm install eslint --save-dev | yarn add eslint --dev
 É necessário setar um arquivo de configuração com o comando:
 
 ```
-npx eslint --init
+npx eslint --init | yarn eslint --init
 ```
 
-Só é possível instalar o ESLint com o NPM, então depois que terminar a instalação e configuração, delete o arquivo `package-lock.json` e execute o comando abaixo para instalar as dependências com o yarn:
+## Erro
 
-```
-yarn
-```
+Se o projeto for criado com [create-react-app](create-react-app.md), não usar esta biblioteca de instalação. Instalar a lib [eslint-config-airbnb](eslint-config-airbnb.md) e suas dependências.
