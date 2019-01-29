@@ -4,32 +4,32 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
 ## Instalação
 
-### Linux usando cURL
+- **Linux usando cURL**
 
-Para instalar o Node.js, executar no cURL os seguintes comandos:
+  Para instalar o Node.js, executar no cURL os seguintes comandos:
 
-```
-curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
-sudo apt install nodejs
-```
+  ```
+  curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+  sudo apt install nodejs
+  ```
 
-`Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
+  `Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
 
-- [macOS usando Homebrew]
+- **macOS usando Homebrew**
 
-Para instalar o Node.js, executar no Homebrew o seguinte comando:
+  Para instalar o Node.js, executar no Homebrew o seguinte comando:
 
-```
-brew install node
-```
+  ```
+  brew install node
+  ```
 
-### Windows usando Chocolatey
+- **Windows usando Chocolatey**
 
-Para instalar o Node.js, executar no Chocolatey o seguinte comando:
+  Para instalar o Node.js, executar no Chocolatey o seguinte comando:
 
-```
-choco install -y nodejs.install
-```
+  ```
+  choco install -y nodejs.install
+  ```
 
 ## Documentação e Instalação
 
