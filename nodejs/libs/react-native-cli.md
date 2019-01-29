@@ -24,6 +24,12 @@ Criação de novo projeto:
 react-native init nome_app
 ```
 
+Exibição de uma lista de comandos possíveis:
+
+```
+react-native -h
+```
+
 ### Execução de Projeto no React Native
 
 - Quando executar o projeto pela primeira vez ou quando instalar uma biblioteca que contêm código nativo que precise executar o comando `react-native link nome-da-biblioteca`, podemos executar os comandos abaixo.
