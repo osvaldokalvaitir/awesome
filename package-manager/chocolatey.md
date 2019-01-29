@@ -10,7 +10,7 @@ Clique [aqui](https://chocolatey.org/) para ver a documentação e outras opçõ
 
 Execute o prompt de comando ou powershell como administrador e siga os passos de acordo com o escolhido:
 
-- Command Prompt
+- _Command Prompt_
 
   Caso a opção tenha sido `Command Prompt`, execute o comando abaixo na janela aberta para instalar o Chocolatey:
 
@@ -18,7 +18,7 @@ Execute o prompt de comando ou powershell como administrador e siga os passos de
   @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
   ```
 
-- Powershell
+- _Powershell_
 
   Caso a opção tenha sido `Powershell`, execute o comando abaixo para verificar se você possui permissões para instalar dependências com o terminal:
 
