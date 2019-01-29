@@ -18,6 +18,21 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 
 - [Instalação do Yarn](nodejs/package-manager/yarn.md)
 
+//react-native-cli
+
+- Android
+
+  - Instalação do JDK e dependências
+  - Instalação do SDK
+  - [Instalação do VirtualBox](virtualization/virtualbox.md)
+  - [Instalação do Genymotion](virtualization/genymotion.md)
+  - Erros Comuns
+
+- iOS
+
+  - Instalação do XCode
+  - Erros Comuns
+
 ## Instalação de Projeto
 
 - [Instalação de dependências de projeto](nodejs/nodejs.md)
