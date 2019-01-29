@@ -4,15 +4,19 @@ Configurações de projetos do GitHub
 
 ## Configuração Inicial
 
-- [Instalação do Node.js](nodejs/nodejs.md)
-
-- [Instalação do Yarn](nodejs/package-manager/yarn.md)
+Configuração para projetos em Node.js, ReactJS e React Native.
 
 - [Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)
 
-// TODO: Configuração dos emuladores
+- Instalação do Gerenciador de Pacotes
 
-// TODO: Configuração dos erros comuns
+  - [Linux](package-manager/curl.md)
+  - [macOS](package-manager/homebrew.md)
+  - [Windows](package-manager/chocolatey.md)
+
+- [Instalação do Node.js](nodejs/nodejs.md)
+
+- [Instalação do Yarn](nodejs/package-manager/yarn.md)
 
 ## Instalação de Projeto
 

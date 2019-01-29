@@ -2,11 +2,38 @@
 
 Interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.
 
+## Instalação
+
+### Linux usando cURL
+
+Para instalar o Node.js, executar no cURL os seguintes comandos:
+
+```
+curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+sudo apt install nodejs
+```
+
+`Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
+
+- [macOS usando Homebrew]
+
+Para instalar o Node.js, executar no Homebrew o seguinte comando:
+
+```
+brew install node
+```
+
+### Windows usando Chocolatey
+
+Para instalar o Node.js, executar no Chocolatey o seguinte comando:
+
+```
+choco install -y nodejs.install
+```
+
 ## Documentação e Instalação
 
-Clique [aqui](https://nodejs.org) para ver a documentação e fazer a instalação.
-
-// TODO: Documentar sobre o chocolatey e outros
+Clique [aqui](https://nodejs.org) para ver a documentação e outras opções de instalação.
 
 ## Instalação de Projeto
 
