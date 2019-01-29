@@ -23,7 +23,7 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 - Android
 
   - Instalação do JDK e dependências
-  - Instalação do SDK
+  - [Instalação do SDK](sdk/android-sdk.md)
   - [Instalação do VirtualBox](virtualization/virtualbox.md)
   - [Instalação do Genymotion](virtualization/genymotion.md)
   - Erros Comuns
