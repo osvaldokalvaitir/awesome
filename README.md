@@ -20,18 +20,18 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 
 - Ambiente Android
 
-  - **Linux**
+  **Linux**
   - [Instalação do React Native](nodejs/libs/react-native-cli.md)
   - [Instalação do JDK](sdk/java-development-kit.md)
-    Instalação das libs gráficas
+  - Instalação das libs gráficas
 
-  - **OS X**
+  **OS X**
   - [Instalação do Watchman](watcher/watchmand.md)
   - [Instalação do React Native](nodejs/libs/react-native-cli.md)
   - [Instalação do JDK](sdk/java-development-kit.md)
 
-  - **Windows**
-    Instalação do Python2
+  **Windows**
+  - [Instalação do Python](programming-language/python.md)
   - [Instalação do JDK](sdk/java-development-kit.md)
   - [Instalação do React Native](nodejs/libs/react-native-cli.md)
 
