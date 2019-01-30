@@ -70,7 +70,7 @@ react-native link
 
 ## Erros
 
-### Android/iOS
+# Android/iOS
 
 Lista de erros comuns enfrentados no Android/iOS:
 
@@ -89,7 +89,7 @@ react-native start --reset-cache
 
 Esse comando irá limpar o cache do React Native provavelmente resolvendo o erro.
 
-### Android
+# Android
 
 Lista de erros comuns enfrentados no Android:
 
@@ -117,7 +117,7 @@ Para resolver execute na pasta do seu projeto:
 cd android && gradlew clean cd .. && react-native run-android
 ```
 
-### iOS
+# iOS
 
 Lista de erros comuns enfrentados no iOS:
 
