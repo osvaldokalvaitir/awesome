@@ -18,20 +18,36 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 
 - [Instalação do Yarn](nodejs/package-manager/yarn.md)
 
-//react-native-cli
+- Ambiente Android
 
-- Android
+  - **Linux**
+  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
+  - [Instalação do JDK](sdk/java-development-kit.md)
+    Instalação das libs gráficas
 
-  - Instalação do JDK e dependências
+  - **OS X**
+  - [Instalação do Watchman](watcher/watchmand.md)
+  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
+  - [Instalação do JDK](sdk/java-development-kit.md)
+
+  - **Windows**
+    Instalação do Python2
+  - [Instalação do JDK](sdk/java-development-kit.md)
+  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
+
+
   - [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
   - [Instalação do VirtualBox](virtualization/virtualbox.md)
   - [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
   - Erros Comuns
 
-- iOS
+- Ambiente iOS
 
-  - Instalação do XCode
-  - Erros Comuns
+  - **OS X**
+
+    - [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    - [Instalação do XCode](ide/xcode.md)
+    - Erros Comuns
 
 ## Instalação de Projeto
 

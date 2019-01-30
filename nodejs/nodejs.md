@@ -15,7 +15,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
   `Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
 
-- **macOS usando Homebrew**
+- **OS X usando Homebrew**
 
   Para instalar o Node.js, executar no Homebrew o seguinte comando:
 
