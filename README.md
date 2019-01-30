@@ -34,12 +34,11 @@ Configuração para projetos em Node.js, ReactJS e React Native.
   - [Instalação do Python](programming-language/python.md)
   - [Instalação do JDK](sdk/java-development-kit.md)
   - [Instalação do React Native](nodejs/libs/react-native-cli.md)
-
-
+  
+  
   - [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
   - [Instalação do VirtualBox](virtualization/virtualbox.md)
   - [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
-  - Erros Comuns
 
 - Ambiente iOS
 
@@ -47,7 +46,6 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 
     - [Instalação do React Native](nodejs/libs/react-native-cli.md)
     - [Instalação do XCode](ide/xcode.md)
-    - Erros Comuns
 
 ## Instalação de Projeto
 
