@@ -46,6 +46,13 @@ Executar o projeto no iOS:
 react-native run-ios
 ```
 
+Ou é possível informar a versão do emulador utilizado passando a propriedade `--simulator`:
+
+
+```
+react-native run-ios --simulator="iPhone XS Max"
+```
+
 - Depois nos demais casos, podemos usar o comando:
 
 ```

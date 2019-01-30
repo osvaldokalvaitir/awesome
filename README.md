@@ -21,31 +21,29 @@ Configuração para projetos em Node.js, ReactJS e React Native.
 - Ambiente Android
 
   **Linux**
-  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
-  - [Instalação do JDK](sdk/java-development-kit.md)
-  - Instalação das libs gráficas
+    1. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    2. [Instalação do JDK](sdk/java-development-kit.md)
+    3. [Instalação de Libs Gráficas](libs/linux.md)
 
   **OS X**
-  - [Instalação do Watchman](watcher/watchmand.md)
-  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
-  - [Instalação do JDK](sdk/java-development-kit.md)
+    1. [Instalação do Watchman](watcher/watchmand.md)
+    2. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    3. [Instalação do JDK](sdk/java-development-kit.md)
 
   **Windows**
-  - [Instalação do Python](programming-language/python.md)
-  - [Instalação do JDK](sdk/java-development-kit.md)
-  - [Instalação do React Native](nodejs/libs/react-native-cli.md)
-  
-  
-  - [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
-  - [Instalação do VirtualBox](virtualization/virtualbox.md)
-  - [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
+    1. [Instalação do Python](programming-language/python.md)
+    2. [Instalação do JDK](sdk/java-development-kit.md)
+    3. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    
+  4. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
+  5. [Instalação do VirtualBox](virtualization/virtualbox.md)
+  6. [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
 
 - Ambiente iOS
 
   - **OS X**
-
-    - [Instalação do React Native](nodejs/libs/react-native-cli.md)
-    - [Instalação do XCode](ide/xcode.md)
+    1. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    2. [Instalação do XCode](ide/xcode.md)
 
 ## Instalação de Projeto
 
