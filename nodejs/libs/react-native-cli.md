@@ -70,11 +70,33 @@ react-native link
 
 ## Erros
 
+### Android/iOS
+---
+
+Lista de erros comuns enfrentados no Android/iOS:
+
+#### The development server returned response error code: 500
+---
+
+Geralmente esse erro acontece quando você tenta importar um arquivo JS que não possui `export default` ou não possui nenhum componente dentro dele.
+
+Primeiramente cheque todos arquivos e importações recentes que você fez para garantir que todos possuem import/exports e seus devidos componentes.
+
+Caso isso não resolva, feche a janela do terminal `Metro Bundler` que abre automaticamente com o `run-ios/run-android` e na pasta do seu projeto execute:
+
+```
+react-native start --reset-cache
+```
+
+Esse comando irá limpar o cache do React Native provavelmente resolvendo o erro.
+
 ### Android
+---
 
 Lista de erros comuns enfrentados no Android:
 
 #### Unable to load script from assets 'index.android.bundle'. Make sure...
+---
 
 Esse erro geralmente acontece porque o sistema não conseguiu criar o bundle inicial que contém todo o código Javascript da aplicação.
 
@@ -89,6 +111,7 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 Agora, feche as abas do terminal e rode `react-native run-android` novamente.
 
 #### react-native run-android: FAILURE: Build failed with an exception.
+---
 
 Esse erro pode acontecer por muitos motivos, mas na maioria das vezes é algum cache que precisa ser deletado.
 
@@ -99,10 +122,12 @@ cd android && gradlew clean cd .. && react-native run-android
 ```
 
 ### iOS
+---
 
 Lista de erros comuns enfrentados no iOS:
 
 #### :CFBundleIdentifier does not exists
+---
 
 Esse erro geralmente acontece pois o React Native não conseguiu configurar as dependências e bibliotecas de terceiros dentro do iOS.
 
@@ -119,19 +144,3 @@ Assim que finalizar, acesse a pasta `third-party/glog-x-x-x`, preencha `x-x-x` c
 ```
 
 Depois disso, volte à pasta do seu projeto e rode `react-native run-ios` (Pode ser necessário rodar duas vezes).
-
-### iOS/Android
-
-#### The development server returned response error code: 500
-
-Geralmente esse erro acontece quando você tenta importar um arquivo JS que não possui `export default` ou não possui nenhum componente dentro dele.
-
-Primeiramente cheque todos arquivos e importações recentes que você fez para garantir que todos possuem import/exports e seus devidos componentes.
-
-Caso isso não resolva, feche a janela do terminal `Metro Bundler` que abre automaticamente com o `run-ios/run-android` e na pasta do seu projeto execute:
-
-```
-react-native start --reset-cache
-```
-
-Esse comando irá limpar o cache do React Native provavelmente resolvendo o erro.
