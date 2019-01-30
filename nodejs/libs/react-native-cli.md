@@ -71,12 +71,11 @@ react-native link
 ## Erros
 
 ### Android/iOS
----
 
 Lista de erros comuns enfrentados no Android/iOS:
 
-#### The development server returned response error code: 500
----
+## The development server returned response error code: 500
+
 
 Geralmente esse erro acontece quando você tenta importar um arquivo JS que não possui `export default` ou não possui nenhum componente dentro dele.
 
@@ -91,12 +90,10 @@ react-native start --reset-cache
 Esse comando irá limpar o cache do React Native provavelmente resolvendo o erro.
 
 ### Android
----
 
 Lista de erros comuns enfrentados no Android:
 
-#### Unable to load script from assets 'index.android.bundle'. Make sure...
----
+## Unable to load script from assets 'index.android.bundle'. Make sure...
 
 Esse erro geralmente acontece porque o sistema não conseguiu criar o bundle inicial que contém todo o código Javascript da aplicação.
 
@@ -110,8 +107,7 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 
 Agora, feche as abas do terminal e rode `react-native run-android` novamente.
 
-#### react-native run-android: FAILURE: Build failed with an exception.
----
+## react-native run-android: FAILURE: Build failed with an exception.
 
 Esse erro pode acontecer por muitos motivos, mas na maioria das vezes é algum cache que precisa ser deletado.
 
@@ -122,12 +118,10 @@ cd android && gradlew clean cd .. && react-native run-android
 ```
 
 ### iOS
----
 
 Lista de erros comuns enfrentados no iOS:
 
-#### :CFBundleIdentifier does not exists
----
+## :CFBundleIdentifier does not exists
 
 Esse erro geralmente acontece pois o React Native não conseguiu configurar as dependências e bibliotecas de terceiros dentro do iOS.
 
