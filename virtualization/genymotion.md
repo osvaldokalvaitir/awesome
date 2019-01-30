@@ -2,7 +2,7 @@
 
 Emulador do Android.
 
-## Instalação
+## Instalação e Configuração
 
 Acessar o site `https://www.genymotion.com/fun-zone/` e clicar no botão `Download Genymotion Personal Edition`. O Genymotion vai pedir que você crie uma conta na plataforma, realize esse processo e depois você poderá baixar o software.
 

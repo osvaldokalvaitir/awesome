@@ -2,7 +2,7 @@
 
 Kit de Desenvolvimento de Software para Android é um pacote com diversas ferramentas utilizadas pelo Android Studio e pelos desenvolvedores Android, incluindo componentes como o SDK Tools, Build Tools e o Platform Tools.
 
-## Instalação
+## Instalação e Configuração
 
 Acesse `https://developer.android.com/studio/#downloads`, na opção `Somente ferramentas de linha de comando` baixe o SDK referente ao seu sistema operacional.
 
