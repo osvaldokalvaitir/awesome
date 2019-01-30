@@ -35,9 +35,10 @@ Configuração para projetos em Node.js, ReactJS e React Native.
     2. [Instalação do JDK](sdk/java-development-kit.md)
     3. [Instalação do React Native](nodejs/libs/react-native-cli.md)
     
-  4. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
-  5. [Instalação do VirtualBox](virtualization/virtualbox.md)
-  6. [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
+  **Finalizando**
+    4. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)
+    5. [Instalação do VirtualBox](virtualization/virtualbox.md)
+    6. [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
 
 - Ambiente iOS
 
