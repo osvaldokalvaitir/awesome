@@ -1,10 +1,8 @@
 # Projects Settings
 
-Configurações de projetos do GitHub
+Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 ## Configuração Inicial
-
-Configuração para projetos em Node.js, ReactJS e React Native.
 
 - **[Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)**
 
