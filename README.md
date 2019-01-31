@@ -24,7 +24,7 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
     3\. [Instalação de Libs Gráficas](libs/linux.md)  
 
   - **OS X**  
-    1\. [Instalação do Watchman](watcher/watchmand.md)  
+    1\. [Instalação do Watchman](watcher/watchman.md)  
     2\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
     3\. [Instalação do JDK](sdk/java-development-kit.md)  
 
