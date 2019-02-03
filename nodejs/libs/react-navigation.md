@@ -1,6 +1,7 @@
 # React Navigation
 
-Realiza o roteamento e navegação nos apps de React Native.
+Realiza o roteamento e navegação nos apps de React Native.  
+Esta biblioteca é instalada junto com a biblioteca [React Native Gesture Handler](react-native-gesture-handler.md).
 
 ## Documentação
 
