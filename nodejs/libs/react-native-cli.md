@@ -48,7 +48,6 @@ react-native run-ios
 
 Ou é possível informar a versão do emulador utilizado passando a propriedade `--simulator`:
 
-
 ```
 react-native run-ios --simulator="iPhone XS Max"
 ```
@@ -82,7 +81,6 @@ react-native link
 Lista de erros comuns enfrentados no Android/iOS:
 
 ## The development server returned response error code: 500
-
 
 Geralmente esse erro acontece quando você tenta importar um arquivo JS que não possui `export default` ou não possui nenhum componente dentro dele.
 
@@ -123,6 +121,35 @@ Para resolver execute na pasta do seu projeto:
 ```
 cd android && gradlew clean cd .. && react-native run-android
 ```
+
+Mas se o detalhe desse erro, for esse abaixo:
+
+```
+* Where:
+Settings file 'C:\...\project\android\settings.gradle' line: 3
+
+* What went wrong:
+Could not compile settings file 'C:\...\project\android\settings.gradle'.
+> startup failed:
+  settings file 'C:\...\project\android\settings.gradle': 3: unexpected char: '\' @ line 3, column 133.
+     s\react-native-gesture-handler\android')
+```
+
+Para resolver, acesse o arquivo `settings.gradle` da pasta `android` e substitua as `\` por `/` no caminho da terceira linha:
+
+Linha com erro:
+
+```
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '..\node_modules\react-native-gesture-handler\android')
+```
+
+Linha corrigida:
+
+```
+project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+```
+
+Clique [aqui](https://stackoverflow.com/questions/54504742/getting-error-gradlew-bat-installdebug-after-installing-react-navigation-and-ges) para mais detalhes sobre o erro.
 
 # iOS
 
