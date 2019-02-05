@@ -122,7 +122,7 @@ Para resolver execute na pasta do seu projeto:
 cd android && gradlew clean cd .. && react-native run-android
 ```
 
-Mas se o detalhe desse erro, for esse abaixo:
+Mas, se o detalhe desse erro, for esse abaixo:
 
 ```
 * Where:

@@ -13,8 +13,8 @@ Clique [aqui](https://www.npmjs.com/package/react-navigation) para fazer a insta
 
 ## Erro
 
-Ao instalar o React Navigation e executar o projeto, ocorreu o erro `undefined is not an object (evaluating 'RNGestureHandlerModule.State')`.
+Se instalar o React Navigation, à partir da versão `react-navigation@2.18.3`, sem instalar o [React Native Gesture Handler](react-native-gesture-handler.md) e executar o projeto, ocorre o erro `undefined is not an object (evaluating 'RNGestureHandlerModule.State')`.
+
+Para corrigir o erro, instale sempre o React Navigation e o [React Native Gesture Handler](react-native-gesture-handler.md).
 
 Clique [aqui](https://github.com/kmagiera/react-native-gesture-handler/issues/205) para mais detalhes sobre o erro.
-
-Para corrigir o erro, basta instalar `react-navigation@2.18.3`.
