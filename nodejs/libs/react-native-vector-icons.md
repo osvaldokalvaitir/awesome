@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/oblador/react-native-vector-icons) para ver a d
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/react-native-vector-icons) para fazer a instalação.
+
+Depois da instalação é necessário rodar o `react-native link`:
+
+```
+react-native link react-native-vector-icons
+```
