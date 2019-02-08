@@ -135,18 +135,29 @@ Could not compile settings file 'C:\...\project\android\settings.gradle'.
      s\react-native-gesture-handler\android')
 ```
 
-Para resolver, acesse o arquivo `settings.gradle` da pasta `android` e substitua as `\` por `/` no caminho da terceira linha:
+Esse erro está ocorrendo devido a um erro no React Native, depois de instalar algumas bibliotecas, executar o `react-native link` e depois executar o Android.
 
-Linha com erro:
+Ocorre o erro nas bibliotecas:
+
+- [react-native-gesture-handler](react-native-gesture-handler.md)
+- [react-native-vector-icons](react-native-vector-icons.md)
+
+Para resolver, acesse o arquivo `settings.gradle` da pasta `android` e substitua as `\` por `/` no caminho das bibliotecas:
+
+Linhas com os erros:
 
 ```
 project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '..\node_modules\react-native-gesture-handler\android')
+...
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '..\node_modules\react-native-vector-icons\android')
 ```
 
-Linha corrigida:
+Linhas corrigidas:
 
 ```
 project(':react-native-gesture-handler').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-gesture-handler/android')
+...
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
 ```
 
 Clique [aqui](https://stackoverflow.com/questions/54504742/getting-error-gradlew-bat-installdebug-after-installing-react-navigation-and-ges) para mais detalhes sobre o erro.
