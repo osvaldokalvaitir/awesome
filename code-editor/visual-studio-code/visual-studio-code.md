@@ -71,7 +71,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "workbench.colorTheme":"Dracula",
 
   // Define o tema dos ícones na sidebar
-  "workbench.iconTheme":"material-icon-theme",
+  "workbench.iconTheme":"vscode-icons",
 
   // ESLint
   "eslint.autoFixOnSave": true,
