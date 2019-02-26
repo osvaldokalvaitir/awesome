@@ -41,6 +41,12 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
 
+  // Desabilita o hint de documentação
+  "editor.parameterHints.enabled": false,
+
+  // Tamanho da tabulação
+  "editor.tabSize": 2,
+
   // Configura o tamanho fonte
   "editor.fontSize":18,
   "editor.lineHeight":24,
@@ -51,38 +57,41 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Guias auxiliares de navegação
   "breadcrumbs.enabled": true,
 
-  // Formatar JavaScript
-  "javascript.format.enable": false,
-
   // Define se o Html sugere tags Html5
   "html.suggest.html5": true,
 
   // Aumenta a fonte do terminal
   "terminal.integrated.fontSize":14,
 
+  // Auto complete de javascript em arquivos jsx
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+
+  // Inclui a linguagem do javascript react e html nos arquivos nunjucks
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "nunjucks": "html"
+  },
+
+  // Nunca atualiza os imports ao mover o arquivo
+  "javascript.updateImportsOnFileMove.enabled": "never",
+
+
 
   // Configurações que precisam de fonte e extensões
 
   // Configura a família da fonte
   "editor.fontFamily":"Fira Code",
-  "editor.fontLigatures":true,
+  "editor.fontLigatures": true,
 
   // Define o tema do VSCode
-  "workbench.colorTheme":"Dracula",
+  "workbench.colorTheme": "Dracula",
 
   // Define o tema dos ícones na sidebar
-  "workbench.iconTheme":"vscode-icons",
-
-  // ESLint
-  "eslint.autoFixOnSave": true,
-  "eslint.alwaysShowStatus": true,
+  "workbench.iconTheme": "vscode-icons",
 
   // Define a integração do Prettier com o ESLint
-  "prettier.eslintIntegration": true,
-
-  // Inclui html nos arquivos nunjucks
-  "emmet.includeLanguages": {
-    "nunjucks": "html"
-  }
+  "prettier.eslintIntegration": true
 }
 ```
