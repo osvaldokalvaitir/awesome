@@ -42,7 +42,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "editor.renderLineHighlight":"gutter",
 
   // Configura o tamanho fonte
-  "editor.fontSize":16,
+  "editor.fontSize":18,
   "editor.lineHeight":24,
 
   // Formatar ao salvar
