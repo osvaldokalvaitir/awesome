@@ -20,7 +20,7 @@ Em `Terminal`, clique na guia `Preferences`, ao abrir a janela, clique na seta d
 
 #### Instalação
 
-- [Fira Code](../../font/fira-code.md)
+- [Fira Code](../font/fira-code.md)
 
 #### Configuração
 
