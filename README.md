@@ -6,6 +6,12 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)**
 
+- **Instalação e Configuração do Terminal**
+
+  - [Linux](terminal/.md)
+  - [macOS](terminal/.md)
+  - [Windows](terminal/hyper.md)
+
 - **Instalação do Gerenciador de Pacotes**
 
   - [Linux](package-manager/curl.md)
@@ -21,28 +27,28 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
   - **Linux**  
     1\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
     2\. [Instalação do JDK](sdk/java-development-kit.md)  
-    3\. [Instalação de Libs Gráficas](libs/linux.md)  
+    3\. [Instalação de Libs Gráficas](libs/linux.md)
 
   - **OS X**  
     1\. [Instalação do Watchman](watcher/watchman.md)  
     2\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    3\. [Instalação do JDK](sdk/java-development-kit.md)  
+    3\. [Instalação do JDK](sdk/java-development-kit.md)
 
   - **Windows**  
     1\. [Instalação do Python](programming-language/python.md)  
     2\. [Instalação do JDK](sdk/java-development-kit.md)  
-    3\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    
+    3\. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+
   - **Finalizando**  
     4\. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)  
     5\. [Instalação do VirtualBox](virtualization/virtualbox.md)  
-    6\. [Instalação e Configuração do Genymotion](virtualization/genymotion.md)  
+    6\. [Instalação e Configuração do Genymotion](virtualization/genymotion.md)
 
 - **Ambiente iOS**
 
   - **OS X**  
     1\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    2\. [Instalação do XCode](ide/xcode.md) 
+    2\. [Instalação do XCode](ide/xcode.md)
 
 ## Instalação de Projeto
 
