@@ -8,8 +8,8 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **Instalação e Configuração do Terminal**
 
-  - [Linux](terminal/.md)
-  - [macOS](terminal/.md)
+  - [Linux](terminal/terminal.app.md)
+  - [macOS](terminal/terminal.app.md)
   - [Windows](terminal/hyper.md)
 
 - **Instalação do Gerenciador de Pacotes**
