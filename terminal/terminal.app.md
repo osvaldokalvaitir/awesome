@@ -18,4 +18,15 @@ Em `Terminal`, clique na guia `Preferences`, ao abrir a janela, clique na seta d
 
 ### Fonte
 
+#### Instalação
+
 - [Fira Code](../../font/fira-code.md)
+
+#### Configuração
+
+- Em `Terminal`, clique na guia `Preferences`
+- Ao abrir a janela, clique em `Profiles`
+- Selecione o tema `Dracula`
+- Dentro de `Text` clique no botão `Change...`
+- Escolha a fonte `Fira Code` com Typeface `Retina`, Size `14` e Line Spacing `1,1`
+- Depois feche e abre o terminal.

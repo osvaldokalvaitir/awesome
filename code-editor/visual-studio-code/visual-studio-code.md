@@ -8,7 +8,21 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 
 ## Fonte
 
+### Instalação
+
 - [Fira Code](../../font/fira-code.md)
+
+### Configuração
+
+Depois de instalar a fonte, setar as configurações (Settings > Open settings.json):
+
+```
+{
+  // Configura a família da fonte
+  "editor.fontFamily":"Fira Code",
+  "editor.fontLigatures":true,
+}
+```
 
 ## Extensões
 
