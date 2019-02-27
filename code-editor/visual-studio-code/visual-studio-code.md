@@ -21,6 +21,7 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
+- [Rocketseat React Native](rocketseat-react-native.md)
 - [Rocketseat ReactJS](rocketseat-reactjs.md)
 - [Todo Tree](extensions/todo-tree.md)
 - [Todo+](extensions/todo-plus.md)
