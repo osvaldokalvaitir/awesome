@@ -21,9 +21,11 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
+- [Rocketseat ReactJS](rocketseat-reactjs.md)
 - [Todo Tree](extensions/todo-tree.md)
 - [Todo+](extensions/todo-plus.md)
 - [VS Live Share](extensions/vs-live-share.md)
+- [VSCode Icons](extensions/vscode-icons.md)
 - [VSCode Styled-Components](extensions/vscode-styled-components.md)
 
 ## Todas as Configurações
