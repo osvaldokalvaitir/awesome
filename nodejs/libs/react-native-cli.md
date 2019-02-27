@@ -60,7 +60,7 @@ react-native start
 
 ### Vincular bibliotecas que contêm código nativo
 
-Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as libs com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
+Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as bibliotecas com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
 
 Para vincular a biblioteca instalada com dependências nativas:
 

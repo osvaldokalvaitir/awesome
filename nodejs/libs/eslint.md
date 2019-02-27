@@ -30,4 +30,4 @@ yarn
 
 ## Erro
 
-Se o projeto for criado com [create-react-app](create-react-app.md), não usar esta biblioteca de instalação. Instalar a lib [eslint-config-airbnb](eslint-config-airbnb.md) e suas dependências.
+Se o projeto for criado com [create-react-app](create-react-app.md), não usar esta biblioteca de instalação. Instalar a biblioteca [eslint-config-airbnb](eslint-config-airbnb.md) e suas dependências.
