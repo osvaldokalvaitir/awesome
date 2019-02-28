@@ -17,3 +17,7 @@ Para instalar, acesse o [site](https://ohmyz.sh) e copie o comando que está na 
 ## Prompts
 
 - [Spaceship ZSH](prompts/spaceship-zsh.md)
+
+## Gerenciadores de Plugins
+
+- [Zplugin](plugin-managers/zplugin.md)
