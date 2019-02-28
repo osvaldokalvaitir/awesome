@@ -12,6 +12,8 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
   - [macOS](terminal/terminal.app.md)
   - [Windows](terminal/hyper.md)
 
+- **[Instalação e Configuração do Chrome](browser/chrome/chrome.md)**
+
 - **Instalação do Gerenciador de Pacotes**
 
   - [Linux](package-manager/curl.md)
