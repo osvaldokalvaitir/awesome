@@ -5,3 +5,7 @@ O Google Chrome é um navegador de internet, desenvolvido pela companhia Google 
 ## Documentação e Instalação
 
 Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a instalação.
+
+## Extensões
+
+- [Lighthouse](extensions/lighthouse.md)
