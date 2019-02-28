@@ -2,7 +2,7 @@
 
 É um emulador de terminal incluído no sistema operacional macOS da Apple. Fornecendo uma interface de linha de comando ao sistema operacional quando usado em conjunto com um shell Unix, como o bash.
 
-Obs: Uma outra opção seria o terminal [Oh My Zsh](oh-my-zsh.md).
+Obs: Uma outra opção seria o terminal [Oh My Zsh](oh-my-zsh/oh-my-zsh.md).
 
 ## Instalação
 

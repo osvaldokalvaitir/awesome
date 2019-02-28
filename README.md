@@ -20,7 +20,7 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Instalação do Node.js](nodejs/nodejs.md)**
 
-- **[Instalação do Yarn](nodejs/package-manager/yarn.md)**
+- **[Instalação do Yarn](nodejs/package-managers/yarn.md)**
 
 - **Ambiente Android**
 
