@@ -14,6 +14,8 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Instalação e Configuração do Chrome](browser/chrome/chrome.md)**
 
+- **[Instalação do Insomnia](api/insomnia.md)**
+
 - **[Instalação do DevDocs Desktop](doc/devdocs-desktop.md)**
 
 - **Instalação do Gerenciador de Pacotes**
