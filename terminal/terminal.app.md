@@ -8,17 +8,15 @@ Obs: Uma outra opção seria o terminal [Oh My Zsh](oh-my-zsh/oh-my-zsh.md).
 
 Não precisa ser instalado, já vem disponível com o sistema operacional Unix.
 
-## Configurações
+## Tema
 
-### Tema
-
-#### Instalação
+### Instalação
 
 Para instalar o tema [Dracula](../theme/dracula.md) entre no site e clique em `Terminal.app`.
 
 Siga as instruções da seção `Install using Git`, copiando a instrução e executando no terminal (precisa ter o git instalado).
 
-#### Configuração
+### Configuração
 
 Em `Terminal`, clique na guia `Preferences` e na parte inferior da janela que abrir, clique na seta do lado da engrenagem e em `Import...`.
 
@@ -26,13 +24,13 @@ Navegue até a pasta que está a fonte baixada, clique em `Dracula.terminal` e `
 
 Selecione o tema `Dracula` e clique em `Default`.
 
-### Fonte
+## Fonte
 
-#### Instalação
+### Instalação
 
 - [Fira Code](../font/fira-code.md)
 
-#### Configuração
+### Configuração
 
 Em `Terminal`, clique na guia `Preferences` e ao abrir a janela, clique em `Profiles`.
 

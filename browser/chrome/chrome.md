@@ -9,3 +9,4 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 ## Extensões
 
 - [Lighthouse](extensions/lighthouse.md)
+- [React Developer Tools](extensions/react-developer-tools.md)
