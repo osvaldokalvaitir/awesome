@@ -8,5 +8,6 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 
 ## Extensões
 
+- [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
 - [Lighthouse](extensions/lighthouse.md)
 - [React Developer Tools](extensions/react-developer-tools.md)
