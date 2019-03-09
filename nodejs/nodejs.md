@@ -50,5 +50,5 @@ npm install | yarn
 Executar o projeto Node.js localmente:
 
 ```
-npm run dev | yarn run dev
+npm start | yarn start
 ```
