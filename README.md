@@ -1,5 +1,14 @@
 # Projects Settings
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/projects-settings/blob/master/LICENSE)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/projects-settings.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/projects-settings.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/projects-settings.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/projects-settings.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/projects-settings.svg?color=blueviolet)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 ## Configuração Inicial
