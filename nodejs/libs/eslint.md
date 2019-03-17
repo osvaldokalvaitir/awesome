@@ -69,7 +69,7 @@ What type of modules does your project use?
 Which framework does your project use?
 **React**
 
-Where does your code run? (Press <space> to select, <a> to toggle all, <i> to invert selection)
+Where does your code run? (Press \<space> to select, \<a> to toggle all, \<i> to invert selection)
 **Browser**
 
 How would you like to define a style for your project?
