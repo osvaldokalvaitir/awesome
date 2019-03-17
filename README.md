@@ -80,3 +80,5 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 ## Outras Configurações
 
 - **[Instalação do Docker](virtualization/docker/docker.md)**
+
+- **[Instalação do Git](version-control/git.md)**
