@@ -84,7 +84,7 @@ E criar o arquivo .eslintrc manualmente.
 
 <sub> Which framework does your project use? **React** </sub>
 
-<sub> Where does your code run? **Não selecionar nenhum deles** </sub>
+<sub> Where does your code run? **Não selecionar nenhuma das opções** </sub>
 
 <sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
 
