@@ -32,57 +32,41 @@ yarn
 
 Para um projeto Node.js as configurações são:
 
-How would you like to use ESLint?
-**To check syntax, find problems, and enforce code style**
+<sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
-What type of modules does your project use?
-**CommonJS (require/exports)**
+<sub> What type of modules does your project use? **CommonJS (require/exports)** </sub>
 
-Which framework does your project use?
-**None of these**
+<sub> Which framework does your project use? **None of these** </sub>
 
-Where does your code run?
-**Node**
+<sub> Where does your code run? **Node** </sub>
 
-How would you like to define a style for your project?
-**Use a popular style guide**
+<sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
 
-Which style guide do you want to follow?
-**Standard (https://github.com/standard/standard)**
+<sub> Which style guide do you want to follow? **Standard (https://github.com/standard/standard)** </sub>
 
-What format do you want your config file to be in?
-**JSON**
+<sub> What format do you want your config file to be in? **JSON** </sub>
 
-Would you like to install them now with npm? (Y/n)
-**Y**
+<sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
 ### Instalação no projeto ReactJS sem Create React
 
 Para um projeto ReactJS sem Create React App as configurações são:
 
-How would you like to use ESLint?
-**To check syntax, find problems, and enforce code style**
+<sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
-What type of modules does your project use?
-**JavaScript modules (import/export)**
+<sub> What type of modules does your project use? **JavaScript modules (import/export)** </sub>
 
-Which framework does your project use?
-**React**
+<sub> Which framework does your project use? **React** </sub>
 
-Where does your code run? (Press \<space> to select, \<a> to toggle all, \<i> to invert selection)
-**Browser**
+<sub> Where does your code run? (Press \<space> to select, \<a> to toggle all, \<i> to invert selection) **Browser** </sub>
 
-How would you like to define a style for your project?
-**Use a popular style guide**
+<sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
 
-Which style guide do you want to follow?
-**Airbnb (https://github.com/airbnb/javascript)**
+<sub> Which style guide do you want to follow? **Airbnb (https://github.com/airbnb/javascript)** </sub>
 
-What format do you want your config file to be in?
-**JSON**
+<sub> What format do you want your config file to be in? **JSON** </sub>
 
-Would you like to install them now with npm? (Y/n)
-**Y**
+<sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
 ### Instalação no projeto ReactJS com Create React App
 
@@ -94,26 +78,18 @@ E criar o arquivo .eslintrc manualmente.
 
 ### Instalação no projeto React-Native
 
-How would you like to use ESLint?
-**To check syntax, find problems, and enforce code style**
+<sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
-What type of modules does your project use?
-**JavaScript modules (import/export)**
+<sub> What type of modules does your project use? **JavaScript modules (import/export)** </sub>
 
-Which framework does your project use?
-**React**
+<sub> Which framework does your project use? **React** </sub>
 
-Where does your code run?
-**Não selecionar nenhum deles**
+<sub> Where does your code run? **Não selecionar nenhum deles** </sub>
 
-How would you like to define a style for your project?
-**Use a popular style guide**
+<sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
 
-Which style guide do you want to follow?
-**Airbnb (https://github.com/airbnb/javascript)**
+<sub> Which style guide do you want to follow? **Airbnb (https://github.com/airbnb/javascript)** </sub>
 
-What format do you want your config file to be in?
-**JSON**
+<sub> What format do you want your config file to be in? **JSON** </sub>
 
-Would you like to install them now with npm? (Y/n)
-**Y**
+<sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
