@@ -14,7 +14,6 @@ Instalar globalmente:
 
 ```
 npm install -g @adonisjs/cli | yarn global add @adonisjs/cli
-
 ```
 
 ## Comandos do CLI
