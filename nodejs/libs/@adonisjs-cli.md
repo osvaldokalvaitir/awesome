@@ -42,3 +42,5 @@ Iniciar servidor:
 ```
 adonis serve --dev
 ```
+
+Obs: O parâmetro `--dev` ativa o Nodemon para o desenvolvimento e em produção não será necessário colocar este parâmetro.
