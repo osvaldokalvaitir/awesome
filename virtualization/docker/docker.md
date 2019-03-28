@@ -33,7 +33,13 @@ docker ps -a
 Executar um container:
 
 ```
-docker container start nome_container
+docker start nome_container
+```
+
+Parar um container:
+
+```
+docker stop nome_container
 ```
 
 Remover um container:

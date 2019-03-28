@@ -1,10 +1,10 @@
-# katoza/postgis
+# kartoza/postgis
 
 Imagem do PostgreSQL para o ambiente Docker.
 
 ## Configurações
 
-Nome da imagem: `katoza/postgis`  
+Nome da imagem: `kartoza/postgis`  
 Porta: `5432`  
 Usuário: `docker`  
 Senha: `docker`
