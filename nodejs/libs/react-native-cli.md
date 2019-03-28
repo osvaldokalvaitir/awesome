@@ -68,11 +68,7 @@ Para vincular a biblioteca instalada com dependências nativas:
 react-native link nome-da-biblioteca
 ```
 
-Para vincular todas as bibliotecas com dependências nativas:
-
-```
-react-native link
-```
+Obs: Está depreciada o comando `react-native link` para vincular todas as bibliotecas com dependências nativas.
 
 ## Erros
 
