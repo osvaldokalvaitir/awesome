@@ -29,6 +29,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Color Highlight](extensions/color-highlight.md)
 - [DotEnv](extensions/dotenv.md)
 - [Dracula Official](extensions/dracula-official.md)
+- [Edge Template Support](extensions/edge-template-support.md)
 - [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
 - [ESLint](extensions/eslint.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
