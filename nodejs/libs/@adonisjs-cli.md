@@ -45,6 +45,27 @@ adonis serve --dev
 Obs: O parâmetro `--dev` ativa o Nodemon para o desenvolvimento e em produção não será necessário colocar este parâmetro.
 
 Criar as migrations no banco de dados:
+
 ```
 adonis migration:run
+```
+
+Desfazer as migrations:
+
+```
+adonis migration:rollback
+```
+
+Criar um controller:
+
+```
+adonis make:controller nome_controller
+```
+
+Selecione a opção: `For HTTP requests`.
+
+Exibir a lista de rotas:
+
+```
+adonis route:list
 ```
