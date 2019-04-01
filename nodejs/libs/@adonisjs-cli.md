@@ -18,16 +18,16 @@ npm install -g @adonisjs/cli | yarn global add @adonisjs/cli
 
 ## Comandos do CLI
 
-Criação de novo projeto:
-
-```
-adonis new nome_app tipo_app
-```
-
-Exibição de uma lista de comandos possíveis:
+Exibir uma lista de comandos possíveis:
 
 ```
 adonis
+```
+
+Criar projeto:
+
+```
+adonis new nome_app tipo_app
 ```
 
 O parâmetro `-h` depois de comandos, mostra as opções disponíveis do comando:
@@ -44,7 +44,7 @@ adonis serve --dev
 
 Obs: O parâmetro `--dev` ativa o Nodemon para o desenvolvimento e em produção não será necessário colocar este parâmetro.
 
-Criar as migrations no banco de dados:
+Criar migrations pendentes no banco de dados:
 
 ```
 adonis migration:run
@@ -56,10 +56,10 @@ Desfazer as migrations:
 adonis migration:rollback
 ```
 
-Criar um controller:
+Criar controller:
 
 ```
-adonis make:controller nome_controller
+adonis make:controller NomeController
 ```
 
 Selecione a opção: `For HTTP requests`.
@@ -68,4 +68,44 @@ Exibir a lista de rotas:
 
 ```
 adonis route:list
+```
+
+Criar model:
+
+```
+adonis make:model NomeModel -m -c
+```
+
+Onde: `-m` cria a migration e `-c` cria o controller do model
+
+Criar validator:
+
+```
+adonis make:validator NomeValidator
+```
+
+Criar ehandler:
+
+```
+adonis make:ehandler
+```
+
+Criar hook:
+
+```
+adonis make:hook NomeHook
+```
+
+Instalando a biblioteca [Adonis Kue Provider](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/adonis-kue.md), aparecem dois novos comandos que podem ser utilizados:
+
+Criar job:
+
+```
+adonis make:job NomeJob
+```
+
+Iniciar ouvinte:
+
+```
+adonis kue:listen
 ```
