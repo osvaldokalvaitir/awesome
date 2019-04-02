@@ -16,6 +16,24 @@ Instalar globalmente:
 npm install -g @adonisjs/cli | yarn global add @adonisjs/cli
 ```
 
+## Execução de API para Desenvolvimento
+
+Executar a API do Adonis:
+
+```
+adonis serve --dev
+```
+
+Obs: O parâmetro `--dev` ativa o Nodemon para o desenvolvimento e em produção não será necessário colocar este parâmetro.
+
+## Execução de Ouvinte de Fila
+
+Executar o ouvinte [Adonis Kue Provider](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/adonis-kue.md), é necessário tê-lo instalado antes:
+
+```
+adonis kue:listen
+```
+
 ## Comandos do CLI
 
 Exibir uma lista de comandos possíveis:
@@ -36,7 +54,7 @@ O parâmetro `-h` depois de comandos, mostra as opções disponíveis do comando
 adonis new -h
 ```
 
-Iniciar servidor:
+Executar a API do Adonis:
 
 ```
 adonis serve --dev
@@ -104,7 +122,7 @@ Criar job:
 adonis make:job NomeJob
 ```
 
-Iniciar ouvinte:
+Executar ouvinte:
 
 ```
 adonis kue:listen
