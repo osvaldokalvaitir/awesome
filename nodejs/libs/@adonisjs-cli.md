@@ -48,6 +48,12 @@ Criar projeto:
 adonis new nome_app tipo_app
 ```
 
+Exemplo de criação de projeto que tem somente os recursos de uma api:
+
+```
+adonis new NomeProjeto --api-only
+```
+
 O parâmetro `-h` depois de comandos, mostra as opções disponíveis do comando:
 
 ```
