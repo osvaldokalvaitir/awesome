@@ -12,6 +12,15 @@ O Python é uma linguagem de programação que permite trabalhar mais rapidament
   choco install -y python2
   ```
 
+  Antes de instalar, irá aparecer a seguinte mensagem:
+
+  ```
+  Do you want to continue?([Y]es/[N]o):
+  ```
+
+  Digite o `Y` para iniciar a instalação.
+
+
 ## Documentação e Instalação
 
 Clique [aqui](https://www.python.org/) para ver a documentação e outras opções de instalação.
