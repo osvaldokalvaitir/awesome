@@ -10,6 +10,30 @@ Clique [aqui](https://git-scm.com/book/pt-br/v2) para ver a documentação e [aq
 
 Clique [aqui](https://git-scm.com) para fazer a instalação.
 
+Para instalar execute o arquivo de instalação e use as seguintes configurações:
+
+Choosing the default editor used by Git  
+<sub> Which editor would you like git to use? **Use Visual Studio Code as Git's default editor** </sub>
+
+Adjusting your PATH environment  
+<sub> How would you like to use Git from the command line? **Git from the command line and also from 3rd-party software** </sub>
+
+Choosing HTTPS transport backend  
+<sub> Which SSL/TLS library would you like Git to use for HTTPS connections? **Use the Open SSL library** </sub>
+
+Configuring the line ending conversions  
+<sub> How should Git treat line endings in text files? **Checkout Windows-style, commit Unix-style line endings** </sub>
+
+Configuring the terminal emulator to use with Git Bash  
+<sub> Which terminal emulator do you to use with your Git Bash? **Use Windows' default console window** </sub>
+
+Configuring extra options  
+<sub> Which features would you like to enable?  
+**- [x] Enable file system caching**  
+**- [x] Enable Git Credential Manager**  
+**- [ ] Enable symbolic links**  
+</sub>
+
 ## Comandos
 
 ### Autenticação
