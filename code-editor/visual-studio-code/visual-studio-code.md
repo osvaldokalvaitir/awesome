@@ -32,6 +32,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Edge Template Support](extensions/edge-template-support.md)
 - [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
 - [ESLint](extensions/eslint.md)
+- [Live Share](extensions/live-share.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
@@ -40,7 +41,6 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Rocketseat ReactJS](rocketseat-reactjs.md)
 - [Todo Tree](extensions/todo-tree.md)
 - [Todo+](extensions/todo-plus.md)
-- [VS Live Share](extensions/vs-live-share.md)
 - [VSCode Icons](extensions/vscode-icons.md)
 - [VSCode Styled-Components](extensions/vscode-styled-components.md)
 

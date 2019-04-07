@@ -1,4 +1,4 @@
-# VS Live Share
+# Live Share
 
 Utilizado para desenvolvimento colaborativo em tempo real.
 
