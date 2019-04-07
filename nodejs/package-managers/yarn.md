@@ -28,6 +28,14 @@ Gerenciamento de dependências rápido, confiável e seguro.
   choco install yarn
   ```
 
+  Antes de instalar, irá aparecer a seguinte mensagem:
+
+  ```
+  Do you want to run the script?([Y]es/[N]o/[P]rint):
+  ```
+
+  Digite o `Y` para iniciar a instalação.
+
 ## Documentação e Instalação
 
 Clique [aqui](https://yarnpkg.com) para ver a documentação e outras opções de instalação.
