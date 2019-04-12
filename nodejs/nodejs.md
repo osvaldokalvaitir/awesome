@@ -52,3 +52,19 @@ Executar o projeto Node.js localmente:
 ```
 npm start | yarn start
 ```
+
+## Execução de Projeto para Desenvolvimento no Node.js
+
+Executar o projeto para desenvolvimento (incluindo Nodemon) Node.js localmente:
+
+```
+npm dev | yarn dev
+```
+
+## Execução de Testes de Projeto no Node.js
+
+Executar testes no projeto Node.js localmente:
+
+```
+npm test | yarn test
+```

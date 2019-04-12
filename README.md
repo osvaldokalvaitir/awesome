@@ -77,6 +77,14 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Projeto em React Native](nodejs/libs/react-native-cli.md)**
 
+## Execução de Projeto para Desenvolvimento
+
+- **[Projeto em Node.js](nodejs/nodejs.md)**
+
+## Execução de Testes de Projeto
+
+- **[Projeto em Node.js](nodejs/nodejs.md)**
+
 ## Outras Configurações
 
 - **[Instalação do Docker](virtualization/docker/docker.md)**
