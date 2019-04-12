@@ -20,6 +20,12 @@ npm install sequelize-cli --save-dev -g | yarn global add sequelize-cli --dev
 
 ## Comandos do CLI
 
+Iniciar o sequelize no projeto, criando as pastas `config`, `models`, `migrations` e `seeders`:
+
+```
+npx sequelize init | yarn sequelize init
+```
+
 Criar migration:
 
 ```
