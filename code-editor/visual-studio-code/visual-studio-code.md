@@ -34,7 +34,6 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [ESLint](extensions/eslint.md)
 - [Live Share](extensions/live-share.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
-- [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 - [Rocketseat React Native](rocketseat-react-native.md)
@@ -43,6 +42,8 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Todo+](extensions/todo-plus.md)
 - [VSCode Icons](extensions/vscode-icons.md)
 - [VSCode Styled-Components](extensions/vscode-styled-components.md)
+
+Obs: Não instalar mais a extensão [Material Icon Theme](extensions/material-icon-theme.md), dar preferência ao [VSCode Icons](extensions/vscode-icons.md).
 
 ## Todas as Configurações
 
