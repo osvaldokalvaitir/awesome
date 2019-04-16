@@ -1,6 +1,6 @@
 # Netlify
 
-Netlify é uma empresa de computação em nuvem sediada em São Francisco que oferece serviços de back-end de hospedagem e sem servidor para sites estáticos.
+Plataforma all-in-one para automatizar projetos web modernos. Oferece serviços de back-end de hospedagem e sem servidor para sites estáticos.
 
 ## Documentação e Acesso ao Serviço
 
