@@ -9,3 +9,7 @@ Clique [aqui](https://github.com/motdotla/dotenv) para ver a documentação.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/dotenv) para fazer a instalação.
+
+## Configuração das Variáveis de Ambiente
+
+Faça uma cópia do arquivo `.env.example`, renomeie para `.env` e altere as variáveis de acordo com o seu ambiente.
