@@ -4,4 +4,4 @@ Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços 
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://aws.amazon.com/pt/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://aws.amazon.com/pt) para ver a documentação e acessar o serviço.
