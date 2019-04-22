@@ -14,7 +14,7 @@ Dentro do Ubuntu, é possível executar todos os comandos abaixo independente do
 
 Para começar acesse o servidor por SSH com usuário `root`.
 
-### Instalação do Node.js
+### Instalação do [Node.js](./nodejs/nodejs.md)
 
 Acesse o site `https://github.com/nodesource/distributions/blob/master/README.md#deb` que é o redirecionamento do site do Node.js.
 
@@ -117,7 +117,7 @@ Ver o conteúdo da pasta:
 ls
 ```
 
-### Instalação dos módulos
+### Instalação das dependências do projeto
 
 O projeto não vem com a pasta `node_modules` e o arquivo `env`. Precisaremos fazer a instalação e criar o arquivo de configurações.
 
@@ -135,7 +135,7 @@ ls
 
 Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
 
-### Instalação do MongoDB
+### Instalação do [MongoDB](./database/mongodb/mongodb.md)
 
 Execute os próximos comando como o root.
 
@@ -231,7 +231,7 @@ Pode parecer um erro no terminal do servidor, mas é por causa que no código-fo
 
 Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/sparkpost.md), [Mailgun](../email/mailgun.md), [SendGrid](../email/sendgrid.md) ou outro.
 
-### Instalação do PM2
+### Instalação do [PM2](./nodejs/libs/pm2.md)
 
 Para instalar o PM2:
 
@@ -295,7 +295,7 @@ pm2 restart <nome_do_arquivo>
 
 Ex: `pm2 restart index`
 
-### Configuração do Proxy do Nginx
+### Configuração do Proxy do [Nginx](./web-server/nginx.md)
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
