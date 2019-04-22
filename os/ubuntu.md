@@ -33,85 +33,117 @@ Depois de concluir a instalação.
 
 Para ver a versão do node:
 
-`node -v` 
+```
+node -v
+```
 
 Para ver a versão do npm:
 
-`npm -v`
+```
+npm -v
+```
 
 Caso tenha uma versão da npm mais atualizada é possível atualizar com o comando:
 
-`sudo npm i -g npm`
+```
+sudo npm i -g npm
+```
 
 Para verificar se atualizou para a mais recente:
 
-`npm -v`
+```
+npm -v
+```
 
 ### Criação de usuário
 
 Não é o ideal fazer a parte de deploy com usuário root, então, vamos adicionar um novo usuário chamado `deploy`:
 
-`adduser deploy`
+```
+adduser deploy
+```
 
 Adicione uma senha quando pedir e os demais campos pode deixar vazio. Confirme que as informações estão corretas para continuar.
 
 Adicionar o novo usuário ao sudo para que ele tenha permissões de administrador:
 
-`usermod -aG sudo deploy`
+```
+usermod -aG sudo deploy
+```
 
 Logar com o novo usuário:
 
-`sudo su deploy`
+```
+sudo su deploy
+```
 
-### Clonando o projeto
+### Clone do projeto
 
 Ir para a pasta Home do usuário `deploy`:
 
-`cd ~`
+```
+cd ~
+```
 
 Listar o conteúdo da pasta atual:
 
-`ls`
+```
+ls
+```
 
 Para clonar o repositório do GitHub:
 
-`git clone <nome_do_repositório>`
+```
+git clone <nome_do_repositório>
+```
 
 Obs: Se for público dá para copiar o caminho com o HTTPS, mas se for privado tem que copiar o SSH.
 
 Ver se o conteúdo foi clonado:
 
-`ls`
+```
+ls
+```
 
 Para entrar na pasta criada pelo Git:
 
-`cd <nome_do_repositório>/`
+```
+cd <nome_do_repositório>/
+```
 
 Ver o conteúdo da pasta:
 
-`ls`
+```
+ls
+```
 
-### Instalando os módulos
+### Instalação dos módulos
 
 O projeto não vem com a pasta `node_modules` e o arquivo `env`. Precisaremos fazer a instalação e criar o arquivo de configurações.
 
 Para instalar os módulos:
 
-`npm install`
+```
+npm install
+```
 
 Para ver se a pasta `node_modules` apareceu:
 
-`ls`
+```
+ls
+```
 
 Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
 
-### Instalando o MongoDB
+### Instalação do MongoDB
 
 Execute os próximos comando como o root.
 
 Para sair do usuário logado:
 
-`exit`
+```
+exit
+```
 
 Entre no site [Install MongoDB Community Edition on Ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu).
 
@@ -141,25 +173,35 @@ Siga os procedimentos do tópico `Run MongoDB Community Edition`:
 
 Agora voltamos para o nosso usuário deploy:
 
-`sudo su deploy`
+```
+sudo su deploy
+```
 
-### Criando o arquivo env
+### Criação do arquivo env
 
 Ir para a pasta Home do usuário `deploy`:
 
-`cd ~`
+```
+cd ~
+```
 
 Entrar na pasta do projeto:
 
-`cd <nome_do_repositório>/`
+```
+cd <nome_do_repositório>/
+```
 
 Listar o conteúdo da pasta atual:
 
-`ls`
+```
+ls
+```
 
 Para criar o arquivo de configurações `env`:
 
-`vim .env`
+```
+vim .env
+```
 
 Coloque todas as variáveis ambientes neste arquivo:
 
@@ -169,13 +211,17 @@ Obs: Se a porta for 27017 que é a padrão do MongoDB, então, não precisa espe
 
 Para salvar o arquivo e sair:
 
-`:wq`
+```
+:wq
+```
 
-### Rodando a aplicação
+### Rodar a aplicação
 
 Para rodar a aplicação:
 
-`node index.js`
+```
+node index.js
+```
 
 Copie o IP de acesso ao servidor e faça um teste no Insomnia. 
 
@@ -185,77 +231,99 @@ Pode parecer um erro no terminal do servidor, mas é por causa que no código-fo
 
 Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/sparkpost.md), [Mailgun](../email/mailgun.md), [SendGrid](../email/sendgrid.md) ou outro.
 
-### Instalando o PM2
+### Instalação do PM2
 
 Para instalar o PM2:
 
-`sudo npm install -g pm2`
+```
+sudo npm install -g pm2
+```
 
 Ir para a pasta Home do usuário `deploy`:
 
-`cd ~`
+```
+cd ~
+```
 
 Entrar na pasta do projeto:
 
-`cd <nome_do_repositório>/`
+```
+cd <nome_do_repositório>/
+```
 
 Listar o conteúdo da pasta atual:
 
-`ls`
+```
+ls
+```
 
 Iniciar servidor com o PM2:
 
-`pm2 start index.js`
+```
+pm2 start index.js
+```
 
 Obs: O PM2 não bloqueia o terminal.
 
 Para visualizar a lista que o PM2 está rodando:
 
-`pm2 list`
+```
+pm2 list
+```
 
 Para aparecer a tela de monitoramento do PM2:
 
-`pm2 monit`
+```
+pm2 monit
+```
 
-Obs: Os `console.log` apareceçam nesta tela.
+Obs: Os `console.log` apareceram nesta tela.
 
 Para iniciar o PM2 quando o Ubuntu ligar:
 
-`pm2 startup ubuntu`
+```
+pm2 startup ubuntu
+```
 
 Aparecerá um comando no terminal, copie este comando e execute no terminal.
 
-Para reiniciar o servidor manualmente, primeiro veja o nome do arquivo no `App name`:
+Para reiniciar o servidor manualmente, primeiro execute o `pm2 list`, veja o nome do arquivo no `App name` e depois para reiniciar:
 
-`pm2 list`
-
-E depois para reiniciar:
-
-`pm2 restart <nome_do_arquivo>`
+```
+pm2 restart <nome_do_arquivo>
+```
 
 Ex: `pm2 restart index`
 
-### Configurando Proxy do Nginx
+### Configuração do Proxy do Nginx
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
 Voltar para usuário de root:
 
-`exit`
+```
+exit
+```
 
 Instalar o Nginx:
 
-`apt install nginx`
+```
+apt install nginx
+```
 
 Talvez seja necessário digitar um `Y` para continuar a instalação.
 
 Para entrar no arquivo de configuração:
 
-`vim /etc/nginx/sites-available/default`
+```
+vim /etc/nginx/sites-available/default
+```
 
 Apagar todo o conteúdo deste arquivo:
 
-`dG`
+```
+dG
+```
 
 Adicionar as seguintes linhas no arquivo:
 
@@ -280,14 +348,20 @@ Obs: Esta é a configuração da DigitalOcean.
 
 Salvar o arquivo e sair:
 
-`:wq`
+```
+:wq
+```
 
 Para verificar se o arquivo de configuração está correto:
 
-`nginx -t`
+```
+nginx -t
+```
 
 Reinicie o Nginx:
 
-`sudo service nginx restart`
+```
+sudo service nginx restart
+```
 
 Agora, faça um teste no Insomnia usando a porta 80.

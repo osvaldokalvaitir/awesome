@@ -15,3 +15,35 @@ Instalar globalmente:
 ```
 npm install -g pm2 | yarn global add pm2
 ```
+
+## Comandos
+
+Iniciar servidor com o PM2:
+
+```
+pm2 start index.js
+```
+
+Obs: O PM2 não bloqueia o terminal.
+
+Para visualizar a lista que o PM2 está rodando:
+
+```
+pm2 list
+```
+
+Para aparecer a tela de monitoramento do PM2:
+
+```
+pm2 monit
+```
+
+Obs: Os `console.log` apareceram nesta tela.
+
+Para reiniciar o servidor manualmente, primeiro execute o `pm2 list`, veja o nome do arquivo no `App name` e depois para reiniciar:
+
+```
+pm2 restart <nome_do_arquivo>
+```
+
+Ex: `pm2 restart index`
