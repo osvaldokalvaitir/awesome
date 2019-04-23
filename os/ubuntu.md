@@ -88,7 +88,7 @@ Para sair do usuário logado:
 exit
 ```
 
-Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação e Ubuntu.
+Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação > Ubuntu.
 
 Agora voltamos para o nosso usuário deploy:
 
