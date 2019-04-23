@@ -21,8 +21,10 @@ npm install -g pm2 | yarn global add pm2
 Iniciar servidor com o PM2:
 
 ```
-pm2 start index.js
+pm2 start <nome_do_arquivo>
 ```
+
+Ex: `pm2 start index.js`
 
 Obs: O PM2 não bloqueia o terminal.
 

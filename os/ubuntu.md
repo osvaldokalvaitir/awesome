@@ -16,7 +16,7 @@ Para começar acesse o servidor por SSH com usuário `root`.
 
 ### Instalação do Node.js
 
-Clique [aqui](./nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
+Clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
 
 ### Criação de usuário
 
@@ -62,25 +62,11 @@ git clone <nome_do_repositório>
 
 Obs: Se for público dá para copiar o caminho com o HTTPS, mas se for privado tem que copiar o SSH.
 
-Ver se o conteúdo foi clonado:
-
-```
-ls
-```
-
 Para entrar na pasta criada pelo Git:
 
 ```
 cd <nome_do_repositório>/
 ```
-
-Ver o conteúdo da pasta:
-
-```
-ls
-```
-
-### Instalação das dependências do projeto
 
 O projeto não vem com a pasta `node_modules` e o arquivo `env`. Precisaremos fazer a instalação e criar o arquivo de configurações.
 
@@ -88,12 +74,6 @@ Para instalar as dependências:
 
 ```
 npm install
-```
-
-Para ver se a pasta `node_modules` apareceu:
-
-```
-ls
 ```
 
 Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
@@ -108,7 +88,7 @@ Para sair do usuário logado:
 exit
 ```
 
-Clique [aqui](./database/mongodb/mongodb.md) e siga Instalação e Ubuntu.
+Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação e Ubuntu.
 
 Agora voltamos para o nosso usuário deploy:
 
@@ -118,25 +98,7 @@ sudo su deploy
 
 ### Criação do arquivo env
 
-Ir para a pasta Home do usuário `deploy`:
-
-```
-cd ~
-```
-
-Entrar na pasta do projeto:
-
-```
-cd <nome_do_repositório>/
-```
-
-Listar o conteúdo da pasta atual:
-
-```
-ls
-```
-
-Para criar o arquivo de configurações `env`:
+Entre na pasta do projeto e crie o arquivo de configurações `env`:
 
 ```
 vim .env
@@ -170,7 +132,7 @@ Pode parecer um erro no terminal do servidor, mas é por causa que no código-fo
 
 Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/sparkpost.md), [Mailgun](../email/mailgun.md), [SendGrid](../email/sendgrid.md) ou outro.
 
-### Instalação do [PM2](./nodejs/libs/pm2.md)
+### Instalação do PM2
 
 Para instalar o PM2:
 
@@ -178,69 +140,9 @@ Para instalar o PM2:
 sudo npm install -g pm2
 ```
 
-Ir para a pasta Home do usuário `deploy`:
+Entre na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização. 
 
-```
-cd ~
-```
-
-Entrar na pasta do projeto:
-
-```
-cd <nome_do_repositório>/
-```
-
-Listar o conteúdo da pasta atual:
-
-```
-ls
-```
-
-Iniciar servidor com o PM2:
-
-```
-pm2 start index.js
-```
-
-Obs: O PM2 não bloqueia o terminal.
-
-Para visualizar a lista que o PM2 está rodando:
-
-```
-pm2 list
-```
-
-Para aparecer a tela de monitoramento do PM2:
-
-```
-pm2 monit
-```
-
-Obs: Os `console.log` apareceram nesta tela.
-
-O PM2 pode gerar e configurar um script de inicialização para manter o PM2 e seus processos ativos em todas as reinicializações do servidor.
-
-Para gerar script de inicialização:
-
-```
-pm2 startup
-```
-
-Ex: `pm2 startup ubuntu`
-
-Aparecerá um comando no terminal, copie este comando e execute no terminal.
-
-Para algumas ações é necessário o `app_name` e para isso execute `pm2 list` e veja o nome do arquivo.
-
-Para reiniciar o servidor:
-
-```
-pm2 restart <app_name|id>
-```
-
-Ex: `pm2 restart index`
-
-### Configuração do Proxy do [Nginx](./web-server/nginx.md)
+### Configuração do Proxy do Nginx
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
@@ -250,78 +152,21 @@ Voltar para usuário de root:
 exit
 ```
 
-Instalar o Nginx:
-
-```
-apt install nginx
-```
-
-Talvez seja necessário digitar um `Y` para continuar a instalação.
-
-Para entrar no arquivo de configuração:
-
-```
-vim /etc/nginx/sites-available/default
-```
-
-Apagar todo o conteúdo deste arquivo:
-
-```
-dG
-```
-
-Adicionar as seguintes linhas no arquivo:
-
-```
-server {
-	    listen 80;
-
-	    server_name _;
-
-	    location / {
-	             proxy_pass http://locahost:3000;
-	             proxy_http_version 1.1;
-	             proxy_set_header Upgrade $http_upgrade;
-	             proxy_set_header Connection 'upgrade';
-	             proxy_set_header Host $host;
-	             proxy_cache_bypass $http_upgrade;
-	    }
-}
-```
-
-Obs: Esta é a configuração da DigitalOcean.
-
-Salvar o arquivo e sair:
-
-```
-:wq
-```
-
-Para verificar se o arquivo de configuração está correto:
-
-```
-nginx -t
-```
-
-Reinicie o Nginx:
-
-```
-sudo service nginx restart
-```
+Clique [aqui](../web-server/nginx.md) e siga Instalação > Linux e Setar Arquivo de Configuração > Linux.
 
 Agora, faça um teste no Insomnia usando a porta 80.
 
 ## Configurando CI com Buddy
 
-Para fazer a Integração Contínua pode ser usado várias ferramentas como o [CodeShip](./ci-cd/codeship.md), [CircleCI](./ci-cd/circleci.md) e [Travis CI](./ci-cd/travis-ci.md).
+Para fazer a Integração Contínua pode ser usado várias ferramentas como o [CodeShip](../ci-cd/codeship.md), [CircleCI](../ci-cd/circleci.md) e [Travis CI](../ci-cd/travis-ci.md).
 
 Neste caso, será usado o Buddy que atende de uma maneira bem simples.
 
-Clique [aqui](./ci-cd/buddy.md) e siga Criar um projeto.
+Clique [aqui](../ci-cd/buddy.md) e siga Criar um projeto.
 
 Quando chegar na parte de selecionar `Buddy's SSH key`, irá aparecer dois comandos que deverão ser executados dentro do usuário que foi criado (ex: `deploy`).
 
-Logar novamente com o novo usuário:
+Logar novamente com o usuário `deploy`:
 
 ```
 sudo su deploy
@@ -331,12 +176,6 @@ Ir para a pasta Home do usuário `deploy`:
 
 ```
 cd ~
-```
-
-Listar o conteúdo da pasta atual:
-
-```
-ls
 ```
 
 Ir para a pasta raíz do usuário `deploy`:
