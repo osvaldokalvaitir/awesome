@@ -40,10 +40,38 @@ pm2 monit
 
 Obs: Os `console.log` apareceram nesta tela.
 
-Para reiniciar o servidor manualmente, primeiro execute o `pm2 list`, veja o nome do arquivo no `App name` e depois para reiniciar:
+Para algumas ações é necessário o `app_name` e para isso execute `pm2 list` e veja o nome do arquivo.
+
+Para reiniciar o servidor:
 
 ```
-pm2 restart <nome_do_arquivo>
+pm2 restart <app_name|id>
 ```
 
 Ex: `pm2 restart index`
+
+Para parar o servidor:
+
+```
+pm2 stop <app_name|id>
+```
+
+Ex: `pm2 stop index`
+
+O PM2 pode gerar e configurar um script de inicialização para manter o PM2 e seus processos ativos em todas as reinicializações do servidor.
+
+Para gerar script de inicialização:
+
+```
+pm2 startup
+```
+
+Ex: `pm2 startup ubuntu`
+
+Aparecerá um comando no terminal, copie este comando e execute no terminal.
+
+Para remover o script de inicialização:
+
+```
+pm2 unstartup
+```

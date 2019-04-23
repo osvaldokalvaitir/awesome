@@ -279,18 +279,24 @@ pm2 monit
 
 Obs: Os `console.log` apareceram nesta tela.
 
-Para iniciar o PM2 quando o Ubuntu ligar:
+O PM2 pode gerar e configurar um script de inicialização para manter o PM2 e seus processos ativos em todas as reinicializações do servidor.
+
+Para gerar script de inicialização:
 
 ```
-pm2 startup ubuntu
+pm2 startup
 ```
+
+Ex: `pm2 startup ubuntu`
 
 Aparecerá um comando no terminal, copie este comando e execute no terminal.
 
-Para reiniciar o servidor manualmente, primeiro execute o `pm2 list`, veja o nome do arquivo no `App name` e depois para reiniciar:
+Para algumas ações é necessário o `app_name` e para isso execute `pm2 list` e veja o nome do arquivo.
+
+Para reiniciar o servidor:
 
 ```
-pm2 restart <nome_do_arquivo>
+pm2 restart <app_name|id>
 ```
 
 Ex: `pm2 restart index`
@@ -365,3 +371,45 @@ sudo service nginx restart
 ```
 
 Agora, faça um teste no Insomnia usando a porta 80.
+
+## Configurando CI com Buddy
+
+Para fazer a Integração Contínua pode ser usado várias ferramentas como o [CodeShip](./ci-cd/codeship.md), [CircleCI](./ci-cd/circleci.md) e [Travis CI](./ci-cd/travis-ci.md).
+
+Neste caso, será usado o Buddy que atende de uma maneira bem simples.
+
+Clique [aqui](./ci-cd/buddy.md) e siga Criar um projeto.
+
+Quando chegar na parte de selecionar `Buddy's SSH key`, irá aparecer dois comandos que deverão ser executados dentro do usuário que foi criado (ex: `deploy`).
+
+Logar novamente com o novo usuário:
+
+```
+sudo su deploy
+```
+
+Ir para a pasta Home do usuário `deploy`:
+
+```
+cd ~
+```
+
+Listar o conteúdo da pasta atual:
+
+```
+ls
+```
+
+Ir para a pasta raíz do usuário `deploy`:
+
+```
+cd /home/deploy/
+```
+
+Criar pasta `.ssh`:
+
+```
+mkdir .ssh
+```
+
+Executar os dois comandos.
