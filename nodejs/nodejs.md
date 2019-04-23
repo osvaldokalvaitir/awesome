@@ -6,11 +6,15 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
 - **Linux usando cURL**
 
-  Para instalar o Node.js, executar no cURL os seguintes comandos:
+  Acesse o site `https://github.com/nodesource/distributions/blob/master/README.md#deb` que é o redirecionamento do site do Node.js.
+
+  Em `Installation instructions`, encontre a versão do Node.js que deseja instalar e copie as linhas referentes ao Ubuntu ou Debian.
+
+  Para instalar o Node.js no Ubuntu por exemplo, executar no cURL os seguintes comandos, uma linha de cada vez:
 
   ```
-  curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
-  sudo apt install nodejs
+  curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+  sudo apt-get install -y nodejs
   ```
 
   `Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
@@ -30,6 +34,24 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
   ```
   choco install -y nodejs.install
   ```
+
+Verifique se o Node.js está instalado executando:
+
+```
+node -v
+```
+
+Verifique a versão do NPM executando:
+
+```
+npm -v
+```
+
+Para atualizar a NPM para a versão mais recente:
+
+```
+[sudo] npm install npm -g
+```
 
 ## Documentação e Instalação
 

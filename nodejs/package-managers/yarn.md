@@ -36,6 +36,12 @@ Gerenciamento de dependências rápido, confiável e seguro.
 
   Digite o `Y` para iniciar a instalação.
 
+Verifique se o Yarn está instalado executando:
+
+```
+yarn --version
+```  
+
 ## Documentação e Instalação
 
 Clique [aqui](https://yarnpkg.com) para ver a documentação e outras opções de instalação.
