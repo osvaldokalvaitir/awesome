@@ -35,3 +35,11 @@ Construir e executar o projeto:
 ```
 npm run build | yarn run build
 ```
+
+## Execução de Testes de Projeto no ReactJS
+
+Executar testes no projeto ReactJS localmente:
+
+```
+npm test | yarn test
+```
