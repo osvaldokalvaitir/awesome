@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/sequelize-cli) para fazer a instala�
 Instalar como dependência de desenvolvimento e globalmente:
 
 ```
-npm install sequelize-cli --save-dev -g | yarn global add sequelize-cli --dev
+npm install --global sequelize-cli --save-dev | yarn global add sequelize-cli --dev
 ```
 
 É necessário instalar também o [sequelize](sequelize.md).

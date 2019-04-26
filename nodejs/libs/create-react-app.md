@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/create-react-app) para fazer a insta
 Instalar globalmente:
 
 ```
-npm install -g create-react-app | yarn global add create-react-app
+npm install --global create-react-app | yarn global add create-react-app
 ```
 
 Criação de novo projeto:

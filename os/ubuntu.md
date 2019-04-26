@@ -124,7 +124,7 @@ Para rodar a aplicação:
 node index.js
 ```
 
-Copie o IP de acesso ao servidor e faça um teste no Insomnia. 
+Copie o IP de acesso ao servidor e faça um teste no Insomnia.
 
 Obs: A aplicação ainda está na porta `3000`.
 
@@ -137,10 +137,10 @@ Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/s
 Para instalar o PM2:
 
 ```
-sudo npm install -g pm2
+sudo npm install --global pm2
 ```
 
-Entre na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização. 
+Entre na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
 
 ### Configuração do Proxy do Nginx
 

@@ -1,6 +1,6 @@
 # react-native-cli
 
-A interface de linha de comando (CLI) do React Native. O React Native é distribuído como dois pacotes npm, `react-native-cli` e `react-native`. O primeiro é um pacote leve que deve ser instalado globalmente (`npm install -g react-native-cli`), enquanto o segundo contém o código real do framework React Native e é instalado localmente em seu projeto quando você executa `react-native init`. Como o `react-native init` chama o `npm install react-native`, simplesmente vincular seu clone do github local ao npm não é suficiente para testar mudanças locais.
+A interface de linha de comando (CLI) do React Native. O React Native é distribuído como dois pacotes npm, `react-native-cli` e `react-native`. O primeiro é um pacote leve que deve ser instalado globalmente (`npm install react-native-cli --global`), enquanto o segundo contém o código real do framework React Native e é instalado localmente em seu projeto quando você executa `react-native init`. Como o `react-native init` chama o `npm install react-native`, simplesmente vincular seu clone do github local ao npm não é suficiente para testar mudanças locais.
 
 ## Documentação
 
@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/react-native-cli) para fazer a insta
 Instalar globalmente:
 
 ```
-npm install -g react-native-cli | yarn global add react-native-cli
+npm install --global react-native-cli | yarn global add react-native-cli
 ```
 
 ## Comandos do CLI

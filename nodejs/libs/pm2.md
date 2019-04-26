@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/pm2) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install -g pm2 | yarn global add pm2
+npm install --global pm2 | yarn global add pm2
 ```
 
 ## Comandos

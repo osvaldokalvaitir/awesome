@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/@adonisjs/cli) para fazer a instala�
 Instalar globalmente:
 
 ```
-npm install -g @adonisjs/cli | yarn global add @adonisjs/cli
+npm install --global @adonisjs/cli | yarn global add @adonisjs/cli
 ```
 
 ## Execução de API para Desenvolvimento
