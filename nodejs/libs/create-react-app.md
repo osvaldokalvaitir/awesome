@@ -38,8 +38,14 @@ npm run build | yarn run build
 
 ## Execução de Testes de Projeto no ReactJS
 
-Executar testes no projeto ReactJS localmente:
+Executar testes no projeto localmente:
 
 ```
 npm test | yarn test
+```
+
+Executar testes e mostrar um relatório detalhado:
+
+```
+npm test --coverage | yarn test --coverage
 ```

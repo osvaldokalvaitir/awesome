@@ -69,7 +69,7 @@ npm install | yarn
 
 ## Execução de Projeto no Node.js
 
-Executar o projeto Node.js localmente:
+Executar o projeto localmente:
 
 ```
 npm start | yarn start
@@ -77,7 +77,7 @@ npm start | yarn start
 
 ## Execução de Projeto para Desenvolvimento no Node.js
 
-Executar o projeto para desenvolvimento (incluindo Nodemon) Node.js localmente:
+Executar o projeto para desenvolvimento (incluindo Nodemon) localmente:
 
 ```
 npm dev | yarn dev
@@ -85,7 +85,7 @@ npm dev | yarn dev
 
 ## Execução de Testes de Projeto no Node.js
 
-Executar testes no projeto Node.js localmente:
+Executar testes no projeto localmente:
 
 ```
 npm test | yarn test
