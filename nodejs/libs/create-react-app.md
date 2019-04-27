@@ -49,3 +49,9 @@ Executar testes e mostrar um relatório detalhado:
 ```
 npm test --coverage | yarn test --coverage
 ```
+
+Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
+
+```
+npm test --coverage --watchAll | yarn test --coverage --watchAll
+```
