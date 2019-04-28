@@ -28,7 +28,7 @@ Em projeto criado com [Create React App](../nodejs/libs/create-react-app.md) e u
 
 Entre no GitHub [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack#user-content-generate-a-react-app) e siga o procedimento do tópico `Create the Heroku app`. Ex: `heroku create <nome_do_app> --buildpack mars/create-react-app`
 
-Obs: Ao executar o comando `git remote`, pode observar que automaticamente ele criou um link com o nome `heroku`.
+Obs: Após a criação, ao executar o comando `git remote`, é possível observar que automaticamente foi criado um link com o nome `heroku`.
 
 Para abrir o app no navegador quando terminar a criação:
 
@@ -36,13 +36,13 @@ Para abrir o app no navegador quando terminar a criação:
 heroku open
 ```
 
-Para enviar o projeto para o Heroku, depois do commit, dar o push no link do heroku:
+Para enviar o projeto para o Heroku, é só dar um push no link `heroku` depois do commit:
 
 ```
 git push heroku master
 ```
 
-Para configurar as variáveis ambiente:
+Para configurar as variáveis de ambiente:
 
 ```
 heroku config:set <nome_da_variavel>=<valor_da_variavel>
