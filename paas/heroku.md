@@ -52,7 +52,7 @@ Para criar um app no Heroku siga os seguintes procedimentos:
 
 - Digite o nome do domínio e clique em `Save changes`.
 
-### Projeto ReactJS com Create-React-App
+### Projeto ReactJS com Create React App
 
 Para criar um app no Heroku siga os seguintes procedimentos:
 

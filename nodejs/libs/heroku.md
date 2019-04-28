@@ -24,7 +24,7 @@ Para fazer o login com as credenciais do site Heroku:
 heroku login
 ```
 
-Em projeto criado com [Create-React-App](../nodejs/libs/create-react-app.md) e usando [Git](../version-control/git.md) tem uma configuração pronta para fazer deploy no Heroku.
+Em projeto criado com [Create React App](../nodejs/libs/create-react-app.md) e usando [Git](../version-control/git.md) tem uma configuração pronta para fazer deploy no Heroku.
 
 Entre no GitHub [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack#user-content-generate-a-react-app) e siga o procedimento do tópico `Create the Heroku app`. Ex: `heroku create <nome_do_app> --buildpack mars/create-react-app`
 
