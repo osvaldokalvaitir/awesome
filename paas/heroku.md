@@ -8,7 +8,9 @@ O Heroku é uma plataforma como serviço na nuvem que suporta várias linguagens
 
 Clique [aqui](https://www.heroku.com) para ver a documentação e acessar o serviço.
 
-## Criar um app
+## Criar um app no Heroku
+
+### Projeto Node.js
 
 Para criar um app no Heroku siga os seguintes procedimentos:
 
@@ -49,3 +51,17 @@ Para criar um app no Heroku siga os seguintes procedimentos:
 - Na aba `Settings`, em `Domains and certificates`, clique em `Add domain`
 
 - Digite o nome do domínio e clique em `Save changes`.
+
+### Projeto ReactJS com Create-React-App
+
+Para criar um app no Heroku siga os seguintes procedimentos:
+
+- Acesse o site do Heroku e crie uma conta.
+
+- Clique [aqui](../nodejs/libs/heroku.md) e siga Comandos do CLI, para fazer o login, criar um app, abrir o app no navegador, enviar o projeto para o Heroku e configurar variáveis de ambiente.
+
+- Uma outra maneira de configurar as variáveis de ambiente, é entrar no site do Heroku e na aba `Settings`:
+
+  - Em `Config Vars`, clique em `Reveal Config Vars`
+
+  - Configure as variáveis de ambiente passando chave e valor.
