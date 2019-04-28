@@ -60,7 +60,7 @@ Para criar um app no Heroku siga os seguintes procedimentos:
 
 - É necessário ter o Git configurado no projeto. Para instalar o [Git](../version-control/git.md), siga Instalação, e depois de instalado, é só dar um `git init` na pasta do projeto.
 
-- Instale a biblioteca [Heroku CLI](../nodejs/libs/heroku.md) no projeto, siga Instalação e Comandos do CLI, para instalar, fazer o login, criar um app, abrir o app no navegador, enviar o projeto para o Heroku e configurar variáveis de ambiente.
+- Instale a biblioteca [Heroku CLI](../nodejs/libs/heroku.md) no projeto, siga Instalação e Comandos do CLI, para instalar, fazer o login, criar um app no Heroku, abrir o app no navegador, enviar o projeto para o Heroku e configurar variáveis de ambiente.
 
 - Uma outra maneira de configurar as variáveis de ambiente, é entrar no site do Heroku e na aba `Settings`:
 
