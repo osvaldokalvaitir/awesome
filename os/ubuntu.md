@@ -8,15 +8,25 @@ Clique [aqui](https://www.ubuntu.com/download) para ver a documentação e reali
 
 ## Criando Servidor
 
-Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../server/digitalocean.md), [Amazon Web Services](../server/amazon-web-services.md) ou outro. É possível criar um servidor linux Ubuntu, que depois de criado, é disponibilizado um ip para o acesso nele.
+Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../server/digitalocean.md), [Amazon Web Services](../server/amazon-web-services.md) ou outro. É possível criar um servidor Ubuntu ou qualquer outra distribuição Linux, que depois de criado, é disponibilizado um IP para o acesso nele.
 
 Dentro do Ubuntu, é possível executar todos os comandos abaixo independente do servidor de nuvem contratado.
 
 Para começar acesse o servidor por SSH com usuário `root`.
 
-### Instalação do Node.js
+### Atualização do Ubuntu
 
-Clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
+Para atualizar o Ubuntu execute os comandos:
+
+```
+sudo apt-get update
+```
+
+e
+
+```
+sudo apt-get upgrade
+```
 
 ### Criação de usuário
 
@@ -34,13 +44,17 @@ Adicionar o novo usuário ao sudo para que ele tenha permissões de administrado
 usermod -aG sudo deploy
 ```
 
+### Instalação do Node.js
+
+Continuando com o usuário root, clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
+
+### Clone do projeto
+
 Logar com o novo usuário:
 
 ```
 sudo su deploy
 ```
-
-### Clone do projeto
 
 Ir para a pasta Home do usuário `deploy`:
 
@@ -76,9 +90,9 @@ Para instalar as dependências:
 npm install
 ```
 
-Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
-
 ### Instalação do MongoDB
+
+Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
 
 Execute os próximos comando como o root.
 
