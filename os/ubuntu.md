@@ -19,14 +19,30 @@ Para começar acesse o servidor por SSH com usuário `root`.
 Para atualizar o Ubuntu execute os comandos:
 
 ```
-sudo apt-get update
+apt-get update
 ```
 
 e
 
 ```
-sudo apt-get upgrade
+apt-get upgrade
 ```
+
+### Instalação do Node.js
+
+Clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
+
+### Instalação do PM2
+
+Clique [aqui](../nodejs/libs/pm2.md) e siga Instalação.
+
+### Instalação do MongoDB (Projeto Node.js)
+
+Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação > Ubuntu.
+
+### Instalação do Serve (Projeto ReactJS)
+
+Clique [aqui](../nodejs/libs/serve.md) e siga Instalação.
 
 ### Criação de usuário
 
@@ -44,19 +60,21 @@ Adicionar o novo usuário ao sudo para que ele tenha permissões de administrado
 usermod -aG sudo deploy
 ```
 
-### Instalação do Node.js
-
-Continuando com o usuário root, clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
-
-### Clone do projeto
-
-Logar com o novo usuário:
+Para logar com o usuário `deploy`:
 
 ```
 sudo su deploy
 ```
 
-Ir para a pasta Home do usuário `deploy`:
+Para sair do usuário logado:
+
+```
+exit
+```
+
+### Clone do projeto
+
+Logado com o usuário `deploy`, ir para a pasta Home:
 
 ```
 cd ~
@@ -82,7 +100,7 @@ Para entrar na pasta criada pelo Git:
 cd <nome_do_repositório>/
 ```
 
-O projeto não vem com a pasta `node_modules` e o arquivo `env`. Precisaremos fazer a instalação e criar o arquivo de configurações.
+O projeto não vem com a pasta `node_modules` e o arquivo `env`. É necessário instalar as dependências e se o projeto depender de um arquivo de configurações é necessário criá-lo.
 
 Para instalar as dependências:
 
@@ -90,35 +108,13 @@ Para instalar as dependências:
 npm install
 ```
 
-### Instalação do MongoDB
-
-Antes de criar o arquivo `env`, precisamos instalar o MongoDB.
-
-Execute os próximos comando como o root.
-
-Para sair do usuário logado:
-
-```
-exit
-```
-
-Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação > Ubuntu.
-
-Agora voltamos para o nosso usuário deploy:
-
-```
-sudo su deploy
-```
-
-### Criação do arquivo env
-
-Entre na pasta do projeto e crie o arquivo de configurações `env`:
+Para criar o arquivo de configurações `env`:
 
 ```
 vim .env
 ```
 
-Coloque todas as variáveis ambientes neste arquivo:
+Coloque todas as variáveis de ambientes neste arquivo:
 
 Ex: `DB_URL=mongodb://localhost/<nome_do_banco>`
 
@@ -130,9 +126,9 @@ Para salvar o arquivo e sair:
 :wq
 ```
 
-### Rodar a aplicação
+### Rodar a aplicação (Projeto Node.js)
 
-Para rodar a aplicação:
+Logado com o usuário `deploy`, rode a aplicação:
 
 ```
 node index.js
@@ -146,29 +142,29 @@ Pode parecer um erro no terminal do servidor, mas é por causa que no código-fo
 
 Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/sparkpost.md), [Mailgun](../email/mailgun.md), [SendGrid](../email/sendgrid.md) ou outro.
 
-### Instalação do PM2
+### Build na aplicação (Projeto ReactJS)
 
-Para instalar o PM2:
+Logado com o usuário `deploy`, dê um build na aplicação:
 
 ```
-sudo npm install --global pm2
+npm run build
 ```
 
-Entre na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
+Depois de iniciar o servidor com o PM2, copie o IP de acesso ao servidor e faça um teste no navegador.
+
+Obs: A aplicação ainda está na porta `8080`.
+
+### Configuração do PM2
+
+Logado com o usuário `deploy` e na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
 
 ### Configuração do Proxy do Nginx
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
-Voltar para usuário de root:
+Logado com o usuário `root`, clique [aqui](../web-server/nginx.md) e siga Instalação > Linux e Setar Arquivo de Configuração > Linux.
 
-```
-exit
-```
-
-Clique [aqui](../web-server/nginx.md) e siga Instalação > Linux e Setar Arquivo de Configuração > Linux.
-
-Agora, faça um teste no Insomnia usando a porta 80.
+Agora, faça um teste usando a porta 80 ou sem porta.
 
 ## Configurando CI com Buddy
 
@@ -180,13 +176,7 @@ Clique [aqui](../ci-cd/buddy.md) e siga Criar um projeto.
 
 Quando chegar na parte de selecionar `Buddy's SSH key`, irá aparecer dois comandos que deverão ser executados dentro do usuário que foi criado (ex: `deploy`).
 
-Logar novamente com o usuário `deploy`:
-
-```
-sudo su deploy
-```
-
-Ir para a pasta Home do usuário `deploy`:
+Logado com o usuário `deploy`, ir para a pasta Home:
 
 ```
 cd ~
