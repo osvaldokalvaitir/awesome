@@ -166,7 +166,7 @@ Logado com o usuário `root`, clique [aqui](../web-server/nginx.md) e siga Insta
 
 Agora, faça um teste usando a porta 80 ou sem porta.
 
-## Configurando CI com Buddy
+### Configurando CI com Buddy
 
 Para fazer a Integração Contínua pode ser usado várias ferramentas como o [CodeShip](../ci-cd/codeship.md), [CircleCI](../ci-cd/circleci.md) e [Travis CI](../ci-cd/travis-ci.md).
 
@@ -176,22 +176,24 @@ Clique [aqui](../ci-cd/buddy.md) e siga Criar um projeto.
 
 Quando chegar na parte de selecionar `Buddy's SSH key`, irá aparecer dois comandos que deverão ser executados dentro do usuário que foi criado (ex: `deploy`).
 
-Logado com o usuário `deploy`, ir para a pasta Home:
+Se ocorrer um erro ao executar, siga os procedimentos abaixo para criar uma pasta na raíz com o nome `.ssh`:
 
-```
-cd ~
-```
+- Logado com o usuário `deploy`, ir para a pasta Home:
 
-Ir para a pasta raíz do usuário `deploy`:
+  ```
+  cd ~
+  ```
 
-```
-cd /home/deploy/
-```
+- Ir para a pasta raíz do usuário `deploy`:
 
-Criar pasta `.ssh`:
+  ```
+  cd /home/deploy/
+  ```
 
-```
-mkdir .ssh
-```
+- Criar pasta `.ssh`:
 
-Executar os dois comandos.
+  ```
+  mkdir .ssh
+  ```
+
+E execute os dois comandos.

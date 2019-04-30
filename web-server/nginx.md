@@ -82,7 +82,7 @@ Clique [aqui](http://nginx.org) para ver a documentação e realizar o download.
     server {
       listen 80;
       # server_name domain.com;
-      root /home/deploy/goreact-deploy;
+      root <caminho_projeto_reactjs>;
 
       location / {
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
@@ -98,6 +98,8 @@ Clique [aqui](http://nginx.org) para ver a documentação e realizar o download.
       }
     }
     ``` 
+
+    Ex: `root /home/deploy/goreact-deploy;`
 
     Obs: Este arquivo é padrão, só não esquecer de alterar a linha do `root` com o caminho de instalação do projeto ReactJS.
 

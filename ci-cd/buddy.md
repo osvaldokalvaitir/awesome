@@ -32,7 +32,7 @@ Para criar um projeto no Buddy siga os seguintes procedimentos:
 
   - Clique em `Add a new pipeline`
 
-- Em `Add a new action to ...` e `actions`, selecione o sevidor (ex: `DigitalOcean`) e faça o login
+- Em `Add a new action to ...` e `actions`, selecione o sevidor (ex: `DigitalOcean`) e faça o login. Se não tiver o servidor desejado é possível fazer o deploy por `SSH`.
 
 - Em `Transfer files to ...`:
 
@@ -44,27 +44,46 @@ Para criar um projeto no Buddy siga os seguintes procedimentos:
 
   - Em `Authentication mode`, selecione `Buddy's SSH key`
 
-  - Aparecerá dois comandos que deverão ser executados dentro do usuário informado no `Login` no servidor. Antes de executar, é necessário criar uma pasta na raíz com o nome `.ssh` e dentro dela executar os comandos.
+  - Aparecerá dois comandos que deverão ser executados dentro do usuário informado no `Login` no servidor. Se ocorrer um erro ao executar, então é necessário criar uma pasta na raíz com o nome `.ssh` e dentro dela executar os comandos.
 
-  - Em `Remote path`, coloque o caminho que os arquivos serão enviados (ex: `~/<nome_repositorio>`)
+  - Em `Remote path`, digite o caminho que os arquivos serão enviados (ex: `~/<nome_repositorio>`) ou clique em `Browse...` e selecione a pasta.
 
   - Clique em `Test & add this action on success`
 
 Irá aparecer uma tela, informando se a conexão foi realizada com sucesso.
 
-Depois que terminar, na próxima tela, embaixo de `Upload files to...`, clique em `Execute SSH commands on a remote server`
+Depois que terminar, na próxima tela, embaixo de `Upload files to...`, clique em `Execute SSH commands on a remote server`.
+
+Obs: Se não aparecer como sugestão, pode clicar no `+` embaixo e procurar por `Execute SSH commands on a remote server`.
 
 Em `Execute SSH commands on a remote server`:
 
-  - Em `Run SSH Commands`:
+  - Projeto Node.js:
 
-    ```
-    npm install
-    pm2 restart index
+    - Em `Run SSH Commands`:
 
-    ```
+      ```
+      npm install
+      pm2 restart <nome_arquivo>
 
-    Obs: Se tivesse usando o Sequelize, poderia rodar as migrations aqui.
+      ```
+
+      Ex: `pm2 restart index`
+
+      Obs: Se tivesse usando o Sequelize, poderia rodar as migrations aqui.
+
+  - Projeto ReactJS:
+
+    - Em `Run SSH Commands`:
+
+      ```
+      npm install
+      npm run build
+      pm2 restart <app_name>
+
+      ```
+
+      Ex: `pm2 restart static-page-sever-8080`
 
   - Em `Hostname & Port`, digite o IP do servidor
 
@@ -72,7 +91,7 @@ Em `Execute SSH commands on a remote server`:
 
   - Em `Authentication mode`, selecione `Buddy's SSH key`. Não precisará mais executar os dois comandos
 
-  - Em `Working directory`, coloque o caminho que os comandos serão executados (ex: `~/<nome_repositorio>`), o mesmo colocado anteriormente
+  - Em `Working directory`, digite o caminho que os comandos serão executados (ex: `~/<nome_repositorio>`), ou clique em `Browse...` e selecione a pasta, o mesmo colocado anteriormente
 
   - Clique em `Test & add this action on success`
 
