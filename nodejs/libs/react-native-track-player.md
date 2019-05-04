@@ -1,6 +1,6 @@
 # react-native-track-player
 
-Um módulo de áudio completo criado para aplicativos de música. Fornece reprodução de áudio, controles de mídia externos, suporte a chromecast, modo de segundo plano e muito mais.
+Um módulo de áudio completo criado para aplicativos de música. Fornece reprodução de áudio, controles de mídia externos, suporte a chromecast, modo de segundo plano e muito mais. No iOS, este pacote requer: [react-native-swift](react-native-swift.md).
 
 ## Documentação
 
