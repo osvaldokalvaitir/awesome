@@ -11,8 +11,10 @@ Clique [aqui](https://github.com/kmagiera/react-native-gesture-handler) para ver
 
 Clique [aqui](https://www.npmjs.com/package/react-native-gesture-handler) para fazer a instalação.
 
-Depois da instalação é necessário rodar o `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link`:
 
 ```
 react-native link react-native-gesture-handler
 ```
+
+Depois de linkar o componente, para compilar no Android é necessário fazer uma configuração no arquivo `MainActivity.java` que podem ser encontrados [aqui](https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html) na documentação. No iOS não é necessário nenhuma configuração adicional.
