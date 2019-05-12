@@ -58,6 +58,26 @@ react-native run-ios --simulator="iPhone XS Max"
 react-native start
 ```
 
+## Execução de Testes de Projeto no React Native
+
+Executar testes no projeto localmente:
+
+```
+npm test | yarn test
+```
+
+Executar testes e mostrar um relatório detalhado:
+
+```
+npm test --coverage | yarn test --coverage
+```
+
+Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
+
+```
+npm test --coverage --watchAll | yarn test --coverage --watchAll
+```
+
 ### Vincular bibliotecas que contêm código nativo
 
 Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as bibliotecas com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
