@@ -58,7 +58,7 @@ react-native run-ios --simulator="iPhone XS Max"
 react-native start
 ```
 
-## Execução de Testes de Projeto no React Native
+### Execução de Testes de Projeto no React Native
 
 Executar testes no projeto localmente:
 
