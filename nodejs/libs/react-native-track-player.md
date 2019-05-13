@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/react-native-kit/react-native-track-player) par
 
 Clique [aqui](https://www.npmjs.com/package/react-native-track-player) para fazer a instalação.
 
-Depois da instalação é necessário rodar o `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link`:
 
 ```
 react-native link react-native-track-player
