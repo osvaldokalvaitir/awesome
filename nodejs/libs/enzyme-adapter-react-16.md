@@ -1,6 +1,6 @@
 # enzyme-adapter-react-16
 
-É um adaptador Enzyme para o React 16. Este pacote requer: [enzyme](enzyme.md).
+É um adaptador Enzyme para o React 16. Este pacote requer o [react-dom](react-dom.md), ele já vem instalado como padrão em projetos ReactJS, mas é necessário instalar em projetos React Native.
 
 ## Documentação
 
