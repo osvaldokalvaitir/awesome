@@ -25,12 +25,33 @@ Ocorreu um erro ao tentar instalar com o yarn, mas foi resolvido instalando com 
 Executar a API do JSON Server:
 
 ```
-json-server server.json -p 3001 -w -d 500
+json-server <nome_do_arquivo>
 ```
 
 Onde:
 
-- `server.json` - arquivo que contém o json
-- `-p 3001` - porta, como a porta padrão é 3000 a mesma do React, então alterar para 3001
+- `<nome_do_arquivo>` - arquivo que contém o json. Ex: `server.json`
+
+### Exemplo para ReactJS
+
+```
+json-server <nome_do_arquivo> -p <porta> -w -d <tempo_de_delay>
+```
+
+Onde:
+
+- `<nome_do_arquivo>` - arquivo que contém o json. Ex: `server.json`
+- `-p <porta>` - porta, como a porta padrão é `3000` a mesma do ReactJS, então, alterar para uma outra. Ex: `3001`
 - `-w` - watch, que significa que ao alterar o arquivo, não precisa reiniciar o servidor
-- `-d 500` - tempo de delay
+- `-d <tempo_de_delay>` - tempo de delay, valor em milissegundos. Ex: `500`.
+
+### Exemplo para React Native com emulação via USB
+
+```
+json-server <nome_do_arquivo> -H <ip_do_computador>
+```
+
+Onde:
+
+- `<nome_do_arquivo>` - arquivo que contém o json. Ex: `server.json`
+- `-H <ip_do_computador>` - IP do computador, como o padrão é `localhost` e no React Native com emulação via USB não funciona com o IP local, então é necessário alterar o IP. Ex: `192.168.0.102`.
