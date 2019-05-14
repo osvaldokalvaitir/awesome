@@ -1,6 +1,6 @@
-# @rocketseat/unform
+# unform
 
-O Unform é uma biblioteca voltada para a performance que ajuda você a criar bonitos formulárioS em React com o poder de componentes performáticos não controlados e React Hooks.
+Unform é uma biblioteca voltada para a performance que ajuda você a criar bonitos formulárioS em React com o poder de componentes performáticos não controlados e React Hooks.
 
 ## Documentação
 
