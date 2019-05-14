@@ -18,6 +18,6 @@ react-native link react-native-code-push
 
 Ao linkar, aparecerá as mensagens abaixo:
 
-<sub> What is your CodePush deployment key for Android (hit <ENTER> to ignore) **Tecle ENTER** </sub>
+<sub> What is your CodePush deployment key for Android (hit `<ENTER>` to ignore) **Tecle ENTER** </sub>
 
-<sub> What is your CodePush deployment key for iOS (hit <ENTER> to ignore) **Tecle ENTER** </sub>
+<sub> What is your CodePush deployment key for iOS (hit `<ENTER>` to ignore) **Tecle ENTER** </sub>
