@@ -18,13 +18,15 @@ Ou é possível informar a versão do emulador utilizado passando a propriedade 
 react-native run-ios --simulator="iPhone XS Max"
 ```
 
-## Configurações de Aplicativos iOS
+## Abrir Aplicação do React Native no XCode
+
+No projeto em React Native, clique com o botão direito na pasta `ios` e selecione `Reveal in Finder`.
+
+Encontre o arquivo de extensão `xcodeproj` e abra-o.
+
+### Ícone, Splashscreen e outros
 
 Para configurar o ícone, nome da aplicação, splashscreen, id do pacote dentro do iOS, execute os seguintes procedimentos:
-
-- No projeto em React Native, clique com o botão direito na pasta `ios` e selecione `Reveal in Finder`
-
-- Encontre o arquivo de extensão `xcodeproj` e abra-o
 
 - Ao clicar no ícone de menu e em `Targets`, em todos os targets abaixo, na seção `Signing`, terá que ativar a opção `Automatically manage signing` e selecionar o `Team` desejado
 
@@ -41,3 +43,27 @@ Para configurar o ícone, nome da aplicação, splashscreen, id do pacote dentro
   - Em `Bundle Identifier`, dê um nome ao pacote (ex: `com.<nome_empresa>.<nome_aplicação>`)
 
   - Em `Deployment Info`, nas opções de `Device Orientation`, é possível escolher apenas a opção `Portrait`, desabilitando as demais
+
+### Notificações Push
+
+Para configurar notificações Push no iOS, siga o tópico superior para abrir o projeto no XCode e executar os seguintes procedimentos:
+
+- Clique no arquivo do XCode e aparecerá a guia `Capabilities`
+
+- Na guia `Capabilities`:
+
+  - Habilite a opção `Push Notifications`
+
+  - Habilite a opção `Background Modes`
+
+- Em `Background Modes` e `Modes` selecione a opção `Remote notifications`.
+
+### Aúdio em background
+
+Para o aúdio continuar sendo executado em background no iOS, siga o tópico superior para abrir o projeto no XCode e executar os seguintes procedimentos:
+
+- Clique no arquivo do XCode e aparecerá a guia `Capabilities`
+
+- Na guia `Capabilities`, habilite a opção `Background Modes`
+
+- Em `Background Modes` e `Modes` selecione a opção `Audio, AirPlay, and Picture in Picture`.
