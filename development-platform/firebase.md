@@ -34,6 +34,8 @@ Para ver as configurações do projeto referente as mensagens, siga os seguintes
 
 - Clique em `Cloud Messaging`
 
-- A `Chave do servidor` é igual a `Firebase Server Key`
+- Em `Credenciais do projeto`:
 
-- O `Código do remetente` é igual a `Firebase Sender ID`
+  - A `Chave do servidor` é igual a `Firebase Server Key`
+
+  - O `Código do remetente` é igual a `Firebase Sender ID`

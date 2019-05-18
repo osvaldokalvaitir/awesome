@@ -12,7 +12,7 @@ Clique [aqui](https://www.heroku.com) para ver a documentação e acessar o serv
 
 ### Projeto Node.js
 
-Para criar um app no Heroku siga os seguintes procedimentos:
+Para criar um app no Heroku, siga os seguintes procedimentos:
 
 - Antes de enviar o projeto para o Heroku, é necessário criar um arquivo de nome `Procfile` na raíz do projeto com o seguinte código:
 
