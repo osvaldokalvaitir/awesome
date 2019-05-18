@@ -30,19 +30,19 @@ apt-get upgrade
 
 ### Instalação do Node.js
 
-Clique [aqui](../nodejs/nodejs.md) e siga Instalação e Linux usando cURL.
+Clique [aqui](../nodejs/nodejs.md) e siga `Instalação > Linux usando cURL`.
 
 ### Instalação do PM2
 
-Clique [aqui](../nodejs/libs/pm2.md) e siga Instalação.
+Clique [aqui](../nodejs/libs/pm2.md) e siga `Instalação`.
 
 ### Instalação do MongoDB (Projeto Node.js)
 
-Clique [aqui](../database/mongodb/mongodb.md) e siga Instalação > Ubuntu.
+Clique [aqui](../database/mongodb/mongodb.md) e siga `Instalação > Ubuntu`.
 
 ### Instalação do Serve (Projeto ReactJS)
 
-Clique [aqui](../nodejs/libs/serve.md) e siga Instalação.
+Clique [aqui](../nodejs/libs/serve.md) e siga `Instalação`.
 
 ### Criação de usuário
 
@@ -156,13 +156,13 @@ Obs: A aplicação ainda está na porta `8080`.
 
 ### Configuração do PM2
 
-Logado com o usuário `deploy` e na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga Comandos, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
+Logado com o usuário `deploy` e na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga `Comandos`, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
 
 ### Configuração do Proxy do Nginx
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
-Logado com o usuário `root`, clique [aqui](../web-server/nginx.md) e siga Instalação > Linux e Setar Arquivo de Configuração > Linux.
+Logado com o usuário `root`, clique [aqui](../web-server/nginx.md) e siga `Instalação > Linux` e `Setar Arquivo de Configuração > Linux`.
 
 Agora, faça um teste usando a porta 80 ou sem porta.
 
@@ -172,7 +172,7 @@ Para fazer a Integração Contínua pode ser usado várias ferramentas como o [C
 
 Neste caso, será usado o Buddy que atende de uma maneira bem simples.
 
-Clique [aqui](../ci-cd/buddy.md) e siga Criar um projeto.
+Clique [aqui](../ci-cd/buddy.md) e siga `Criar um projeto`.
 
 Quando chegar na parte de selecionar `Buddy's SSH key`, irá aparecer dois comandos que deverão ser executados dentro do usuário que foi criado (ex: `deploy`).
 
