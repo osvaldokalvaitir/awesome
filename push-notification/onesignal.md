@@ -64,4 +64,34 @@ Para criar um app no OneSignal, siga os seguintes procedimentos:
 
     - Em `Firebase Sender ID`, cole o código do `Código do remetente` do Firebase
 
-    - Clique em `Save`
+    - Clique em `Save`.
+
+## Chave do OneSignal
+
+Para ver a chave do app no OneSignal, siga os seguintes procedimentos:
+
+- No `Dashboard`, clique em `Settings`
+
+- Clique em `Keys & IDs`
+
+- O campo `OneSignal App ID`, armazena o valor que deve ser informado na inicialização do OneSignal no React Native.
+
+## Enviar uma mensagem
+
+Para enviar mensagens de testes no OneSignal, siga os seguintes procedimentos:
+
+- No `Dashboard`, clique em `Messages`
+
+- Clique em `New Push`
+
+- Em `New Message`:
+
+  - No tópico `2 Message`:
+
+    - Em `Title`, digite um título
+
+    - Em `Message`, digite uma mensagem
+
+  - Clique em `Confirm`
+
+- Na janela `Confirm Before Sending`, clique em `Send Message`.
