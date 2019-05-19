@@ -8,7 +8,7 @@ Clique [aqui](https://developer.apple.com) para ver a documentação e acessar o
 
 ## Adicionar app
 
-Para adicionar um app no Apple Developer siga os seguintes procedimentos:
+Para adicionar um app no Apple Developer, siga os seguintes procedimentos:
 
 - Acesse o site do Apple Developer 
 
@@ -29,3 +29,51 @@ Para adicionar um app no Apple Developer siga os seguintes procedimentos:
   - Clique em `Register`
 
   - Clique em `Done`
+
+## Gerar certificado
+
+Depois de ter adicionado um app, para gerar um certificado no Apple Developer, siga os seguintes procedimentos:
+
+- No `Dashboard`, clique no item de menu `Overview` e `Certificates, Identifiers & Profiles` (obs: No meu caso, não apareceu a opção, mas pode ser que seja por eu estar no Windows)
+
+- Na seção de menu `Certificates` e clique em `Production`, clique no botão `+` para adicionar um certificado:
+
+  - Na página `Select Type`:
+
+    - Na seção `Production`, selecione a opção `App Store and Ad Hoc`
+
+    - Clique em `Continue`
+
+  - Na página `Request`, clique novamente em `Continue`
+
+  - Na página `Generate`:
+
+    - É necessário, gerar o certificado, para isso clique [aqui](../password/keychain-access.md) e siga `Gerar certificado`
+  
+    - Em `Upload CSR file.`, clique em `Choose File...` e selecione o certificado gerado
+
+    - Clique em `Continue`
+
+  - Na página `Download`:
+  
+    - Clique em `Donwload` para realizar o download do certificado
+
+    - Clique em `Done`
+
+### Exportar certificado
+
+Depois de ter gerado um certificado, para exportar o certificado, siga os seguintes procedimentos:
+
+- Localize o certificado gerado
+
+- Clique em cima do certificado e `Export <nome_certificado>`
+
+- Selecione a pasta que deseja salvar (Ex: `Apple`)
+
+- Renomeie o certificado para `Producao`
+
+- Clique em `Save`
+
+- Aparecerá uma janela de senha, crie uma senha e repita ela (Ex: `123456`)
+
+- Aparecerá uma janela pedindo a senha do computador, digite-a e clique em `Always Allow`

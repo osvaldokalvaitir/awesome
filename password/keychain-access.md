@@ -9,3 +9,27 @@ Clique [aqui](https://support.apple.com/pt-br/guide/keychain-access/welcome/mac)
 ## Acesso ao Aplicativo
 
 O aplicativo de gerenciamento de senha está presente de forma nativa no macOS.
+
+## Gerar certificado
+
+Para gerar um certificado no Keychain Access, siga os seguintes procedimentos:
+
+- Abra o aplicativo
+
+- Clique no menu `Keychain Access`
+
+- Clique no sub-menu `Certificate Assistant`
+
+- Clique em `Request a Certificate From a Certificate Authority...`
+
+- Na janela `Certificate Assistant`:
+
+  - Em `User Email Address`, digite o e-mail desejado
+
+  - Em `Request is`, selecione a opção `Saved to disk`
+
+  - Clique em `Continue`
+
+  - Crie uma pasta com o nome `Apple` e renomeie o certificado para `CSR.certSigningRequest` e clique em `Save`
+
+  - Clique em `Done`.
