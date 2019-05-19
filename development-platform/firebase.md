@@ -8,7 +8,9 @@ Clique [aqui](https://console.firebase.google.com) para ver a documentação e a
 
 ## Criar um projeto
 
-- Acesse o site do Firebase e crie uma conta
+- Acesse o site do Firebase
+
+- Crie uma conta
 
 - Clique em `Adicionar projeto`
 

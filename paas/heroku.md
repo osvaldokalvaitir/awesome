@@ -20,7 +20,9 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
   web: node ./src/index.js
   ```
 
-- Acesse o site do Heroku e crie uma conta
+- Acesse o site do Heroku
+
+- Crie uma conta
 
 - No `Dashboard`, clique em `New` e `Create new app`
 
@@ -71,7 +73,9 @@ Para criar um app no Heroku siga os seguintes procedimentos:
   }
   ```
 
-- Acesse o site do Heroku e crie uma conta
+- Acesse o site do Heroku
+
+- Crie uma conta
 
 - É necessário ter o Git configurado no projeto. Para instalar o [Git](../version-control/git.md), siga `Instalação`, e depois de instalado, é só dar um `git init` na pasta do projeto
 

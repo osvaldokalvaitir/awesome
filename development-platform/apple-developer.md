@@ -6,11 +6,13 @@
 
 Clique [aqui](https://developer.apple.com) para ver a documentação e acessar o serviço.
 
-## Criar um app no Apple Developer
+## Adicionar app
 
-Para criar um app no Apple Developer siga os seguintes procedimentos:
+Para adicionar um app no Apple Developer siga os seguintes procedimentos:
 
-- Acesse o site do Apple Developer e crie uma conta
+- Acesse o site do Apple Developer 
+
+- Crie uma conta
 
 - No `Dashboard`, clique no item de menu `Overview` e `Certificates, Identifiers & Profiles` (obs: No meu caso, não apareceu a opção, mas pode ser que seja por eu estar no Windows)
 

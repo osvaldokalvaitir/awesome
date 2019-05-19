@@ -6,11 +6,13 @@ Serviço gratuito de entrega de notificações Push.
 
 Clique [aqui](https://onesignal.com) para ver a documentação e acessar o serviço.
 
-## Criar um app no OneSignal
+## Adicionar app
 
-Para criar um app no OneSignal, siga os seguintes procedimentos:
+Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
-- Acesse o site do OneSignal e crie uma conta
+- Acesse o site do OneSignal
+
+- Crie uma conta
 
 - No `All Applications`, clique em `Add App`
 
@@ -66,7 +68,7 @@ Para criar um app no OneSignal, siga os seguintes procedimentos:
 
     - Clique em `Save`.
 
-## Chave do OneSignal
+## Chave do App
 
 Para ver a chave do app no OneSignal, siga os seguintes procedimentos:
 
