@@ -28,4 +28,20 @@ Para criar um app no App Center, siga os seguintes procedimentos:
 
   - Clique em `Add new app`
 
+Depois de concluído, aparecerá na tela `Overview`, a página `Add App Center’s SDK to your app`, mas este procedimento não é necessário. Somente é necessário se for utilizar alguma ferramenta do App Center como Diagnostics, Analytics ou Push.  
+
 Obs: Se for compilar para iOS e Android, é necessário adicionar um projeto para iOS e outro para Android.
+
+## Usar CodePush
+
+Antes de configurar o Staging e o Release no React Native, siga os seguintes procedimentos:
+
+- Acesse o app criado no App Center
+
+- Clique em `Distribute`
+
+- Clique em `CodePush`
+
+- Clique no botão `Create standard deployments`
+
+Obs: Realize o mesmo processo para iOS e Android.

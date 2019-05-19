@@ -37,3 +37,9 @@ Exibir a lista de aplicativos:
 ```
 appcenter apps list
 ```
+
+Exibir as chaves do CodePush:
+
+```
+appcenter codepush deployment list -a <nome_organizacao>/<nome_app> -k
+```
