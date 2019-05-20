@@ -18,9 +18,9 @@ Ou é possível informar a versão do emulador utilizado passando a propriedade 
 react-native run-ios --simulator="iPhone XS Max"
 ```
 
-## Configurações
+## Configurações de Projeto
 
-Para realizar as configurações no XCode, no projeto em React Native, clique com o botão direito na pasta `ios` e selecione `Reveal in Finder`.
+Para realizar as configurações de projeto em React Native no XCode, clique com o botão direito na pasta `ios` e selecione `Reveal in Finder`.
 
 Encontre o arquivo de extensão `xcodeproj` e abra-o.
 
