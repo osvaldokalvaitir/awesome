@@ -6,7 +6,7 @@ Ubuntu é um sistema operacional de código aberto, construído a partir do núc
 
 Clique [aqui](https://www.ubuntu.com/download) para ver a documentação e realizar o download.
 
-## Criando Servidor
+## Criar Servidor
 
 Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../server/digitalocean.md), [Amazon Web Services](../server/amazon-web-services.md) ou outro. É possível criar um servidor Ubuntu ou qualquer outra distribuição Linux, que depois de criado, é disponibilizado um IP para o acesso nele.
 

@@ -60,7 +60,7 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
 
 ### Projeto ReactJS com Create React App
 
-Para criar um app no Heroku siga os seguintes procedimentos:
+Para criar um app no Heroku, siga os seguintes procedimentos:
 
 - Antes de enviar o projeto para o Heroku, é necessário criar um arquivo de nome `static.json` na raíz do projeto com o seguinte código:
 

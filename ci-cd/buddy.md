@@ -6,9 +6,9 @@ Automação de entrega, simplificada. CI/CD poderoso e fácil de configurar para
 
 Clique [aqui](https://buddy.works) para ver a documentação e acessar o serviço.
 
-## Criar um projeto
+## Criar projeto
 
-Para criar um projeto no Buddy siga os seguintes procedimentos:
+Para criar um projeto no Buddy, siga os seguintes procedimentos:
 
 - Acesse o site do Buddy
 
