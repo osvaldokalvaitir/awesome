@@ -6,7 +6,7 @@ Assistente para tornar fácil a configuração de certificados de notificação 
 
 Clique [aqui](https://onesignal.com/provisionator) para acessar o serviço.
 
-## Gerar certificados
+## Gerar Certificados
 
 Para gerar os certificados, siga os seguintes procedimentos:
 

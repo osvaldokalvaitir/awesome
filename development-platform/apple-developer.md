@@ -6,7 +6,7 @@
 
 Clique [aqui](https://developer.apple.com) para ver a documentação e acessar o serviço.
 
-## Adicionar app
+## Adicionar App
 
 Para adicionar um app no Apple Developer, siga os seguintes procedimentos:
 
@@ -30,7 +30,7 @@ Para adicionar um app no Apple Developer, siga os seguintes procedimentos:
 
   - Clique em `Done`.
 
-## Gerar certificado
+## Gerar Certificado
 
 Para gerar um certificado no Apple Developer, siga os seguintes procedimentos:
 
@@ -75,3 +75,119 @@ Para exportar o certificado, siga os seguintes procedimentos:
 - Aparecerá uma janela de senha, crie uma senha e repita ela (Ex: `123456`)
 
 - Aparecerá uma janela pedindo a senha do computador, digite-a e clique em `Always Allow`.
+
+## Criar Perfil de Provisionamento
+
+Para criar um perfil de provisionamento no Apple Developer para `Development`, `AdHoc` e `Production`, siga os seguintes procedimentos:
+
+- No `Dashboard`, clique no item de menu `Overview` e `Certificates, Identifiers & Profiles` (obs: No meu caso, não apareceu a opção, mas pode ser que seja por eu estar no Windows)
+
+- Na seção de menu `Provisioning Profiles` e clique em `All`, clique no botão `+` para criar um perfil:
+
+### Perfil Development
+
+- Na página `Select Type`:
+
+  - Na seção `Development`, selecione a opção `iOS App Development`
+
+  - Clique em `Continue`
+
+- Na página `Configure`:
+
+  - Em `App ID`, selecione o app desejado
+
+  - Clique em `Continue`
+
+  - Em `Select certificates`:
+    
+    - Clique em `Select All`, para selecionar o certificado
+
+    - Clique em `Continue`
+
+  - Em `Select devices`:
+
+    - Clique em `Select All`, para selecionar os dispositivos
+
+    - Clique em `Continue`
+
+- Na página `Generate`:
+
+  - Na seção `Name this profile and generate`, em `Profile Name`, digite o nome do perfil (Ex: `Development`)
+
+  - Clique em `Continue`
+
+- Na página `Download`:
+
+  - Clique no botão `Download`
+
+- Coloque o perfil de provisionamento (certificado) na pasta que deseja salvar (Ex: `Apple`).
+
+### Perfil AdHoc
+
+- Na página `Select Type`:
+
+  - Na seção `Distribution`, selecione a opção `Ad Hoc`
+
+  - Clique em `Continue`
+
+- Na página `Configure`:
+
+  - Em `App ID`, selecione o app desejado
+
+  - Clique em `Continue`
+
+  - Em `Select certificates`:
+    
+    - Selecione o último certificado gerado de distribuição
+
+    - Clique em `Continue`
+
+  - Em `Select devices`:
+
+    - Clique em `Select All`, para selecionar os dispositivos
+
+    - Clique em `Continue`
+
+- Na página `Generate`:
+
+  - Na seção `Name this profile and generate`, em `Profile Name`, digite o nome do perfil (Ex: `AdHoc`)
+
+  - Clique em `Continue`
+
+- Na página `Download`:
+
+  - Clique no botão `Download`
+
+- Coloque o perfil de provisionamento (certificado) na pasta que deseja salvar (Ex: `Apple`).
+
+### Perfil Production
+
+- Na página `Select Type`:
+
+  - Na seção `Distribution`, selecione a opção `App Store`
+
+  - Clique em `Continue`
+
+- Na página `Configure`:
+
+  - Em `App ID`, selecione o app desejado
+
+  - Clique em `Continue`
+
+  - Em `Select certificates`:
+    
+    - Selecione o último certificado gerado de distribuição
+
+    - Clique em `Continue`
+
+- Na página `Generate`:
+
+  - Na seção `Name this profile and generate`, em `Profile Name`, digite o nome do perfil (Ex: `Production`)
+
+  - Clique em `Continue`
+
+- Na página `Download`:
+
+  - Clique no botão `Download`
+
+- Coloque o perfil de provisionamento (certificado) na pasta que deseja salvar (Ex: `Apple`).

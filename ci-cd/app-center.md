@@ -6,7 +6,7 @@ O Visual Studio App Center permite a automação e gerenciamento do ciclo de vid
 
 Clique [aqui](https://appcenter.ms) para ver a documentação e acessar o serviço.
 
-## Adicionar app
+## Adicionar App
 
 Para criar um app no App Center, siga os seguintes procedimentos:
 

@@ -6,7 +6,7 @@ Serviço gratuito de entrega de notificações Push.
 
 Clique [aqui](https://onesignal.com) para ver a documentação e acessar o serviço.
 
-## Adicionar app
+## Adicionar App
 
 Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
@@ -78,7 +78,7 @@ Para ver a chave do app no OneSignal, siga os seguintes procedimentos:
 
 - O campo `OneSignal App ID`, armazena o valor que deve ser informado na inicialização do OneSignal no React Native.
 
-## Enviar uma mensagem
+## Enviar uma Mensagem
 
 Para enviar mensagens de testes no OneSignal, siga os seguintes procedimentos:
 

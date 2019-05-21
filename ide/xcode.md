@@ -24,17 +24,23 @@ Para realizar as configurações de projeto em React Native no XCode, clique com
 
 Encontre o arquivo de extensão `xcodeproj` e abra-o.
 
-### Ícone, Splashscreen e outros
+### Ícone, Splashscreen e Outros
 
-Para configurar o ícone, nome da aplicação, splashscreen, id do pacote dentro do iOS, execute os seguintes procedimentos:
+Para configurar o ícone, nome da aplicação, splashscreen, id do pacote dentro do iOS, siga os seguintes procedimentos:
 
-- Ao clicar no ícone de menu e em `Targets`, em todos os targets abaixo, na seção `Signing`, terá que ativar a opção `Automatically manage signing` e selecionar o `Team` desejado
+- Clique no arquivo do XCode
+
+- Clique no ícone de menu
+
+- Em `Targets`, em todos os targets abaixo, na seção `Signing`, terá que ativar a opção `Automatically manage signing` e selecionar o `Team` desejado
 
 - Em `Images.xcassets` e em `AppIcon`, coloque todas as imagens referentes ao texto descritivo
 
 - Em `LaunchScreen.xib`, faça a splashscreen como desejado
 
-- Clique no arquivo do `xcodeproj` e aparecerá a guia `General`
+- Clique no arquivo do XCode
+
+- Clique na guia `General`
 
 - Na guia `General`:
 
@@ -46,9 +52,11 @@ Para configurar o ícone, nome da aplicação, splashscreen, id do pacote dentro
 
 ### Notificações Push
 
-Para configurar notificações Push no iOS, execute os seguintes procedimentos:
+Para configurar notificações Push no iOS, siga os seguintes procedimentos:
 
-- Clique no arquivo do XCode e aparecerá a guia `Capabilities`
+- Clique no arquivo do XCode 
+
+- Clique na guia `Capabilities`
 
 - Na guia `Capabilities`:
 
@@ -58,12 +66,132 @@ Para configurar notificações Push no iOS, execute os seguintes procedimentos:
 
 - Em `Background Modes` e `Modes` selecione a opção `Remote notifications`.
 
-### Aúdio em background
+### Aúdio em Background
 
-Para o aúdio continuar sendo executado em background no iOS, execute os seguintes procedimentos:
+Para o aúdio continuar sendo executado em background no iOS, siga os seguintes procedimentos:
 
-- Clique no arquivo do XCode e aparecerá a guia `Capabilities`
+- Clique no arquivo do XCode
+
+- Clique na guia `Capabilities`
 
 - Na guia `Capabilities`, habilite a opção `Background Modes`
 
 - Em `Background Modes` e `Modes` selecione a opção `Audio, AirPlay, and Picture in Picture`.
+
+### Deployment
+
+Para configurar o deployment, siga os seguintes procedimentos:
+
+- Clique no arquivo do XCode
+
+- Clique no ícone de menu 
+
+- Em `Targets`, exclua os targets de `tv` para não atrapalhar
+
+- Clique em `Project`
+
+- Em `Project`:
+
+  - Na guia `Info`:
+
+    - Na seção `Configurations`, clique em `Release`
+
+    - Clique no `+` e em `Duplicate "Release" Configuration`
+
+    - Renomeie a configuração para `Staging`
+
+  - Na guia `Build Settings`:
+
+    - Clique em `All` e `Levels`
+
+    - Em `Per-configuration Build Products Path`, clique em `Staging`
+
+    - Na coluna que está o nome do projeto, clique em `build/Staging-iphoneos`
+
+    - Abrirá uma janela com o conteúdo `$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)`, substitua por `$(BUILD_DIR)/Release$(EFFECTIVE_PLATFORM_NAME)` e salve
+
+    - Ao fechar a janela, alterará o conteúdo da coluna para `build/Release-iphoneos`, que ao clicar na coluna de cima `Release` precisa estar com o mesmo conteúdo
+
+    - Clique no `+` do lado de `Levels` e em `Add User-Defined Setting`
+
+    - Aparecerá uma nova opção, renomeie para `CODEPUSH_KEY`
+
+    - Clique em `Combined`
+
+    - É necessário executar um comando para ver as chaves do CodePush, clique [aqui](../nodejs/libs/appcenter-cli.md) e siga `Comandos do CLI` para exibir as chaves no terminal
+
+    - Copie a chave do `Staging` do iOS do terminal para o `Staging` do `CODEPUSH_KEY`
+
+    - Copie a chave do `Production` do iOS do terminal para o `Release` do `CODEPUSH_KEY`
+
+- Clique no arquivo `Info.plist`
+
+- No arquivo `Info.plist`:
+
+  - Na coluna `Key`, em `CodePushDeploymentKey`, substitua `deployment-key-here` por `$(CODEPUSH_KEY)`
+
+- Clique no menu `Product`, no submenu `Scheme` e no item `Manage Schemes...`
+
+- Na janela de gerenciamento:
+
+  - Exclua o projeto de `tv`, dando um clique nele e em `-`
+
+  - Na coluna `Scheme`, clique no projeto desejado
+
+  - Clique na engrenagem e em `Duplicate`
+
+- Na janela de duplicação:
+
+  - No canto superior esquerdo, renomeie o nome `Copy of <nome_projeto>` para `<nome_projeto>-staging`
+
+  - Clique em `Close`
+
+- Na janela de gerenciamento:
+
+  - Com o novo esquema selecionado, clique na caixa de seleção da coluna `Shared`
+
+  - Clique em `Edit...`
+
+- Na janela de edição:
+
+  - No menu `Run`, na guia `Info`, em `Build Configuration`, selecione `Staging`
+
+  - No menu `Archive`, em `Build Configuration`, selecione `Staging`
+
+  - Clique em `Close`
+
+- Clique no arquivo do XCode
+
+- Em `Targets`, selecione o projeto
+
+- Clique na guia `General`
+
+- Na guia `General`:
+
+  - Na seção `Signing`, desative a opção `Automatically manage signing`
+
+  - É necessário criar os perfis de provisionamento, clique [aqui](../development-platform/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis
+
+  - Na seção `Signing (Debug)`:
+    
+    - Em `Provisioning Profile`, clique em `None`
+    
+    - Clique em `Import Profile...`
+    
+    - Selecione o perfil criado `Development`
+
+  - Na seção `Signing (Release)`:
+    
+    - Em `Provisioning Profile`, clique em `None`
+    
+    - Clique em `Import Profile...`
+    
+    - Selecione o perfil criado `Production`
+
+  - Na seção `Signing (Staging)`:
+    
+    - Em `Provisioning Profile`, clique em `None`
+    
+    - Clique em `Import Profile...`
+    
+    - Selecione o perfil criado `AdHoc`

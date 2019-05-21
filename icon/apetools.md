@@ -6,9 +6,9 @@ Cria todos os tamanhos necessários de ícones e splashscreens para o seu aplica
 
 Clique [aqui](https://apetools.webprofusion.com) para ver a documentação e acessar o serviço.
 
-## Gerar Ícones e Splashscreen
+## Gerar Ícones e Splashscreens
 
-Para gerar ícones e splashscreen para iOS e Android, siga os seguintes procedimentos:
+Para gerar ícones e splashscreens para iOS e Android, siga os seguintes procedimentos:
 
 - Clique no botão `Generate Your Icons & Splashscreens`
 
