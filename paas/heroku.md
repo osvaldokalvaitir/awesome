@@ -8,7 +8,7 @@ O Heroku é uma plataforma como serviço na nuvem que suporta várias linguagens
 
 Clique [aqui](https://www.heroku.com) para ver a documentação e acessar o serviço.
 
-## Criar app no Heroku
+## Criar app
 
 ### Projeto Node.js
 
