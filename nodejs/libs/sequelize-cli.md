@@ -29,7 +29,7 @@ npx sequelize init | yarn sequelize init
 Criar migration:
 
 ```
-npx sequelize migration:create --name=create-nome_da_tabela
+npx sequelize migration:create --name=create-nome_tabela
 ```
 
 Criar migrations pendentes no banco de dados:

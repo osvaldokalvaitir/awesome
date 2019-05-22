@@ -89,7 +89,7 @@ ls
 Para clonar o repositório do GitHub:
 
 ```
-git clone <nome_do_repositório>
+git clone <nome_repositório>
 ```
 
 Obs: Se for público dá para copiar o caminho com o HTTPS, mas se for privado tem que copiar o SSH.
@@ -97,7 +97,7 @@ Obs: Se for público dá para copiar o caminho com o HTTPS, mas se for privado t
 Para entrar na pasta criada pelo Git:
 
 ```
-cd <nome_do_repositório>/
+cd <nome_repositório>/
 ```
 
 O projeto não vem com a pasta `node_modules` e o arquivo `env`. É necessário instalar as dependências e se o projeto depender de um arquivo de configurações é necessário criá-lo.
@@ -116,7 +116,7 @@ vim .env
 
 Coloque todas as variáveis de ambientes neste arquivo:
 
-Ex: `DB_URL=mongodb://localhost/<nome_do_banco>`
+Ex: `DB_URL=mongodb://localhost/<nome_banco>`
 
 Obs: Se a porta for 27017 que é a padrão do MongoDB, então, não precisa especificar ela.
 

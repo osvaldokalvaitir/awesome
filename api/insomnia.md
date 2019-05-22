@@ -16,15 +16,15 @@ Para configurar uma variável URL de base, siga os seguintes procedimentos:
 
 ```
 {
-  "base_url": "<ip_do_computador>:<porta>"
+  "base_url": "<ip_servidor>:<porta>"
 }
 ```
 
 Onde:
 
-`<ip_do_computador>` - IP do computador. Ex: `http://localhost`  
-`porta` - porta do computador. Ex: `3000`  
-  
-- Clique em `Done`.
+`<ip_servidor>` - IP do servidor que receberá as requisições. Ex: `http://localhost`
+`<porta>` - porta do servidor. Ex: `3000`.
+
+- Clique em `Done`
 
 Agora, quando for realizar alguma requisição, a variável poderá ser utilizada digitando o nome dela.
