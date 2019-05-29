@@ -26,7 +26,7 @@ heroku login
 
 Em projeto criado com [Create React App](../nodejs/libs/create-react-app.md) e usando [Git](../version-control/git.md) tem uma configuração pronta para fazer deploy no Heroku.
 
-Entre no GitHub [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack#user-content-generate-a-react-app) e siga o procedimento do tópico `Create the Heroku app`. Ex: `heroku create <nome_do_app> --buildpack mars/create-react-app`
+Entre no GitHub [Heroku Buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack#user-content-generate-a-react-app) e siga o procedimento do tópico `Create the Heroku app`. Ex: `heroku create <nome_app> --buildpack mars/create-react-app`
 
 Obs: Após a criação, ao executar o comando `git remote`, é possível observar que automaticamente foi criado um link com o nome `heroku`.
 
@@ -45,7 +45,7 @@ git push heroku master
 Para configurar as variáveis de ambiente:
 
 ```
-heroku config:set <nome_da_variavel>=<valor_da_variavel>
+heroku config:set <nome_variavel>=<valor_variavel>
 ```
 
 Ex: `heroku config:set REACT_APP_API_URL=https://api.github.com`

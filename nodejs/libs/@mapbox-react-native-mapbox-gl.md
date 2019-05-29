@@ -71,7 +71,7 @@ compile "com.android.support:appcompat-v7:26.0.1"
 
 Para utilizar o Mapbox você precisa ter o SDK 26 ou superior instalado, caso não tenha você pode utilizar SDK Tools do Android Studio para conseguí-lo, siga este tutorial [aqui](https://developer.android.com/studio/intro/update?hl=pt-br).
 
-E agora pra finalizar, vamos fazer algumas modificações no arquivo `android/app/src/main/java/com/<nome_do_projeto>/MainApplication.java`, a primeira delas é adicionar a importação do Mapbox logo abaixo da importação do SoLoader, ficando assim:
+E agora pra finalizar, vamos fazer algumas modificações no arquivo `android/app/src/main/java/com/<nome_projeto>/MainApplication.java`, a primeira delas é adicionar a importação do Mapbox logo abaixo da importação do SoLoader, ficando assim:
 
 ```
 ...

@@ -8,9 +8,9 @@ Serviço de banco de dados em nuvem totalmente gerenciado que hospeda bancos de 
 
 Clique [aqui](https://mlab.com) para ver a documentação e acessar o serviço.
 
-## Criar um banco de dados
+## Criar banco de dados
 
-Para criar um banco de dados siga os seguintes procedimentos:
+Para criar um banco de dados, siga os seguintes procedimentos:
 
 - Acesse o site do mLab
 
@@ -34,9 +34,9 @@ Para criar um banco de dados siga os seguintes procedimentos:
 
 - Em `Order Confirmation`, clique em `Submit Order`.
 
-## Criar um usuário
+## Criar usuário
 
-Depois de criar o banco de dados, é necessário criar um usuário e senha:
+Para criar um usuário e senha, siga os seguintes procedimentos:
 
 - Na guia `Users`, clique em `Add database user`
 

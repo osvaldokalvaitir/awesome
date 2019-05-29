@@ -21,9 +21,9 @@ npm install --global pm2 | yarn global add pm2
 Iniciar servidor com o PM2:
 
 - Projeto Node.js:
-  
+
   ```
-  pm2 start <nome_do_arquivo>
+  pm2 start <nome_arquivo>
   ```
 
   Ex: `pm2 start index.js`
@@ -31,7 +31,7 @@ Iniciar servidor com o PM2:
 - Projeto ReactJS com a biblioteca [Serve](serve.md):
 
   ```
-  pm2 serve <nome_da_pasta>
+  pm2 serve <nome_pasta>
   ```
 
   Ex: `pm2 serve build`

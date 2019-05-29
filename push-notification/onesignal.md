@@ -22,7 +22,7 @@ Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
   - Clique em `Add App`
 
-- Na janela `Edit app <nome_da_aplicação>`:
+- Na janela `Edit app <nome_aplicação>`:
 
   - Em `Select Platform`:
 

@@ -8,7 +8,7 @@ O Heroku é uma plataforma como serviço na nuvem que suporta várias linguagens
 
 Clique [aqui](https://www.heroku.com) para ver a documentação e acessar o serviço.
 
-## Criar um app no Heroku
+## Criar app
 
 ### Projeto Node.js
 
@@ -60,7 +60,7 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
 
 ### Projeto ReactJS com Create React App
 
-Para criar um app no Heroku siga os seguintes procedimentos:
+Para criar um app no Heroku, siga os seguintes procedimentos:
 
 - Antes de enviar o projeto para o Heroku, é necessário criar um arquivo de nome `static.json` na raíz do projeto com o seguinte código:
 
