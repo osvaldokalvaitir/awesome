@@ -32,7 +32,7 @@ Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
   - Em `Configure Platform`:
 
-    - É necessário, gerar o certificado, para isso clique [aqui](the-provisionator.md) e siga `Gerar certificados`
+    - É necessário, gerar o certificado, para isso clique [aqui](../password-certificate/the-provisionator.md) e siga `Gerar certificados`
 
     - Em `Production Certificate .p12 file:`, clique em `Choose File...` e selecione o certificado gerado
 
