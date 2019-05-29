@@ -45,3 +45,59 @@ Antes de configurar o Staging e o Release no React Native, siga os seguintes pro
 - Clique no botão `Create standard deployments`
 
 Obs: Realize o mesmo processo para iOS e Android.
+
+## Gerar Build de Staging no Android
+
+Para configurar a build de Staging no Android, siga os seguintes procedimentos:
+
+- Acesse o app criado no App Center
+
+- Clique em `Build`
+
+- Em `Select a service`, selecione `GitHub`
+
+- Faça o login no GitHub se for necessário
+
+- Selecione o repositório desejado
+
+- Aparecerá os dois branches do projeto `master` e `staging` (é necessário fazer os branches no GitHub)
+
+- Clique na engrenagem do branch de `staging`
+
+- Na janela `Build configuration`:
+
+  - Na seção `Build app`:
+
+    - Em `Build Variant`, selecione `releaseStaging` (criada no `build.gradle` do projeto Android)
+
+    - Em `Build frequency`, pode deixar o padrão `Build this branch on every push`, para dar um build automático a cada push no branch
+
+    - Em `Automatically increment version code`, coloque `On`
+
+    - Em `Run unit tests`, é possível ativar, se tiver algum teste na aplicação
+
+  - Na seção `Sign builds`:
+
+    - Coloque `On` na seção
+
+    - É necessário criar o arquivo Keystore, clique [aqui](../password-certificate/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
+
+    - Em `Keystore`, clique no botão de upload e carregue o arquivo gerado
+
+    - Em `Keystore password`, digite a senha da keystore. Ex: `123456`
+
+    - Em `Key alias`, digite o nome do alias. Ex: `nome_aplicação`
+
+    - Em `Key password`, digite a senha. Ex: `123456`
+
+  - Na seção `Test on a real device`, é possível que testem a aplicação em dispositivos reais e enviem o feedback.
+
+  - Na seção `Distribute builds`
+
+    - Coloque `On` na seção
+
+    - Com o `Groups` selecionado, clique no combobox e selecione `Collaborators`
+
+  - Na seção `Advanced`, é possível gerar uma badge para colocar no repositório do GitHub
+
+  - Clique em `Save & Build`
