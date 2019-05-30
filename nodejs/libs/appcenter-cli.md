@@ -43,3 +43,10 @@ Exibir as chaves do CodePush:
 ```
 appcenter codepush deployment list -a <nome_organizacao>/<nome_app> -k
 ```
+
+Gerar release:
+```
+appcenter codepush release-react -a <nome_organizacao>/<nome_app>
+```
+
+Usar parâmetro `-d`, para escolher o ambiente de `Staging` ou `Production`, o padrão é staging

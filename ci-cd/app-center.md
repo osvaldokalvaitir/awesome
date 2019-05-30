@@ -46,6 +46,8 @@ Antes de configurar o Staging e o Release no React Native, siga os seguintes pro
 
 Obs: Realize o mesmo processo para iOS e Android.
 
+As releases geradas pelo CodePush apareceram aqui, mude o combobox para `Staging` ou `Production` para vê-las. É possível ver mais detalhes clicando sobre elas.
+
 ## Gerar Build de Staging no Android
 
 Para configurar a build de Staging no Android, siga os seguintes procedimentos:

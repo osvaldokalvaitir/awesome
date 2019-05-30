@@ -1,6 +1,8 @@
 # React Native Module for CodePush
 
-Este plugin que fornece integração do lado do cliente para o serviço CodePush, permitindo que você adicione facilmente uma experiência de atualização dinâmica aos seus aplicativos React Native.
+Este plugin que fornece integração do lado do cliente para o serviço CodePush, permitindo que você adicione facilmente uma experiência de atualização dinâmica aos seus aplicativos React Native.  
+
+Obs: Qualquer dependência que for instalada e precisar fazer o `react-native link`, não poderá ser usado o CodePush, terá que fazer uma nova build.
 
 ## Documentação
 
