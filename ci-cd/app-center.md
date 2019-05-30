@@ -60,17 +60,19 @@ Para configurar a build de Staging no Android, siga os seguintes procedimentos:
 
 - Selecione o repositório desejado
 
-- Aparecerá os dois branches do projeto `master` e `staging` (é necessário fazer os branches no GitHub)
+- É necessário criar uma branch chamada `staging`, clique [aqui](../version-control/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
 
-- Clique na engrenagem do branch de `staging`
+- Aparecerá as branches do projeto, no caso, `master` e `staging`
+
+- Clique na engrenagem da branch de `staging`
 
 - Na janela `Build configuration`:
 
   - Na seção `Build app`:
 
-    - Em `Build Variant`, selecione `releaseStaging` (criada no `build.gradle` do projeto Android)
+    - Em `Build Variant`, selecione `releaseStaging` (criado no `build.gradle` do projeto Android)
 
-    - Em `Build frequency`, pode deixar o padrão `Build this branch on every push`, para dar um build automático a cada push no branch
+    - Em `Build frequency`, pode deixar o padrão `Build this branch on every push`, para dar um build automático a cada push na branch
 
     - Em `Automatically increment version code`, coloque `On`
 
@@ -82,7 +84,7 @@ Para configurar a build de Staging no Android, siga os seguintes procedimentos:
 
     - É necessário criar o arquivo Keystore, clique [aqui](../password-certificate/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
 
-    - Em `Keystore`, clique no botão de upload e carregue o arquivo gerado
+    - Em `Keystore`, clique no botão de upload `Keystore file` e carregue o arquivo gerado
 
     - Em `Keystore password`, digite a senha da keystore. Ex: `123456`
 
@@ -96,8 +98,74 @@ Para configurar a build de Staging no Android, siga os seguintes procedimentos:
 
     - Coloque `On` na seção
 
-    - Com o `Groups` selecionado, clique no combobox e selecione `Collaborators`
+    - Selecione a opção `Groups`
+
+    - Clique no combobox e selecione `Collaborators`
 
   - Na seção `Advanced`, é possível gerar uma badge para colocar no repositório do GitHub
 
   - Clique em `Save & Build`
+
+Depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da Google Play.
+
+## Gerar Build de Staging no iOS
+
+Para configurar a build de Staging no iOS, siga os seguintes procedimentos:
+
+- Acesse o app criado no App Center
+
+- Clique em `Build`
+
+- Em `Select a service`, selecione `GitHub`
+
+- Faça o login no GitHub se for necessário
+
+- Selecione o repositório desejado
+
+- É necessário criar uma branch chamada `staging`, clique [aqui](../version-control/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
+
+- Aparecerá as branches do projeto, no caso, `master` e `staging`
+
+- Clique na engrenagem da branch de `staging`
+
+- Na janela `Build configuration`:
+
+  - Na seção `Build app`:
+
+    - É necessário configurar o staging no XCode, clique [aqui](../ide/xcode.md) e siga `Configurações de Projeto > Deployment` para configurar o staging
+
+    - Em `Shared Scheme`, selecione `<nome_aplicacao>-staging`
+
+    - Em `Build frequency`, pode deixar o padrão `Build this branch on every push`, para dar um build automático a cada push na branch
+
+    - Em `Automatically increment version code`, coloque `On`
+
+    - Em `Run unit tests`, é possível ativar, se tiver algum teste na aplicação
+
+  - Na seção `Sign builds`:
+
+    - Coloque `On` na seção
+
+    - É necessário criar os perfis de provisionamento, clique [aqui](../development-platform/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis Development, AdHoc e Production
+
+    - Clique no botão de upload `Provisioning Profile` e selecione o perfil de provisionamento AdHoc
+
+    - Clique no botão de upload `Certificate`, selecione o perfil de provisionamento Production e digite a senha do certificado. Ex: `123456`
+
+  - Na seção `Test on a real device`, é possível que testem a aplicação em dispositivos reais e enviem o feedback.
+
+  - Na seção `Distribute builds`
+
+    - Coloque `On` na seção
+
+    - Selecione a opção `Groups`
+
+    - Clique no combobox e selecione `Collaborators`
+
+  - Na seção `Advanced`, é possível gerar uma badge para colocar no repositório do GitHub
+
+  - Clique em `Save & Build`
+
+Depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da App Store.
+
+Obs: É necessário instalar o aplicativo pelo Safari, no Google Chrome este processo não funciona.
