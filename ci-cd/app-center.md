@@ -48,9 +48,9 @@ Obs: Realize o mesmo processo para iOS e Android.
 
 As releases geradas pelo CodePush apareceram aqui, mude o combobox para `Staging` ou `Production` para vê-las. É possível ver mais detalhes clicando sobre elas.
 
-## Gerar Build de Staging no Android
+## Gerar Build de Staging e Production no Android
 
-Para configurar a build de Staging no Android, siga os seguintes procedimentos:
+Para configurar a build de Staging e Production no Android, siga os seguintes procedimentos:
 
 - Acesse o app criado no App Center
 
@@ -66,13 +66,17 @@ Para configurar a build de Staging no Android, siga os seguintes procedimentos:
 
 - Aparecerá as branches do projeto, no caso, `master` e `staging`
 
-- Clique na engrenagem da branch de `staging`
+- Para a build de Staging, clique na engrenagem da branch de `staging`
+
+- Para a build de Production, clique na engrenagem da branch de `master`
 
 - Na janela `Build configuration`:
 
   - Na seção `Build app`:
 
-    - Em `Build Variant`, selecione `releaseStaging` (criado no `build.gradle` do projeto Android)
+    - Para a build de Staging, em `Build Variant`, selecione `releaseStaging` (criado no `build.gradle` do projeto Android)
+
+    - Para a build de Production, em `Build Variant`, selecione `release`
 
     - Em `Build frequency`, pode deixar o padrão `Build this branch on every push`, para dar um build automático a cada push na branch
 
@@ -108,7 +112,9 @@ Para configurar a build de Staging no Android, siga os seguintes procedimentos:
 
   - Clique em `Save & Build`
 
-Depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da Google Play.
+Para a build de Staging, depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da Google Play.  
+
+Para a build de Production, na primeira vez tem que enviar o APK manualmente para a Google Play, então, depois de concluído, clique no combobox `Download` e `Download build` para fazer o download da APK.
 
 ## Gerar Build de Staging no iOS
 
