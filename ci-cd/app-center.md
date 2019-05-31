@@ -102,11 +102,17 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
   - Na seção `Distribute builds`
 
-    - Coloque `On` na seção
+    - Para a build de Staging:
 
-    - Selecione a opção `Groups`
+      - Coloque `On` na seção
+  
+      - Selecione a opção `Groups`
 
-    - Clique no combobox e selecione `Collaborators`
+      - Clique no combobox e selecione `Collaborators`
+
+    - Para a build de Production:
+
+      - Coloque `Off` na seção
 
   - Na seção `Advanced`, é possível gerar uma badge para colocar no repositório do GitHub
 
@@ -114,7 +120,65 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
 Para a build de Staging, depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da Google Play.  
 
-Para a build de Production, na primeira vez tem que enviar o APK manualmente para a Google Play, então, depois de concluído, clique no combobox `Download` e `Download build` para fazer o download da APK.
+Para a build de Production, na primeira vez tem que enviar o APK manualmente para a Google Play, então, depois de concluído, clique no combobox `Download` e `Download build` para fazer o download da APK. Clique [aqui](../development-platform/play-console.md) - Siga `Criar App` para criar o app no Play Console.
+
+## Build automática na Google Play
+
+Para configurar a build automática na Google Play, siga os seguintes procedimentos:
+
+- Clique em `Build`
+
+- Em `Select a service`, selecione `GitHub`
+
+- Clique na engrenagem da branch de `master`
+
+- Na janela `Build configuration`:
+
+  - Na seção `Distribute builds`
+
+    - Coloque `On` na seção
+
+    - Selecione a opção `Store`
+
+    - Clique em `Select destination` e `Connect to Stores...`
+
+    - Na janela `Connect to Store`:
+
+      - No item `Select store`:
+
+        - Em `Where would you like to distribute your app?`, clique em `Google Play`
+
+      - No item `Authenticate`:
+
+        - É necessário conceder o acesso da API Play Console ao App Center, clique [aqui](../development-platform/play-console.md) - Siga `Conceder Acesso à API` para dar acesso
+
+        - Em `Upload the Google Dev Console API credentials`, clique em `Security token` e selecione o arquivo json gerado
+
+        - Clique em `Connect`
+
+      - No item `Assign app`:
+
+        - Em `Select your app on Google Play` e `App Package Name`, digite o nome do pacote
+
+      - Clique em `Assign`
+
+- Irá redirecionar para a página de `Stores`, volte para o mesmo lugar de anteriormente em `Build configuration`.
+
+  - Na seção `Distribute builds`
+
+    - Coloque `On` na seção
+
+    - Selecione a opção `Store`
+
+    - Clique em `Select destination` e `Production`
+
+    - Em `Release notes (optional)`, coloque uma nota de novas funcionalidades genérica
+
+  - Clique em `Save`
+
+Se quiser utilizar os recursos de `Alpha` e `Beta` da Google Play, basta fazer as branches com os nomes dos recursos e em `Distribute builds` selecionar o recurso desejado.  
+
+**É muito importante, que toda vez que gerar uma nova build tanto para o `staging` como para o `master`, gerar o CodePush junto para aquele `staging` ou para aquele `master` com seu código atual.**
 
 ## Gerar Build de Staging no iOS
 
