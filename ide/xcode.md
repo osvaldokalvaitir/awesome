@@ -195,3 +195,57 @@ Para configurar o deployment, siga os seguintes procedimentos:
     - Clique em `Import Profile...`
     
     - Selecione o perfil criado `AdHoc`
+
+### Enviar app para a App Store Connect
+
+Para enviar o app para a App Store Connect, siga os seguintes procedimentos:
+
+- Clique no botão do canto superior esquerdo onde está escrito `<nome_aplicação> > iPhoneXs`
+
+- Selecione a opção `Generic iOS Device`
+
+- Clique no item de menu `Product` e `Archive`
+
+- Será gerado o arquivo `.ipa` que é semelhante ao `apk`, mas ele não é muito manuseável
+
+- Se pedir uma senha, coloque a senha do computador
+
+- Aparecerá uma janela ao terminar, nessa janela clique no botão `Distribute App`
+
+- Na janela que abrir:
+
+  - Na página `Select a method of distribution`:
+  
+    - Selecione `iOS App Store`
+
+    - Clique em `Next`
+
+  - Na página `Select a destination`:
+
+    - Selecione `Upload`
+  
+    - Clique em `Next`
+
+  - Na página `App Store distribution options`:
+  
+    - Deixe as duas opções `Include bicode for iOS content` e `Upload your app's symbols to receive symbolicated reports from Apple` ativadas como está
+  
+    - Clique em `Next`
+
+  - Na página `Select certificate and iOS App Store profiles`:
+
+    - Em `Distribution certificate`, selecione o certificado de distribuição
+
+    - Em `<nome_aplicacao.app`, selecione o profile de produção. Ex: `Production`
+
+    - Clique em `Next`
+
+  - Na página de `Review <nome_aplicacao>.ipa content`:
+
+    - Clique em `Upload`
+
+  - Depois de concluído o upload, na página `Archive upload complete`:
+
+    - Clique em `Done`
+
+- Demorará alguns minutos para a aplicação aparecer na App Store Connect.
