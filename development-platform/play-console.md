@@ -134,6 +134,10 @@ Para criar um app no Play Console, siga os seguintes procedimentos:
 
     - Aparecerá uma janela de confirmação, clique em `Confirmar`
 
+- Depois de concluído, a aplicação é lançada na Google Play
+
+- Quando faz um `git push` para a Google Play, automaticamente a nova versão é lançada na Google Play, diferente da App Store Connect que é manual.
+
 ## Conceder Acesso à API
 
 Para conceder acesso à API do Play Console, siga os seguintes procedimentos:
