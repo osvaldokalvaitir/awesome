@@ -282,18 +282,18 @@ Para configurar a store no iOS, siga os seguintes procedimentos:
 
 - Na janela `Connect to Store`:
 
-      - No item `Select store`:
+  - No item `Select store`:
 
-        - Em `Where would you like to distribute your app?`, clique em `App Store Connect`
+    - Em `Where would you like to distribute your app?`, clique em `App Store Connect`
 
-      - No item `Authenticate`:
+  - No item `Authenticate`:
 
-        - Em `Select Apple Developer Account`, se não aparecer a conta, clique em `New Account` para fazer o login
+    - Em `Select Apple Developer Account`, se não aparecer a conta, clique em `New Account` para fazer o login
 
-        - Clique em `Connect`
+    - Clique em `Connect`
         
-      - No item `Assign app`:
+  - No item `Assign app`:
 
-        - Em `Select your app on App Store Connect`, selecione a aplicação
+    - Em `Select your app on App Store Connect`, selecione a aplicação
 
-        - Clique em `Assign`.
+    - Clique em `Assign`.

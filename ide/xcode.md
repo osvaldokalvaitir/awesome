@@ -248,4 +248,4 @@ Para enviar o app para a App Store Connect, siga os seguintes procedimentos:
 
     - Clique em `Done`
 
-- Demorará alguns minutos para a aplicação aparecer na App Store Connect.
+Demorará alguns minutos para a aplicação aparecer na App Store Connect.
