@@ -19,6 +19,14 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
   ```
   web: node ./src/index.js
   ```
+  ou, se o comando acima estiver em um script, ex: `start`, pode ser usado:
+  ```
+  web: npm start
+  ```
+  ou, se quiser usar o yarn, mas precisa verificar se tem o yarn instalado no servidor:
+  ```
+  web: yarn start
+  ```
 
 - Acesse o site do Heroku
 
