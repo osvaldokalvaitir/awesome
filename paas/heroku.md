@@ -50,7 +50,7 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
 
   - Configure as variáveis de ambiente passando chave e valor. Ex: Mongodb, e-mail e outros
 
-  - Configure também a variável de chave `PORT` e valor `80`
+  - Configure também a variável de chave `PORT` e valor `80` (verificar se é necessário)
 
 - Na aba `Deploy`:
 
@@ -66,7 +66,9 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
 
 - Digite o nome do domínio e clique em `Save changes`.
 
-### Projeto ReactJS com Create React App
+### Projeto ReactJS com Create React App 
+
+#### Deploy com Heroku CLI
 
 Para criar um app no Heroku, siga os seguintes procedimentos:
 
@@ -94,3 +96,55 @@ Para criar um app no Heroku, siga os seguintes procedimentos:
   - Em `Config Vars`, clique em `Reveal Config Vars`
 
   - Configure as variáveis de ambiente passando chave e valor.
+
+#### Deploy com GitHub
+
+Para criar um app no Heroku, siga os seguintes procedimentos:
+
+- Acesse o site do Heroku
+
+- Crie uma conta
+
+- No `Dashboard`, clique em `New` e `Create new app`
+
+- Dê um nome e crie o app
+
+- Na aba `Deploy`:
+
+  - Em `Deployment method`, selecione o `GitHub` e faça o login
+
+  - Em `App connected to GitHub`, digite o repositório para procurar e conecte nele
+
+  - Em `Automatic deploys`, é possível alterar a branch para o deploy
+
+- Na aba `Settings`:
+
+  - Em `Config Vars`, clique em `Reveal Config Vars`
+
+  - Configure as variáveis de ambiente passando chave e valor
+
+  - Configure também a variável de chave `PORT` e valor `80` (verificar se é necessário)
+
+  - Em `Buildpacks`, clique em `Add buildpack`
+
+  - Na janela `Add buildpack`:
+
+    - Em `Enter Buildpack URL`, digite `mars/create-react-app`
+
+    - Clique em `Save changes`
+
+    - Obs: Adicionando uma buildpack não precisa colocar o `Procfile` e outras configurações
+
+- Na aba `Deploy`:
+
+  - Em `Manual deploy`, clique em `Deploy Branch`
+
+  - Depois de terminar a build, clique no botão `View` que aparecerá e copie a url
+
+  - Em `Automatic deploys`, clique em `Enable Automatic Deploys` (este botão realiza somente o deploy, não realiza a integração contínua).
+
+É possível substituir o nome estranho da url por um domínio próprio, mas tem que ter o plano pago do Heroku, caso tenha, siga os seguintes procedimentos:
+
+- Na aba `Settings`, em `Domains and certificates`, clique em `Add domain`
+
+- Digite o nome do domínio e clique em `Save changes`.
