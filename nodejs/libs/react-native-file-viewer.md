@@ -15,3 +15,5 @@ Depois da instalação é necessário executar o comando `react-native link`:
 ```
 react-native link react-native-file-viewer
 ```
+
+Depois de linkar o componente, para compilar no Android é necessário copiar a pasta `xml` de `node_modules > react-native-file-viewer > android > src > main > res > xml` para `android > app > src > main > res`, e também é necessário fazer uma configuração no arquivo `AndroidManifest.xml` em `android > app > src > main > AndroidManifest.xml` que podem ser encontrados [aqui](https://github.com/vinzscam/react-native-file-viewer) na documentação em `Getting started > Manual installation > Android > 4 e 5`. No iOS não é necessário nenhuma configuração adicional.
