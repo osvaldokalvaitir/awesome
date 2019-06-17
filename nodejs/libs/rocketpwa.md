@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/rocketseat/rocketpwa) para ver a documentação
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/rocketpwa) para fazer a instalação.
+
+Instalar globalmente:
+
+```
+npm install --global rocketpwa | yarn global add rocketpwa
+```
