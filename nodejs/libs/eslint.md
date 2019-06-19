@@ -30,7 +30,7 @@ yarn
 
 ### Instalação no projeto Node.js
 
-Para um projeto Node.js as configurações são:
+Para um projeto Node.js, as configurações são:
 
 <sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
@@ -50,7 +50,7 @@ Para um projeto Node.js as configurações são:
 
 ### Instalação no projeto ReactJS sem Create React
 
-Para um projeto ReactJS sem Create React App as configurações são:
+Para um projeto ReactJS sem Create React App, as configurações são:
 
 <sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
