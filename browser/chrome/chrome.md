@@ -9,5 +9,5 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 ## Extensões
 
 - [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
-- [Lighthouse](extensions/lighthouse.md)
+- [Lighthouse](extensions/lighthouse.md) - Opcional, se for criar Progressive Web Apps (PWA)
 - [React Developer Tools](extensions/react-developer-tools.md)

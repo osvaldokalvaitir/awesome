@@ -58,7 +58,7 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
 - Em `Select a service`, selecione `GitHub`
 
-- Faça o login no GitHub se for necessário
+- Faça o login no GitHub, caso necessário
 
 - Selecione o repositório desejado
 
@@ -196,7 +196,7 @@ Para configurar a build de Staging e Production no iOS, siga os seguintes proced
 
 - Em `Select a service`, selecione `GitHub`
 
-- Faça o login no GitHub se for necessário
+- Faça o login no GitHub, caso necessário
 
 - Selecione o repositório desejado
 
