@@ -67,20 +67,20 @@ Instalar as dependências do projeto:
 npm install | yarn
 ```
 
-## Execução de Projeto no Node.js
-
-Executar o projeto localmente:
-
-```
-npm start | yarn start
-```
-
 ## Execução de Projeto para Desenvolvimento no Node.js
 
-Executar o projeto para desenvolvimento (incluindo Nodemon ou webpack-dev-server) localmente:
+Executar o projeto para desenvolvimento (incluindo Nodemon ou webpack-dev-server):
 
 ```
 npm dev | yarn dev
+```
+
+## Execução de Projeto para Produção no Node.js
+
+Executar o projeto para produção:
+
+```
+npm start | yarn start
 ```
 
 ## Execução de Testes de Projeto no Node.js

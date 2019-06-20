@@ -22,15 +22,17 @@ Criação de novo projeto:
 npx create-react-app nome_app | yarn create react-app nome_app
 ```
 
-## Execução de Projeto no ReactJS
+## Execução de Projeto para Desenvolvimento no ReactJS
 
-Executar o projeto localmente:
+Executar o projeto para desenvolvimento (incluindo internamente o Nodemon):
 
 ```
 npm start | yarn start
 ```
 
-Construir e executar o projeto:
+## Construção e Execução de Projeto para Produção no ReactJS
+
+Construir e executar o projeto para produção:
 
 ```
 npm run build | yarn run build
@@ -38,7 +40,7 @@ npm run build | yarn run build
 
 ## Execução de Testes de Projeto no ReactJS
 
-Executar testes no projeto localmente:
+Executar testes no projeto:
 
 ```
 npm test | yarn test

@@ -69,23 +69,13 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Instalação de dependências de projeto](nodejs/nodejs.md)**
 
-## Execução de Projeto
+## Execução de Projeto para Desenvolvimento, Produção e Testes
 
 - **[Projeto em Node.js](nodejs/nodejs.md)**
 
 - **[Projeto em ReactJS](nodejs/libs/create-react-app.md)**
 
 - **[Projeto em React Native](nodejs/libs/react-native-cli.md)**
-
-## Execução de Projeto para Desenvolvimento
-
-- **[Projeto em Node.js](nodejs/nodejs.md)**
-
-## Execução de Testes de Projeto
-
-- **[Projeto em Node.js](nodejs/nodejs.md)**
-
-- **[Projeto em ReactJS](nodejs/libs/create-react-app.md)**
 
 ## Outras Configurações
 
