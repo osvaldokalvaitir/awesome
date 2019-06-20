@@ -11,7 +11,7 @@
 
 Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
-## Configuração Inicial
+## Configuração de Ambiente
 
 - **[Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)**
 
@@ -69,7 +69,7 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **[Instalação de dependências de projeto](nodejs/nodejs.md)**
 
-## Execução de Projeto para Desenvolvimento, Produção e Testes
+## Execução de Projeto (Desenvolvimento, Produção e Testes)
 
 - **[Projeto em Node.js](nodejs/nodejs.md)**
 
