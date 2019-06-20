@@ -16,6 +16,8 @@ Instalar globalmente:
 npm install --global react-native-cli | yarn global add react-native-cli
 ```
 
+Obs: Prefira usar o npm para instalar, porque pode ocorrer que o yarn não consiga registrar o Path, com isso é necessário entrar [aqui](https://yarnpkg.com/lang/en/docs/cli/global) e seguir `Adding the install location to your PATH`.
+
 ## Comandos do CLI
 
 Criação de novo projeto:
@@ -52,7 +54,7 @@ Ou é possível informar a versão do emulador utilizado passando a propriedade 
 react-native run-ios --simulator="iPhone XS Max"
 ```
 
-- Depois nos demais casos, podemos usar o comando:
+- Depois nos demais casos, podemos abrir o aplicativo no smartphone e usar o comando:
 
 ```
 react-native start
