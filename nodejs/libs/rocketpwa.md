@@ -1,6 +1,6 @@
 # RocketPWA
 
-Um conjunto de ferramentas criado para desenvolvedores de PWA.
+Um conjunto de ferramentas criado para desenvolvedores de PWA. No Windows este pacote requer: `.NET Framework 2.0 SDK` e `Visual Studio 2005`.
 
 ## Documentação
 
