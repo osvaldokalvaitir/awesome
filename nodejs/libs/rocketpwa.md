@@ -15,3 +15,27 @@ Instalar globalmente:
 ```
 npm install --global rocketpwa | yarn global add rocketpwa
 ```
+
+## Comandos do CLI
+
+Para gerar ícones de todos os tamanhos:
+
+```
+rocketpwa --icon icon.png
+```
+
+Colocar o parâmetro `-r` para gerar os ícones com cantos arredondados.  
+
+Para gerar splash screens:
+
+```
+rocketpwa --splash splash.png
+```
+
+Por padrão, o rocketpwa tentará encontrar a melhor correspondência para posicionar a splash screen em diferentes tamanhos de tela, mas às vezes você pode encontrar problemas de corte.  
+
+Para contornar isso, você pode adicionar um simples `--fill` como parâmetro para definir a cor do plano de fundo de fallback para splash screens:
+
+```
+rocketpwa --splash splash.png --fill "#7159C1"
+```
