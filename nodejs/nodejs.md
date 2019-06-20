@@ -77,7 +77,7 @@ npm start | yarn start
 
 ## Execução de Projeto para Desenvolvimento no Node.js
 
-Executar o projeto para desenvolvimento (incluindo Nodemon) localmente:
+Executar o projeto para desenvolvimento (incluindo Nodemon ou webpack-dev-server) localmente:
 
 ```
 npm dev | yarn dev
