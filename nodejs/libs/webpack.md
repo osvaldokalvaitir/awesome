@@ -15,3 +15,19 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install webpack --save-dev | yarn add webpack --dev
 ```
+
+## Execução de Projeto para Desenvolvimento no ReactJS
+
+Executar o projeto para desenvolvimento (incluindo webpack-dev-server):
+
+```
+npm dev | yarn dev
+```
+
+## Construção e Execução de Projeto para Produção no ReactJS
+
+Construir e executar o projeto para produção:
+
+```
+npm prod | yarn prod
+```

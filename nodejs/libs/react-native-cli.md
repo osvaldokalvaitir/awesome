@@ -62,7 +62,7 @@ react-native start
 
 ### Execução de Testes de Projeto no React Native
 
-Executar testes no projeto localmente:
+Executar testes no projeto:
 
 ```
 npm test | yarn test
