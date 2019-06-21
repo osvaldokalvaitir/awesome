@@ -18,13 +18,21 @@ npm install --global @adonisjs/cli | yarn global add @adonisjs/cli
 
 ## Execução de API para Desenvolvimento
 
-Executar a API do Adonis:
+Executar a API para desenvolvimento:
 
 ```
 adonis serve --dev
 ```
 
-Obs: O parâmetro `--dev` ativa o Nodemon para o desenvolvimento e em produção não será necessário colocar este parâmetro.
+Obs: O parâmetro `--dev` ativa o Nodemon.
+
+## Execução de API para Produção
+
+Executar a API para produção:
+
+```
+adonis serve
+```
 
 ## Execução de Ouvinte de Fila
 

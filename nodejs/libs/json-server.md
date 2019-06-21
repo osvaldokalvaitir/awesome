@@ -20,9 +20,9 @@ npm install --global json-server | yarn global add json-server
 
 Ocorreu um erro ao tentar instalar com o yarn, mas foi resolvido instalando com o npm.
 
-## Execução de API no JSON Server
+## Execução de API
 
-Executar a API do JSON Server:
+Executar a API:
 
 ```
 json-server <nome_arquivo>
