@@ -32,7 +32,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
   Para instalar o Node.js, executar no Chocolatey o seguinte comando:
 
   ```
-  choco install -y nodejs.install
+  cinst nodejs
   ```
 
 Verifique se o Node.js está instalado executando:
