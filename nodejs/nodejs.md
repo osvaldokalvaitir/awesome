@@ -4,7 +4,68 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
 ## Instalação
 
-- **Linux usando cURL**
+- **Linux e Mac (Unix) usando NVM**
+
+  Acesse o site `https://github.com/nvm-sh/nvm` e siga `Installation and Update > Install & Update script`, realizando os seguintes procedimentos:
+
+  Para instalar o NVM pelo cURL:
+
+  ```
+  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  ```
+
+  ou
+
+  Para instalar o NVM pelo Wget (já vem por padrão no sistema Unix):
+
+  ```
+  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+  ```
+
+  É necessário adicionar algumas linhas no arquivo de configuração do terminal, para encontrar este arquivo depende do terminal, mas normalmente ele se encontra em alguma das pastas abaixo: ~/.bash_profile, ~/.zshrc, ~/.profile, ou ~/.bashrc.
+
+  Para abrir o arquivo:
+
+  ```
+  vim ~/.zshrc
+  ```
+
+  Adicionar as linhas abaixo em qualquer lugar do arquivo:
+
+  ```
+  export NVM_DIR="${XDG_CONFIG_HOME/:-$HOME/.}nvm"
+  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+  ```
+
+  Dê um `source` no arquivo para o terminal ler as alterações do arquivo:
+
+  ```
+  source ~/.zshrc
+  ```
+
+  Verifique o help do NPM:
+
+  ```
+  nvm -h
+  ```
+
+  Para instalar o Node.js:
+
+  ```
+  nvm install <versao_nodejs>
+  ```
+
+  Para configurar como padrão esta versão do Node.js:
+
+  ```
+  nvm alias default <versao_nodejs>
+  ```
+
+  Onde:
+
+  - `<versao_nodejs>` - versão do Node.js. Ex: `10.15.3`
+
+- **Linux usando cURL (_DESCONTINUADO_)**
 
   Acesse o site `https://github.com/nodesource/distributions/blob/master/README.md#deb` que é o redirecionamento do site do Node.js.
 
@@ -19,7 +80,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
   `Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
 
-- **OS X usando Homebrew**
+- **OS X usando Homebrew (_DESCONTINUADO_)**
 
   Para instalar o Node.js, executar no Homebrew o seguinte comando:
 
