@@ -4,7 +4,28 @@ Gerenciamento de dependências rápido, confiável e seguro.
 
 ## Instalação
 
-- **Linux usando cURL**
+- **Linux usando APT**
+
+  É necessário adicionar os repositórios na lista de busca do apt:
+
+  ```
+  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  ```
+
+  Para atualizar:
+
+  ```
+  sudo apt-get update && sudo apt-get install yarn
+  ```
+
+  Para instalar o Yarn sem o Node.js, executar os seguintes comandos:
+
+  ```
+  sudo apt-get install --no-install-recommends yarn
+  ```
+
+- **Linux usando cURL (_DESATUALIZADO_)**
 
   Para instalar o Yarn, executar no cURL os seguintes comandos:
 
@@ -14,10 +35,10 @@ Gerenciamento de dependências rápido, confiável e seguro.
 
 - **OS X usando Homebrew**
 
-  Para instalar o Yarn, executar no Homebrew o seguinte comando:
+  Para instalar o Yarn sem o Node.js, executar no Homebrew o seguinte comando:
 
   ```
-  brew install yarn
+  brew install yarn --without-node
   ```
 
 - **Windows usando Chocolatey**
@@ -39,7 +60,7 @@ Gerenciamento de dependências rápido, confiável e seguro.
 Verifique se o Yarn está instalado executando:
 
 ```
-yarn --version
+yarn -v
 ```  
 
 ## Documentação e Instalação
