@@ -4,7 +4,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
 ## Instalação
 
-- **Linux e Mac (Unix) usando NVM**
+- **Linux e Mac (Unix) usando cURL/Wget e NVM**
 
   Acesse o site `https://github.com/nvm-sh/nvm` e siga `Installation and Update > Install & Update script`, realizando os seguintes procedimentos:
 
