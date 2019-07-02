@@ -17,8 +17,8 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
 - **Instalação e Configuração do Terminal**
 
-  - [Linux](terminal/oh-my-zsh.md)
-  - [macOS](terminal/oh-my-zsh.md)
+  - [Linux](terminal/oh-my-zsh/oh-my-zsh.md)
+  - [macOS](terminal/oh-my-zsh/oh-my-zsh.md)
   - [Windows](terminal/hyper.md)
 
 - **[Instalação e Configuração do Chrome](browser/chrome/chrome.md)**
