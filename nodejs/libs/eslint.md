@@ -34,6 +34,29 @@ Para um projeto Node.js, as configurações são:
 
 <sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
 
+Se estiver utilizando o Sucrase:  
+<sub> What type of modules does your project use? **JavaScript modules (import/export)** </sub>
+Senão estiver:  
+<sub> What type of modules does your project use? **CommonJS (require/exports)** </sub>
+
+<sub> Which framework does your project use? **None of these** </sub>
+
+<sub> Where does your code run? **Node** </sub>
+
+<sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
+
+<sub> Which style guide do you want to follow? **Airbnb (https://github.com/airbnb/javascript)** </sub>
+
+<sub> What format do you want your config file to be in? **JavaScript** </sub>
+
+<sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
+
+### Instalação no projeto Node.js (_DESATUALIZADO_)
+
+Para um projeto Node.js, as configurações são:
+
+<sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
+
 <sub> What type of modules does your project use? **CommonJS (require/exports)** </sub>
 
 <sub> Which framework does your project use? **None of these** </sub>
