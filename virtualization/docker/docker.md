@@ -4,7 +4,9 @@ Possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um 
 
 ## Documentação e Instalação
 
-Clique [aqui](https://www.docker.com/docker-community) para ver a documentação e fazer a instalação do Docker Community, que é a versão gratuita.
+Clique [aqui](https://www.docker.com/docker-community) para ver a documentação e fazer a instalação do Docker Community, que é a versão gratuita.  
+
+Obs: O Docker no Windows usa o Hyper-V e isso pode dar conflito se na máquina é usado algum emulador (ex. Genymotion), então, poderá ser usado o Docker Toolbox que é um pouco mais lento e antigo.
 
 ## Configuração
 
