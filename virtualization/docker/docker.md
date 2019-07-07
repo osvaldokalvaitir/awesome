@@ -17,8 +17,15 @@ Depois de instalado o Docker, é necessário efetuar o login no aplicativo.
 Criar um container e executar:
 
 ```
-docker run --name nome_container -p 0000:0000 -d -t nome_imagem
+docker run --name <nome_container> -p <0000>:<0000> -d -t <nome_imagem>
 ```
+Onde:
+
+- `<nome_container>` - nome do container. Ex: `database`
+- `<0000>` - porta do container. Ex: `5432`
+- `<nome_imagem>` - nome da imagem. Ex: `postgres`
+
+Obs: Existem mais parâmetros para configurar o nome do banco de dados, usuário e senha que se encontram na documentação.  
 
 Exibir todos os containers em execução:
 
@@ -32,20 +39,31 @@ Exibir todos os containers existentes:
 docker ps -a
 ```
 
-Executar um container:
+Executar um container (ao executar este comando, quando o Docker é reiniciado, o container também é reiniciado):
 
 ```
-docker start nome_container
+docker start <nome_container>
 ```
 
 Parar um container:
 
 ```
-docker stop nome_container
+docker stop <nome_container>
 ```
 
 Remover um container:
 
 ```
-docker rm nome_container
+docker rm <nome_container>
 ```
+
+Logs do container:
+
+```
+docker logs <nome_container>
+
+```
+
+Onde:
+
+- `<nome_container>` - nome do container. Ex: `database`
