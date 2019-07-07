@@ -71,9 +71,6 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "editor.fontSize":18,
   "editor.lineHeight":24,
 
-  // Formatar ao salvar
-  "editor.formatOnSave": true,
-
   // Guias auxiliares de navegação
   "breadcrumbs.enabled": true,
 
@@ -112,6 +109,28 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "workbench.iconTheme": "vscode-icons",
 
   // Define a integração do Prettier com o ESLint
-  "prettier.eslintIntegration": true
+  "prettier.eslintIntegration": true,
+
+  // Define a configuração do ESLint ao salvar
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autoFix": true
+    },
+    {
+      "language": "typescript",
+      "autoFix": true
+    },
+    {
+      "language": "typescriptreact",
+      "autoFix": true
+    },
+  ],  
 }
 ```
