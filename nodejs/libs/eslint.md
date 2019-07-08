@@ -116,3 +116,16 @@ E criar o arquivo .eslintrc manualmente.
 <sub> What format do you want your config file to be in? **JSON** </sub>
 
 <sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
+
+## Comandos
+
+Para realizar um fix em vários arquivos de uma pasta:
+
+```
+npx eslint --fix <pasta> --ext <extensao> | yarn eslint --fix <pasta> --ext <extensao>
+```
+
+Onde:
+
+- `<pasta>` - pasta onde vai ocorrer o fix. Ex: `src`
+- `<extensao>` - extensão dos arquivos que vão ocorrer o fix. Ex: `.js`
