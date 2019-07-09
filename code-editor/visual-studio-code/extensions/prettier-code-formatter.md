@@ -6,7 +6,7 @@ Utilizado para formatar JavaScript / TypeScript / CSS.
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para ver a documentação e fazer a instalação.
 
-## Configuração
+## Configuração (_DESATUALIZADO_)
 
 Depois de instalado o Prettier e o [ESLint](eslint.md), setar as configurações (Settings > Open settings.json):
 

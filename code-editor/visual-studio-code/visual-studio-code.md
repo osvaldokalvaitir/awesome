@@ -108,7 +108,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Define o tema dos ícones na sidebar
   "workbench.iconTheme": "vscode-icons",
 
-  // Define a integração do Prettier com o ESLint
+  // Define a integração do Prettier com o ESLint (_DESATUALIZADO_)
   "prettier.eslintIntegration": true,
 
   // Define a configuração do ESLint ao salvar
