@@ -29,17 +29,27 @@ npx sequelize init | yarn sequelize init
 Criar migration:
 
 ```
-npx sequelize migration:create --name=create-nome_tabela
+npx sequelize migration:create --name=<create-nome_tabela> | yarn sequelize migration:create --name=<create-nome_tabela>
 ```
+
+Onde:
+
+- `<create-nome_tabela>` - nome da migration. Ex: `create-users`
 
 Criar migrations pendentes no banco de dados:
 
 ```
-npx sequelize db:migrate
+npx sequelize db:migrate | yarn sequelize db:migrate
 ```
 
-Desfazer o último comando de migration:
+Desfazer a última migration:
 
 ```
-npx sequelize:migration:undo
+npx sequelize:migration:undo | yarn sequelize:migration:undo
+```
+
+Desfazer todas as migrations:
+
+```
+npx sequelize:migration:undo:all | yarn sequelize:migration:undo:all
 ```
