@@ -259,3 +259,41 @@ Visualizar o histórico do repositório:
 ```
 git log
 ```
+
+### Rebase
+
+Para alterar o texto dos commits usando o rebase:
+
+```
+git rebase -i HEAD~<numero_commits>
+```
+
+Onde:
+
+- `<numero_commits>` - número de commits que será exibido na lista do seu editor de texto padrão para editá-los. Ex: `3` aparecerá os 3 últimos commits.
+
+A lista será semelhante à seguinte:
+
+```
+pick e499d89 Delete CNAME
+pick 0c39034 Better README
+pick f7fde4a Change the commit message but push the same commit.
+```
+
+Substitua `pick` por `reword` antes de cada mensagem de commit que você deseja alterar.
+
+```
+pick e499d89 Delete CNAME
+reword 0c39034 Better README
+reword f7fde4a Change the commit message but push the same commit.
+```
+
+Salve e feche o arquivo.  
+
+Em cada arquivo de commit, digite a nova mensagem de commit, salve o arquivo e feche-o.  
+
+Depois de terminado todos os arquivos, execute o comando para subir os commits alterados:
+
+```
+git push --force
+```
