@@ -174,7 +174,7 @@ Os principais atalhos são:
 
 ```
 Ctrl + D
-Seleciona o próximo texto relacionado
+Seleciona o próximo texto igual
 
 Alt + clica
 Posiciona vários cursores em vários lugares para digitar
