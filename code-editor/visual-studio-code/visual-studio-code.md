@@ -165,3 +165,32 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "liveshare.featureSet": "insiders",
 }
 ```
+
+## Atalhos do teclado
+
+Para ver todos os atalhos, dê um `Ctrl + Shift + P` para abrir a barra de pesquisa e digite `Open Keyboard Shortcuts`.  
+
+Os principais atalhos são:
+
+```
+Ctrl + D
+Seleciona o próximo texto relacionado
+
+Alt + clica
+Posiciona vários cursores em vários lugares para digitar
+
+Alt + Up/Down
+Move a linha inteira
+
+Ctrl + ;
+Transforma a linha num comentário
+
+Shift + Alt + Up/Down
+Copia a linha inteira
+
+Ctrl + X
+Recorta a linha inteira
+
+Ctrl + Shift + '
+Abre o terminal
+```
