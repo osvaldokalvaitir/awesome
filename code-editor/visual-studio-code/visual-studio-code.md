@@ -35,6 +35,8 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
 - [ESLint](extensions/eslint.md)
 - [GitLens - Git supercharged](extensions/gitlens-git-supercharged.md)
+- [GraphQL](extensions/graphql.md)
+- [Live Server](extensions/live-server.md)
 - [Live Share](extensions/live-share.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
 - [Material Icon Theme](extensions/material-icon-theme.md)
