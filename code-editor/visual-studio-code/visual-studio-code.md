@@ -18,9 +18,11 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 
 ```
 {
-  // Configura a família da fonte
+  // Configura o tamanho e a família da fonte
+  "editor.fontSize":18,
+  "editor.lineHeight":24,
   "editor.fontFamily":"Fira Code",
-  "editor.fontLigatures":true,
+  "editor.fontLigatures": true,
 }
 ```
 
@@ -35,6 +37,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [GitLens - Git supercharged](extensions/gitlens-git-supercharged.md)
 - [Live Share](extensions/live-share.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
+- [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 - [Rocketseat React Native](rocketseat-react-native.md)
@@ -44,19 +47,30 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [VSCode Icons](extensions/vscode-icons.md)
 - [VSCode Styled-Components](extensions/vscode-styled-components.md)
 
-Obs: Não instalar mais a extensão [Material Icon Theme](extensions/material-icon-theme.md), dar preferência ao [VSCode Icons](extensions/vscode-icons.md).
-
 ## Todas as Configurações
 
 Depois de adicionar a fonte e as extensões, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
-  "editor.rulers": [
-    80,
-    120
-  ],
+  // Um novo arquivo em branco não é mais aberto na inicialização
+  "workbench.startupEditor": "newUntitledFile",
+
+  // Zoom
+  "window.zoomLevel": 0,
+
+  // Habilita recomendações de extensões
+  "extensions.ignoreRecommendations": false,
+
+  // Desabilita a confirmação ao arrastar-e-soltar
+  "explorer.confirmDragAndDrop": false,
+
+  // Desabilita a confirmação ao deletar
+  "explorer.confirmDelete": false,
+
+  // Aplica linhas verticais para lembrar de quebrar linha
+  "editor.rulers": [80, 120],
+  "editor.formatOnSave": false,
 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
@@ -67,25 +81,24 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Tamanho da tabulação
   "editor.tabSize": 2,
 
-  // Configura o tamanho fonte
-  "editor.fontSize":18,
-  "editor.lineHeight":24,
-
   // Guias auxiliares de navegação
   "breadcrumbs.enabled": true,
 
-  // Define se o Html sugere tags Html5
-  "html.suggest.html5": true,
-
   // Aumenta a fonte do terminal
   "terminal.integrated.fontSize":14,
+
+  // Terminal padrão no OSX
+  "terminal.integrated.shell.osx": "/bin/zsh",
+
+  // Terminal padrão no Windows
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
 
   // Auto complete de javascript em arquivos jsx
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
   },
 
-  // Inclui a linguagem do javascript react e html nos arquivos nunjucks
+  // Inclui a linguagem do javascriptreact nos arquivos html do nunjucks
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "nunjucks": "html"
@@ -94,11 +107,20 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Nunca atualiza os imports ao mover o arquivo
   "javascript.updateImportsOnFileMove.enabled": "never",
 
+  // Commitar todas as alterações quando não houver alterações em etapas
+  "git.enableSmartCommit": true,
+
+  // Configuração do Typescript
+  "typescript.tsserver.log": "verbose",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
 
 
   // Configurações que precisam de fonte e extensões
 
-  // Configura a família da fonte
+  // Configura o tamanho e a família da fonte
+  "editor.fontSize":18,
+  "editor.lineHeight":24,
   "editor.fontFamily":"Fira Code",
   "editor.fontLigatures": true,
 
@@ -106,13 +128,12 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "workbench.colorTheme": "Dracula",
 
   // Define o tema dos ícones na sidebar
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
 
   // Define a integração do Prettier com o ESLint (_DESATUALIZADO_)
   "prettier.eslintIntegration": true,
 
   // Define a configuração do ESLint ao salvar
-  "editor.formatOnSave": false,
   "eslint.autoFixOnSave": true,
   "eslint.validate": [
     {
@@ -132,5 +153,13 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
       "autoFix": true
     },
   ],  
+
+  // Configurações do GitLens
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+
+  // Configuração do Live Share
+  "liveshare.featureSet": "insiders",
 }
 ```

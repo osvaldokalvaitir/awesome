@@ -12,8 +12,14 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Inclui html nos arquivos nunjucks
+  // Auto complete de javascript em arquivos jsx
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+
+  // Inclui a linguagem do javascriptreact nos arquivos html do nunjucks
   "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
     "nunjucks": "html"
   },
 }

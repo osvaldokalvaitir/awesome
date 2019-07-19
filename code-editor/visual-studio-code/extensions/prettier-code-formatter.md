@@ -11,6 +11,7 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=esbenp.prettie
 Depois de instalado o Prettier e o [ESLint](eslint.md), setar as configurações (Settings > Open settings.json):
 
 ```
+{
   // Define a integração do Prettier com o ESLint
   "prettier.eslintIntegration": true,
 }

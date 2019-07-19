@@ -11,8 +11,8 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscod
 Depois de instalado o ESLint, setar as configurações (Settings > Open settings.json):
 
 ```
+{  
   // Define a configuração do ESLint ao salvar
-  "editor.formatOnSave": false,
   "eslint.autoFixOnSave": true,
   "eslint.validate": [
     {
