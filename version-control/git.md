@@ -297,3 +297,52 @@ Depois de terminado todos os arquivos, execute o comando para subir os commits a
 ```
 git push --force
 ```
+
+### Pull request
+
+Para fazer o pull request entre na branch de desenvolvimento (ex. feature):
+
+```
+git checkout feature/courses-page
+
+```
+
+Faça o push de dentro da branch:
+
+```
+git push origin feature/courses-page
+```
+
+Aparecerá uma nova branch no GitHub, clique em `Compare & pull request` para abrir uma pull request.  
+
+Na tela `Open a pull request` é possível adicionar comentários e visualizar os commits feitos, depois é só clicar em `Create pull request`.
+
+O código ainda não foi incorporado para o master, nesta etapa é possível em `Reviewers`, adicionar usuários para revisar o código.
+
+Para incorporar o pull request para o master, clique no botão `Merge pull request`.
+
+No GitHub, depois que a branch for aceita fazendo o merge, aparecerá um botão chamado `delete branch`, sempre delete a branch para o repositório ficar somente com uma branch.
+
+## Boas práticas
+
+A linguagem dos commits e das branchs devem ser escolhidas pela equipe (ex: português ou inglês) e este padrão deve ser mantido em todo o projeto.  
+
+Sempre é bom fazer uma branch quando for alterar o código na branch master.  
+
+Sempre que estiver trabalhando em equipe é bom fazer um pull request, pois se precisar voltar atrás é só excluir o pull request do que os vários commits realizados.
+
+No nome do commit sempre é bom pensar "se eu usar este commit, ele", aí vem a mensagem que dever ser colocada no commit como "Altera o retorno da variável" ou "Adiciona a página de cursos".  
+
+É uma boa prática usar o flow.  
+
+Usando o flow, o nome da branch poderia ser:
+
+```
+git checkout -b feature/courses-page
+```
+
+Usando o flow, o nome do commit poderia ser:
+
+```
+git commit -m "chore: Commit inicial"
+```
