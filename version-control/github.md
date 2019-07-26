@@ -6,4 +6,4 @@ Além de servir como hospedagem, o Github possui muitas integrações com servi�
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://github.com/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://github.com) para ver a documentação e acessar o serviço.
