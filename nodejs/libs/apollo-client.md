@@ -1,6 +1,6 @@
 # Apollo Client
 
-.
+Um cliente GraphQL de cache completo pronto para produção para cada estrutura de interface do usuário e servidor GraphQL.
 
 ## Documentação
 
