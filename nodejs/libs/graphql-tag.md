@@ -1,6 +1,6 @@
 # graphql-tag
 
-.
+Uma tag literal de modelo JavaScript que analisa as consultas do GraphQL.
 
 ## Documentação
 
