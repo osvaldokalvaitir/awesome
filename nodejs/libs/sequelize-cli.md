@@ -45,11 +45,11 @@ npx sequelize db:migrate | yarn sequelize db:migrate
 Desfazer a última migration:
 
 ```
-npx sequelize:migration:undo | yarn sequelize:migration:undo
+npx sequelize db:migrate:undo | yarn sequelize db:migrate:undo
 ```
 
 Desfazer todas as migrations:
 
 ```
-npx sequelize:migration:undo:all | yarn sequelize:migration:undo:all
+npx sequelize db:migrate:undo:all | yarn sequelize db:migrate:undo:all
 ```
