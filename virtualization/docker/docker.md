@@ -14,6 +14,8 @@ Depois de instalado o Docker, é necessário efetuar o login no aplicativo.
 
 ## Comandos
 
+### Container
+
 Criar um container e executar:
 
 ```
@@ -42,28 +44,86 @@ docker ps -a
 Executar um container (ao executar este comando, quando o Docker é reiniciado, o container também é reiniciado):
 
 ```
-docker start <nome_container>
+docker start <id/nome_container>
 ```
 
 Parar um container:
 
 ```
-docker stop <nome_container>
+docker stop <id/nome_container>
 ```
 
 Remover um container:
 
 ```
-docker rm <nome_container>
+docker rm <id/nome_container>
 ```
 
 Logs do container:
 
 ```
-docker logs <nome_container>
+docker logs <id/nome_container>
 
+```
+
+Exibir informações de uso de hardware do container:
+
+```
+docker stats <id/nome_container>
+```
+
+Exibir uma lista de informações do container (ex: IP):
+
+```
+docker inspect <id/nome_container>
 ```
 
 Onde:
 
+- `<id>` - id do container.
 - `<nome_container>` - nome do container. Ex: `database`
+
+### Imagem
+
+Exibir todas as imagens:
+
+```
+docker images
+```
+
+Fazer download de uma imagem do Docker Hub:
+
+```
+docker pull <nome_imagem>:<versao>
+```
+
+Onde:
+
+- `<nome_imagem>` - nome da imagem.
+- `<versao>` - versão da imagem. Obs: se não passar a versão, o padrão é `lastest`.
+
+Remover uma imagem:
+
+```
+docker rmi <id/nome_imagem>
+```
+
+### Volume
+
+Exibir todos os volumes:
+
+```
+docker volume ls
+```
+
+Criar um volume:
+
+```
+docker volume create <nome_volume>
+```
+
+Remover um volume:
+
+```
+docker volume rm <VOLUME_NAME>
+```
