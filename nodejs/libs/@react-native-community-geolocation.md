@@ -1,4 +1,4 @@
-# @react-native-community/geolocation
+# Geolocation
 
 APIs de geolocalização para React Native.
 
