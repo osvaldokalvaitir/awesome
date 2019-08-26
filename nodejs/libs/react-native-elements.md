@@ -1,11 +1,11 @@
-# React Native Elements
+# Paper
 
-Kit de ferramentas de interface de usuário de plataforma cruzada para React Native.
+Material design para React Native.
 
 ## Documentação
 
-Clique [aqui](https://github.com/react-native-training/react-native-elements) para ver a documentação.
+Clique [aqui](https://github.com/callstack/react-native-paper) para ver a documentação.
 
 ## Instalação
 
-Clique [aqui](https://www.npmjs.com/package/react-native-elements) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/react-native-paper) para fazer a instalação.
