@@ -11,7 +11,7 @@ Clique [aqui](https://github.com/kmagiera/react-native-gesture-handler) para ver
 
 Clique [aqui](https://www.npmjs.com/package/react-native-gesture-handler) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-gesture-handler

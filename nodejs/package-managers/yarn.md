@@ -25,7 +25,7 @@ Gerenciamento de dependências rápido, confiável e seguro.
   sudo apt-get install --no-install-recommends yarn
   ```
 
-- **Linux usando cURL (_DESATUALIZADO_)**
+- **Linux usando cURL (_DESCONTINUADO_)**
 
   Para instalar o Yarn, executar no cURL os seguintes comandos:
 

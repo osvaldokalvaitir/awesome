@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/react-native-community/react-native-image-picke
 
 Clique [aqui](https://www.npmjs.com/package/react-native-image-picker) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-image-picker

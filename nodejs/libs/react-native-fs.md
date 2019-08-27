@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/itinance/react-native-fs) para ver a documenta�
 
 Clique [aqui](https://www.npmjs.com/package/react-native-fs) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-fs

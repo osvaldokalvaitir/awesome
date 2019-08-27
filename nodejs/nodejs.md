@@ -65,7 +65,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
   - `<versao_nodejs>` - versão do Node.js. Ex: `10.15.3`
 
-- **Linux usando cURL (_DESATUALIZADO_)**
+- **Linux usando cURL (_DESCONTINUADO_)**
 
   Acesse o site `https://github.com/nodesource/distributions/blob/master/README.md#deb` que é o redirecionamento do site do Node.js.
 
@@ -80,7 +80,7 @@ Interpretador de código JavaScript com o código aberto, focado em migrar o Jav
 
   `Caso você não esteja em distribuições Debian/Ubuntu, siga os passos para instalação de acordo com seu sistema: https://nodejs.org/en/download/package-manager`
 
-- **OS X usando Homebrew (_DESATUALIZADO_)**
+- **OS X usando Homebrew (_DESCONTINUADO_)**
 
   Para instalar o Node.js, executar no Homebrew o seguinte comando:
 

@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/jordanbyron/react-native-quick-actions) para ve
 
 Clique [aqui](https://www.npmjs.com/package/react-native-quick-actions) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-quick-actions

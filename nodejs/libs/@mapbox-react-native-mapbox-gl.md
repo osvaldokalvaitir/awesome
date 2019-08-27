@@ -14,7 +14,7 @@ Clique [aqui](https://www.npmjs.com/package/@mapbox/react-native-mapbox-gl) para
 
 ## Configuração
 
-Com essa biblioteca, diferente da maioria não vamos fazer o link automático para Android e iOS, vamos fazer manualmente, pois a biblioteca apresenta alguns problemas um pouco complexos para resolver quando é feito o link através do comando `react-native link`.
+Com essa biblioteca, diferente da maioria não vamos fazer o link automático para Android e iOS, vamos fazer manualmente, pois a biblioteca apresenta alguns problemas um pouco complexos para resolver quando é feito o link através do comando `react-native link` (_DESCONTINUADO_).
 
 Para configurar corretamente a biblioteca para funcionar no Android e iOS, siga o passo a passo para cada plataforma logo abaixo:
 

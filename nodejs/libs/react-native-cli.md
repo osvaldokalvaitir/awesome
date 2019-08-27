@@ -34,7 +34,7 @@ react-native -h
 
 ### Execução de Projeto para Desenvolvimento no React Native
 
-- Quando executar o projeto pela primeira vez ou quando instalar uma biblioteca que contêm código nativo que precise executar o comando `react-native link nome-da-biblioteca`, podemos executar os comandos abaixo.
+- Quando executar o projeto pela primeira vez ou quando instalar uma biblioteca que contêm código nativo que precise executar o comando `react-native link nome-da-biblioteca` (_DESCONTINUADO_), podemos executar os comandos abaixo.
 
 Executar o projeto no Android:
 
@@ -80,7 +80,7 @@ Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, apar
 npm test --coverage --watchAll | yarn test --coverage --watchAll
 ```
 
-### Vincular bibliotecas que contêm código nativo
+### Vincular bibliotecas que contêm código nativo (_DESCONTINUADO_)
 
 Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as bibliotecas com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
 
@@ -89,8 +89,6 @@ Para vincular a biblioteca instalada com dependências nativas:
 ```
 react-native link nome-da-biblioteca
 ```
-
-Obs: Está depreciada o comando `react-native link` para vincular todas as bibliotecas com dependências nativas.
 
 ## Erros
 
@@ -153,7 +151,7 @@ Could not compile settings file 'C:\...\project\android\settings.gradle'.
      s\react-native-gesture-handler\android')
 ```
 
-Esse erro está ocorrendo devido a um erro no React Native, depois de instalar algumas bibliotecas, executar o `react-native link` e depois executar o Android.
+Esse erro está ocorrendo devido a um erro no React Native, depois de instalar algumas bibliotecas, executar o `react-native link` (_DESCONTINUADO_) e depois executar o Android.
 
 Ocorre o erro nas bibliotecas:
 

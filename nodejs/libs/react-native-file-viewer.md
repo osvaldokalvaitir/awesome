@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/vinzscam/react-native-file-viewer) para ver a d
 
 Clique [aqui](https://www.npmjs.com/package/react-native-file-viewer) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-file-viewer

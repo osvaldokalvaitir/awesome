@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/geektimecoil/react-native-onesignal) para ver a
 
 Clique [aqui](https://www.npmjs.com/package/react-native-onesignal) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-onesignal

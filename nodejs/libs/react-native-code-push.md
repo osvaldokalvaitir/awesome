@@ -12,7 +12,7 @@ Clique [aqui](https://github.com/Microsoft/react-native-code-push) para ver a do
 
 Clique [aqui](https://www.npmjs.com/package/react-native-code-push) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link react-native-code-push

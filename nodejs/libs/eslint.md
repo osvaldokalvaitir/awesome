@@ -51,7 +51,7 @@ Senão estiver:
 
 <sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
-### Instalação no projeto Node.js (_DESATUALIZADO_)
+### Instalação no projeto Node.js (_DESCONTINUADO_)
 
 Para um projeto Node.js, as configurações são:
 

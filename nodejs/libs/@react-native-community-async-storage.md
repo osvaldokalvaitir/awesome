@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/react-native-community/async-storage) para ver 
 
 Clique [aqui](https://www.npmjs.com/package/@react-native-community/async-storage) para fazer a instalação.
 
-Depois da instalação é necessário executar o comando `react-native link`:
+Depois da instalação é necessário executar o comando `react-native link` (_DESCONTINUADO_):
 
 ```
 react-native link @react-native-community/async-storage

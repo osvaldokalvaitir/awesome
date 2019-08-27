@@ -132,7 +132,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Define o tema dos ícones na sidebar
   "workbench.iconTheme": "material-icon-theme",
 
-  // Define a integração do Prettier com o ESLint (_DESATUALIZADO_)
+  // Define a integração do Prettier com o ESLint (_DESCONTINUADO_)
   "prettier.eslintIntegration": true,
 
   // Define a configuração do ESLint ao salvar
