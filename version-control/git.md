@@ -323,6 +323,38 @@ Para incorporar o pull request para o master, clique no botão `Merge pull reque
 
 No GitHub, depois que a branch for aceita fazendo o merge, aparecerá um botão chamado `delete branch`, sempre delete a branch para o repositório ficar somente com uma branch.
 
+## Duplicar um repositório
+
+Faça um clone com bare do antigo repositório:
+
+```
+git clone --bare <https://github.com/usuario/antigo_repositorio.git>
+```
+
+Entre no repositório clonado:
+
+```
+cd <antigo_repositorio.git>
+```
+
+Faça um push com mirror no novo repositório:
+
+```
+git push --mirror <https://github.com/usuario/novo_repositorio.git>
+```
+
+Volte na pasta anterior:
+
+```
+cd ..
+```
+
+Remova a pasta do antigo repositório:
+
+```
+rm -rf <antigo_repositorio.git>
+```
+
 ## Boas práticas
 
 A linguagem dos commits e das branchs devem ser escolhidas pela equipe (ex: português ou inglês) e este padrão deve ser mantido em todo o projeto.  
