@@ -323,6 +323,38 @@ Para incorporar o pull request para o master, clique no botão `Merge pull reque
 
 No GitHub, depois que a branch for aceita fazendo o merge, aparecerá um botão chamado `delete branch`, sempre delete a branch para o repositório ficar somente com uma branch.
 
+## Stash
+
+Guardar no stash todos os arquivos alterados:
+
+```
+git stash
+```
+
+Lista todos os stashes:
+
+```
+git stash list
+```
+
+Voltar os arquivos alterados do último stash, podendo ocorrer merge se o mesmo arquivo for alterado:
+
+```
+git stash pop
+```
+
+ou
+
+```
+git stash apply
+```
+
+Voltar os arquivos alterados de um stash mais antigo, podendo ocorrer merge se o mesmo arquivo for alterado:
+
+```
+git stash apply <stash@{2}>
+```
+
 ## Duplicar um repositório
 
 Faça um clone com bare do antigo repositório:
