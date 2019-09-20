@@ -260,6 +260,44 @@ Visualizar o histórico do repositório:
 git log
 ```
 
+### Alterando commits realizados
+
+Para visualizar os últimos commits:
+
+```
+git log
+```
+
+Se foi realizado commit mas ainda não enviou para o GitHub, é possível realizar os comandos abaixos:  
+
+Remover todas as alterações realizadas:
+
+```
+git reset --hard
+```
+
+ou 
+
+```
+git reset --hard HEAD
+```
+
+Devolver os commits realizados para o stagging:
+
+```
+git reset --soft <hash>
+```
+
+Para mudar o último commit, a mensagem do commit ou mudar o snapshot que acabou de salvar, adicionando, alterando e removendo arquivos:
+
+```
+git commit --amend
+```
+
+Isso abre seu editor de texto, com sua última mensagem de commit nele, pronto para você modificar a mensagem. Quando você salva e fecha o editor, ele salva um novo commit contendo essa mensagem e fazendo esse seu novo commit o mais recente.  
+
+Se você fez o commit e quer alterar o snapshot adicionando ou modificando arquivos, o processo funciona basicamente da mesma maneira. Você adiciona as alterações que deseja na área de stagging editando um arquivo e executando `git add` nele ou `git rm` em um arquivo rastreado, e depois `git commit --amend` pega sua área de stagging atual e faz o snapshot para o novo commit.
+
 ### Rebase
 
 Para alterar o texto dos commits usando o rebase:
@@ -322,6 +360,70 @@ O código ainda não foi incorporado para o master, nesta etapa é possível em 
 Para incorporar o pull request para o master, clique no botão `Merge pull request`.
 
 No GitHub, depois que a branch for aceita fazendo o merge, aparecerá um botão chamado `delete branch`, sempre delete a branch para o repositório ficar somente com uma branch.
+
+### Stash
+
+Guardar no stash todos os arquivos alterados:
+
+```
+git stash
+```
+
+Lista todos os stashes:
+
+```
+git stash list
+```
+
+Voltar os arquivos alterados do último stash, podendo ocorrer merge se o mesmo arquivo for alterado:
+
+```
+git stash pop
+```
+
+ou
+
+```
+git stash apply
+```
+
+Voltar os arquivos alterados de um stash mais antigo, podendo ocorrer merge se o mesmo arquivo for alterado:
+
+```
+git stash apply <stash@{2}>
+```
+
+### Duplicar um repositório
+
+Faça um clone com bare do antigo repositório:
+
+```
+git clone --bare <https://github.com/usuario/antigo_repositorio.git>
+```
+
+Entre no repositório clonado:
+
+```
+cd <antigo_repositorio.git>
+```
+
+Faça um push com mirror no novo repositório:
+
+```
+git push --mirror <https://github.com/usuario/novo_repositorio.git>
+```
+
+Volte na pasta anterior:
+
+```
+cd ..
+```
+
+Remova a pasta do antigo repositório:
+
+```
+rm -rf <antigo_repositorio.git>
+```
 
 ## Boas práticas
 
