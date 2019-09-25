@@ -31,3 +31,9 @@ Construir e executar o projeto para produção:
 ```
 npm prod | yarn prod
 ```
+
+ou 
+
+```
+npm build | yarn build
+```
