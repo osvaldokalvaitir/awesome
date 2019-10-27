@@ -23,7 +23,7 @@ Obs: Prefira usar o npm para instalar, porque pode ocorrer que o yarn não consi
 Criação de novo projeto:
 
 ```
-react-native init nome_app
+react-native init <nome_app>
 ```
 
 Exibição de uma lista de comandos possíveis:
