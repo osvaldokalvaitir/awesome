@@ -11,3 +11,17 @@ Clique [aqui](https://lottiefiles.com) para acessar a biblioteca de animações.
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/lottie-react-native) para fazer a instalação.
+
+Instalar:
+
+```
+npm install lottie-react-native | yarn add lottie-react-native
+```
+
+Para o iOS, é necessário instalar também:
+
+```
+npm install lottie-ios@<versao> | yarn add lottie-ios@<versao>
+```
+
+Para saber a versão, ver na documentação de instalação.
