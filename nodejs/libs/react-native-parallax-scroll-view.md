@@ -1,6 +1,6 @@
 # react-native-parallax-scroll-view
 
-Um componente semelhante ao ScrollView com parallax e suporte de cabeçalho aderente.
+Um componente semelhante ao ScrollView com paralaxe e suporte de cabeçalho aderente.
 
 ## Documentação
 
