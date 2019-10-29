@@ -10,7 +10,7 @@ Clique [aqui](https://github.com/react-bootstrap-table/react-bootstrap-table2) p
 
 Clique [aqui](https://www.npmjs.com/package/react-bootstrap-table-next) para fazer a instalação.
 
-Você precisa primeiro adicionar o bootstrap css no seu aplicativo. Após a v1.0.0, há suporte ao bootstrap 4.
+Você precisa primeiro adicionar o bootstrap css no seu aplicativo. Após a v1.0.0, há suporte ao bootstrap 4:
 
 ```
 // es5 
