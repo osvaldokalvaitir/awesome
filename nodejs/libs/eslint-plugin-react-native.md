@@ -2,13 +2,13 @@
 
 Regras linting específicas de React Native para ESLint. Este repositório é estruturado como (e contém código de) o excelente [eslint-plugin-react](eslint-plugin-react).
 
-Antes é necessário instalar o [ESLint](eslint.md).
-
 ## Documentação
 
 Clique [aqui](https://github.com/intellicode/eslint-plugin-react-native) para ver a documentação.
 
 ## Instalação
+
+Antes é necessário instalar o [ESLint](eslint.md).
 
 Clique [aqui](https://www.npmjs.com/package/eslint-plugin-react-native) para fazer a instalação.
 
