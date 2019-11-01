@@ -80,6 +80,14 @@ Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, apar
 npm test --coverage --watchAll | yarn test --coverage --watchAll
 ```
 
+### Geração da Build do Projeto no React Native para a Google Play
+
+Gerar build do projeto:
+
+```
+react-native run-android --variant=release
+```
+
 ### Vincular bibliotecas que contêm código nativo (_DESCONTINUADO_)
 
 Algumas bibliotecas contêm códigos nativos e depois serem instaladas, observando que o sinalizador `--save` ou `--save-dev` é muito importante nesta etapa, pois o React Native ligará as bibliotecas com base nas `dependencies` e `devDependencies` no seu arquivo package.json. É necessário executar os comandos abaixo.
