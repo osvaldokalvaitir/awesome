@@ -82,7 +82,21 @@ npm test --coverage --watchAll | yarn test --coverage --watchAll
 
 ### Geração da Build do Projeto no React Native para a Google Play
 
-Gerar build do projeto:
+Para gerar build do projeto, entre na pasta `android`:
+
+```
+cd android
+```
+
+Execute o comando abaixo:
+
+```
+gradlew bundleRelease
+```
+
+O arquivo de extensão AAB aparecerá na pasta `android\app\build\outputs\bundle\release`.
+
+Antes de fazer o upload da versão compilada para a Play Store, certifique-se de testá-la completamente. Primeiro desinstale qualquer versão anterior do aplicativo que você já instalou. Instale-o no dispositivo usando:
 
 ```
 react-native run-android --variant=release
