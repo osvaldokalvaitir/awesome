@@ -82,7 +82,18 @@ npm test --coverage --watchAll | yarn test --coverage --watchAll
 
 ### Geração da Build do Projeto no React Native para a Google Play
 
-Para gerar build do projeto, entre na pasta `android`:
+Antes de gerar a build do projeto para enviar a Google Play, é necessário alterar a versão do app no arquivo `build.gradle` dentro da pasta `android\app`.
+
+O arquivo contém o seguinte bloco que deve ser alterado de acordo com a versão:
+
+```
+  defaultConfig {
+    versionCode 1
+    versionName "1.0"
+  }
+```
+
+Depois de alterado, para gerar build do projeto, entre na pasta `android`:
 
 ```
 cd android
