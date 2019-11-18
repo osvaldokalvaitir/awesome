@@ -88,6 +88,7 @@ O arquivo contém o seguinte bloco que deve ser alterado de acordo com a versão
 
 ```
   defaultConfig {
+    ...
     versionCode 1
     versionName "1.0"
   }
