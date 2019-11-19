@@ -15,3 +15,15 @@ Depois da instalação é necessário executar o comando `react-native link` (_D
 ```
 react-native link react-native-vector-icons
 ```
+
+## Erro
+
+Ao instalar a biblioteca sem executar `react-native link`, aparece caracteres estranhos ao invés dos ícones. Isso foi resolvido adicionando o seguinte código no arquivo `android/app/build.gradle`, NÃO confundir com `android/build.gradle` (pode ser embaixo do apply):
+
+```
+apply from: "../../node_modules/react-native/react.gradle"
+
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+```
+
+Clique [aqui](https://github.com/oblador/react-native-vector-icons#option-with-gradle-recommended) para mais detalhes sobre o procedimento.
