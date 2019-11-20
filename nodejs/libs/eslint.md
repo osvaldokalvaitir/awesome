@@ -51,26 +51,6 @@ Senão estiver:
 
 <sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
-### Instalação no projeto Node.js (_DESCONTINUADO_)
-
-Para um projeto Node.js, as configurações são:
-
-<sub> How would you like to use ESLint? **To check syntax, find problems, and enforce code style** </sub>
-
-<sub> What type of modules does your project use? **CommonJS (require/exports)** </sub>
-
-<sub> Which framework does your project use? **None of these** </sub>
-
-<sub> Where does your code run? **Node** </sub>
-
-<sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
-
-<sub> Which style guide do you want to follow? **Standard (https://github.com/standard/standard)** </sub>
-
-<sub> What format do you want your config file to be in? **JSON** </sub>
-
-<sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
-
 ### Instalação no projeto ReactJS sem Create React
 
 Para um projeto ReactJS sem Create React App, as configurações são:
@@ -80,6 +60,8 @@ Para um projeto ReactJS sem Create React App, as configurações são:
 <sub> What type of modules does your project use? **JavaScript modules (import/export)** </sub>
 
 <sub> Which framework does your project use? **React** </sub>
+
+<sub> Does your project use TypeScript? **No** </sub>
 
 <sub> Where does your code run? (Press \<space> to select, \<a> to toggle all, \<i> to invert selection) **Browser** </sub>
 
