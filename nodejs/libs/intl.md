@@ -18,7 +18,7 @@ Ao usar algumas bibliotecas que utilizam internacionalização, ocorreu o erro `
 import React from 'react';
 
 import 'intl';
-import 'intl/locale-data/jsonp/en';
+import 'intl/locale-data/jsonp/pt-BR';
 ```
 
 Clique [aqui](https://stackoverflow.com/questions/41736735/react-native-and-intl-polyfill-required-on-android-device/41935101#41935101) para mais detalhes sobre o erro.
