@@ -69,7 +69,7 @@ Para um projeto ReactJS sem Create React App, as configurações são:
 
 <sub> Which style guide do you want to follow? **Airbnb (https://github.com/airbnb/javascript)** </sub>
 
-<sub> What format do you want your config file to be in? **JSON** </sub>
+<sub> What format do you want your config file to be in? **JavaScript** </sub>
 
 <sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
@@ -89,13 +89,15 @@ E criar o arquivo .eslintrc manualmente.
 
 <sub> Which framework does your project use? **React** </sub>
 
+<sub> Does your project use TypeScript? **No** </sub>
+
 <sub> Where does your code run? **Não selecionar nenhuma das opções** </sub>
 
 <sub> How would you like to define a style for your project? **Use a popular style guide** </sub>
 
 <sub> Which style guide do you want to follow? **Airbnb (https://github.com/airbnb/javascript)** </sub>
 
-<sub> What format do you want your config file to be in? **JSON** </sub>
+<sub> What format do you want your config file to be in? **JavaScript** </sub>
 
 <sub> Would you like to install them now with npm? (Y/n) **Y** </sub>
 
