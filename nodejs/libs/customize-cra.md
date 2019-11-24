@@ -1,6 +1,6 @@
 # customize-cra
 
-Substitui configurações do webpack para create-react-app 2.0.
+Este projeto fornece um conjunto de utilitários para personalizar as configurações das versões 2 e 3 do create-react-app, aproveitando as principais funcionalidades do react-app-rewired. Este pacote requer: [react-app-rewired](react-app-rewired.md)
 
 ## Documentação
 
