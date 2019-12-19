@@ -136,6 +136,12 @@ Criar job:
 adonis make:job NomeJob
 ```
 
+Criar seed:
+
+```
+adonis make:seed
+```
+
 Executar ouvinte:
 
 ```
