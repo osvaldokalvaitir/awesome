@@ -82,10 +82,21 @@ Criar migrations pendentes no banco de dados:
 adonis migration:run
 ```
 
-Desfazer as migrations:
+Desfazer o último conjunto de migrations:
 
 ```
 adonis migration:rollback
+```
+
+Resetar todas as migrations:
+
+```
+adonis migration:reset
+```
+
+Resetar todas as migrations e executá-las novamente desde o início:
+```
+adonis migration:refresh
 ```
 
 Criar controller:
@@ -140,6 +151,12 @@ Criar seed:
 
 ```
 adonis make:seed
+```
+
+Executar as seeds no banco de dados:
+
+```
+adonis seed
 ```
 
 Executar ouvinte:
