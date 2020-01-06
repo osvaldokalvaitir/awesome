@@ -56,8 +56,7 @@ Configurações de projetos em Node.js, ReactJS e React Native do GitHub
 
   - **Finalizando**  
     4\. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)  
-    5\. [Instalação do VirtualBox](virtualization/virtualbox.md)  
-    6\. [Instalação e Configuração do Android Studio](virtualization/android-studio.md)
+    5\. [Instalação e Configuração do Android Studio](virtualization/android-studio.md)
 
 - **Ambiente iOS**
 
