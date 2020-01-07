@@ -4,4 +4,4 @@
 
 ## Documentação e Instalação
 
-Clique [aqui](https://monday.com/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://monday.com) para ver a documentação e acessar o serviço.
