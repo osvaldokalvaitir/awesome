@@ -4,7 +4,7 @@ Um tema escuro para o Chrome DevTools.
 
 ## Documentação e Instalação
 
-Para instalar o tema [Dracula](../../../theme/dracula.md), clique [aqui](https://chrome.google.com/webstore/detail/dracula-devtools-theme/gdhgkfojgddhijhlnnnbopleoabkeife?hl=pt-BR) para ver a documentação e fazer a instalação.
+Para instalar o tema [Dracula](../../../theme/dracula.md), clique [aqui](https://chrome.google.com/webstore/detail/dracula-theme-for-devtool/gedipeckgflanbhlcglokjjacilfidda) para ver a documentação e fazer a instalação.
 
 ## Configuração
 

@@ -34,6 +34,11 @@ Configuring extra options
 **- [ ] Enable symbolic links**  
 </sub>
 
+Configuring experimental options 
+<sub> Which bleeding -edge features would you like to enable? 
+**- [ ] Enable experimental, built-in add -i/-p**  
+</sub>
+
 ## Comandos
 
 ### Autenticação
