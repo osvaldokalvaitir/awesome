@@ -28,3 +28,8 @@ Onde:
 - Clique em `Done`
 
 Agora, quando for realizar alguma requisição, a variável poderá ser utilizada digitando o nome dela.
+
+
+## Criar botão do Insomnia
+
+Clique [aqui](https://insomnia.rest/create-run-button) para gerar o botão do Insomnia e adicionar no GitHub.
