@@ -4,11 +4,11 @@ Se você precisar depurar uma página do React em algum lugar diferente do Chrom
 
 ## Documentação
 
-Clique [aqui](https://github.com/jaredpalmer/formik) para ver a documentação.
+Clique [aqui](https://github.com/facebook/react-devtools) para ver a documentação.
 
 ## Instalação
 
-Clique [aqui](https://github.com/facebook/react-devtools) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/react-devtools) para fazer a instalação.
 
 Instalar como dependência de desenvolvimento:
 

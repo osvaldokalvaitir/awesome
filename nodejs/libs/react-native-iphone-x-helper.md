@@ -4,7 +4,7 @@ Uma biblioteca para ajudá-lo no design do seu aplicativo nativo para o iPhone X
 
 ## Documentação
 
-Clique [aqui](https://github.com/ptelad/react-native-iphone-x-helper#readme) para ver a documentação.
+Clique [aqui](https://github.com/ptelad/react-native-iphone-x-helper) para ver a documentação.
 
 ## Instalação
 

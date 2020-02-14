@@ -4,7 +4,7 @@ Este pacote contém definições de tipo para o Jest.
 
 ## Documentação
 
-Clique [aqui](https://github.com/DefinitelyTyped/DefinitelyTyped#readme) para ver a documentação.
+Clique [aqui](https://github.com/DefinitelyTyped/DefinitelyTyped) para ver a documentação.
 
 ## Instalação
 
