@@ -2,6 +2,10 @@
 
 Interpretador de código JavaScript com o código aberto, focado em migrar o Javascript do lado do cliente para servidores.
 
+## Documentação
+
+Clique [aqui](https://nodejs.org/en) para ver a documentação no site ou [aqui](https://github.com/nodejs/node) no GitHub.
+
 ## Instalação
 
 - **Linux e Mac (Unix) usando cURL/Wget e NVM**
