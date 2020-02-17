@@ -4,7 +4,7 @@ Uma biblioteca JavaScript para interagir com a API do Pagar.me, funciona no nave
 
 ## Documentação
 
-Clique [aqui](https://pagarme.github.io/pagarme-js) para ver a documentação.
+Clique [aqui](https://github.com/pagarme/pagarme-js) para ver a documentação.
 
 ## Instalação
 
