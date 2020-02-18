@@ -4,7 +4,7 @@ Fornece componentes e uma API para formatar datas, números e strings, incluindo
 
 ## Documentação
 
-Clique [aqui](https://github.com/yahoo/react-intl) para ver a documentação.
+Clique [aqui](https://github.com/formatjs/react-intl) para ver a documentação.
 
 ## Instalação
 
