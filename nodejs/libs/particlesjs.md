@@ -4,7 +4,7 @@ Biblioteca para criar partículas, utilizado no projeto para simular a animaçã
 
 ## Documentação
 
-Clique [aqui](https://github.com/VincentGarreau/particles.js/) para ver a documentação.
+Clique [aqui](https://github.com/VincentGarreau/particles.js) para ver a documentação.
 
 ## Instalação
 

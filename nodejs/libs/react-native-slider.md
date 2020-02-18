@@ -4,7 +4,7 @@ Um componente <Slider> de JavaScript puro para React Native.
 
 ## Documentação
 
-Clique [aqui](https://www.npmjs.com/package/react-native-slider) para ver a documentação.
+Clique [aqui](https://github.com/jeanregisser/react-native-slider) para ver a documentação.
 
 ## Instalação
 
