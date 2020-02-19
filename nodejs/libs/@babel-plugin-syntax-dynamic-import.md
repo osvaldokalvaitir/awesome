@@ -4,7 +4,7 @@ Permitir análise de import().
 
 ## Documentação
 
-Clique [aqui](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import) para ver a documentação.
+Clique [aqui](https://github.com/babel/babel-archive/tree/master/packages/babel-plugin-syntax-dynamic-import) para ver a documentação.
 
 ## Instalação
 
