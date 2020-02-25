@@ -178,6 +178,15 @@ Para ver todos os atalhos, dê um `Ctrl + Shift + P` para abrir a barra de pesqu
 Os principais atalhos são:
 
 ```
+Ctrl + Shift + p
+Abre a pesquisa de comandos
+
+Ctrl + p
+Abre a pesquisa de arquivos
+
+Ctrl + Shift + l
+Seleciona todos com texto igual
+
 Ctrl + D
 Seleciona o próximo texto igual
 
@@ -187,15 +196,18 @@ Posiciona vários cursores em vários lugares para digitar
 Alt + Up/Down
 Move a linha inteira
 
-Ctrl + ;
-Transforma a linha num comentário
-
 Shift + Alt + Up/Down
 Copia a linha inteira
 
 Ctrl + X
 Recorta a linha inteira
 
-Ctrl + Shift + '
+Ctrl + ;
+Transforma a linha num comentário
+
+Ctrl + ]
+Divide a tela
+
+Ctrl + '
 Abre o terminal
 ```
