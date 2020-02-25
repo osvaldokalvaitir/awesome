@@ -42,6 +42,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Markdown All in One](extensions/markdown-all-in-one.md)
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
+- [Pomodoro Timer](extensions/pomodoro-timer.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 - [Rocketseat React Native](rocketseat-react-native.md)
 - [Rocketseat ReactJS](rocketseat-reactjs.md)
@@ -109,6 +110,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
 
   // Nunca atualiza os imports ao mover o arquivo
   "javascript.updateImportsOnFileMove.enabled": "never",
+
+  // Desabilita os imports automáticos
+  "javascript.suggest.autoImports": false,
 
   // Commitar todas as alterações quando não houver alterações em etapas
   "git.enableSmartCommit": true,
