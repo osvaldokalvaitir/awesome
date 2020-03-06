@@ -4,8 +4,8 @@ Fila offline simples para redux. Enfileire ações enquanto estiver offline para
 
 ## Documentação
 
-Clique [aqui](https://www.npmjs.com/package/redux-offline-queue) para ver a documentação.
+Clique [aqui](https://github.com/RobPando/redux-offline-queue) para ver a documentação.
 
 ## Instalação
 
-Clique [aqui](https://github.com/RobPando/redux-offline-queue) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/redux-offline-queue) para fazer a instalação.
