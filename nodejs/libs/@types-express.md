@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/DefinitelyTyped/DefinitelyTyped) para ver a doc
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/@types/express) para fazer a instalação.
+
+Instalar como dependência de desenvolvimento:
+
+```
+npm install @types/express --save-dev | yarn add @types/express --dev
+```
