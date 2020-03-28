@@ -38,7 +38,7 @@ Acesse `https://developer.android.com/studio/#downloads`, na opção `Somente fe
 
   Agora, no Painel de Controle do Windows, abra o item `Sistema e Segurança` ou `Sistema`, clique em `Configurações avançadas do sistema`, selecione `Variáveis de ambiente`. Na grade `Variáveis do sistema`, clique no botão `Novo...`, indique o nome da variável como `ANDROID_HOME`, adicione o caminho utilizado acima (Ex: `C:\Android\Sdk`) como segundo parâmetro e clique em OK.
 
-  ![Android SDK 1](/assets/android-sdk/1.png)
+  ![Android SDK 1](/.github/assets/android-sdk/1.png)
 
   Na mesma grade `Variáveis do sistema`, clique na variável `PATH` e então em `Editar`. Haverá uma lista de caminhos e você deve adicionar esses dois novos caminhos no fim da lista:
 
