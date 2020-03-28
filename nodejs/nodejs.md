@@ -155,3 +155,51 @@ Executar testes no projeto:
 ```
 npm test | yarn test
 ```
+
+## Publicação de Projeto no NPM
+
+Criar conta no npm:
+
+```
+npm adduser
+```
+
+Preencha as informações solicitadas como: username, password e email.
+
+Se já tiver uma conta, para fazer login, execute:
+
+```
+npm login
+```
+
+Para ver qual usuário está conectado no npm:
+
+```
+npm whoami
+```
+
+Antes de publicar o repositório, é necessário que ele tenha o arquivo 'package.json' e o código precisa estar no GitHub.  
+
+No arquivo 'package.json', a propriedade 'name' e 'version' do arquivo é o próprio nome e versão do pacote.  
+
+Envie seu repositório para o GitHub com o 'git push'.  
+
+Se você acabou de criar a conta, é preciso fazer a verificação de email, antes de publicar.  
+
+Para publicar:
+
+```
+npm publish
+```
+
+Para retirar a publicação:
+
+```
+npm unpublish
+```
+
+Se não der certo o comando acima, acrescente '--force':
+
+```
+npm unpublish --force
+```
