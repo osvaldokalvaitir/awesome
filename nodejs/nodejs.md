@@ -178,11 +178,11 @@ Para ver qual usuário está conectado no npm:
 npm whoami
 ```
 
-Antes de publicar o repositório, é necessário que ele tenha o arquivo 'package.json' e o código precisa estar no GitHub.  
+Antes de publicar o repositório, é necessário que ele tenha o arquivo `package.json` e o código precisa estar no GitHub.  
 
-No arquivo 'package.json', a propriedade 'name' e 'version' do arquivo é o próprio nome e versão do pacote.  
+No arquivo `package.json`, a propriedade `name` e `version` do arquivo é o próprio nome e versão do pacote.  
 
-Envie seu repositório para o GitHub com o 'git push'.  
+Envie seu repositório para o GitHub com o `git push`.  
 
 Se você acabou de criar a conta, é preciso fazer a verificação de email, antes de publicar.  
 
@@ -198,7 +198,7 @@ Para retirar a publicação:
 npm unpublish
 ```
 
-Se não der certo o comando acima, acrescente '--force':
+Se não der certo o comando acima, acrescente `--force`:
 
 ```
 npm unpublish --force
