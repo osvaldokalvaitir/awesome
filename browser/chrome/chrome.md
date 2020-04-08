@@ -11,5 +11,6 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 - [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
 - [JSON Viewer](extensions/json-viewer.md)
 - [Lighthouse](extensions/lighthouse.md) - Opcional, se for criar Progressive Web Apps (PWA)
+- [Octotree](extensions/octotree.md)
 - [React Developer Tools](extensions/react-developer-tools.md)
 - [Wappalyzer](extensions/wappalyzer.md)
