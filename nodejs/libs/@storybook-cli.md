@@ -10,8 +10,16 @@ Clique [aqui](https://github.com/storybookjs/storybook) para ver a documentaçã
 
 Clique [aqui](https://www.npmjs.com/package/@storybook/cli) para fazer a instalação.
 
-Iniciar o Storybook no projeto:
+## Comandos do CLI
+
+Iniciar o Storybook no projeto (instalar):
 
 ```
 npx -p @storybook/cli sb init
+```
+
+Rodar o Storybook:
+
+```
+npm run storybook | yarn storybook
 ```
