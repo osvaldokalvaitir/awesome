@@ -374,6 +374,18 @@ Guardar no stash todos os arquivos alterados:
 git stash
 ```
 
+Guardar no stash todos os arquivos alterados incluindo os arquivos novos e os que não estão rastreados:
+
+```
+git stash -u | git stash --include-untracked
+```
+
+Guardar no stash todos os arquivos alterados incluindo os arquivos ignorados:
+
+```
+git stash -a | git stash --all
+```
+
 Lista todos os stashes:
 
 ```
