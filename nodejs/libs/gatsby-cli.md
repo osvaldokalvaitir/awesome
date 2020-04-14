@@ -15,3 +15,15 @@ Instalar globalmente:
 ```
 npm install --global gatsby-cli | yarn global add gatsby-cli
 ```
+
+## Comandos do CLI
+
+Criar um novo projeto:
+
+```
+gatsby new <nome_projeto>
+```
+
+Onde:
+
+- `<nome_projeto>` - nome do projeto.
