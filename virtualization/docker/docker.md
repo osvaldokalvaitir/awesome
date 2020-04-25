@@ -127,3 +127,17 @@ Remover um volume:
 ```
 docker volume rm <VOLUME_NAME>
 ```
+
+### Docker Compose
+
+Executar o container:
+
+```
+docker-compose up
+```
+
+Executar o container resentando tudo:
+
+```
+docker-compose up --build
+```
