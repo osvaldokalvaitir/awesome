@@ -69,6 +69,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Habilita recomendações de extensões
   "extensions.ignoreRecommendations": false,
 
+  // Desabilita a compactação de pasta se estiver vazia
+  "explorer.compactFolders": false,
+
   // Desabilita a confirmação ao arrastar-e-soltar
   "explorer.confirmDragAndDrop": false,
 
