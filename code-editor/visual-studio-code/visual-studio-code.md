@@ -60,6 +60,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Um novo arquivo em branco não é mais aberto na inicialização
   "workbench.startupEditor": "newUntitledFile",
 
+  // Na aba do arquivo aberto, aparece o nome da pasta depois do nome do arquivo
+  "workbench.editor.labelFormat": "short",
+
   // Zoom
   "window.zoomLevel": 0,
 
@@ -121,6 +124,12 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "typescript.tsserver.log": "verbose",
   "typescript.updateImportsOnFileMove.enabled": "never",
 
+  // Associações de arquivos
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json"
+  },
 
 
   // Configurações que precisam de fonte e extensões
@@ -141,25 +150,26 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "prettier.eslintIntegration": true,
 
   // Define a configuração do ESLint ao salvar
-  "eslint.autoFixOnSave": true,
-  "eslint.validate": [
-    {
-      "language": "javascript",
-      "autoFix": true
-    },
-    {
-      "language": "javascriptreact",
-      "autoFix": true
-    },
-    {
-      "language": "typescript",
-      "autoFix": true
-    },
-    {
-      "language": "typescriptreact",
-      "autoFix": true
-    },
-  ],  
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
 
   // Configurações do GitLens
   "gitlens.codeLens.recentChange.enabled": false,
