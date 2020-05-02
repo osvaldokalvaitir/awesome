@@ -8,6 +8,7 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 
 ## Extensões
 
+- [CSS Scan](extensions/css-scan.md)
 - [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
 - [GitHub Dark Theme](extensions/github-dark-theme.md)
 - [JSON Viewer](extensions/json-viewer.md)
