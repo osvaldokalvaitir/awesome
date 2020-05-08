@@ -8,15 +8,21 @@ Clique [aqui](https://insomnia.rest) para ver a documentação e fazer a instala
 
 ## Configuração de Variável
 
-Para configurar uma variável URL de base, siga os seguintes procedimentos:
+Para configurar os ambientes de desenvolvimento e produção com uma base URL, siga os seguintes procedimentos:
 
 - Clique no menu `No Environment` e no item `Manage Environments`
 
-- Em `Base Environment`, adicione a variável com o seguinte código:
+- Em `Sub Environments`, clique no botão `+` da frente e `Environment`
+
+- Coloque o nome de `Development` e escolha uma cor. Ex: `roxo`.
+
+- Faça o mesmo procedimento e coloque o nome de `Production` e escolha uma cor. Ex: `verde`
+
+- No json de cada um desses ambientes, adicione a variável `url` com o seguinte código:
 
 ```
 {
-  "base_url": "<ip_servidor>:<porta>"
+  "url": "<ip_servidor>:<porta>"
 }
 ```
 
@@ -27,7 +33,7 @@ Onde:
 
 - Clique em `Done`
 
-Agora, quando for realizar alguma requisição, a variável poderá ser utilizada digitando o nome dela.
+Agora, quando for realizar alguma requisição, a variável poderá ser utilizada digitando o nome dela e aparecerá ela no menu, ou digite `{{ nome_variavel }}`.
 
 
 ## Criar botão do Insomnia
