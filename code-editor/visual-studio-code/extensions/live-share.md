@@ -16,4 +16,3 @@ Depois de instalado o ESLint, setar as configurações (Settings > Open settings
   liveshare.featureSet": "insiders",
 }
 ```
-
