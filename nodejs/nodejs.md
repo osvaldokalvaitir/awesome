@@ -118,10 +118,6 @@ Para atualizar a NPM para a versão mais recente:
 [sudo] npm install npm -g
 ```
 
-## Documentação e Instalação
-
-Clique [aqui](https://nodejs.org) para ver a documentação e outras opções de instalação.
-
 ## Instalação de Projeto
 
 Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
