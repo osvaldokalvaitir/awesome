@@ -2,6 +2,10 @@
 
 Gerenciamento de dependências rápido, confiável e seguro.
 
+## Documentação e Instalação
+
+Clique [aqui](https://yarnpkg.com) para ver a documentação e outras opções de instalação.
+
 ## Instalação
 
 - **Linux usando APT**
@@ -62,7 +66,3 @@ Verifique se o Yarn está instalado executando:
 ```
 yarn -v
 ```  
-
-## Documentação e Instalação
-
-Clique [aqui](https://yarnpkg.com) para ver a documentação e outras opções de instalação.
