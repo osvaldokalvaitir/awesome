@@ -45,6 +45,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Nunjucks](extensions/nunjucks.md)
 - [Pomodoro Timer](extensions/pomodoro-timer.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
+- [Prisma](extensions/prisma.md)
 - [Rocketseat React Native](extensions/rocketseat-react-native.md)
 - [Rocketseat ReactJS](extensions/rocketseat-reactjs.md)
 - [SCSS Formatter](extensions/scss-formatter.md)
