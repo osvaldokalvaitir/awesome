@@ -37,6 +37,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [GitLens - Git supercharged](extensions/gitlens-git-supercharged.md)
 - [GraphQL](extensions/graphql.md)
 - [Import Cost](extensions/import-cost.md)
+- [Live Sass Compiler](extensions/live-sass-compiler.md)
 - [Live Server](extensions/live-server.md)
 - [Live Share](extensions/live-share.md)
 - [Markdown All in One](extensions/markdown-all-in-one.md)
