@@ -33,6 +33,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Dracula Official](extensions/dracula-official.md)
 - [Edge Template Support](extensions/edge-template-support.md)
 - [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
+- [Error Lens](extensions/error-lens.md)
 - [ESLint](extensions/eslint.md)
 - [GitLens - Git supercharged](extensions/gitlens-git-supercharged.md)
 - [GraphQL](extensions/graphql.md)
