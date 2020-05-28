@@ -15,3 +15,11 @@ Instalar como dependência de desenvolvimento:
 ```
 npm install electron --save-dev | yarn add electron --dev
 ```
+
+## Execução de Projeto para Desenvolvimento no Electron
+
+Executar o projeto para desenvolvimento:
+
+```
+npm start | yarn start
+```
