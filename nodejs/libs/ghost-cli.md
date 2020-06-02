@@ -29,3 +29,33 @@ Instalação para configuração local, útil para desenvolvimento/teste de tema
 ```
 ghost install local
 ```
+
+Depois de instalar, para acessar o painel de admnistração, sendo que o primeiro acesso cria o administrador:
+
+```
+localhost:2368/ghost
+```
+
+Iniciar servidor:
+
+```
+ghost start
+```
+
+Parar servidor:
+
+```
+ghost stop
+```
+
+Reiniciar servidor:
+
+```
+ghost restart
+```
+
+Atualizar o Ghost, com servidor parado:
+
+```
+ghost update
+```
