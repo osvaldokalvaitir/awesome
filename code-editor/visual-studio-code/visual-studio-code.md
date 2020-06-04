@@ -50,6 +50,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Rocketseat React Native](extensions/rocketseat-react-native.md)
 - [Rocketseat ReactJS](extensions/rocketseat-reactjs.md)
 - [SCSS Formatter](extensions/scss-formatter.md)
+- [SQLite](extensions/sqlite.md)
 - [Todo Tree](extensions/todo-tree.md)
 - [Todo+](extensions/todo-plus.md)
 - [VSCode Icons](extensions/vscode-icons.md)
