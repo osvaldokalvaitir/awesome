@@ -1,6 +1,6 @@
-# @types/styled-components
+# @types/react-leaflet
 
-Este pacote contém definições de tipo para [styled-components](styled-components.md).
+Este pacote contém definições de tipo para [React-Leaflet](react-leaflet.md).
 
 ## Documentação
 
@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/styled-components) para fazer
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/styled-components --save-dev | yarn add @types/styled-components --dev
+npm install @types/react-leaflet --save-dev | yarn add @types/react-leaflet --dev
 ```
