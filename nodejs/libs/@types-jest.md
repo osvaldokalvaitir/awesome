@@ -1,6 +1,6 @@
 # @types/jest
 
-Este pacote contém definições de tipo para o Jest.
+Este pacote contém definições de tipo para o Jest[Jest](jest.md).
 
 ## Documentação
 
