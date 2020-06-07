@@ -44,6 +44,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Markdown All in One](extensions/markdown-all-in-one.md)
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
+- [Omni](extensions/omni.md)
 - [Pomodoro Timer](extensions/pomodoro-timer.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 - [Prisma](extensions/prisma.md)
