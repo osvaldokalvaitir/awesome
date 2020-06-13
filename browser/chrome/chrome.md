@@ -10,6 +10,7 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 
 - [CSS Scan](extensions/css-scan.md)
 - [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
+- [Full Page Screen Capture](extensions/full-page-screen-capture.md)
 - [GitHub Dark Theme](extensions/github-dark-theme.md)
 - [JSON Viewer](extensions/json-viewer.md)
 - [Lighthouse](extensions/lighthouse.md) - Opcional, se for criar Progressive Web Apps (PWA)
