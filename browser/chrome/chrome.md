@@ -17,3 +17,4 @@ Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a
 - [Octotree](extensions/octotree.md)
 - [React Developer Tools](extensions/react-developer-tools.md)
 - [Wappalyzer](extensions/wappalyzer.md)
+- [WhatFont](extensions/whatfont.md)
