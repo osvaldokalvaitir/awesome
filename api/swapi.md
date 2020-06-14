@@ -1,6 +1,6 @@
 # SWAPI - The Star Wars API
 
-API do Star Wars.
+API para requisitar dados do universo Star Wars.
 
 ## Documentação e Acesso à API
 
