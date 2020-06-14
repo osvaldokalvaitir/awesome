@@ -1,0 +1,19 @@
+# @expo-google-fonts/roboto
+
+Este pacote permite que você use a família de fontes Roboto do Google Fonts no seu aplicativo Expo.
+
+## Documentação
+
+Clique [aqui](https://github.com/expo/google-fonts/tree/master/font-packages/roboto) para ver a documentação.
+
+## Instalação
+
+Antes é necessário instalar o [expo-font](expo-font.md).
+
+Clique [aqui](https://www.npmjs.com/package/@expo-google-fonts/roboto) para fazer a instalação.
+
+Instalar com o Expo:
+
+```
+expo install @expo-google-fonts/roboto
+```
