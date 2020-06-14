@@ -1,6 +1,10 @@
 # React Navigation Stack
 
-Stack navigator para uso em iOS e Android.
+**ESTE PROJETO MUDOU DE REPOSITÓRIO**  
+
+Navegação em stack para uso em iOS e Android.  
+
+Obs: Usar [@react-navigation/stack](@react-navigation-stack.md).
 
 ## Documentação
 
