@@ -1,6 +1,6 @@
 # GitHub API
 
-API do GitHub.
+API para requisitar dados do GitHub.
 
 ## Documentação e Acesso à API
 

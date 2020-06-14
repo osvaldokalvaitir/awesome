@@ -1,6 +1,6 @@
 # IBGE API
 
-API do IBGE.
+API para requisitar dados do IBGE.
 
 ## Documentação e Acesso à API
 

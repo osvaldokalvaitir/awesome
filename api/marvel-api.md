@@ -1,6 +1,6 @@
 # Marvel API
 
-API da Marvel.  
+API para requisitar os dados dos personagens da Marvel.  
 
 Obs: É necessário credenciais para acessar os dados da API, bastando apenas cadastrar no site da Marvel.
 
