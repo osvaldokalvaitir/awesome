@@ -7,7 +7,7 @@ Esta biblioteca é instalada junto com as bibliotecas [React Native Gesture Hand
 
 ## Documentação
 
-Clique [aqui](https://github.com/react-navigation/react-navigation/tree/master/packages/native) para ver a documentação.
+Clique [aqui](https://github.com/react-navigation/react-navigation/tree/main/packages/native) para ver a documentação.
 
 ## Instalação
 

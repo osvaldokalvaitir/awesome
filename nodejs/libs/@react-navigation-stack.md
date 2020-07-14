@@ -4,7 +4,7 @@ Navegação em stack para React Navigation.
 
 ## Documentação
 
-Clique [aqui](https://github.com/react-navigation/react-navigation/tree/master/packages/stack) para ver a documentação.
+Clique [aqui](https://github.com/react-navigation/react-navigation/tree/main/packages/stack) para ver a documentação.
 
 ## Instalação
 
