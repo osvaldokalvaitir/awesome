@@ -8,4 +8,4 @@ Clique [aqui](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbek
 
 ## Utilização
 
-Para utilizar, clique no ícone da extensão e em `Open Remote DevTools`. Na janela que abrir, você pode ver tudo o que está acontecendo no seu estado, ações, reducers e todas as informações disponíveis no Redux também ficam disponíveis no Redux Dev Tools.
+Para utilizar, clique no ícone da extensão e em `Open Remote DevTools`. Na janela que abrir, você pode ver tudo o que está acontecendo no seu estado, ações, reducers e, todas as informações disponíveis no Redux também ficarão disponíveis no Redux Dev Tools.
