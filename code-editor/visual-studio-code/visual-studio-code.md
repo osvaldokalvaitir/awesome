@@ -45,6 +45,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 - [Material Icon Theme](extensions/material-icon-theme.md)
 - [Nunjucks](extensions/nunjucks.md)
 - [Omni](extensions/omni.md)
+- [Path Intellisense](extensions/path-intellisense.md)
 - [Pomodoro Timer](extensions/pomodoro-timer.md)
 - [Prettier - Code formatter](extensions/prettier-code-formatter.md)
 - [Prisma](extensions/prisma.md)
@@ -132,6 +133,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Configuração do Typescript
   "typescript.tsserver.log": "verbose",
   "typescript.updateImportsOnFileMove.enabled": "never",
+
+  // Path Intellisense
+  "typescript.suggest.paths": false,
 
   // Associações de arquivos
   "files.associations": {
