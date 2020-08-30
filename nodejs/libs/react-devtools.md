@@ -18,7 +18,17 @@ npm install react-devtools --save-dev | yarn add react-devtools --dev
 
 ## Execução do react-devtools
 
-Para usar o react-devtools, no package.json adicione o script:
+Para usar o react-devtools, no seu arquivo `index.js` ou em qualquer lugar antes de exibir o primeiro componente da aplicação defina o seguinte trecho de código:
+
+```
+if (__DEV__) {
+  require('react-devtools');
+}
+```
+
+Obs: A variável global `__DEV__` no React Native indica quando você está em ambiente de desenvolvimento.  
+
+No package.json adicione o script:
 
 ```
 "scripts": {
