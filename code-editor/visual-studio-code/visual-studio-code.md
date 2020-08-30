@@ -28,6 +28,7 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 
 ## Extensões
 
+- [CodeSnap](extensions/codesnap.md)
 - [Color Highlight](extensions/color-highlight.md)
 - [DotEnv](extensions/dotenv.md)
 - [Dracula Official](extensions/dracula-official.md)
