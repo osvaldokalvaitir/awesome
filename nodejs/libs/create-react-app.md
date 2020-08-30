@@ -30,14 +30,6 @@ Executar o projeto para desenvolvimento (incluindo internamente o Nodemon):
 npm start | yarn start
 ```
 
-## Construção e Execução de Projeto para Produção no ReactJS
-
-Construir e executar o projeto para produção:
-
-```
-npm run build | yarn run build
-```
-
 ## Execução de Testes de Projeto no ReactJS
 
 Executar testes no projeto:
@@ -56,4 +48,12 @@ Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, apar
 
 ```
 npm test --coverage --watchAll | yarn test --coverage --watchAll
+```
+
+## Construção e Execução de Projeto para Produção no ReactJS
+
+Construir e executar o projeto para produção:
+
+```
+npm run build | yarn run build
 ```

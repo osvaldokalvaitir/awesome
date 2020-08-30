@@ -71,6 +71,26 @@ Para funcionar a execução do projeto, usar os seguintes IPs de acordo com o em
 
 Obs: Se ocorrer erro na requisição, colocar `/` depois do IP na `baseURL`, ficando por exemplo: `ip/`.
 
+### Depuração de Projeto para Desenvolvimento no React Native
+
+Para habilitar/abrir o console do navegador na aplicação em React Native abra o menu de desenvolvedor (`Cmd+D` no iOS, `Cmd/Ctrl+M` no Android ou chacoalhando o dispositivo físico) e clique na opção `Debug JS Remotely`.  
+
+Isso fará com que uma nova janela no seu navegador seja aberta, e com isso você já pode enviar informações ao console do navegador com o `console.log` ou qualquer outra função presente nessa API, mas lembrar de retirar os `console.log` pois quando for publicar a extensão de release, não vai ter o console, podendo ocorrer algum erro ou não funcionar.  
+
+Nessa janela aberta, selecione a opção `Maintain Priority`.  
+
+Habilite também a opção `enable live reload` no menu de desenvolvedor, para dar um refresh automático quando realizar alguma alteração no código.  
+
+Apesar de conseguirmos visualizar os logs e as mensagens enviadas ao console, não teremos o mesmo sucesso para utilizar as outras abas das ferramentas de desenvolvedor no navegador, por exemplo, as requisições HTTP realizadas pelo app não serão exibidas na aba `Network` e os componentes presentes na camada de visualização do app não estarão presentes na aba `Elements`.  
+
+Para resolver isso, instale o [React Dev Tools](react-devtools.md) e configure-o.  
+
+Para ver informações disponíveis no Redux use a extensão [Redux DevTools](../../browser/chrome/extensions/redux-devtools.md) no Chrome, instale [Remote Redux DevTools](remote-redux-devtools.md) e configure-o.  
+
+Para usar o [Reactotron](reactotron-react-native.md), instale-o e configure.  
+
+Para mais informações, acesse [aqui](https://blog.rocketseat.com.br/3-ferramentas-de-debug-para-react-native).  
+
 ### Execução de Testes de Projeto no React Native
 
 Executar testes no projeto:

@@ -136,6 +136,14 @@ Executar o projeto para desenvolvimento (incluindo Nodemon):
 npm dev | yarn dev
 ```
 
+## Execução de Testes de Projeto no Node.js
+
+Executar testes no projeto:
+
+```
+npm test | yarn test
+```
+
 ## Execução de Projeto para Produção no Node.js
 
 Executar o projeto para produção:
@@ -144,13 +152,6 @@ Executar o projeto para produção:
 npm start | yarn start
 ```
 
-## Execução de Testes de Projeto no Node.js
-
-Executar testes no projeto:
-
-```
-npm test | yarn test
-```
 
 ## Publicação de Projeto no NPM
 
