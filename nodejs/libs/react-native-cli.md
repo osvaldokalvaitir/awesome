@@ -60,6 +60,17 @@ react-native run-ios --simulator="iPhone XS Max"
 react-native start
 ```
 
+#### Configuração de IPs
+
+Usar os seguintes IPs:
+
+- Emulador do Android Studio: `10.0.2.2`
+- Genymotion: `10.0.3.2`
+- iOS: `localhost`
+- Celular via USB: `IP do servidor`
+
+Obs: Se ocorrer erro na requisição, colocar `/` no final da `baseURL`, ficando por exemplo: `ip/`.
+
 ### Execução de Testes de Projeto no React Native
 
 Executar testes no projeto:
