@@ -62,14 +62,14 @@ react-native start
 
 #### Configuração de IPs
 
-Usar os seguintes IPs:
+Para funcionar a execução do projeto, usar os seguintes IPs de acordo com o emulador ou dispositivo escolhido:
 
 - Emulador do Android Studio: `10.0.2.2`
 - Genymotion: `10.0.3.2`
 - iOS: `localhost`
 - Celular via USB: `IP do servidor`
 
-Obs: Se ocorrer erro na requisição, colocar `/` no final da `baseURL`, ficando por exemplo: `ip/`.
+Obs: Se ocorrer erro na requisição, colocar `/` depois do IP na `baseURL`, ficando por exemplo: `ip/`.
 
 ### Execução de Testes de Projeto no React Native
 
