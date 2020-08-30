@@ -1,7 +1,7 @@
-# Picjumbo
+# Negative Space
 
-Baixe gratuitamente fotos, planos de fundo e imagens de alta resolução gratuitas para uso pessoal e comercial.
+Bonitas, fotos de alta resolução gratuitas.
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://picjumbo.com/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://negativespace.co) para ver a documentação e acessar o serviço.
