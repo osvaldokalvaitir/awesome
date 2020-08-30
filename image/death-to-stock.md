@@ -4,4 +4,4 @@ Death to Stock é uma cooperativa de propriedade de um artista que oferece as ma
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://deathtothestockphoto.com/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://deathtothestockphoto.com) para ver a documentação e acessar o serviço.
