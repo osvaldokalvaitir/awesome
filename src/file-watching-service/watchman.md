@@ -1,6 +1,6 @@
 # Watchman
 
-Um serviço de observação de arquivos. O Watchman existe para observar arquivos e gravar quando eles mudam. Ele também pode acionar ações (como reconstruir assets) quando os arquivos correspondentes são alterados.
+Um serviço de monitoração de arquivos. O Watchman existe para observar arquivos e gravar quando eles mudam. Ele também pode acionar ações (como reconstruir assets) quando os arquivos correspondentes são alterados.
 
 ## Instalação
 
