@@ -1,15 +1,39 @@
-# Projects Settings
+<h1 align="center">
+  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/logo.png" width="200px"
+  alt="Kalvaitir.com" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/projects-settings/blob/master/LICENSE)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/projects-settings.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/projects-settings.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/projects-settings.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/projects-settings.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/projects-settings.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Awesome
+</h3>
 
-Configurações de projetos em Node.js, ReactJS e React Native do GitHub
+<p align="center">
+  Awesome é uma lista com as melhores ferramentas, softwares, bibliotecas e guias para desenvolvimento de projetos em Node.js, ReactJS e React Native.
+</p>
+
+<p align="center">
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/awesome?color=%28a745">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/awesome?color=%28a745">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osvaldokalvaitir/awesome?color=%28a745">
+
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/osvaldokalvaitir/awesome?color=%28a745&logo=github">
+
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/osvaldokalvaitir/awesome?color=%28a745&logo=github">
+
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-%28a745">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%28a745">
+</p>
+
+<p align="center">
+Awesome&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Guias&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Licença
+</p>
+
+
 
 ## Configuração de Ambiente
 
