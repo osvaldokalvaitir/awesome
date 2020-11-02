@@ -32,98 +32,97 @@
 ## Conteúdo
 
 - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
-- [API](#api)
-- [Automação de Aplicativo](#automação-de-aplicativo)
-- [Avatar](#avatar)
-- [Awesome](#awesome)
+- [APIs](#apis)
+- [Automação de Aplicativos](#automação-de-aplicativos)
+- [Avatares](#avatares)
+- [Awesomes](#awesomes)
 - [Banco de dados](#banco-de-dados)
-- [Browser](#browser)
+- [Browsers](#browsers)
 - [CI/CD](#cicd)
-- [Cliente de API](#cliente-de-api)
-- [Cobertura de Teste](#cobertura-de-teste)
-- [Controle de Versionamento](#controle-de-versionamento)
-- [Cor](#cor)
-- [Documentação](#documentação)
-- [Documentação de API](#documentação-de-api)
-- [E-mail](#e-mail)
-- [Editor de Código](#editor-de-código)
-- [Erro](#erro)
-- [Fonte](#fonte)
-- [Gerenciador de Dependência](#gerenciador-de-dependência)
-- [Gerenciador de Pacote](#gerenciador-de-pacote)
-- [Gerenciador de Projeto](#gerenciador-de-projeto)
-- [Gerenciador de Senha](#gerenciador-de-senha)
-- [Ícone](#ícone)
-- [IDE](#ide)
-- [Imagem](#imagem)
-- [Inspetor de Aplicativo](#inspetor-de-aplicativo)
+- [Clientes de API](#clientes-de-api)
+- [Coberturas de Teste](#coberturas-de-teste)
+- [Controles de Versão](#controles-de-versão)
+- [Cores](#cores)
+- [Documentações](#documentações)
+- [Documentações de API](#documentações-de-api)
+- [E-mails](#e-mails)
+- [Editores de Código](#editores-de-código)
+- [Erros](#erros)
+- [Fontes](#fontes)
+- [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
+- [Gerenciadores de Projetos](#gerenciadores-de-projetos)
+- [Gerenciadores de Senhas](#gerenciadores-de-senhas)
+- [Ícones](#ícones)
+- [IDEs](#ides)
+- [Imagens](#imagens)
+- [Inspetores de Aplicativo](#inspetores-de-aplicativo)
 - [Inspiração de Design](#inspiração-de-design)
-- [Kit de Desenvolvimento](#kit-de-desenvolvimento)
-- [Linguagem de Programação](#linguagem-de-programação)
-- [Mapa](#mapa)
-- [Monitoramento de Sistema](#monitoramento-de-sistema)
+- [Kits de Desenvolvimento](#kits-de-desenvolvimento)
+- [Linguagens de Programação](#linguagens-de-programação)
+- [Mapas](#mapa)
+- [Monitoramento de Sistemas](#monitoramento-de-sistemas)
 - [Node.js](#nodejs)
-- [Notificação Push](#notificação-push)
+- [Notificações Push](#notificações-push)
 - [PaaS](#paas)
-- [Plataforma de Comunicação](#plataforma-de-comunicação)
-- [Plataforma de Desenvolvimento](#plataforma-de-desenvolvimento)
-- [Servidor](#servidor)
-- [Servidor Web](#servidor-web)
-- [Serviço de Armazenamento](#serviço-de-armazenamento)
-- [Sistema Operacional](#sistema-operacional)
-- [Tema](#tema)
-- [Terminal](#terminal)
+- [Plataformas de Comunicação](#plataformas-de-comunicação)
+- [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
+- [Servidores](#servidores)
+- [Servidores Web](#servidores-web)
+- [Serviços de Armazenamento](#serviços-de-armazenamento)
+- [Serviços de Monitoramento de Arquivos](#serviços-de-monitoramento-de-arquivos)
+- [Sistemas Operacionais](#sistemas-operacionais)
+- [Temas](#temas)
+- [Terminais](#terminais)
 - [UI/UX](#uiux)
 - [Virtualização](#virtualização)
 - [Virtualização de Mac](#virtualização-de-mac)
-- [Serviço de Monitoramento de Arquivo](#serviço-de-monitoramento-de-arquivo)
 
 ## Acesso Remoto no Servidor
 
 - [PuTTY](./src/remote-access-server/putty.md)
 
-## API
+## APIs
 
-- [Brasil API](./src/api/brasil-api.md)
-- [GitHub API](./src/api/github-api.md)
-- [IBGE API](./src/api/ibge-api.md)
-- [Marvel API](./src/api/marvel-api.md)
-- [SWAPI - The Star Wars API](./src/api/swapi.md)
+- [Brasil API](./src/apis/brasil-api.md)
+- [GitHub API](./src/apis/github-api.md)
+- [IBGE API](./src/apis/ibge-api.md)
+- [Marvel API](./src/apis/marvel-api.md)
+- [SWAPI - The Star Wars API](./src/apis/swapi.md)
 
-## Automação de Aplicativo
+## Automação de Aplicativos
 
-- [fastlane](./src/app-automation/fastlane.md)
+- [fastlane](./src/apps-automation/fastlane.md)
 
-## Avatar
+## Avatares
 
-- [Adorable Avatars](./src/avatar/adorable-avatars.md)
+- [Adorable Avatars](./src/avatars/adorable-avatars.md)
 
-## Awesome
+## Awesomes
 
-- [React Native Directory](./src/awesome/react-native-directory.md)
+- [React Native Directory](./src/awesomes/react-native-directory.md)
 
 ## Banco de dados
 
 - []()database
 
-## Browser
+## Browsers
 
-- [Chrome](./src/browser/chrome/chrome.md)
+- [Chrome](./src/browsers/chrome/chrome.md)
 
   #### Extensões
 
-  - [CSS Scan](./src/browser/chrome/extensions/css-scan.md)
-  - [Dracula DevTools Theme](./src/browser/chrome/extensions/dracula-devtools-theme.md)
-  - [Full Page Screen Capture](./src/browser/chrome/extensions/full-page-screen-capture.md)
-  - [GitHub Dark Theme](./src/browser/chrome/extensions/github-dark-theme.md)
-  - [JSON Viewer](./src/browser/chrome/extensions/json-viewer.md)
-  - [Lighthouse](./src/browser/chrome/extensions/lighthouse.md)
-  - [Octotree](./src/browser/chrome/extensions/octotree.md)
-  - [React Developer Tools](./src/browser/chrome/extensions/react-developer-tools.md)
-  - [Redux DevTools](./src/browser/chrome/extensions/redux-devtools.md)
-  - [VisBug](./src/browser/chrome/extensions/visbug.md)
-  - [Wappalyzer](./src/browser/chrome/extensions/wappalyzer.md)
-  - [WhatFont](./src/browser/chrome/extensions/whatfont.md)
+  - [CSS Scan](./src/browsers/chrome/extensions/css-scan.md)
+  - [Dracula DevTools Theme](./src/browsers/chrome/extensions/dracula-devtools-theme.md)
+  - [Full Page Screen Capture](./src/browsers/chrome/extensions/full-page-screen-capture.md)
+  - [GitHub Dark Theme](./src/browsers/chrome/extensions/github-dark-theme.md)
+  - [JSON Viewer](./src/browsers/chrome/extensions/json-viewer.md)
+  - [Lighthouse](./src/browsers/chrome/extensions/lighthouse.md)
+  - [Octotree](./src/browsers/chrome/extensions/octotree.md)
+  - [React Developer Tools](./src/browsers/chrome/extensions/react-developer-tools.md)
+  - [Redux DevTools](./src/browsers/chrome/extensions/redux-devtools.md)
+  - [VisBug](./src/browsers/chrome/extensions/visbug.md)
+  - [Wappalyzer](./src/browsers/chrome/extensions/wappalyzer.md)
+  - [WhatFont](./src/browsers/chrome/extensions/whatfont.md)
 
 ## CI/CD
 
@@ -133,162 +132,161 @@
 - [CodeShip](./src/ci-cd/codeship.md)
 - [Travis CI](./src/ci-cd/travis-ci.md)
 
-## Cliente de API
+## Clientes de API
 
-- [Graphcool](./src/api-client/graphcool.md)
-- [Hasura](./src/api-client/hasura.md)
-- [Insomnia](./src/api-client/insomnia.md)
-- [Postman](./src/api-client/postman.md)
-- [Prisma](./src/api-client/prisma.md)
+- [Graphcool](./src/api-clients/graphcool.md)
+- [Hasura](./src/api-clients/hasura.md)
+- [Insomnia](./src/api-clients/insomnia.md)
+- [Postman](./src/api-clients/postman.md)
+- [Prisma](./src/api-clients/prisma.md)
 
-## Cobertura de Teste
+## Coberturas de Teste
 
-- [Codecov](./src/test-coverage/codecov.md)
-- [Coveralls](./src/test-coverage/coveralls.md)
+- [Codecov](./src/test-coverages/codecov.md)
+- [Coveralls](./src/test-coverages/coveralls.md)
 
-## Controle de Versionamento
+## Controles de Versão
 
-- [Git](./src/version-control/git.md)
-- [Git Command Explorer](./src/version-control/gitexplorer.md)
-- [GitHub CLI](./src/version-control/github-cli.md)
-- [GitHub](./src/version-control/github.md)
-- [GitKraken](./src/version-control/gitkraken.md)
+- [Git](./src/version-controls/git/git.md)
 
-## Cor
+  ### Ferramentas
 
-- [Adobe Color](./src/color/adobe-color.md)
-- [Coolors](./src/color/coolors.md)
+  - [Git Command Explorer](./src/version-controls/git/tools/gitexplorer.md)
+  - [GitHub CLI](./src/version-controls/git/tools/github-cli.md)
+  - [GitHub](./src/version-controls/git/tools/github.md)
+  - [GitKraken](./src/version-controls/git/tools/gitkraken.md)
 
-## Documentação
+## Cores
+
+- [Adobe Color](./src/colors/adobe-color.md)
+- [Coolors](./src/colors/coolors.md)
+
+## Documentações
 
 - []()doc
 
-## Documentação de API
+## Documentações de API
 
-- [GitBook](./src/api-doc/gitbook.md)
-- [Insomnia Designer](./src/api-doc/insomnia-designer.md)
-- [ReadMe](./src/api-doc/readme.md)
-- [Stoplight](./src/api-doc/stoplight.md)
-- [Swagger](./src/api-doc/swagger.md)
+- [GitBook](./src/api-docs/gitbook.md)
+- [Insomnia Designer](./src/api-docs/insomnia-designer.md)
+- [ReadMe](./src/api-docs/readme.md)
+- [Stoplight](./src/api-docs/stoplight.md)
+- [Swagger](./src/api-docs/swagger.md)
 
-## E-mail
+## E-mails
 
-- [Amazon SES](./src/email/amazon-ses.md)
-- [Mailgun](./src/email/mailgun.md)
-- [Mailtrap](./src/email/mailtrap.md)
-- [SendGrid](./src/email/sendgrid.md)
-- [SparkPost](./src/email/sparkpost.md)
+- [Amazon SES](./src/emails/amazon-ses.md)
+- [Mailgun](./src/emails/mailgun.md)
+- [Mailtrap](./src/emails/mailtrap.md)
+- [SendGrid](./src/emails/sendgrid.md)
+- [SparkPost](./src/emails/sparkpost.md)
 
-## Editor de Código
+## Editores de Código
 
-- [Visual Studio Code](./src/code-editor/visual-studio-code/visual-studio-code.md)
+- [Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)
 
   #### Extensões
 
-  - [CodeSnap](./src/code-editor/visual-studio-codeextensions/codesnap.md)
-  - [Color Highlight](./src/code-editor/visual-studio-codeextensions/color-highlight.md)
-  - [DotEnv](./src/code-editor/visual-studio-codeextensions/dotenv.md)
-  - [Dracula Official](./src/code-editor/visual-studio-codeextensions/dracula-official.md)
-  - [Edge Template Support](./src/code-editor/visual-studio-codeextensions/edge-template-support.md)
-  - [EditorConfig for VS Code](./src/code-editor/visual-studio-codeextensions/editorconfig-for-vs-code.md)
-  - [Error Lens](./src/code-editor/visual-studio-codeextensions/error-lens.md)
-  - [ESLint](./src/code-editor/visual-studio-codeextensions/eslint.md)
-  - [GitLens - Git supercharged](./src/code-editor/visual-studio-codeextensions/gitlens-git-supercharged.md)
-  - [GraphQL](./src/code-editor/visual-studio-codeextensions/graphql.md)
-  - [Import Cost](./src/code-editor/visual-studio-codeextensions/import-cost.md)
-  - [Live Sass Compiler](./src/code-editor/visual-studio-codeextensions/live-sass-compiler.md)
-  - [Live Server](./src/code-editor/visual-studio-codeextensions/live-server.md)
-  - [Live Share](./src/code-editor/visual-studio-codeextensions/live-share.md)
-  - [Markdown All in One](./src/code-editor/visual-studio-codeextensions/markdown-all-in-one.md)
-  - [Material Icon Theme](./src/code-editor/visual-studio-codeextensions/material-icon-theme.md)
-  - [Nunjucks](./src/code-editor/visual-studio-codeextensions/nunjucks.md)
-  - [Omni](./src/code-editor/visual-studio-codeextensions/omni.md)
-  - [Path Intellisense](./src/code-editor/visual-studio-codeextensions/path-intellisense.md)
-  - [Pomodoro Timer](./src/code-editor/visual-studio-codeextensions/pomodoro-timer.md)
-  - [Prettier - Code formatter](./src/code-editor/visual-studio-codeextensions/prettier-code-formatter.md)
-  - [Prisma](./src/code-editor/visual-studio-codeextensions/prisma.md)
-  - [Rocketseat React Native](./src/code-editor/visual-studio-codeextensions/rocketseat-react-native.md)
-  - [Rocketseat ReactJS](./src/code-editor/visual-studio-codeextensions/rocketseat-reactjs.md)
-  - [SCSS Formatter](./src/code-editor/visual-studio-codeextensions/scss-formatter.md)
-  - [Settings Sync](./src/code-editor/visual-studio-codeextensions/settings-sync.md)
-  - [SQLite](./src/code-editor/visual-studio-codeextensions/sqlite.md)
-  - [Todo Tree](./src/code-editor/visual-studio-codeextensions/todo-tree.md)
-  - [Todo+](./src/code-editor/visual-studio-codeextensions/todo-plus.md)
-  - [VSCode Icons](./src/code-editor/visual-studio-codeextensions/vscode-icons.md)
-  - [VSCode Styled-Components](./src/code-editor/visual-studio-codeextensions/vscode-styled-components.md)
+  - [CodeSnap](./src/code-editors/visual-studio-code/extensions/codesnap.md)
+  - [Color Highlight](./src/code-editors/visual-studio-code/extensions/color-highlight.md)
+  - [DotEnv](./src/code-editors/visual-studio-code/extensions/dotenv.md)
+  - [Dracula Official](./src/code-editors/visual-studio-code/extensions/dracula-official.md)
+  - [Edge Template Support](./src/code-editors/visual-studio-code/extensions/edge-template-support.md)
+  - [EditorConfig for VS Code](./src/code-editors/visual-studio-code/extensions/editorconfig-for-vs-code.md)
+  - [Error Lens](./src/code-editors/visual-studio-code/extensions/error-lens.md)
+  - [ESLint](./src/code-editors/visual-studio-code/extensions/eslint.md)
+  - [GitLens - Git supercharged](./src/code-editors/visual-studio-code/extensions/gitlens-git-supercharged.md)
+  - [GraphQL](./src/code-editors/visual-studio-code/extensions/graphql.md)
+  - [Import Cost](./src/code-editors/visual-studio-code/extensions/import-cost.md)
+  - [Live Sass Compiler](./src/code-editors/visual-studio-code/extensions/live-sass-compiler.md)
+  - [Live Server](./src/code-editors/visual-studio-code/extensions/live-server.md)
+  - [Live Share](./src/code-editors/visual-studio-code/extensions/live-share.md)
+  - [Markdown All in One](./src/code-editors/visual-studio-code/extensions/markdown-all-in-one.md)
+  - [Material Icon Theme](./src/code-editors/visual-studio-code/extensions/material-icon-theme.md)
+  - [Nunjucks](./src/code-editors/visual-studio-code/extensions/nunjucks.md)
+  - [Omni](./src/code-editors/visual-studio-code/extensions/omni.md)
+  - [Path Intellisense](./src/code-editors/visual-studio-code/extensions/path-intellisense.md)
+  - [Pomodoro Timer](./src/code-editors/visual-studio-code/extensions/pomodoro-timer.md)
+  - [Prettier - Code formatter](./src/code-editors/visual-studio-code/extensions/prettier-code-formatter.md)
+  - [Prisma](./src/code-editors/visual-studio-code/extensions/prisma.md)
+  - [Rocketseat React Native](./src/code-editors/visual-studio-code/extensions/rocketseat-react-native.md)
+  - [Rocketseat ReactJS](./src/code-editors/visual-studio-code/extensions/rocketseat-reactjs.md)
+  - [SCSS Formatter](./src/code-editors/visual-studio-code/extensions/scss-formatter.md)
+  - [Settings Sync](./src/code-editors/visual-studio-code/extensions/settings-sync.md)
+  - [SQLite](./src/code-editors/visual-studio-code/extensions/sqlite.md)
+  - [Todo Tree](./src/code-editors/visual-studio-code/extensions/todo-tree.md)
+  - [Todo+](./src/code-editors/visual-studio-code/extensions/todo-plus.md)
+  - [VSCode Icons](./src/code-editors/visual-studio-code/extensions/vscode-icons.md)
+  - [VSCode Styled-Components](./src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
 
-## Erro
+## Erros
 
-- [Sentry](./src/error/sentry.md)
+- [Sentry](./src/errors/sentry.md)
 
-## Fonte
+## Fontes
 
-- [Fira Code](./src/font/fira-code.md)
+- [Fira Code](./src/fonts/fira-code.md)
 
-## Gerenciador de Dependência
+## Gerenciadores de Pacotes
 
-- [Greenkeeper](./src/dependency-manager/greenkeeper.md)
+- [Chocolatey](./src/packages-managers/chocolatey.md)
+- [cURL](./src/packages-managers/curl.md)
+- [Homebrew](./src/packages-managers/homebrew.md)
 
-## Gerenciador de Pacote
+## Gerenciadores de Projetos
 
-- [Chocolatey](./src/package-manager/chocolatey.md)
-- [cURL](./src/package-manager/curl.md)
-- [Homebrew](./src/package-manager/homebrew.md)
+- [iceScrum](./src/projects-managers/icescrum.md)
+- [Jira](./src/projects-managers/jira.md)
+- [Monday](./src/projects-managers/monday.md)
+- [Pipefy](./src/projects-managers/pipefy.md)
+- [Pivotal Tracker](./src/projects-managers/pivotaltracker.md)
+- [Taskworld](./src/projects-managers/taskworld.md)
+- [Trello](./src/projects-managers/trello.md)
 
-## Gerenciador de Projeto
+## Gerenciadores de Senhas
 
-- [iceScrum](./src/project-manager/icescrum.md)
-- [Jira](./src/project-manager/jira.md)
-- [Monday](./src/project-manager/monday.md)
-- [Pipefy](./src/project-manager/pipefy.md)
-- [Pivotal Tracker](./src/project-manager/pivotaltracker.md)
-- [Taskworld](./src/project-manager/taskworld.md)
-- [Trello](./src/project-manager/trello.md)
+- [Keychain Access](./src/passwords-managers/keychain-access.md)
+- [keytool](./src/passwords-managers/keytool.md)
 
-## Gerenciador de Senha
+## Ícones
 
-- [Keychain Access](./src/password-manager/keychain-access.md)
-- [keytool](./src/password-manager/keytool.md)
+- [Ape Tools](./src/icons/apetools.md)
 
-## Ícone
+## IDEs
 
-- [Ape Tools](./src/icon/apetools.md)
+- [XCode](./src/ides/xcode.md)
 
-## IDE
+## Imagens
 
-- [XCode](./src/ide/xcode.md)
+- [Blush](./src/images/blush.md)
+- [Death to Stock](./src/images/death-to-stock.md)
+- [DrawKit](./src/images/drawkit.md)
+- [FancyCrave](./src/images/fancycrave.md)
+- [Freerange](./src/images/freerange.md)
+- [Glaze](./src/images/glaze.md)
+- [Gratisography](./src/images/gratisography.md)
+- [ISO Republic](./src/images/iso-republic.md)
+- [Jay Mantri](./src/images/jay-mantri.md)
+- [Kaboompics](./src/images/kaboompics.md)
+- [LibreShot](./src/images/libreshot.md)
+- [Life of Pix](./src/images/life-of-pix.md)
+- [Negative Space](./src/images/negative-space.md)
+- [New Old Stock](./src/images/new-old-stock.md)
+- [Pexels](./src/images/pexels.md)
+- [Picjumbo](./src/images/picjumbo.md)
+- [Pixabay](./src/images/pixabay.md)
+- [removebg](./src/images/removebg.md)
+- [Splitshire](./src/images/splitshire.md)
+- [Startup Stock Photos](./src/images/startup-stock-photos.md)
+- [StockSnap.io](./src/images/stocksnap-io.md)
+- [Stokpic](./src/images/stokpic.md)
+- [unDraw](./src/images/undraw.md)
+- [Unsplash](./src/images/unsplash.md)
 
-## Imagem
+## Inspetores de Aplicativo
 
-- [Blush](./src/image/blush.md)
-- [Death to Stock](./src/image/death-to-stock.md)
-- [DrawKit](./src/image/drawkit.md)
-- [FancyCrave](./src/image/fancycrave.md)
-- [Freerange](./src/image/freerange.md)
-- [Glaze](./src/image/glaze.md)
-- [Gratisography](./src/image/gratisography.md)
-- [ISO Republic](./src/image/iso-republic.md)
-- [Jay Mantri](./src/image/jay-mantri.md)
-- [Kaboompics](./src/image/kaboompics.md)
-- [LibreShot](./src/image/libreshot.md)
-- [Life of Pix](./src/image/life-of-pix.md)
-- [Negative Space](./src/image/negative-space.md)
-- [New Old Stock](./src/image/new-old-stock.md)
-- [Pexels](./src/image/pexels.md)
-- [Picjumbo](./src/image/picjumbo.md)
-- [Pixabay](./src/image/pixabay.md)
-- [removebg](./src/image/removebg.md)
-- [Splitshire](./src/image/splitshire.md)
-- [Startup Stock Photos](./src/image/startup-stock-photos.md)
-- [StockSnap.io](./src/image/stocksnap-io.md)
-- [Stokpic](./src/image/stokpic.md)
-- [unDraw](./src/image/undraw.md)
-- [Unsplash](./src/image/unsplash.md)
-
-## Inspetor de Aplicativo
-
-- [Flipper](./src/app-inspector/flipper.md)
-- [Reactotron](./src/app-inspector/reactotron.md)
+- [Flipper](./src/app-inspectors/flipper.md)
+- [Reactotron](./src/app-inspectors/reactotron.md)
 
 ## Inspiração de Design
 
@@ -296,36 +294,36 @@
 - [Dribbble](./src/design-inspiration/dribbble.md)
 - [Pinterest](./src/design-inspiration/pinterest.md)
 
-## Kit de Desenvolvimento
+## Kits de Desenvolvimento
 
-- [Android SDK](./src/development-kit/android-sdk.md)
-- [Java Development Kit (JDK)](./src/development-kit/java-development-kit.md)
+- [Android SDK](./src/development-kits/android-sdk.md)
+- [Java Development Kit (JDK)](./src/development-kits/java-development-kit.md)
 
-## Linguagem de Programação
+## Linguagens de Programação
 
-- []()programming-language
+- []()programming-languages
 
-## Mapa
+## Mapas
 
-- [Google Maps Platform](./src/map/google-maps-platform.md)
-- [Mapbox](./src/map/mapbox.md)
+- [Google Maps Platform](./src/maps/google-maps-platform.md)
+- [Mapbox](./src/maps/mapbox.md)
 
-## Monitoramento de Sistema
+## Monitoramento de Sistemas
 
-- [Grafana](./src/system-monitoring/grafana.md)
-- [Prometheus](./src/system-monitoring/prometheus.md)
+- [Grafana](./src/systems-monitoring/grafana.md)
+- [Prometheus](./src/systems-monitoring/prometheus.md)
 
 ## Node.js
 
 - []()nodejs
 
-## Notificação Push
+## Notificações Push
 
-- [OneSignal](./src/push-notification/onesignal/onesignal.md)
+- [OneSignal](./src/push-notifications/onesignal/onesignal.md)
 
-  #### Certificado
+  #### Certificados
 
-  - [The Provisionator](./src/push-notification/onesignal/certificate/the-provisionator.md)
+  - [The Provisionator](./src/push-notifications/onesignal/certificates/the-provisionator.md)
 
 ## PaaS
 
@@ -335,63 +333,63 @@
 - [Tsuru](./src/paas/tsuru.md)
 - [Vercel](./src/paas/vercel.md)
 
-## Plataforma de Comunicação
+## Plataformas de Comunicação
 
-- [Discord](./src/communication-platform/discord.md)
-- [Microsoft Teams](./src/communication-platform/microsoft-teams.md)
-- [Rocket.Chat](./src/communication-platform/rocket.chat.md)
-- [Slack](./src/communication-platform/slack.md)
+- [Discord](./src/communication-platforms/discord.md)
+- [Microsoft Teams](./src/communication-platforms/microsoft-teams.md)
+- [Rocket.Chat](./src/communication-platforms/rocket.chat.md)
+- [Slack](./src/communication-platforms/slack.md)
 
-## Plataforma de Desenvolvimento
+## Plataformas de Desenvolvimento
 
-- [App Store Connect](./src/development-platform/app-store-connect.md)
-- [Apple Developer](./src/development-platform/apple-developer.md)
-- [Firebase](./src/development-platform/firebase.md)
-- [Play Console](./src/development-platform/play-console.md)
+- [App Store Connect](./src/development-platforms/app-store-connect.md)
+- [Apple Developer](./src/development-platforms/apple-developer.md)
+- [Firebase](./src/development-platforms/firebase.md)
+- [Play Console](./src/development-platforms/play-console.md)
 
-## Servidor
+## Servidores
 
-- [Amazon Web Services (AWS)](./src/server/amazon-web-services.md)
-- [DigitalOcean](./src/server/digitalocean.md)
-- [Google Cloud Platform](./src/server/google-cloud-platform.md)
+- [Amazon Web Services (AWS)](./src/servers/amazon-web-services.md)
+- [DigitalOcean](./src/servers/digitalocean.md)
+- [Google Cloud Platform](./src/servers/google-cloud-platform.md)
 
-## Servidor Web
+## Servidores Web
 
-- [Apache](./src/web-server/apache.md)
-- [Nginx](./src/web-server/nginx.md)
+- [Apache](./src/web-servers/apache.md)
+- [Nginx](./src/web-servers/nginx.md)
 
-## Serviço de Armazenamento
+## Serviços de Armazenamento
 
-- [Amazon S3](./src/storage-service/amazon-s3.md)
-- [Google Cloud Storage](./src/storage-service/google-cloud-storage.md)
+- [Amazon S3](./src/storage-services/amazon-s3.md)
+- [Google Cloud Storage](./src/storage-services/google-cloud-storage.md)
 
-## Serviço de Monitoramento de Arquivo
+## Serviços de Monitoramento de Arquivos
 
-- [Watchman](./src/file-watching-service/watchman.md)
+- [Watchman](./src/files-watching-services/watchman.md)
 
-## Sistema Operacional
+## Sistemas Operacionais
 
 - [Ubuntu](./src/os/ubuntu.md)
 
-## Tema
+## Temas
 
-- [Dracula](./src/theme/dracula.md)
+- [Dracula](./src/themes/dracula.md)
 
-## Terminal
+## Terminais
 
-- [Hyper](./src/terminal/hyper.md)
+- [Hyper](./src/terminals/hyper.md)
 
-- [Oh My Zsh](./src/terminal/oh-my-zsh/oh-my-zsh.md)
+- [Oh My Zsh](./src/terminals/oh-my-zsh/oh-my-zsh.md)
 
   #### Gerenciador de plugins
 
-  - [Zplugin](./src/terminal/oh-my-zsh/plugin-manager/zplugin.md)
+  - [Zplugin](./src/terminals/oh-my-zsh/plugin-manager/zplugin.md)
 
   #### Prompt
 
-  - [Spaceship ZSH](./src/terminal/oh-my-zsh/prompt/spaceship-zsh.md)
+  - [Spaceship ZSH](./src/terminals/oh-my-zsh/prompt/spaceship-zsh.md)
 
-- [Terminal.app](./src/terminal/terminal.app.md)
+- [Terminal.app](./src/terminals/terminal.app.md)
 
 ## UI/UX
 
