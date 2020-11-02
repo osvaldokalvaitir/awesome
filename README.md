@@ -58,6 +58,7 @@
 - [Imagem](#imagem)
 - [Inspetor de Aplicativo](#inspetor-de-aplicativo)
 - [Inspiração de Design](#inspiração-de-design)
+- [Kit de Desenvolvimento](#kit-de-desenvolvimento)
 - [Linguagem de Programação](#linguagem-de-programação)
 - [Mapa](#mapa)
 - [Monitoramento de Sistema](#monitoramento-de-sistema)
@@ -66,7 +67,6 @@
 - [PaaS](#paas)
 - [Plataforma de Comunicação](#plataforma-de-comunicação)
 - [Plataforma de Desenvolvimento](#plataforma-de-desenvolvimento)
-- [SDK](#sdk)
 - [Servidor](#servidor)
 - [Servidor Web](#servidor-web)
 - [Serviço de Armazenamento](#serviço-de-armazenamento)
@@ -110,7 +110,7 @@
 
 - [Chrome](./src/browser/chrome/chrome.md)
 
-  ### Extensões
+  #### Extensões
 
   - [CSS Scan](./src/browser/chrome/extensions/css-scan.md)
   - [Dracula DevTools Theme](./src/browser/chrome/extensions/dracula-devtools-theme.md)
@@ -187,7 +187,7 @@
 
 - [Visual Studio Code](./src/code-editor/visual-studio-code/visual-studio-code.md)
 
-  ### Extensões
+  #### Extensões
 
   - [CodeSnap](./src/code-editor/visual-studio-codeextensions/codesnap.md)
   - [Color Highlight](./src/code-editor/visual-studio-codeextensions/color-highlight.md)
@@ -255,7 +255,7 @@
 
 ## IDE
 
-- []()ide
+- [XCode](./src/ide/xcode.md)
 
 ## Imagem
 
@@ -294,6 +294,11 @@
 - [Behance](./src/design-inspiration/behance.md)
 - [Dribbble](./src/design-inspiration/dribbble.md)
 - [Pinterest](./src/design-inspiration/pinterest.md)
+
+## Kit de Desenvolvimento
+
+- [Android SDK](./src/development-kit/android-sdk.md)
+- [Java Development Kit (JDK)](./src/development-kit/java-development-kit.md)
 
 ## Linguagem de Programação
 
@@ -334,11 +339,10 @@
 
 ## Plataforma de Desenvolvimento
 
-- []()development-platform
-
-## SDK
-
-- []()sdk
+- [App Store Connect](./src/development-platform/app-store-connect.md)
+- [Apple Developer](./src/development-platform/apple-developer.md)
+- [Firebase](./src/development-platform/firebase.md)
+- [Play Console](./src/development-platform/play-console.md)
 
 ## Servidor
 
@@ -362,7 +366,7 @@
 
 ## Sistema Operacional
 
-- []()os
+- [Ubuntu](./src/os/ubuntu.md)
 
 ## Tema
 
@@ -370,11 +374,35 @@
 
 ## Terminal
 
-- []()terminal
+- [Hyper](./src/terminal/hyper.md)
+
+- [Oh My Zsh](./src/terminal/oh-my-zsh/oh-my-zsh.md)
+
+  #### Gerenciador de plugins
+
+  - [Zplugin](./src/terminal/oh-my-zsh/plugin-manager/zplugin.md)
+
+  #### Prompt
+
+  - [Spaceship ZSH](./src/terminal/oh-my-zsh/prompt/spaceship-zsh.md)
+
+- [Terminal.app](./src/terminal/terminal.app.md)
 
 ## UI/UX
 
-- []()ui-ux
+- [Adobe XD](./src/ui-ux/adobe-xd.md)
+- [Balsamiq Wireframes](./src/ui-ux/balsamiq-wireframes.md)
+- [Contrast Checker](./src/ui-ux/contrast-checker.md)
+- [Figma](./src/ui-ux/figma.md)
+- [Grid.Guide](./src/ui-ux/grid-guide.md)
+- [Grid Calculator](./src/ui-ux/gridcalculator.md)
+- [InVision](./src/ui-ux/invision.md)
+- [Marvel](./src/ui-ux/marvel.md)
+- [Maze](./src/ui-ux/maze.md)
+- [Miro](./src/ui-ux/miro.md)
+- [Sketch](./src/ui-ux/sketch.md)
+- [Whimsical](./src/ui-ux/whimsical.md)
+- [Zeplin](./src/ui-ux/zeplin.md)
 
 ## Virtualização
 
