@@ -26,40 +26,6 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 }
 ```
 
-## Extensões
-
-- [CodeSnap](extensions/codesnap.md)
-- [Color Highlight](extensions/color-highlight.md)
-- [DotEnv](extensions/dotenv.md)
-- [Dracula Official](extensions/dracula-official.md)
-- [Edge Template Support](extensions/edge-template-support.md)
-- [EditorConfig for VS Code](extensions/editorconfig-for-vs-code.md)
-- [Error Lens](extensions/error-lens.md)
-- [ESLint](extensions/eslint.md)
-- [GitLens - Git supercharged](extensions/gitlens-git-supercharged.md)
-- [GraphQL](extensions/graphql.md)
-- [Import Cost](extensions/import-cost.md)
-- [Live Sass Compiler](extensions/live-sass-compiler.md)
-- [Live Server](extensions/live-server.md)
-- [Live Share](extensions/live-share.md)
-- [Markdown All in One](extensions/markdown-all-in-one.md)
-- [Material Icon Theme](extensions/material-icon-theme.md)
-- [Nunjucks](extensions/nunjucks.md)
-- [Omni](extensions/omni.md)
-- [Path Intellisense](extensions/path-intellisense.md)
-- [Pomodoro Timer](extensions/pomodoro-timer.md)
-- [Prettier - Code formatter](extensions/prettier-code-formatter.md)
-- [Prisma](extensions/prisma.md)
-- [Rocketseat React Native](extensions/rocketseat-react-native.md)
-- [Rocketseat ReactJS](extensions/rocketseat-reactjs.md)
-- [SCSS Formatter](extensions/scss-formatter.md)
-- [Settings Sync](extensions/settings-sync.md)
-- [SQLite](extensions/sqlite.md)
-- [Todo Tree](extensions/todo-tree.md)
-- [Todo+](extensions/todo-plus.md)
-- [VSCode Icons](extensions/vscode-icons.md)
-- [VSCode Styled-Components](extensions/vscode-styled-components.md)
-
 ## Todas as Configurações
 
 Depois de adicionar a fonte e as extensões, setar as configurações (Settings > Open settings.json):

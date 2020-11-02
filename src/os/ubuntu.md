@@ -6,6 +6,14 @@ Ubuntu é um sistema operacional de código aberto, construído a partir do núc
 
 Clique [aqui](https://www.ubuntu.com/download) para ver a documentação e realizar o download.
 
+## Instalação das Libs Gráficas
+
+Em grande parte das vezes precisamos instalar algumas bibliotecas da versão 32bits do Linux para conseguir emular um projeto e para isso vamos utilizar o seguinte comando:
+
+```
+sudo apt-get install gcc-multilib lib32z1 lib32stdc++6
+```
+
 ## Criar Servidor
 
 Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../server/digitalocean.md), [Amazon Web Services](../server/amazon-web-services.md) ou outro. É possível criar um servidor Ubuntu ou qualquer outra distribuição Linux, que depois de criado, é disponibilizado um IP para o acesso nele.

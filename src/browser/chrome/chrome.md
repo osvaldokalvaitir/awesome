@@ -5,18 +5,3 @@ O Google Chrome é um navegador de internet, desenvolvido pela companhia Google 
 ## Documentação e Instalação
 
 Clique [aqui](https://www.google.com/chrome) para ver a documentação e fazer a instalação.
-
-## Extensões
-
-- [CSS Scan](extensions/css-scan.md)
-- [Dracula DevTools Theme](extensions/dracula-devtools-theme.md)
-- [Full Page Screen Capture](extensions/full-page-screen-capture.md)
-- [GitHub Dark Theme](extensions/github-dark-theme.md)
-- [JSON Viewer](extensions/json-viewer.md)
-- [Lighthouse](extensions/lighthouse.md) - Opcional, se for criar Progressive Web Apps (PWA)
-- [Octotree](extensions/octotree.md)
-- [React Developer Tools](extensions/react-developer-tools.md)
-- [Redux DevTools](extensions/redux-devtools.md)
-- [VisBug](extensions/visbug.md)
-- [Wappalyzer](extensions/wappalyzer.md)
-- [WhatFont](extensions/whatfont.md)
