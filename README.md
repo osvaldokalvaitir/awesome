@@ -83,7 +83,7 @@
 
 - [PuTTY](./src/remote-access-server/putty.md)
 
-## API
+### API
 
 - [Brasil API](./src/api/brasil-api.md)
 - [GitHub API](./src/api/github-api.md)
@@ -91,11 +91,11 @@
 - [Marvel API](./src/api/marvel-api.md)
 - [SWAPI - The Star Wars API](./src/api/swapi.md)
 
-## Automação de Aplicativo
+### Automação de Aplicativo
 
 - [fastlane](./src/app-automation/fastlane.md)
 
-## Avatar
+### Avatar
 
 - [Adorable Avatars](./src/avatar/adorable-avatars.md)
 
