@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/awesome?color=%28a745">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/awesome?color=%28a745">
-
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osvaldokalvaitir/awesome?color=%28a745">
 
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/osvaldokalvaitir/awesome?color=%28a745&logo=github">
@@ -30,8 +26,252 @@
 </p>
 
 <p align="center">
-Awesome&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Guias&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Licença
+<a href="#-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licença">Licença</a>
 </p>
+
+## Conteúdo
+
+- [Acesso Remoto](#acesso-remoto)
+- [API](#api)
+- [Automação de Aplicativo](#automação-de-aplicativo)
+- [Avatar](#avatar)
+- [Awesome](#awesome)
+- [Banco de dados](#banco-de-dados)
+- [Biblioteca](#biblioteca)
+- [Browser](#browser)
+- [Certificado de Senha](#certificado-de-senha)
+- [CI/CD](#cicd)
+- [Cliente de API](#cliente-de-api)
+- [Cobertura de Teste](#cobertura-de-teste)
+- [Controle de Versionamento](#controle-de-versionamento)
+- [Cor](#cor)
+- [Documentação](#documentação)
+- [Documentação de API](#documentação-de-api)
+- [E-mail](#e-mail)
+- [Editor de Código](#editor-de-código)
+- [Erro](#erro)
+- [Fonte](#fonte)
+- [Gerenciador de Dependência](#gerenciador-de-dependência)
+- [Gerenciador de Pacote](#gerenciador-de-pacote)
+- [Gerenciador de Projeto](#gerenciador-de-projeto)
+- [Ícone](#ícone)
+- [IDE](#ide)
+- [Imagem](#imagem)
+- [Inspetor](#inspetor)
+- [Inspiração de Design](#inspiração-de-design)
+- [Linguagem de Programação](#linguagem-de-programação)
+- [Mapa](#mapa)
+- [Monitoramento de Sistema](#monitoramento-de-sistema)
+- [Node.js](#nodejs)
+- [Notificação Push](#notificação-push)
+- [PaaS](#paas)
+- [Plataforma de Comunicação](#plataforma-de-comunicação)
+- [Plataforma de Desenvolvimento](#plataforma-de-desenvolvimento)
+- [SDK](#sdk)
+- [Servidor](#servidor)
+- [Servidor Web](#servidor-web)
+- [Serviço de Armazenamento](#serviço-de-armazenamento)
+- [Sistema Operacional](#sistema-operacional)
+- [Tema](#tema)
+- [Terminal](#terminal)
+- [UI/UX](#uiux)
+- [Virtualização](#virtualização)
+- [Virtualização de Mac](#virtualização-de-mac)
+- [Watcher](#watcher)
+
+## Acesso Remoto
+
+- []()remote-access
+
+## API
+
+- []()api
+
+## Automação de Aplicativo
+
+- []()app-automation
+
+## Avatar
+
+- []()avatar
+
+## Awesome
+
+- []()awesome
+
+## Banco de dados
+
+- []()database
+
+## Biblioteca
+
+- []()lib
+
+## Browser
+
+- []()browser/chrome
+
+## Certificado de Senha
+
+- []()password-certificate
+
+## CI/CD
+
+- []()ci-cd
+
+## Cliente de API
+
+- []()api-client
+
+## Cobertura de Teste
+
+- []()test-coverage
+
+## Controle de Versionamento
+
+- []()version-control
+
+## Cor
+
+- []()color
+
+## Documentação
+
+- []()doc
+
+## Documentação de API
+
+- []()api-doc
+
+## E-mail
+
+- []()email
+
+## Editor de Código
+
+- []()code-editor/visual-studio-code
+
+## Erro
+
+- []()error
+
+## Fonte
+
+- []()font
+
+## Gerenciador de Dependência
+
+- []()dependency-manager
+
+## Gerenciador de Pacote
+
+- []()package-manager
+
+## Gerenciador de Projeto
+
+- []()project-manager
+
+## Ícone
+
+- []()icon
+
+## IDE
+
+- []()ide
+
+## Imagem
+
+- []()image
+
+## Inspetor
+
+- []()inspector
+
+## Inspiração de Design
+
+- []()design-inspiration
+
+## Linguagem de Programação
+
+- []()programming-language
+
+## Mapa
+
+- []()map
+
+## Monitoramento de Sistema
+
+- []()system-monitoring
+
+## Node.js
+
+- []()nodejs
+
+## Notificação Push
+
+- []()push-notification
+
+## PaaS
+
+- []()paas
+
+## Plataforma de Comunicação
+
+- []()communication-platform
+
+## Plataforma de Desenvolvimento
+
+- []()development-platform
+
+## SDK
+
+- []()sdk
+
+## Servidor
+
+- []()server
+
+## Servidor Web
+
+- []()web-server
+
+## Serviço de Armazenamento
+
+- []()storage-service
+
+## Sistema Operacional
+
+- []()os
+
+## Tema
+
+- []()theme
+
+## Terminal
+
+- []()terminal
+
+## UI/UX
+
+- []()ui-ux
+
+## Virtualização
+
+- []()virtualization
+
+## Virtualização de Mac
+
+- []()mac-virtualization
+
+## Watcher
+
+- []()watcher
+
+## Licença
+
+
+
+
 
 
 
