@@ -41,12 +41,14 @@
 - [CI/CD](#cicd)
 - [Clientes de API](#clientes-de-api)
 - [Coberturas de Teste](#coberturas-de-teste)
+- [Contêineres](#contêineres)
 - [Controles de Versão](#controles-de-versão)
 - [Cores](#cores)
 - [Documentações](#documentações)
 - [Documentações de API](#documentações-de-api)
 - [E-mails](#e-mails)
 - [Editores de Código](#editores-de-código)
+- [Emuladores](#emuladores)
 - [Erros](#erros)
 - [Fontes](#fontes)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
@@ -60,9 +62,11 @@
 - [Kits de Desenvolvimento](#kits-de-desenvolvimento)
 - [Linguagens de Programação](#linguagens-de-programação)
 - [Mapas](#mapa)
+- [Máquinas Virtuais](#máquinas-virtuais)
 - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
 - [Node.js](#nodejs)
 - [Notificações Push](#notificações-push)
+- [Orquestração de Contêineres](#orquestração-de-contêineres)
 - [PaaS](#paas)
 - [Plataformas de Comunicação](#plataformas-de-comunicação)
 - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
@@ -75,7 +79,7 @@
 - [Terminais](#terminais)
 - [UI/UX](#uiux)
 - [Virtualização](#virtualização)
-- [Virtualização de Mac](#virtualização-de-mac)
+- [Virtualização de Macs](#virtualização-de-macs)
 
 ## Acesso Remoto no Servidor
 
@@ -144,6 +148,22 @@
 
 - [Codecov](./src/test-coverages/codecov.md)
 - [Coveralls](./src/test-coverages/coveralls.md)
+
+## Contêineres
+
+- [Docker](./src/containers/docker/docker.md)
+
+  ### Imagens
+
+  - [kartoza/postgis](./src/containers/docker/images/kartoza-postgis.md)
+  - [mongo](./src/containers/docker/images/mongo.md)
+  - [mysql](./src/containers/docker/images/mysql.md)
+  - [postgres](./src/containers/docker/images/postgres.md)
+  - [redis:alpine](./src/containers/docker/images/redis-alpine.md)
+
+  ### Ferramentas
+
+  - [Docker](./src/containers/docker/tools/docker-hub.md)
 
 ## Controles de Versão
 
@@ -218,6 +238,11 @@
   - [Todo+](./src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [VSCode Icons](./src/code-editors/visual-studio-code/extensions/vscode-icons.md)
   - [VSCode Styled-Components](./src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
+
+## Emuladores
+
+- [Android Studio](./src/emulators/android-studio.md)
+- [Genymotion](./src/emulators/genymotion.md)
 
 ## Erros
 
@@ -308,6 +333,10 @@
 - [Google Maps Platform](./src/maps/google-maps-platform.md)
 - [Mapbox](./src/maps/mapbox.md)
 
+## Máquinas Virtuais
+
+- [VirtualBox](./src/virtual-machines/virtualbox.md)
+
 ## Monitoramento de Sistemas
 
 - [Grafana](./src/systems-monitoring/grafana.md)
@@ -324,6 +353,11 @@
   #### Certificados
 
   - [The Provisionator](./src/push-notifications/onesignal/certificates/the-provisionator.md)
+
+## Orquestração de Contêineres
+
+- [Docker Swarm](./src/containers-orchestration/docker-swarm.md)
+- [Kubernetes](./src/containers-orchestration/kubernetes.md)
 
 ## PaaS
 
@@ -409,13 +443,17 @@
 
 ## Virtualização
 
-- []()virtualization
+- [Android Studio](./src/virtualization/android-studio.md)
+- [Android Studio](./src/virtualization/docker-swarm.md)
+- [Android Studio](./src/virtualization/genymotion.md)
+- [Android Studio](./src/virtualization/kubernetes.md)
+- [Android Studio](./src/virtualization/virtualbox.md)
 
-## Virtualização de Mac
+## Virtualização de Macs
 
-- [MacCloud](./src/mac-virtualization/maccloud.md)
-- [MacinCloud](./src/mac-virtualization/macincloud.md)
-- [MacStadium](./src/mac-virtualization/macstadium.md)
+- [MacCloud](./src/macs-virtualization/maccloud.md)
+- [MacinCloud](./src/macs-virtualization/macincloud.md)
+- [MacStadium](./src/macs-virtualization/macstadium.md)
 
 ## Licença
 
