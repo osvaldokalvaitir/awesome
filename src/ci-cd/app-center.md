@@ -88,7 +88,7 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
     - Coloque `On` na seção
 
-    - É necessário criar o arquivo Keystore, clique [aqui](../password-certificate/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
+    - É necessário criar o arquivo Keystore, clique [aqui](../password-manager/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
 
     - Em `Keystore`, clique no botão de upload `Keystore file` e carregue o arquivo gerado
 
