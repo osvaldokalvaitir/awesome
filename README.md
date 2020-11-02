@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  Awesome é uma lista com as melhores ferramentas, softwares, bibliotecas e guias para desenvolvimento de projetos em Node.js, ReactJS e React Native.
+  Awesome é uma lista com as melhores ferramentas, softwares, bibliotecas e guias para desenvolvimento de projetos no ecossistema Node.js, ReactJS e React Native.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## Conteúdo
 
-- [Acesso Remoto](#acesso-remoto)
+- [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
 - [API](#api)
 - [Automação de Aplicativo](#automação-de-aplicativo)
 - [Avatar](#avatar)
@@ -57,7 +57,7 @@
 - [Ícone](#ícone)
 - [IDE](#ide)
 - [Imagem](#imagem)
-- [Inspetor](#inspetor)
+- [Inspetor de Aplicativo](#inspetor-de-aplicativo)
 - [Inspiração de Design](#inspiração-de-design)
 - [Linguagem de Programação](#linguagem-de-programação)
 - [Mapa](#mapa)
@@ -77,27 +77,31 @@
 - [UI/UX](#uiux)
 - [Virtualização](#virtualização)
 - [Virtualização de Mac](#virtualização-de-mac)
-- [Watcher](#watcher)
+- [Serviço de Monitoramento de Arquivo](#serviço-de-monitoramento-de-arquivo)
 
-## Acesso Remoto
+## Acesso Remoto no Servidor
 
-- []()remote-access
+- [PuTTY](./src/remote-access-server/putty.md)
 
 ## API
 
-- []()api
+- [Brasil API](./src/api/brasil-api.md)
+- [GitHub API](./src/api/github-api.md)
+- [IBGE API](./src/api/ibge-api.md)
+- [Marvel API](./src/api/marvel-api.md)
+- [SWAPI - The Star Wars API](./src/api/swapi.md)
 
 ## Automação de Aplicativo
 
-- []()app-automation
+- [fastlane](./src/app-automation/fastlane.md)
 
 ## Avatar
 
-- []()avatar
+- [Adorable Avatars](./src/avatar/adorable-avatars.md)
 
 ## Awesome
 
-- []()awesome
+- [React Native Directory](./src/awesome/react-native-directory.md)
 
 ## Banco de dados
 
@@ -117,23 +121,37 @@
 
 ## CI/CD
 
-- []()ci-cd
+- [App Center](./src/ci-cd/app-center.md)
+- [Buddy](./src/ci-cd/buddy.md)
+- [CircleCI](./src/ci-cd/circleci.md)
+- [CodeShip](./src/ci-cd/codeship.md)
+- [Travis CI](./src/ci-cd/travis-ci.md)
 
 ## Cliente de API
 
-- []()api-client
+- [Graphcool](./src/api-client/graphcool.md)
+- [Hasura](./src/api-client/hasura.md)
+- [Insomnia](./src/api-client/insomnia.md)
+- [Postman](./src/api-client/postman.md)
+- [Prisma](./src/api-client/prisma.md)
 
 ## Cobertura de Teste
 
-- []()test-coverage
+- [Codecov](./src/test-coverage/codecov.md)
+- [Coveralls](./src/test-coverage/coveralls.md)
 
 ## Controle de Versionamento
 
-- []()version-control
+- [Git](./src/version-control/git.md)
+- [Git Command Explorer](./src/version-control/gitexplorer.md)
+- [GitHub CLI](./src/version-control/github-cli.md)
+- [GitHub](./src/version-control/github.md)
+- [GitKraken](./src/version-control/gitkraken.md)
 
 ## Cor
 
-- []()color
+- [Adobe Color](./src/color/adobe-color.md)
+- [Coolors](./src/color/coolors.md)
 
 ## Documentação
 
@@ -141,11 +159,19 @@
 
 ## Documentação de API
 
-- []()api-doc
+- [GitBook](./src/api-doc/gitbook.md)
+- [Insomnia Designer](./src/api-doc/insomnia-designer.md)
+- [ReadMe](./src/api-doc/readme.md)
+- [Stoplight](./src/api-doc/stoplight.md)
+- [Swagger](./src/api-doc/swagger.md)
 
 ## E-mail
 
-- []()email
+- [Amazon SES](./src/email/amazon-ses.md)
+- [Mailgun](./src/email/mailgun.md)
+- [Mailtrap](./src/email/mailtrap.md)
+- [SendGrid](./src/email/sendgrid.md)
+- [SparkPost](./src/email/sparkpost.md)
 
 ## Editor de Código
 
@@ -153,27 +179,35 @@
 
 ## Erro
 
-- []()error
+- [Sentry](./src/error/sentry.md)
 
 ## Fonte
 
-- []()font
+- [Fira Code](./src/font/fira-code.md)
 
 ## Gerenciador de Dependência
 
-- []()dependency-manager
+- [Greenkeeper](./src/dependency-manager/greenkeeper.md)
 
 ## Gerenciador de Pacote
 
-- []()package-manager
+- [Chocolatey](./src/package-manager/chocolatey.md)
+- [cURL](./src/package-manager/curl.md)
+- [Homebrew](./src/package-manager/homebrew.md)
 
 ## Gerenciador de Projeto
 
-- []()project-manager
+- [iceScrum](./src/project-manager/icescrum.md)
+- [Jira](./src/project-manager/jira.md)
+- [Monday](./src/project-manager/monday.md)
+- [Pipefy](./src/project-manager/pipefy.md)
+- [Pivotal Tracker](./src/project-manager/pivotaltracker.md)
+- [Taskworld](./src/project-manager/taskworld.md)
+- [Trello](./src/project-manager/trello.md)
 
 ## Ícone
 
-- []()icon
+- [Ape Tools](./src/icon/apetools.md)
 
 ## IDE
 
@@ -181,15 +215,41 @@
 
 ## Imagem
 
-- []()image
+- [Blush](./src/image/blush.md)
+- [Death to Stock](./src/image/death-to-stock.md)
+- [DrawKit](./src/image/drawkit.md)
+- [FancyCrave](./src/image/fancycrave.md)
+- [Freerange](./src/image/freerange.md)
+- [Glaze](./src/image/glaze.md)
+- [Gratisography](./src/image/gratisography.md)
+- [ISO Republic](./src/image/iso-republic.md)
+- [Jay Mantri](./src/image/jay-mantri.md)
+- [Kaboompics](./src/image/kaboompics.md)
+- [LibreShot](./src/image/libreshot.md)
+- [Life of Pix](./src/image/life-of-pix.md)
+- [Negative Space](./src/image/negative-space.md)
+- [New Old Stock](./src/image/new-old-stock.md)
+- [Pexels](./src/image/pexels.md)
+- [Picjumbo](./src/image/picjumbo.md)
+- [Pixabay](./src/image/pixabay.md)
+- [removebg](./src/image/removebg.md)
+- [Splitshire](./src/image/splitshire.md)
+- [Startup Stock Photos](./src/image/startup-stock-photos.md)
+- [StockSnap.io](./src/image/stocksnap-io.md)
+- [Stokpic](./src/image/stokpic.md)
+- [unDraw](./src/image/undraw.md)
+- [Unsplash](./src/image/unsplash.md)
 
-## Inspetor
+## Inspetor de Aplicativo
 
-- []()inspector
+- [Flipper](./src/app-inspector/flipper.md)
+- [Reactotron](./src/app-inspector/reactotron.md)
 
 ## Inspiração de Design
 
-- []()design-inspiration
+- [Behance](./src/design-inspiration/behance.md)
+- [Dribbble](./src/design-inspiration/dribbble.md)
+- [Pinterest](./src/design-inspiration/pinterest.md)
 
 ## Linguagem de Programação
 
@@ -197,11 +257,13 @@
 
 ## Mapa
 
-- []()map
+- [Google Maps Platform](./src/map/google-maps-platform.md)
+- [Mapbox](./src/map/mapbox.md)
 
 ## Monitoramento de Sistema
 
-- []()system-monitoring
+- [Grafana](./src/system-monitoring/grafana.md)
+- [Prometheus](./src/system-monitoring/prometheus.md)
 
 ## Node.js
 
@@ -209,15 +271,22 @@
 
 ## Notificação Push
 
-- []()push-notification
+- [OneSignal](./src/push-notification/onesignal.md)
 
 ## PaaS
 
-- []()paas
+- [Glitch](./src/paas/glitch.md)
+- [Heroku](./src/paas/heroku.md)
+- [Netlify](./src/paas/netlify.md)
+- [Tsuru](./src/paas/tsuru.md)
+- [Vercel](./src/paas/vercel.md)
 
 ## Plataforma de Comunicação
 
-- []()communication-platform
+- [Discord](./src/communication-platform/discord.md)
+- [Microsoft Teams](./src/communication-platform/microsoft-teams.md)
+- [Rocket.Chat](./src/communication-platform/rocket.chat.md)
+- [Slack](./src/communication-platform/slack.md)
 
 ## Plataforma de Desenvolvimento
 
@@ -229,15 +298,23 @@
 
 ## Servidor
 
-- []()server
+- [Amazon Web Services (AWS)](./src/server/amazon-web-services.md)
+- [DigitalOcean](./src/server/digitalocean.md)
+- [Google Cloud Platform](./src/server/google-cloud-platform.md)
 
 ## Servidor Web
 
-- []()web-server
+- [Apache](./src/web-server/apache.md)
+- [Nginx](./src/web-server/nginx.md)
 
 ## Serviço de Armazenamento
 
-- []()storage-service
+- [Amazon S3](./src/storage-service/amazon-s3.md)
+- [Google Cloud Storage](./src/storage-service/google-cloud-storage.md)
+
+## Serviço de Monitoramento de Arquivo
+
+- [Watchman](./src/file-watching-service/watchman.md)
 
 ## Sistema Operacional
 
@@ -245,7 +322,7 @@
 
 ## Tema
 
-- []()theme
+- [Dracula](./src/theme/dracula.md)
 
 ## Terminal
 
@@ -261,11 +338,9 @@
 
 ## Virtualização de Mac
 
-- []()mac-virtualization
-
-## Watcher
-
-- []()watcher
+- [MacCloud](./src/mac-virtualization/maccloud.md)
+- [MacinCloud](./src/mac-virtualization/macincloud.md)
+- [MacStadium](./src/mac-virtualization/macstadium.md)
 
 ## Licença
 
