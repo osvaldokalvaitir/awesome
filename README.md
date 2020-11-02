@@ -38,7 +38,6 @@
 - [Awesome](#awesome)
 - [Banco de dados](#banco-de-dados)
 - [Browser](#browser)
-- [Certificado de Senha](#certificado-de-senha)
 - [CI/CD](#cicd)
 - [Cliente de API](#cliente-de-api)
 - [Cobertura de Teste](#cobertura-de-teste)
@@ -53,6 +52,7 @@
 - [Gerenciador de Dependência](#gerenciador-de-dependência)
 - [Gerenciador de Pacote](#gerenciador-de-pacote)
 - [Gerenciador de Projeto](#gerenciador-de-projeto)
+- [Gerenciador de Senha](#gerenciador-de-senha)
 - [Ícone](#ícone)
 - [IDE](#ide)
 - [Imagem](#imagem)
@@ -124,10 +124,6 @@
   - [VisBug](./src/browser/chrome/extensions/visbug.md)
   - [Wappalyzer](./src/browser/chrome/extensions/wappalyzer.md)
   - [WhatFont](./src/browser/chrome/extensions/whatfont.md)
-
-## Certificado de Senha
-
-- []()password-certificate
 
 ## CI/CD
 
@@ -249,6 +245,11 @@
 - [Taskworld](./src/project-manager/taskworld.md)
 - [Trello](./src/project-manager/trello.md)
 
+## Gerenciador de Senha
+
+- [Keychain Access](./src/password-manager/keychain-access.md)
+- [keytool](./src/password-manager/keytool.md)
+
 ## Ícone
 
 - [Ape Tools](./src/icon/apetools.md)
@@ -320,7 +321,11 @@
 
 ## Notificação Push
 
-- [OneSignal](./src/push-notification/onesignal.md)
+- [OneSignal](./src/push-notification/onesignal/onesignal.md)
+
+  #### Certificado
+
+  - [The Provisionator](./src/push-notification/onesignal/certificate/the-provisionator.md)
 
 ## PaaS
 
