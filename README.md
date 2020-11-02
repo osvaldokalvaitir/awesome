@@ -37,7 +37,6 @@
 - [Avatar](#avatar)
 - [Awesome](#awesome)
 - [Banco de dados](#banco-de-dados)
-- [Biblioteca](#biblioteca)
 - [Browser](#browser)
 - [Certificado de Senha](#certificado-de-senha)
 - [CI/CD](#cicd)
@@ -79,11 +78,11 @@
 - [Virtualização de Mac](#virtualização-de-mac)
 - [Serviço de Monitoramento de Arquivo](#serviço-de-monitoramento-de-arquivo)
 
-- [Acesso Remoto no Servidor]
+## Acesso Remoto no Servidor
 
-  - [PuTTY](./src/remote-access-server/putty.md)
+- [PuTTY](./src/remote-access-server/putty.md)
 
-### API
+## API
 
 - [Brasil API](./src/api/brasil-api.md)
 - [GitHub API](./src/api/github-api.md)
@@ -91,11 +90,11 @@
 - [Marvel API](./src/api/marvel-api.md)
 - [SWAPI - The Star Wars API](./src/api/swapi.md)
 
-### Automação de Aplicativo
+## Automação de Aplicativo
 
 - [fastlane](./src/app-automation/fastlane.md)
 
-### Avatar
+## Avatar
 
 - [Adorable Avatars](./src/avatar/adorable-avatars.md)
 
@@ -107,13 +106,24 @@
 
 - []()database
 
-## Biblioteca
-
-- []()lib
-
 ## Browser
 
-- []()browser/chrome
+- [Chrome](./src/browser/chrome/chrome.md)
+
+  ### Extensões
+
+  - [CSS Scan](./src/browser/chrome/extensions/css-scan.md)
+  - [Dracula DevTools Theme](./src/browser/chrome/extensions/dracula-devtools-theme.md)
+  - [Full Page Screen Capture](./src/browser/chrome/extensions/full-page-screen-capture.md)
+  - [GitHub Dark Theme](./src/browser/chrome/extensions/github-dark-theme.md)
+  - [JSON Viewer](./src/browser/chrome/extensions/json-viewer.md)
+  - [Lighthouse](./src/browser/chrome/extensions/lighthouse.md)
+  - [Octotree](./src/browser/chrome/extensions/octotree.md)
+  - [React Developer Tools](./src/browser/chrome/extensions/react-developer-tools.md)
+  - [Redux DevTools](./src/browser/chrome/extensions/redux-devtools.md)
+  - [VisBug](./src/browser/chrome/extensions/visbug.md)
+  - [Wappalyzer](./src/browser/chrome/extensions/wappalyzer.md)
+  - [WhatFont](./src/browser/chrome/extensions/whatfont.md)
 
 ## Certificado de Senha
 
@@ -175,7 +185,41 @@
 
 ## Editor de Código
 
-- []()code-editor/visual-studio-code
+- [Visual Studio Code](./src/code-editor/visual-studio-code/visual-studio-code.md)
+
+  ### Extensões
+
+  - [CodeSnap](./src/code-editor/visual-studio-codeextensions/codesnap.md)
+  - [Color Highlight](./src/code-editor/visual-studio-codeextensions/color-highlight.md)
+  - [DotEnv](./src/code-editor/visual-studio-codeextensions/dotenv.md)
+  - [Dracula Official](./src/code-editor/visual-studio-codeextensions/dracula-official.md)
+  - [Edge Template Support](./src/code-editor/visual-studio-codeextensions/edge-template-support.md)
+  - [EditorConfig for VS Code](./src/code-editor/visual-studio-codeextensions/editorconfig-for-vs-code.md)
+  - [Error Lens](./src/code-editor/visual-studio-codeextensions/error-lens.md)
+  - [ESLint](./src/code-editor/visual-studio-codeextensions/eslint.md)
+  - [GitLens - Git supercharged](./src/code-editor/visual-studio-codeextensions/gitlens-git-supercharged.md)
+  - [GraphQL](./src/code-editor/visual-studio-codeextensions/graphql.md)
+  - [Import Cost](./src/code-editor/visual-studio-codeextensions/import-cost.md)
+  - [Live Sass Compiler](./src/code-editor/visual-studio-codeextensions/live-sass-compiler.md)
+  - [Live Server](./src/code-editor/visual-studio-codeextensions/live-server.md)
+  - [Live Share](./src/code-editor/visual-studio-codeextensions/live-share.md)
+  - [Markdown All in One](./src/code-editor/visual-studio-codeextensions/markdown-all-in-one.md)
+  - [Material Icon Theme](./src/code-editor/visual-studio-codeextensions/material-icon-theme.md)
+  - [Nunjucks](./src/code-editor/visual-studio-codeextensions/nunjucks.md)
+  - [Omni](./src/code-editor/visual-studio-codeextensions/omni.md)
+  - [Path Intellisense](./src/code-editor/visual-studio-codeextensions/path-intellisense.md)
+  - [Pomodoro Timer](./src/code-editor/visual-studio-codeextensions/pomodoro-timer.md)
+  - [Prettier - Code formatter](./src/code-editor/visual-studio-codeextensions/prettier-code-formatter.md)
+  - [Prisma](./src/code-editor/visual-studio-codeextensions/prisma.md)
+  - [Rocketseat React Native](./src/code-editor/visual-studio-codeextensions/rocketseat-react-native.md)
+  - [Rocketseat ReactJS](./src/code-editor/visual-studio-codeextensions/rocketseat-reactjs.md)
+  - [SCSS Formatter](./src/code-editor/visual-studio-codeextensions/scss-formatter.md)
+  - [Settings Sync](./src/code-editor/visual-studio-codeextensions/settings-sync.md)
+  - [SQLite](./src/code-editor/visual-studio-codeextensions/sqlite.md)
+  - [Todo Tree](./src/code-editor/visual-studio-codeextensions/todo-tree.md)
+  - [Todo+](./src/code-editor/visual-studio-codeextensions/todo-plus.md)
+  - [VSCode Icons](./src/code-editor/visual-studio-codeextensions/vscode-icons.md)
+  - [VSCode Styled-Components](./src/code-editor/visual-studio-codeextensions/vscode-styled-components.md)
 
 ## Erro
 
@@ -381,7 +425,7 @@
   - **Linux**  
     1\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
     2\. [Instalação do JDK](sdk/java-development-kit.md)  
-    3\. [Instalação de Libs Gráficas](lib/linux.md)
+    3\. [Instalação das Libs Gráficas](os/ubuntu.md)
 
   - **OS X**  
     1\. [Instalação do Watchman](watcher/watchman.md)  
