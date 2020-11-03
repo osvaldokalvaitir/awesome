@@ -78,7 +78,6 @@
 - [Temas](#temas)
 - [Terminais](#terminais)
 - [UI/UX](#uiux)
-- [Virtualização](#virtualização)
 - [Virtualização de Macs](#virtualização-de-macs)
 
 ## Acesso Remoto no Servidor
@@ -183,7 +182,23 @@
 
 ## Documentações
 
-- []()doc
+  ### CSS
+
+  - [Can I use](./src/docs/css/caniuse.md)
+  - [Codrops](./src/docs/css/codrops.md)
+  - [CSS-Tricks](./src/docs/css/css-tricks.md)
+
+  ### Linguagens de Programação
+
+  - [DevDocs Desktop](./src/docs/devdocs-desktop.md)
+  - [MDN Web Docs](./src/docs/mdn-web-docs.md)
+  - [W3Schools](./src/docs/w3schools.md)
+
+  ### UI/UX
+
+  - [UI Lab](./src/docs/ui-ux/ui-lab.md)
+  - [UX Collective](./src/docs/ui-ux/ux-collective.md)
+  - [UX Planet](./src/docs/ui-ux/ux-planet.md)
 
 ## Documentações de API
 
@@ -440,14 +455,6 @@
 - [Sketch](./src/ui-ux/sketch.md)
 - [Whimsical](./src/ui-ux/whimsical.md)
 - [Zeplin](./src/ui-ux/zeplin.md)
-
-## Virtualização
-
-- [Android Studio](./src/virtualization/android-studio.md)
-- [Android Studio](./src/virtualization/docker-swarm.md)
-- [Android Studio](./src/virtualization/genymotion.md)
-- [Android Studio](./src/virtualization/kubernetes.md)
-- [Android Studio](./src/virtualization/virtualbox.md)
 
 ## Virtualização de Macs
 
