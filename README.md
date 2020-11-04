@@ -488,76 +488,76 @@
 
 ### Guia - Configuração de Ambiente
 
-- **[Instalação e Configuração do Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)**
+- [Instalação e Configuração do Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)
 
-- **Instalação e Configuração do Terminal**
+- Instalação e Configuração do Terminal
 
   - [Linux](./src/terminals/oh-my-zsh/oh-my-zsh.md)
   - [macOS](./src/terminals/oh-my-zsh/oh-my-zsh.md)
   - [Windows](./src/terminals/hyper.md)
 
-- **[Instalação e Configuração do Chrome](./src/browsers/chrome/chrome.md)**
+- [Instalação e Configuração do Chrome](./src/browsers/chrome/chrome.md)
 
-- **[Instalação do Insomnia](./src/api-clients/insomnia.md)**
+- [Instalação do Insomnia](./src/api-clients/insomnia.md)
 
-- **[Instalação do DevDocs Desktop](./src/docs/programming-languages/devdocs-desktop.md)**
+- [Instalação do DevDocs Desktop](./src/docs/programming-languages/devdocs-desktop.md)
 
-- **Instalação do Gerenciador de Pacotes**
+- Instalação do Gerenciador de Pacotes
 
   - [Linux](./src/packages-managers/curl.md)
   - [macOS](./src/packages-managers/homebrew.md)
   - [Windows](./src/packages-managers/chocolatey.md)
 
-- **[Instalação do Node.js](./src/nodejs/nodejs.md)**
+- [Instalação do Node.js](./src/nodejs/nodejs.md)
 
-- **[Instalação do Yarn](./src/nodejs/packages-managers/yarn.md)**
+- [Instalação do Yarn](./src/nodejs/packages-managers/yarn.md)
 
-- **Ambiente Android**
+- Ambiente Android
 
-  - **Linux**  
+  - Linux  
     1\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
     2\. [Instalação do JDK](./src/development-kits/java-development-kit.md)  
     3\. [Instalação das Libs Gráficas](./src/os/ubuntu.md)
 
-  - **OS X**  
+  - OS X  
     1\. [Instalação do Watchman](./src/files-watching-services/watchman.md)  
     2\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
     3\. [Instalação do JDK](./src/development-kits/java-development-kit.md)
 
-  - **Windows**  
+  - Windows  
     1\. [Instalação do Python](./src/programming-languages/python.md)  
     2\. [Instalação do JDK](./src/development-kits/java-development-kit.md)  
     3\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)
 
-  - **Finalizando**  
+  - Finalizando  
     4\. [Instalação e Configuração do Android SDK](./src/development-kits/android-sdk.md)  
     5\. [Instalação e Configuração do Android Studio](./src/emulators/android-studio.md)
 
-- **Ambiente iOS**
+- Ambiente iOS
 
-  - **OS X**  
+  - OS X  
     1\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
     2\. [Instalação do XCode](./src/ides/xcode.md)
 
 #### Instalação de Projeto
 
-- **[Instalação de dependências de projeto](./src/nodejs/nodejs.md)**
+- [Instalação de dependências de projeto](./src/nodejs/nodejs.md)
 
 #### Execução de Projeto (Desenvolvimento, Depuração, Testes e Produção)
 
-- **[Projeto em Node.js](./src/nodejs/nodejs.md)**
+- [Projeto em Node.js](./src/nodejs/nodejs.md)
 
-- **[Projeto em ReactJS](./src/nodejs/libs/create-react-app.md)**
+- [Projeto em ReactJS](./src/nodejs/libs/create-react-app.md)
 
-- **[Projeto em React Native](./src/nodejs/libs/react-native-cli.md)**
+- [Projeto em React Native](./src/nodejs/libs/react-native-cli.md)
 
 #### Outras Configurações
 
-- **[Docker](./src/containers/docker/docker.md)**
+- [Docker](./src/containers/docker/docker.md)
 
-- **[Git](./src/version-controls/git/git.md)**
+- [Git](./src/version-controls/git/git.md)
 
-- **[GitHub](./src/version-controls/git/tools/github.md)**
+- [GitHub](./src/version-controls/git/tools/github.md)
 
 ## Licença
 
