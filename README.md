@@ -438,6 +438,10 @@
   - [MongoDB Compass Community](./src/sgdbs/mongodb/mongodb-compass-community.md)
   - [Robo 3T](./src/sgdbs/mongodb/robo-3t.md)
 
+  #### MySQL
+  
+  - [MySQL Workbench](./src/sgdbs/mysql/mysql-workbench.md)  
+
   #### PostgreSQL
 
   - [ElephantSQL](./src/sgdbs/postgresql/elephantsql.md)
