@@ -138,6 +138,7 @@
 - [Buddy](./src/ci-cd/buddy.md)
 - [CircleCI](./src/ci-cd/circleci.md)
 - [CodeShip](./src/ci-cd/codeship.md)
+- [Jenkins](./src/ci-cd/jenkins.md)
 - [Travis CI](./src/ci-cd/travis-ci.md)
 
 ### Clientes de API
@@ -346,7 +347,8 @@
 
 ### Linguagens de Programação
 
-- []()programming-languages
+- [JavaScript](./src/programming-languages/javascript.md)
+- [Python](./src/programming-languages/python.md)
 
 ### Mapas
 
