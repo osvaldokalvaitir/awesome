@@ -110,6 +110,7 @@
 ### Banco de dados
 
 - [MongoDB](./src/databases/mongodb.md)
+- [MySQL](./src/databases/mysql.md)
 - [PostgreSQL](./src/databases/postgresql.md)
 - [Redis](./src/databases/redis.md)
 
