@@ -81,11 +81,13 @@
 - [UI/UX](#uiux)
 - [Virtualização de Macs](#virtualização-de-macs)
 
-## Acesso Remoto no Servidor
+- [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
+
+### Acesso Remoto no Servidor
 
 - [PuTTY](./src/remote-access-server/putty.md)
 
-## APIs
+### APIs
 
 - [Brasil API](./src/apis/brasil-api.md)
 - [GitHub API](./src/apis/github-api.md)
@@ -93,29 +95,29 @@
 - [Marvel API](./src/apis/marvel-api.md)
 - [SWAPI - The Star Wars API](./src/apis/swapi.md)
 
-## Automação de Aplicativos
+### Automação de Aplicativos
 
 - [fastlane](./src/apps-automation/fastlane.md)
 
-## Avatares
+### Avatares
 
 - [Adorable Avatars](./src/avatars/adorable-avatars.md)
 
-## Awesomes
+### Awesomes
 
 - [React Native Directory](./src/awesomes/react-native-directory.md)
 
-## Banco de dados
+### Banco de dados
 
 - [MongoDB](./src/databases/mongodb.md)
 - [PostgreSQL](./src/databases/postgresql.md)
 - [Redis](./src/databases/redis.md)
 
-## Browsers
+### Browsers
 
 - [Chrome](./src/browsers/chrome/chrome.md)
 
-  #### Extensões
+  ##### Extensões
 
   - [CSS Scan](./src/browsers/chrome/extensions/css-scan.md)
   - [Dracula DevTools Theme](./src/browsers/chrome/extensions/dracula-devtools-theme.md)
@@ -130,7 +132,7 @@
   - [Wappalyzer](./src/browsers/chrome/extensions/wappalyzer.md)
   - [WhatFont](./src/browsers/chrome/extensions/whatfont.md)
 
-## CI/CD
+### CI/CD
 
 - [App Center](./src/ci-cd/app-center.md)
 - [Buddy](./src/ci-cd/buddy.md)
@@ -138,7 +140,7 @@
 - [CodeShip](./src/ci-cd/codeship.md)
 - [Travis CI](./src/ci-cd/travis-ci.md)
 
-## Clientes de API
+### Clientes de API
 
 - [Graphcool](./src/api-clients/graphcool.md)
 - [Hasura](./src/api-clients/hasura.md)
@@ -146,16 +148,16 @@
 - [Postman](./src/api-clients/postman.md)
 - [Prisma](./src/api-clients/prisma.md)
 
-## Coberturas de Teste
+### Coberturas de Teste
 
 - [Codecov](./src/test-coverages/codecov.md)
 - [Coveralls](./src/test-coverages/coveralls.md)
 
-## Contêineres
+### Contêineres
 
 - [Docker](./src/containers/docker/docker.md)
 
-  ### Imagens
+  #### Imagens
 
   - [kartoza/postgis](./src/containers/docker/images/kartoza-postgis.md)
   - [mongo](./src/containers/docker/images/mongo.md)
@@ -163,47 +165,47 @@
   - [postgres](./src/containers/docker/images/postgres.md)
   - [redis:alpine](./src/containers/docker/images/redis-alpine.md)
 
-  ### Ferramentas
+  #### Ferramentas
 
   - [Docker](./src/containers/docker/tools/docker-hub.md)
 
-## Controles de Versão
+### Controles de Versão
 
 - [Git](./src/version-controls/git/git.md)
 
-  ### Ferramentas
+  #### Ferramentas
 
   - [Git Command Explorer](./src/version-controls/git/tools/gitexplorer.md)
   - [GitHub CLI](./src/version-controls/git/tools/github-cli.md)
   - [GitHub](./src/version-controls/git/tools/github.md)
   - [GitKraken](./src/version-controls/git/tools/gitkraken.md)
 
-## Cores
+### Cores
 
 - [Adobe Color](./src/colors/adobe-color.md)
 - [Coolors](./src/colors/coolors.md)
 
-## Documentações
+### Documentações
 
-  ### CSS
+  #### CSS
 
   - [Can I use](./src/docs/css/caniuse.md)
   - [Codrops](./src/docs/css/codrops.md)
   - [CSS-Tricks](./src/docs/css/css-tricks.md)
 
-  ### Linguagens de Programação
+  #### Linguagens de Programação
 
   - [DevDocs Desktop](./src/docs/devdocs-desktop.md)
   - [MDN Web Docs](./src/docs/mdn-web-docs.md)
   - [W3Schools](./src/docs/w3schools.md)
 
-  ### UI/UX
+  #### UI/UX
 
   - [UI Lab](./src/docs/ui-ux/ui-lab.md)
   - [UX Collective](./src/docs/ui-ux/ux-collective.md)
   - [UX Planet](./src/docs/ui-ux/ux-planet.md)
 
-## Documentações de API
+### Documentações de API
 
 - [GitBook](./src/api-docs/gitbook.md)
 - [Insomnia Designer](./src/api-docs/insomnia-designer.md)
@@ -211,7 +213,7 @@
 - [Stoplight](./src/api-docs/stoplight.md)
 - [Swagger](./src/api-docs/swagger.md)
 
-## E-mails
+### E-mails
 
 - [Amazon SES](./src/emails/amazon-ses.md)
 - [Mailgun](./src/emails/mailgun.md)
@@ -219,11 +221,11 @@
 - [SendGrid](./src/emails/sendgrid.md)
 - [SparkPost](./src/emails/sparkpost.md)
 
-## Editores de Código
+### Editores de Código
 
 - [Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)
 
-  #### Extensões
+  ##### Extensões
 
   - [CodeSnap](./src/code-editors/visual-studio-code/extensions/codesnap.md)
   - [Color Highlight](./src/code-editors/visual-studio-code/extensions/color-highlight.md)
@@ -257,26 +259,26 @@
   - [VSCode Icons](./src/code-editors/visual-studio-code/extensions/vscode-icons.md)
   - [VSCode Styled-Components](./src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
 
-## Emuladores
+### Emuladores
 
 - [Android Studio](./src/emulators/android-studio.md)
 - [Genymotion](./src/emulators/genymotion.md)
 
-## Erros
+### Erros
 
 - [Sentry](./src/errors/sentry.md)
 
-## Fontes
+### Fontes
 
 - [Fira Code](./src/fonts/fira-code.md)
 
-## Gerenciadores de Pacotes
+### Gerenciadores de Pacotes
 
 - [Chocolatey](./src/packages-managers/chocolatey.md)
 - [cURL](./src/packages-managers/curl.md)
 - [Homebrew](./src/packages-managers/homebrew.md)
 
-## Gerenciadores de Projetos
+### Gerenciadores de Projetos
 
 - [iceScrum](./src/projects-managers/icescrum.md)
 - [Jira](./src/projects-managers/jira.md)
@@ -286,20 +288,20 @@
 - [Taskworld](./src/projects-managers/taskworld.md)
 - [Trello](./src/projects-managers/trello.md)
 
-## Gerenciadores de Senhas
+### Gerenciadores de Senhas
 
 - [Keychain Access](./src/passwords-managers/keychain-access.md)
 - [keytool](./src/passwords-managers/keytool.md)
 
-## Ícones
+### Ícones
 
 - [Ape Tools](./src/icons/apetools.md)
 
-## IDEs
+### IDEs
 
 - [XCode](./src/ides/xcode.md)
 
-## Imagens
+### Imagens
 
 - [Blush](./src/images/blush.md)
 - [Death to Stock](./src/images/death-to-stock.md)
@@ -326,58 +328,58 @@
 - [unDraw](./src/images/undraw.md)
 - [Unsplash](./src/images/unsplash.md)
 
-## Inspetores de Aplicativo
+### Inspetores de Aplicativo
 
 - [Flipper](./src/app-inspectors/flipper.md)
 - [Reactotron](./src/app-inspectors/reactotron.md)
 
-## Inspiração de Design
+### Inspiração de Design
 
 - [Behance](./src/design-inspiration/behance.md)
 - [Dribbble](./src/design-inspiration/dribbble.md)
 - [Pinterest](./src/design-inspiration/pinterest.md)
 
-## Kits de Desenvolvimento
+### Kits de Desenvolvimento
 
 - [Android SDK](./src/development-kits/android-sdk.md)
 - [Java Development Kit (JDK)](./src/development-kits/java-development-kit.md)
 
-## Linguagens de Programação
+### Linguagens de Programação
 
 - []()programming-languages
 
-## Mapas
+### Mapas
 
 - [Google Maps Platform](./src/maps/google-maps-platform.md)
 - [Mapbox](./src/maps/mapbox.md)
 
-## Máquinas Virtuais
+### Máquinas Virtuais
 
 - [VirtualBox](./src/virtual-machines/virtualbox.md)
 
-## Monitoramento de Sistemas
+### Monitoramento de Sistemas
 
 - [Grafana](./src/systems-monitoring/grafana.md)
 - [Prometheus](./src/systems-monitoring/prometheus.md)
 
-## Node.js
+### Node.js
 
 - []()nodejs
 
-## Notificações Push
+### Notificações Push
 
 - [OneSignal](./src/push-notifications/onesignal/onesignal.md)
 
-  #### Certificados
+  ##### Certificados
 
   - [The Provisionator](./src/push-notifications/onesignal/certificates/the-provisionator.md)
 
-## Orquestração de Contêineres
+### Orquestração de Contêineres
 
 - [Docker Swarm](./src/containers-orchestration/docker-swarm.md)
 - [Kubernetes](./src/containers-orchestration/kubernetes.md)
 
-## PaaS
+### PaaS
 
 - [Glitch](./src/paas/glitch.md)
 - [Heroku](./src/paas/heroku.md)
@@ -385,84 +387,84 @@
 - [Tsuru](./src/paas/tsuru.md)
 - [Vercel](./src/paas/vercel.md)
 
-## Plataformas de Comunicação
+### Plataformas de Comunicação
 
 - [Discord](./src/communication-platforms/discord.md)
 - [Microsoft Teams](./src/communication-platforms/microsoft-teams.md)
 - [Rocket.Chat](./src/communication-platforms/rocket.chat.md)
 - [Slack](./src/communication-platforms/slack.md)
 
-## Plataformas de Desenvolvimento
+### Plataformas de Desenvolvimento
 
 - [App Store Connect](./src/development-platforms/app-store-connect.md)
 - [Apple Developer](./src/development-platforms/apple-developer.md)
 - [Firebase](./src/development-platforms/firebase.md)
 - [Play Console](./src/development-platforms/play-console.md)
 
-## Servidores
+### Servidores
 
 - [Amazon Web Services (AWS)](./src/servers/amazon-web-services.md)
 - [DigitalOcean](./src/servers/digitalocean.md)
 - [Google Cloud Platform](./src/servers/google-cloud-platform.md)
 
-## Servidores Web
+### Servidores Web
 
 - [Apache](./src/web-servers/apache.md)
 - [Nginx](./src/web-servers/nginx.md)
 
-## Serviços de Armazenamento
+### Serviços de Armazenamento
 
 - [Amazon S3](./src/storage-services/amazon-s3.md)
 - [Google Cloud Storage](./src/storage-services/google-cloud-storage.md)
 
-## Serviços de Monitoramento de Arquivos
+### Serviços de Monitoramento de Arquivos
 
 - [Watchman](./src/files-watching-services/watchman.md)
 
-## SGDBs
+### SGDBs
 
-  ### Múltiplos
+  #### Múltiplos
 
   - [Beekeeper Studio](./src/sgdbs/multiples/beekeeper-studio.md)
   - [DBeaver](./src/sgdbs/multiples/dbeaver.md)
 
-  ### MongoDB
+  #### MongoDB
 
   - [mLab](./src/sgdbs/mongodb/mlab.md)
   - [MongoDB Atlas](./src/sgdbs/mongodb/mongodb-atlas.md)
   - [MongoDB Compass Community](./src/sgdbs/mongodb/mongodb-compass-community.md)
   - [Robo 3T](./src/sgdbs/mongodb/robo-3t.md)
 
-  ### PostgreSQL
+  #### PostgreSQL
 
   - [ElephantSQL](./src/sgdbs/postgresql/elephantsql.md)
   - [Postbird](./src/sgdbs/postgresql/postbird.md)
 
-## Sistemas Operacionais
+### Sistemas Operacionais
 
 - [Ubuntu](./src/os/ubuntu.md)
 
-## Temas
+### Temas
 
 - [Dracula](./src/themes/dracula.md)
 
-## Terminais
+### Terminais
 
 - [Hyper](./src/terminals/hyper.md)
 
 - [Oh My Zsh](./src/terminals/oh-my-zsh/oh-my-zsh.md)
 
-  #### Gerenciador de plugins
+  ##### Gerenciador de plugins
 
   - [Zplugin](./src/terminals/oh-my-zsh/plugin-manager/zplugin.md)
 
-  #### Prompt
+  ##### Prompt
 
   - [Spaceship ZSH](./src/terminals/oh-my-zsh/prompt/spaceship-zsh.md)
 
 - [Terminal.app](./src/terminals/terminal.app.md)
 
-## UI/UX
+### UI/UX
 
 - [Adobe XD](./src/ui-ux/adobe-xd.md)
 - [Balsamiq Wireframes](./src/ui-ux/balsamiq-wireframes.md)
@@ -478,89 +480,84 @@
 - [Whimsical](./src/ui-ux/whimsical.md)
 - [Zeplin](./src/ui-ux/zeplin.md)
 
-## Virtualização de Macs
+### Virtualização de Macs
 
 - [MacCloud](./src/macs-virtualization/maccloud.md)
 - [MacinCloud](./src/macs-virtualization/macincloud.md)
 - [MacStadium](./src/macs-virtualization/macstadium.md)
 
-## Licença
+### Guia - Configuração de Ambiente
 
-
-
-
-
-
-
-## Configuração de Ambiente
-
-- **[Instalação e Configuração do Visual Studio Code](code-editor/visual-studio-code/visual-studio-code.md)**
+- **[Instalação e Configuração do Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)**
 
 - **Instalação e Configuração do Terminal**
 
-  - [Linux](terminal/oh-my-zsh/oh-my-zsh.md)
-  - [macOS](terminal/oh-my-zsh/oh-my-zsh.md)
-  - [Windows](terminal/hyper.md)
+  - [Linux](./src/terminals/oh-my-zsh/oh-my-zsh.md)
+  - [macOS](./src/terminals/oh-my-zsh/oh-my-zsh.md)
+  - [Windows](./src/terminals/hyper.md)
 
-- **[Instalação e Configuração do Chrome](browser/chrome/chrome.md)**
+- **[Instalação e Configuração do Chrome](./src/browsers/chrome/chrome.md)**
 
-- **[Instalação do Insomnia](api/insomnia.md)**
+- **[Instalação do Insomnia](./src/api-clients/insomnia.md)**
 
-- **[Instalação do DevDocs Desktop](doc/devdocs-desktop.md)**
+- **[Instalação do DevDocs Desktop](./src/docs/programming-languages/devdocs-desktop.md)**
 
 - **Instalação do Gerenciador de Pacotes**
 
-  - [Linux](package-manager/curl.md)
-  - [macOS](package-manager/homebrew.md)
-  - [Windows](package-manager/chocolatey.md)
+  - [Linux](./src/packages-managers/curl.md)
+  - [macOS](./src/packages-managers/homebrew.md)
+  - [Windows](./src/packages-managers/chocolatey.md)
 
-- **[Instalação do Node.js](nodejs/nodejs.md)**
+- **[Instalação do Node.js](./src/nodejs/nodejs.md)**
 
-- **[Instalação do Yarn](nodejs/package-managers/yarn.md)**
+- **[Instalação do Yarn](./src/nodejs/packages-managers/yarn.md)**
 
 - **Ambiente Android**
 
   - **Linux**  
-    1\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    2\. [Instalação do JDK](sdk/java-development-kit.md)  
-    3\. [Instalação das Libs Gráficas](os/ubuntu.md)
+    1\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
+    2\. [Instalação do JDK](./src/development-kits/java-development-kit.md)  
+    3\. [Instalação das Libs Gráficas](./src/os/ubuntu.md)
 
   - **OS X**  
-    1\. [Instalação do Watchman](watcher/watchman.md)  
-    2\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    3\. [Instalação do JDK](sdk/java-development-kit.md)
+    1\. [Instalação do Watchman](./src/files-watching-services/watchman.md)  
+    2\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
+    3\. [Instalação do JDK](./src/development-kits/java-development-kit.md)
 
   - **Windows**  
-    1\. [Instalação do Python](programming-language/python.md)  
-    2\. [Instalação do JDK](sdk/java-development-kit.md)  
-    3\. [Instalação do React Native](nodejs/libs/react-native-cli.md)
+    1\. [Instalação do Python](./src/programming-languages/python.md)  
+    2\. [Instalação do JDK](./src/development-kits/java-development-kit.md)  
+    3\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)
 
   - **Finalizando**  
-    4\. [Instalação e Configuração do Android SDK](sdk/android-sdk.md)  
-    5\. [Instalação e Configuração do Android Studio](virtualization/android-studio.md)
+    4\. [Instalação e Configuração do Android SDK](./src/development-kits/android-sdk.md)  
+    5\. [Instalação e Configuração do Android Studio](./src/emulators/android-studio.md)
 
 - **Ambiente iOS**
 
   - **OS X**  
-    1\. [Instalação do React Native](nodejs/libs/react-native-cli.md)  
-    2\. [Instalação do XCode](ide/xcode.md)
+    1\. [Instalação do React Native](./src/nodejs/libs/react-native-cli.md)  
+    2\. [Instalação do XCode](./src/ides/xcode.md)
 
-## Instalação de Projeto
+#### Instalação de Projeto
 
-- **[Instalação de dependências de projeto](nodejs/nodejs.md)**
+- **[Instalação de dependências de projeto](./src/nodejs/nodejs.md)**
 
-## Execução de Projeto (Desenvolvimento, Depuração, Testes e Produção)
+#### Execução de Projeto (Desenvolvimento, Depuração, Testes e Produção)
 
-- **[Projeto em Node.js](nodejs/nodejs.md)**
+- **[Projeto em Node.js](./src/nodejs/nodejs.md)**
 
-- **[Projeto em ReactJS](nodejs/libs/create-react-app.md)**
+- **[Projeto em ReactJS](./src/nodejs/libs/create-react-app.md)**
 
-- **[Projeto em React Native](nodejs/libs/react-native-cli.md)**
+- **[Projeto em React Native](./src/nodejs/libs/react-native-cli.md)**
 
-## Outras Configurações
+#### Outras Configurações
 
-- **[Docker](virtualization/docker/docker.md)**
+- **[Docker](./src/containers/docker/docker.md)**
 
-- **[Git](version-control/git.md)**
+- **[Git](./src/version-controls/git/git.md)**
 
-- **[GitHub](version-control/github.md)**
+- **[GitHub](./src/version-controls/git/tools/github.md)**
+
+## Licença
+
