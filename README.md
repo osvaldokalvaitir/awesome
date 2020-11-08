@@ -295,6 +295,7 @@
 
 ### Gerenciadores de Pacotes Node.js
 
+- [npm](./src/node-packages-managers/npm.md)
 - [Yarn](./src/node-packages-managers/yarn.md)
 
 ### Gerenciadores de Projetos
