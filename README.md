@@ -34,10 +34,10 @@
 </p>
 
 <p align="center">
-<a href="##-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-licença">Licença</a>
+<a href="#book-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-licença">Licença</a>
 </p>
 
-## Conteúdo
+## :book: Conteúdo
 
 - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
 - [APIs](#apis)
@@ -573,7 +573,7 @@
 
 - [GitHub](./src/version-controls/git/tools/github.md)
 
-## Licença
+## :memo: Licença
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/osvaldokalvaitir/awesome/blob/master/LICENSE) para obter mais informações.
 
