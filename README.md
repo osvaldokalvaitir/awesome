@@ -579,12 +579,9 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA] (https://github.com
 
 ---
 
-Desenvolvido com :green_heart: por Kalvaitir.
-
-<h1 align="center">
-  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="100px" height="100px"
+<p align="center">
+  Desenvolvido com :green_heart: por 
+  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="50px" height="50px"
   alt="Kalvaitir.com" />
-  Kalvaitir © 2020
-  Todos os direitos reservados
-</h1>
-
+  © 2020
+</p>
