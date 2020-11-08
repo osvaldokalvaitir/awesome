@@ -575,7 +575,7 @@
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA] (https://github.com/osvaldokalvaitir/awesome/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/osvaldokalvaitir/awesome/blob/master/LICENSE) para obter mais informações.
 
 ---
 
@@ -583,5 +583,4 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA] (https://github.com
   Desenvolvido com :green_heart: por 
   <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="50px" height="50px"
   alt="Kalvaitir.com" />
-  © 2020
 </p>
