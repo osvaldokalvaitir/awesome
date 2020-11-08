@@ -581,6 +581,6 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/
 
 <p align="center">
   Desenvolvido com :green_heart: por <br />
-  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="100px" height="100px"
+  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="70px" height="70px"
   alt="Kalvaitir.com" />
 </p>
