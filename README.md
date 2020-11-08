@@ -92,6 +92,8 @@
 ## Guia
 - [Configuração de Ambiente](#configuração-de-ambiente)
 
+___
+
 ### Acesso Remoto no Servidor
 
 - [PuTTY](./src/remote-access-server/putty.md)
@@ -501,6 +503,8 @@
 - [MacCloud](./src/macs-virtualization/maccloud.md)
 - [MacinCloud](./src/macs-virtualization/macincloud.md)
 - [MacStadium](./src/macs-virtualization/macstadium.md)
+
+___
 
 ### Configuração de Ambiente
 
