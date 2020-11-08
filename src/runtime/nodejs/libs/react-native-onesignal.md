@@ -22,4 +22,4 @@ Para compilar no Android, é necessário fazer uma configuração nos arquivos:
   -  `AndroidManifest.xml` em `android > app > src > main > AndroidManifest.xml`
   -  `build.gradle` em `android > app > build.gradle`
 
-Para compilar no iOS, é necessário fazer uma configuração que se encontram-se [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/ide/xcode.md) e siga `Notificações Push`
+Para compilar no iOS, é necessário fazer uma configuração que se encontram-se [aqui](../../../ides/xcode.md) e siga `Notificações Push`

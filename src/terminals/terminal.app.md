@@ -12,7 +12,7 @@ Não precisa ser instalado, já vem disponível com o sistema operacional Unix.
 
 ### Instalação
 
-Para instalar o tema [Dracula](../theme/dracula.md) entre no site e clique em `Terminal.app`.
+Para instalar o tema [Dracula](../themes/dracula.md) entre no site e clique em `Terminal.app`.
 
 Siga as instruções da seção `Install using Git`, copiando a instrução e executando no terminal (precisa ter o git instalado).
 
@@ -28,7 +28,7 @@ Selecione o tema `Dracula` e clique em `Default`.
 
 ### Instalação
 
-- [Fira Code](../font/fira-code.md)
+- [Fira Code](../fonts/fira-code.md)
 
 ### Configuração
 

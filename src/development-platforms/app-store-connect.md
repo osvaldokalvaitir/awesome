@@ -100,7 +100,7 @@ Para criar um app no App Store Connect, siga os seguintes procedimentos:
 
   - Clique em `Salvar`.
   
-- É necessário enviar pelo XCode, a primeira versão do aplicativo para o App Store Connect, clique [aqui](../ide/xcode.md) - Siga `Configurações > Enviar app para a App Store Connect` para enviar o aplicativo
+- É necessário enviar pelo XCode, a primeira versão do aplicativo para o App Store Connect, clique [aqui](../ides/xcode.md) - Siga `Configurações > Enviar app para a App Store Connect` para enviar o aplicativo
 
 - Demorará alguns minutos para a aplicação aparecer na App Store Connect
 

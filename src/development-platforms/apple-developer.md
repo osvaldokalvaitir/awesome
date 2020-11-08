@@ -48,7 +48,7 @@ Para gerar um certificado no Apple Developer, siga os seguintes procedimentos:
 
   - Na página `Generate`:
 
-    - É necessário, gerar o certificado, para isso clique [aqui](../password/keychain-access.md) e siga `Gerar certificado`
+    - É necessário, gerar o certificado, para isso clique [aqui](../passwords-managers/keychain-access.md) e siga `Gerar certificado`
 
     - Em `Upload CSR file.`, clique em `Choose File...` e selecione o certificado gerado
 

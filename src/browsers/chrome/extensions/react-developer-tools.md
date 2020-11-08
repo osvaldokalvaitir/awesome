@@ -8,4 +8,4 @@ Clique [aqui](https://chrome.google.com/webstore/detail/react-developer-tools/fm
 
 ## Tema
 
-Para ativar o tema [Dracula](../../../theme/dracula.md), clique no ícone da engrenagem e selecione `Dracula`.
+Para ativar o tema [Dracula](../../../themes/dracula.md), clique no ícone da engrenagem e selecione `Dracula`.

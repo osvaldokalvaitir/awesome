@@ -16,7 +16,7 @@ sudo apt-get install gcc-multilib lib32z1 lib32stdc++6
 
 ## Criar Servidor
 
-Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../server/digitalocean.md), [Amazon Web Services](../server/amazon-web-services.md) ou outro. É possível criar um servidor Ubuntu ou qualquer outra distribuição Linux, que depois de criado, é disponibilizado um IP para o acesso nele.
+Depois de contratar um provedor de servidores na nuvem como [DigitalOcean](../servers/digitalocean.md), [Amazon Web Services](../servers/amazon-web-services.md) ou outro. É possível criar um servidor Ubuntu ou qualquer outra distribuição Linux, que depois de criado, é disponibilizado um IP para o acesso nele.
 
 Dentro do Ubuntu, é possível executar todos os comandos abaixo independente do servidor de nuvem contratado.
 
@@ -38,19 +38,19 @@ apt-get upgrade
 
 ### Instalação do Node.js
 
-Clique [aqui](../nodejs/nodejs.md) e siga `Instalação > Linux usando cURL`.
+Clique [aqui](../runtime/nodejs/nodejs.md) e siga `Instalação > Linux usando cURL`.
 
 ### Instalação do PM2
 
-Clique [aqui](../nodejs/libs/pm2.md) e siga `Instalação`.
+Clique [aqui](../runtime/nodejs/libs/pm2.md) e siga `Instalação`.
 
 ### Instalação do MongoDB (Projeto Node.js)
 
-Clique [aqui](../database/mongodb/mongodb.md) e siga `Instalação > Ubuntu`.
+Clique [aqui](../databases/mongodb.md) e siga `Instalação > Ubuntu`.
 
 ### Instalação do Serve (Projeto ReactJS)
 
-Clique [aqui](../nodejs/libs/serve.md) e siga `Instalação`.
+Clique [aqui](../runtime/nodejs/libs/serve.md) e siga `Instalação`.
 
 ### Criação de usuário
 
@@ -148,7 +148,7 @@ Obs: A aplicação ainda está na porta `3000`.
 
 Pode parecer um erro no terminal do servidor, mas é por causa que no código-fonte ocorre o envio de e-mail, e como não foi configurado o servidor de e-mail, aparecerá um erro.
 
-Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../email/sparkpost.md), [Mailgun](../email/mailgun.md), [SendGrid](../email/sendgrid.md) ou outro.
+Pode ser configurado qualquer um dos serviços de e-mail: [SparkPost](../emails/sparkpost.md), [Mailgun](../emails/mailgun.md), [SendGrid](../emails/sendgrid.md) ou outro.
 
 ### Build na aplicação (Projeto ReactJS)
 
@@ -164,13 +164,13 @@ Obs: A aplicação ainda está na porta `8080`.
 
 ### Configuração do PM2
 
-Logado com o usuário `deploy` e na pasta do projeto, clique [aqui](../nodejs/libs/pm2.md) e siga `Comandos`, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
+Logado com o usuário `deploy` e na pasta do projeto, clique [aqui](../runtime/nodejs/libs/pm2.md) e siga `Comandos`, para iniciar o servidor, visualizar a lista que o PM2 está rodando, ver a tela de monitoramento e para gerar o script de inicialização.
 
 ### Configuração do Proxy do Nginx
 
 O Node.js só aceita uma aplicação Node.js na porta 80, então usamos o Nginx para fazer o gerenciamento da porta.
 
-Logado com o usuário `root`, clique [aqui](../web-server/nginx.md) e siga `Instalação > Linux` e `Setar Arquivo de Configuração > Linux`.
+Logado com o usuário `root`, clique [aqui](../web-servers/nginx.md) e siga `Instalação > Linux` e `Setar Arquivo de Configuração > Linux`.
 
 Agora, faça um teste usando a porta 80 ou sem porta.
 
