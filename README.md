@@ -61,6 +61,7 @@
 - [Fontes](#fontes)
 - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
+- [Gerenciadores de Pacotes Node.js](#gerenciadores-de-pacotes-node.js)
 - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
 - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
 - [Ícones](#ícones)
@@ -291,6 +292,10 @@
 - [Chocolatey](./src/packages-managers/chocolatey.md)
 - [cURL](./src/packages-managers/curl.md)
 - [Homebrew](./src/packages-managers/homebrew.md)
+
+### Gerenciadores de Pacotes Node.js
+
+- [Yarn](./src/node-packages-managers/yarn.md)
 
 ### Gerenciadores de Projetos
 
