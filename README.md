@@ -8,7 +8,15 @@
 </h3>
 
 <p align="center">
-  Awesome é uma lista com as melhores ferramentas, softwares, bibliotecas e guias para desenvolvimento de projetos no ecossistema Node.js, ReactJS e React Native.
+  Awesome é uma lista com as melhores ferramentas, softwares, bibliotecas e guias para desenvolvimento de projetos no ecossistema Node.js, ReactJS e React Native.  
+</p>
+
+<p align="center">
+  Esse Awesome é em português para desenvolvedores, principalmente iniciantes, que tem dificuldades com a língua inglesa, pois a maioria dos Awesomes são em inglês. Mas lembrando de que o domínio do inglês é de extrema importância.
+</p>
+
+<p align="center">
+  Esse não é um Awesome para adicionar todas as bibliotecas e ferramentas disponíveis, mas sim as melhores de cada contexto.
 </p>
 
 <p align="center">
@@ -26,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="#-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-licença">Licença</a>
+<a href="##-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-guia">Guia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-licença">Licença</a>
 </p>
 
 ## Conteúdo
@@ -81,7 +89,8 @@
 - [UI/UX](#uiux)
 - [Virtualização de Macs](#virtualização-de-macs)
 
-- [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
+## Guia
+- [Configuração de Ambiente](#configuração-de-ambiente)
 
 ### Acesso Remoto no Servidor
 
@@ -493,7 +502,7 @@
 - [MacinCloud](./src/macs-virtualization/macincloud.md)
 - [MacStadium](./src/macs-virtualization/macstadium.md)
 
-### Guia - Configuração de Ambiente
+### Configuração de Ambiente
 
 - [Instalação e Configuração do Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)
 
