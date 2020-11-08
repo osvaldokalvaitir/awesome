@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="##-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-guia">Guia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-licença">Licença</a>
+<a href="##-conteúdo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="##-licença">Licença</a>
 </p>
 
 ## Conteúdo
@@ -88,11 +88,7 @@
 - [Terminais](#terminais)
 - [UI/UX](#uiux)
 - [Virtualização de Macs](#virtualização-de-macs)
-
-## Guia
-- [Configuração de Ambiente](#configuração-de-ambiente)
-
-___
+- [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
 
 ### Acesso Remoto no Servidor
 
@@ -504,9 +500,7 @@ ___
 - [MacinCloud](./src/macs-virtualization/macincloud.md)
 - [MacStadium](./src/macs-virtualization/macstadium.md)
 
-___
-
-### Configuração de Ambiente
+### Guia - Configuração de Ambiente
 
 - [Instalação e Configuração do Visual Studio Code](./src/code-editors/visual-studio-code/visual-studio-code.md)
 
@@ -580,4 +574,17 @@ ___
 - [GitHub](./src/version-controls/git/tools/github.md)
 
 ## Licença
+
+Este projeto está sob a licença MIT. Consulte a [LICENÇA] (https://github.com/osvaldokalvaitir/awesome/blob/master/LICENSE) para obter mais informações.
+
+---
+
+Desenvolvido com :green_heart: por Kalvaitir.
+
+<h1 align="center">
+  <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="100px" height="100px"
+  alt="Kalvaitir.com" />
+  Kalvaitir © 2020
+  Todos os direitos reservados
+</h1>
 
