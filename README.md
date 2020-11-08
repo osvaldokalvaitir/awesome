@@ -578,7 +578,4 @@
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/osvaldokalvaitir/awesome/blob/master/LICENSE) para obter mais informações.
 
 ---
-<p>
-  Desenvolvido com :green_heart: por <img src="https://github.com/osvaldokalvaitir/awesome/blob/master/.github/assets/img/logos/kalvaitir.png" width="20px" height="20px"
-  alt="Kalvaitir.com" />
-</p>
+Desenvolvido com :green_heart: por Osvaldo Kalvaitir :wave: [Entrar em contato!](https://www.linkedin.com/in/osvaldokalvaitir)
