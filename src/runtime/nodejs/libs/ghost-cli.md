@@ -1,4 +1,4 @@
-# Ghost-CLi
+# Ghost-CLI
 
 Ferramenta CLI para instalar e atualizar o Ghost.
 
