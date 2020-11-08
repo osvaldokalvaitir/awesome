@@ -8,8 +8,8 @@ Clique [aqui](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfal
 
 ## Tema
 
-Para ativar o tema [Dracula](../../../theme/dracula.md), clique no ícone do JSON Viewer e no item `Opções`, na página que abrir, em `Theme` selecione `dracula-custom` e clique em `Save`.
+Para ativar o tema [Dracula](../../../themes/dracula.md), clique no ícone do JSON Viewer e no item `Opções`, na página que abrir, em `Theme` selecione `dracula-custom` e clique em `Save`.
 
 ## Fonte
 
-Para mudar a fonte para [Fira Code](../../../font/fira-code.md), clique no ícone do JSON Viewer e no item `Opções`, na página que abrir, em `Custom Style` no `font-family`, altere o primeiro nome de fonte `monaco` para `"Fira Code"` e clique em `Save`.
+Para mudar a fonte para [Fira Code](../../../fonts/fira-code.md), clique no ícone do JSON Viewer e no item `Opções`, na página que abrir, em `Custom Style` no `font-family`, altere o primeiro nome de fonte `monaco` para `"Fira Code"` e clique em `Save`.

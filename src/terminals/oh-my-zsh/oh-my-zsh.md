@@ -2,7 +2,7 @@
 
 Terminal para Unix, funciona melhor no macOS e Linux.
 
-Obs: Uma outra opção seria o terminal [Terminal.app](terminal.app.md).
+Obs: Uma outra opção seria o terminal [Terminal.app](../terminal.app.md).
 
 ## Documentação
 

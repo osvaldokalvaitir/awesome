@@ -36,7 +36,7 @@ adonis serve
 
 ## Execução de Ouvinte de Fila
 
-Executar o ouvinte [Adonis Kue Provider](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/adonis-kue.md), é necessário tê-lo instalado antes:
+Executar o ouvinte [Adonis Kue Provider](./adonis-kue.md), é necessário tê-lo instalado antes:
 
 ```
 adonis kue:listen
@@ -139,7 +139,7 @@ Criar hook:
 adonis make:hook NomeHook
 ```
 
-Instalando a biblioteca [Adonis Kue Provider](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/adonis-kue.md), aparecem dois novos comandos que podem ser utilizados:
+Instalando a biblioteca [Adonis Kue Provider](./adonis-kue.md), aparecem dois novos comandos que podem ser utilizados:
 
 Criar job:
 

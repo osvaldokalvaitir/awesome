@@ -85,7 +85,7 @@ Apesar de conseguirmos visualizar os logs e as mensagens enviadas ao console, n�
 
 Para resolver isso, instale o [React Dev Tools](react-devtools.md) e configure-o.  
 
-Para ver informações disponíveis no Redux use a extensão [Redux DevTools](../../browser/chrome/extensions/redux-devtools.md) no Chrome, instale [Remote Redux DevTools](remote-redux-devtools.md) e configure-o.  
+Para ver informações disponíveis no Redux use a extensão [Redux DevTools](../../../browsers/chrome/extensions/redux-devtools.md) no Chrome, instale [Remote Redux DevTools](remote-redux-devtools.md) e configure-o.  
 
 Para usar o [Reactotron](reactotron-react-native.md), instale-o e configure.  
 

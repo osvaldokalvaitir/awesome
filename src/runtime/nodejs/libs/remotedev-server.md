@@ -1,6 +1,6 @@
 # RemoteDev Server
 
-Ponte para se comunicar com um aplicativo remotamente via extensão [Redux DevTools](../../browser/chrome/extensions/redux-devtools.md), [Remote Redux DevTools](remote-redux-devtools.md) ou [RemoteDev](remotedev.md). Executar seu servidor é opcional, você pode usar [remotedev.io](https://remotedev.io) em seu lugar.
+Ponte para se comunicar com um aplicativo remotamente via extensão [Redux DevTools](../../../browsers/chrome/extensions/redux-devtools.md), [Remote Redux DevTools](remote-redux-devtools.md) ou [RemoteDev](remotedev.md). Executar seu servidor é opcional, você pode usar [remotedev.io](https://remotedev.io) em seu lugar.
 
 ## Documentação
 

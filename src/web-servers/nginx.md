@@ -67,7 +67,7 @@ Clique [aqui](http://nginx.org) para ver a documentação e realizar o download.
     }
     ```
 
-    Obs: Esta é a configuração da [DigitalOcean](../server/digitalocean.md), para outros servidores, precisa pesquisar.
+    Obs: Esta é a configuração da [DigitalOcean](../servers/digitalocean.md), para outros servidores, precisa pesquisar.
 
   - Projeto ReactJS
 

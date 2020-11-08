@@ -10,7 +10,7 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 
 ### Instalação
 
-- [Fira Code](../../font/fira-code.md)
+- [Fira Code](../../fonts/fira-code.md)
 
 ### Configuração
 

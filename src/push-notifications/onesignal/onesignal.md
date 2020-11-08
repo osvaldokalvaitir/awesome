@@ -32,7 +32,7 @@ Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
   - Em `Configure Platform`:
 
-    - É necessário, gerar o certificado, para isso clique [aqui](../password-certificate/the-provisionator.md) e siga `Gerar certificados`
+    - É necessário, gerar o certificado, para isso clique [aqui](../onesignal/certificates/the-provisionator.md) e siga `Gerar certificados`
 
     - Em `Production Certificate .p12 file:`, clique em `Choose File...` e selecione o certificado gerado
 
@@ -60,7 +60,7 @@ Para adicionar um app no OneSignal, siga os seguintes procedimentos:
 
   - Em `Configure Platform`:
 
-    - É necessário, criar um projeto no Firebase e ver suas configurações, para isso clique [aqui](../development-platform/firebase.md) e siga `Criar um projeto` e `Configurações de Mensagens`
+    - É necessário, criar um projeto no Firebase e ver suas configurações, para isso clique [aqui](../../development-platforms/firebase.md) e siga `Criar um projeto` e `Configurações de Mensagens`
 
     - Em `Firebase Server Key`, cole o token da `Chave do servidor` do Firebase
 

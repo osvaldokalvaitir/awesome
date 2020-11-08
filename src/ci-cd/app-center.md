@@ -62,7 +62,7 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
 - Selecione o repositório desejado
 
-- É necessário criar uma branch chamada `staging`, clique [aqui](../version-control/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
+- É necessário criar uma branch chamada `staging`, clique [aqui](../version-controls/git/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
 
 - Aparecerá as branches do projeto, no caso, `master` e `staging`
 
@@ -88,7 +88,7 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
     - Coloque `On` na seção
 
-    - É necessário criar o arquivo Keystore, clique [aqui](../password-manager/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
+    - É necessário criar o arquivo Keystore, clique [aqui](../passwords-managers/keytool.md) e siga `Gerar Assinatura da APK` para criar o arquivo
 
     - Em `Keystore`, clique no botão de upload `Keystore file` e carregue o arquivo gerado
 
@@ -120,7 +120,7 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
 Para a build de Staging, depois de concluído, é enviado um e-mail com o aplicativo para todos os integrantes do grupo selecionado, bastando instalar o aplicativo e realizar os testes, não necessitando da Google Play.  
 
-Para a build de Production, na primeira vez tem que enviar o APK manualmente para a Google Play, então, depois de concluído, clique no combobox `Download` e `Download build` para fazer o download da APK. Clique [aqui](../development-platform/play-console.md) - Siga `Criar App` para criar o app no Play Console.
+Para a build de Production, na primeira vez tem que enviar o APK manualmente para a Google Play, então, depois de concluído, clique no combobox `Download` e `Download build` para fazer o download da APK. Clique [aqui](../development-platforms/play-console.md) - Siga `Criar App` para criar o app no Play Console.
 
 ## Conectar Store no Android
 
@@ -142,7 +142,7 @@ Para configurar a store no Android, siga os seguintes procedimentos:
 
   - No item `Authenticate`:
 
-    - É necessário conceder o acesso da API Play Console ao App Center, clique [aqui](../development-platform/play-console.md) - Siga `Conceder Acesso à API` para dar acesso
+    - É necessário conceder o acesso da API Play Console ao App Center, clique [aqui](../development-platforms/play-console.md) - Siga `Conceder Acesso à API` para dar acesso
 
     - Em `Upload the Google Dev Console API credentials`, clique em `Security token` e selecione o arquivo json gerado
 
@@ -200,7 +200,7 @@ Para configurar a build de Staging e Production no iOS, siga os seguintes proced
 
 - Selecione o repositório desejado
 
-- É necessário criar uma branch chamada `staging`, clique [aqui](../version-control/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
+- É necessário criar uma branch chamada `staging`, clique [aqui](../version-controls/git/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
 
 - Aparecerá as branches do projeto, no caso, `master` e `staging`
 
@@ -212,7 +212,7 @@ Para configurar a build de Staging e Production no iOS, siga os seguintes proced
 
   - Na seção `Build app`:
 
-    - É necessário configurar o staging no XCode, clique [aqui](../ide/xcode.md) e siga `Configurações de Projeto > Deployment` para configurar o staging
+    - É necessário configurar o staging no XCode, clique [aqui](../ides/xcode.md) e siga `Configurações de Projeto > Deployment` para configurar o staging
 
     - Para a build de Staging, em `Shared Scheme`, selecione `<nome_aplicacao>-staging`
 
@@ -228,7 +228,7 @@ Para configurar a build de Staging e Production no iOS, siga os seguintes proced
 
     - Coloque `On` na seção
 
-    - É necessário criar os perfis de provisionamento, clique [aqui](../development-platform/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis Development, AdHoc e Production
+    - É necessário criar os perfis de provisionamento, clique [aqui](../development-platforms/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis Development, AdHoc e Production
 
     - Para a build de Staging, clique no botão de upload `Provisioning Profile` e selecione o perfil de provisionamento AdHoc
 

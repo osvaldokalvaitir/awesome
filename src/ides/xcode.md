@@ -118,7 +118,7 @@ Para configurar o deployment, siga os seguintes procedimentos:
 
     - Clique em `Combined`
 
-    - É necessário executar um comando para ver as chaves do CodePush, clique [aqui](../nodejs/libs/appcenter-cli.md) e siga `Comandos do CLI` para exibir as chaves no terminal
+    - É necessário executar um comando para ver as chaves do CodePush, clique [aqui](../runtime/nodejs/libs/appcenter-cli.md) e siga `Comandos do CLI` para exibir as chaves no terminal
 
     - Copie a chave do `Staging` do iOS do terminal para o `Staging` do `CODEPUSH_KEY`
 
@@ -170,7 +170,7 @@ Para configurar o deployment, siga os seguintes procedimentos:
 
   - Na seção `Signing`, desative a opção `Automatically manage signing`
 
-  - É necessário criar os perfis de provisionamento, clique [aqui](../development-platform/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis
+  - É necessário criar os perfis de provisionamento, clique [aqui](../development-platforms/apple-developer.md) e siga `Criar Perfil de Provisionamento` para criar os perfis
 
   - Na seção `Signing (Debug)`:
     
