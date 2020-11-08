@@ -59,6 +59,7 @@
 - [Emuladores](#emuladores)
 - [Erros](#erros)
 - [Fontes](#fontes)
+- [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
 - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
 - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
@@ -281,6 +282,10 @@
 
 - [Fira Code](./src/fonts/fira-code.md)
 
+### Gerenciadores de Dependências NPM
+
+- [Greenkeeper](./src/npm-dependencies-managers/greenkeeper.md)
+
 ### Gerenciadores de Pacotes
 
 - [Chocolatey](./src/packages-managers/chocolatey.md)
@@ -339,8 +344,8 @@
 
 ### Inspetores de Aplicativo
 
-- [Flipper](./src/app-inspectors/flipper.md)
-- [Reactotron](./src/app-inspectors/reactotron.md)
+- [Flipper](./src/apps-inspectors/flipper.md)
+- [Reactotron](./src/apps-inspectors/reactotron.md)
 
 ### Inspiração de Design
 
