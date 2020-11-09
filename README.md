@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Esse não é um Awesome para adicionar todas as bibliotecas e ferramentas disponíveis, mas sim as melhores de cada contexto.
+  Esse não é um Awesome para adicionar todas as bibliotecas e ferramentas disponíveis, mas sim tentar encontrar as melhores de cada contexto.
 </p>
 
 <p align="center">
