@@ -206,9 +206,9 @@
 
   #### Linguagens de Programação
 
-  - [DevDocs Desktop](src/docs/devdocs-desktop.md)
-  - [MDN Web Docs](src/docs/mdn-web-docs.md)
-  - [W3Schools](src/docs/w3schools.md)
+  - [DevDocs Desktop](src/docs/programming-languages/devdocs-desktop.md)
+  - [MDN Web Docs](src/docs/programming-languages/mdn-web-docs.md)
+  - [W3Schools](src/docs/programming-languages/w3schools.md)
 
   #### UI/UX
 
