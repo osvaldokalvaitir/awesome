@@ -1133,5 +1133,5 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/
 ---
 
 <p align="center">
-Desenvolvido com :green_heart: por [Osvaldo Kalvaitir Filho](https://www.linkedin.com/in/osvaldokalvaitir)
+Desenvolvido com 💚 por <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
 </p>
