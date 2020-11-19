@@ -965,6 +965,7 @@
   - [webpack-dev-server](src/runtime/nodejs/libs/webpack-dev-server.md)
   - [Windows-Build-Tools](src/runtime/nodejs/libs/windows-build-tools.md)
   - [winston](src/runtime/nodejs/libs/winston.md)
+  - [XRegExp](src/runtime/nodejs/libs/xregexp.md)
   - [yaml.js](src/runtime/nodejs/libs/yamljs.md)
   - [Yargs](src/runtime/nodejs/libs/yargs.md)
   - [Youch](src/runtime/nodejs/libs/youch.md)
