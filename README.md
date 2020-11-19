@@ -469,6 +469,7 @@
   - [Adonis Validator](src/runtime/nodejs/libs/@adonisjs-validator.md)
   - [AdonisJs Cli](src/runtime/nodejs/libs/@adonisjs-cli.md)
   - [AdonisJs Redis](src/runtime/nodejs/libs/@adonisjs-redis.md)
+  - [ansi-regex](src/runtime/nodejs/libs/ansi-regex.md)
   - [apiDoc](src/runtime/nodejs/libs/apidoc.md)
   - [Apollo](src/runtime/nodejs/libs/apollo-server.md)
   - [Apollo Client](src/runtime/nodejs/libs/apollo-client.md)
