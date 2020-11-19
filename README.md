@@ -710,6 +710,7 @@
   - [optimize-css-assets-webpack-plugin](src/runtime/nodejs/libs/optimize-css-assets-webpack-plugin.md)
   - [Pagar.me JavaScript](src/runtime/nodejs/libs/pagarme.md)
   - [Particles.js](src/runtime/nodejs/libs/particlesjs.md)
+  - [Path-to-RegExp](src/runtime/nodejs/libs/path-to-regexp.md)
   - [PDFKit](src/runtime/nodejs/libs/pdfkit.md)
   - [pdfmake](src/runtime/nodejs/libs/pdfmake.md)
   - [pg](src/runtime/nodejs/libs/pg.md)
