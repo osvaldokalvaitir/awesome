@@ -698,6 +698,7 @@
   - [node-fetch](src/runtime/nodejs/libs/node-fetch.md)
   - [node-ftp](src/runtime/nodejs/libs/ftp.md)
   - [node-http-proxy](src/runtime/nodejs/libs/http-proxy.md)
+  - [node-ignore](src/runtime/nodejs/libs/node-ignore.md)
   - [node-mssql](src/runtime/nodejs/libs/mssql.md)
   - [node-printer](src/runtime/nodejs/libs/node-printer.md)
   - [node-sass](src/runtime/nodejs/libs/node-sass.md)
