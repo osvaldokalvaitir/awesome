@@ -579,6 +579,7 @@
   - [express-brute-redis](src/runtime/nodejs/libs/express-brute-redis.md)
   - [express-http-proxy](src/runtime/nodejs/libs/express-http-proxy.md)
   - [express-jwt](src/runtime/nodejs/libs/express-jwt.md)
+  - [express-winston](src/runtime/nodejs/libs/express-winston.md)
   - [ExpressJS Async Errors](src/runtime/nodejs/libs/express-async-errors.md)
   - [factory-girl](src/runtime/nodejs/libs/factory-girl.md)
   - [Faker.js](src/runtime/nodejs/libs/faker.md)
