@@ -968,6 +968,7 @@
   - [Watermelon DB](src/runtime/nodejs/libs/@nozbe-watermelondb.md)
   - [webpack](src/runtime/nodejs/libs/webpack.md)
   - [Webpack Bundle Analyzer](src/runtime/nodejs/libs/webpack-bundle-analyzer.md)
+  - [Webpack Hot Middleware](src/runtime/nodejs/libs/webpack-hot-middleware.md)
   - [webpack-cli](src/runtime/nodejs/libs/webpack-cli.md)
   - [webpack-dev-server](src/runtime/nodejs/libs/webpack-dev-server.md)
   - [Windows-Build-Tools](src/runtime/nodejs/libs/windows-build-tools.md)
