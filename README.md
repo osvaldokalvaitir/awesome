@@ -545,6 +545,7 @@
   - [Electron Packager](src/runtime/nodejs/libs/electron-packager.md)
   - [electron-builder](src/runtime/nodejs/libs/electron-builder.md)
   - [electron-store](src/runtime/nodejs/libs/electron-store.md)
+  - [emoji-regex](src/runtime/nodejs/libs/emoji-regex.md)
   - [Enzyme](src/runtime/nodejs/libs/enzyme.md)
   - [enzyme-adapter-react-16](src/runtime/nodejs/libs/enzyme-adapter-react-16.md)
   - [ESCPOS](src/runtime/nodejs/libs/escpos.md)
