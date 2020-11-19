@@ -208,6 +208,7 @@
 
   - [DevDocs Desktop](src/docs/programming-languages/devdocs-desktop.md)
   - [MDN Web Docs](src/docs/programming-languages/mdn-web-docs.md)
+  - [Training Center](src/docs/programming-languages/training-center.md)
   - [W3Schools](src/docs/programming-languages/w3schools.md)
 
   #### UI/UX
