@@ -61,7 +61,7 @@
 - [Fontes](#fontes)
 - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
-- [Gerenciadores de Pacotes Node.js](#gerenciadores-de-pacotes-node.js)
+- [Gerenciadores de Pacotes Node.js](#gerenciadores-de-pacotes-nodejs)
 - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
 - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
 - [Ícones](#ícones)
