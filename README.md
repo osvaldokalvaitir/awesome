@@ -927,6 +927,7 @@
   - [sequelize-cli](src/runtime/nodejs/libs/sequelize-cli.md)
   - [sequelize-json-schema](src/runtime/nodejs/libs/sequelize-json-schema.md)
   - [serve](src/runtime/nodejs/libs/serve.md)
+  - [serve-favicon](src/runtime/nodejs/libs/serve-favicon.md)
   - [Session File Store](src/runtime/nodejs/libs/session-file-store.md)
   - [sharp](src/runtime/nodejs/libs/sharp.md)
   - [shortid](src/runtime/nodejs/libs/shortid.md)
