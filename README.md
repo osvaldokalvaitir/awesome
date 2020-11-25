@@ -20,17 +20,17 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osvaldokalvaitir/awesome?color=%00A83A">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/osvaldokalvaitir/awesome?color=00A83A">
 
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/osvaldokalvaitir/awesome?color=%00A83A&logo=github">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/osvaldokalvaitir/awesome?color=00A83A&logo=github">
 
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/osvaldokalvaitir/awesome?color=%00A83A&logo=github">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/osvaldokalvaitir/awesome?color=00A83A&logo=github">
 
   <a href="https://kalvaitir.com/">
-    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-%00A83A">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%00A83A">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
 </p>
 
 <p align="center">
