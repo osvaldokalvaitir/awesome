@@ -591,6 +591,7 @@
   - [Faker.js](src/runtime/nodejs/libs/faker.md)
   - [FastImage](src/runtime/nodejs/libs/react-native-fast-image.md)
   - [File Loader](src/runtime/nodejs/libs/file-loader.md)
+  - [filefy](src/runtime/nodejs/libs/filefy.md)
   - [Firebase](src/runtime/nodejs/libs/firebase.md)
   - [Firebase CLI](src/runtime/nodejs/libs/firebase-tools.md)
   - [Flatpickr](src/runtime/nodejs/libs/flatpickr.md)
