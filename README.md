@@ -878,6 +878,7 @@
   - [react-native-tvos](src/runtime/nodejs/libs/react-native-tvos.md)
   - [react-native-web](src/runtime/nodejs/libs/react-native-web.md)
   - [react-number-format](src/runtime/nodejs/libs/react-number-format.md)
+  - [react-paginate](src/runtime/nodejs/libs/react-paginate.md)
   - [React-PDF](src/runtime/nodejs/libs/react-pdf.md)
   - [React-pdf](src/runtime/nodejs/libs/@react-pdf-renderer.md)
   - [React-Perfect-Scrollbar](src/runtime/nodejs/libs/react-perfect-scrollbar.md)
