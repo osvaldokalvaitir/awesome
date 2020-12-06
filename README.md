@@ -800,6 +800,7 @@
   - [React Redux](src/runtime/nodejs/libs/react-redux.md)
   - [React Scroll](src/runtime/nodejs/libs/react-scroll.md)
   - [React Slider](src/runtime/nodejs/libs/rc-slider.md)
+  - [React Syntax Highlighter](src/runtime/nodejs/libs/react-syntax-highlighter.md)
   - [React Table](src/runtime/nodejs/libs/react-table.md)
   - [React Testing Library](src/runtime/nodejs/libs/@testing-library-react.md)
   - [react virtualized](src/runtime/nodejs/libs/react-virtualized.md)
