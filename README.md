@@ -742,6 +742,7 @@
   - [React Apollo - Hooks](src/runtime/nodejs/libs/@apollo-react-hooks.md)
   - [React Calendar Heatmap](src/runtime/nodejs/libs/react-calendar-heatmap.md)
   - [React Carousel Image Gallery](src/runtime/nodejs/libs/react-image-gallery.md)
+  - [React Color](src/runtime/nodejs/libs/react-color.md)
   - [React Contextmenu](src/runtime/nodejs/libs/react-contextmenu.md)
   - [React Credit Cards](src/runtime/nodejs/libs/react-credit-cards.md)
   - [React Date Picker](src/runtime/nodejs/libs/react-datepicker.md)
