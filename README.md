@@ -750,6 +750,7 @@
   - [React DnD HTML5 Backend](src/runtime/nodejs/libs/react-dnd-html5-backend.md)
   - [React Dragula](src/runtime/nodejs/libs/react-dragula.md)
   - [React Feather Icons](src/runtime/nodejs/libs/react-feather.md)
+  - [React Google Tag Manager Module](src/runtime/nodejs/libs/react-gtm-module.md)
   - [React Helmet](src/runtime/nodejs/libs/react-helmet.md)
   - [React Icons](src/runtime/nodejs/libs/react-icons.md)
   - [React Image Crop](src/runtime/nodejs/libs/react-image-crop.md)
