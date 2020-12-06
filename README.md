@@ -822,6 +822,7 @@
   - [react-chartjs-2](src/runtime/nodejs/libs/react-chartjs-2.md)
   - [react-currency-format](src/runtime/nodejs/libs/react-currency-format.md)
   - [react-devtools](src/runtime/nodejs/libs/react-devtools.md)
+  - [react-docgen](src/runtime/nodejs/libs/react-docgen.md)
   - [react-dom](src/runtime/nodejs/libs/react-dom.md)
   - [react-dropzone](src/runtime/nodejs/libs/react-dropzone.md)
   - [react-fast-compare](src/runtime/nodejs/libs/react-fast-compare.md)
