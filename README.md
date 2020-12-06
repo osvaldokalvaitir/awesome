@@ -752,6 +752,7 @@
   - [React Feather Icons](src/runtime/nodejs/libs/react-feather.md)
   - [React Helmet](src/runtime/nodejs/libs/react-helmet.md)
   - [React Icons](src/runtime/nodejs/libs/react-icons.md)
+  - [React Image Crop](src/runtime/nodejs/libs/react-image-crop.md)
   - [React IMask Plugin](src/runtime/nodejs/libs/react-imask.md)
   - [React Intl](src/runtime/nodejs/libs/react-intl.md)
   - [React jvectormap](src/runtime/nodejs/libs/react-jvectormap.md)
