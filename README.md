@@ -731,6 +731,7 @@
   - [Prisma](src/runtime/nodejs/libs/prisma.md)
   - [prop-types](src/runtime/nodejs/libs/prop-types.md)
   - [Proton Native](src/runtime/nodejs/libs/proton-native.md)
+- [Puppeteer](src/runtime/nodejs/libs/puppeteer.md)
   - [Rate Limit Redis](src/runtime/nodejs/libs/rate-limit-redis.md)
   - [Raven-node](src/runtime/nodejs/libs/raven.md)
   - [rc-calendar](src/runtime/nodejs/libs/rc-calendar.md)
