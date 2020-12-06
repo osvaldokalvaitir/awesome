@@ -757,6 +757,7 @@
   - [React Intl](src/runtime/nodejs/libs/react-intl.md)
   - [React jvectormap](src/runtime/nodejs/libs/react-jvectormap.md)
   - [React Loadable](src/runtime/nodejs/libs/react-loadable.md)
+  - [React Measure](src/runtime/nodejs/libs/react-measure.md)
   - [React Native](src/runtime/nodejs/libs/react-native.md)
   - [React Native Apple Authentication](src/runtime/nodejs/libs/@invertase-react-native-apple-authentication.md)
   - [React Native Async Storage](src/runtime/nodejs/libs/@react-native-community-async-storage.md)
