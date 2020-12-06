@@ -892,6 +892,7 @@
   - [react-spring](src/runtime/nodejs/libs/react-spring.md)
   - [react-stripe-elements](src/runtime/nodejs/libs/react-stripe-elements.md)
   - [react-switch](src/runtime/nodejs/libs/react-switch.md)
+  - [react-tabs](src/runtime/nodejs/libs/react-tabs.md)
   - [react-tagsinput](src/runtime/nodejs/libs/react-tagsinput.md)
   - [react-toastify](src/runtime/nodejs/libs/react-toastify.md)
   - [react-transition-group](src/runtime/nodejs/libs/react-transition-group.md)
