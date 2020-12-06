@@ -804,6 +804,7 @@
   - [react virtualized](src/runtime/nodejs/libs/react-virtualized.md)
   - [react-app-polyfill](src/runtime/nodejs/libs/react-app-polyfill.md)
   - [react-app-rewired](src/runtime/nodejs/libs/react-app-rewired.md)
+  - [react-avatar-editor](src/runtime/nodejs/libs/react-avatar-editor.md)
   - [react-beautiful-dnd](src/runtime/nodejs/libs/react-beautiful-dnd.md)
   - [react-big-calendar](src/runtime/nodejs/libs/react-big-calendar.md)
   - [React-Bootstrap](src/runtime/nodejs/libs/react-bootstrap.md)
