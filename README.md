@@ -726,6 +726,7 @@
   - [PM2](src/runtime/nodejs/libs/pm2.md)
   - [Paper](src/runtime/nodejs/libs/react-native-paper.md)
   - [polished](src/runtime/nodejs/libs/polished.md)
+  - [Popper](src/runtime/nodejs/libs/@popperjs-core.md)
   - [Prettier](src/runtime/nodejs/libs/prettier.md)
   - [prettier-eslint](src/runtime/nodejs/libs/prettier-eslint.md)
   - [Prisma](src/runtime/nodejs/libs/prisma.md)
