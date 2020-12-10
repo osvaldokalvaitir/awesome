@@ -518,6 +518,7 @@
   - [cookie-parser](src/runtime/nodejs/libs/cookie-parser.md)
   - [copy-webpack-plugin](src/runtime/nodejs/libs/copy-webpack-plugin.md)
   - [CORS](src/runtime/nodejs/libs/cors.md)
+  - [cote](src/runtime/nodejs/libs/cote.md)
   - [Create React App](src/runtime/nodejs/libs/create-react-app.md)
   - [create-react-library](src/runtime/nodejs/libs/create-react-library.md)
   - [cross-env](src/runtime/nodejs/libs/cross-env.md)
