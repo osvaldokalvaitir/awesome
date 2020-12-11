@@ -471,6 +471,7 @@
   - [AdonisJs Cli](src/runtime/nodejs/libs/@adonisjs-cli.md)
   - [AdonisJs Redis](src/runtime/nodejs/libs/@adonisjs-redis.md)
   - [ansi-regex](src/runtime/nodejs/libs/ansi-regex.md)
+  - [Ant Design](src/runtime/nodejs/libs/antd.md)
   - [anymatch](src/runtime/nodejs/libs/anymatch.md)
   - [apiDoc](src/runtime/nodejs/libs/apidoc.md)
   - [Apollo](src/runtime/nodejs/libs/apollo-server.md)
