@@ -434,6 +434,7 @@
   - [@babel/preset-react](src/runtime/nodejs/libs/@babel-preset-react.md)
   - [@commitlint/cli](src/runtime/nodejs/libs/@commitlint-cli.md)
   - [@commitlint/config-conventional](src/runtime/nodejs/libs/@commitlint-config-conventional.md)
+  - [@emotion/react](src/runtime/nodejs/libs/@emotion-react.md)
   - [@expo-google-fonts/archivo](src/runtime/nodejs/libs/@expo-google-fonts-archivo.md)
   - [@expo-google-fonts/poppins](src/runtime/nodejs/libs/@expo-google-fonts-poppins.md)
   - [@expo-google-fonts/roboto](src/runtime/nodejs/libs/@expo-google-fonts-roboto.md)
