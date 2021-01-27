@@ -864,6 +864,7 @@
   - [react-native-progress](src/runtime/nodejs/libs/react-native-progress.md)
   - [react-native-qrcode](src/runtime/nodejs/libs/react-native-qrcode.md)
   - [react-native-qrcode-svg](src/runtime/nodejs/libs/react-native-qrcode-svg.md)
+  - [react-native-raw-bottom-sheet](src/runtime/nodejs/libs/react-native-raw-bottom-sheet.md)
   - [react-native-reanimated](src/runtime/nodejs/libs/react-native-reanimated.md)
   - [react-native-rename](src/runtime/nodejs/libs/react-native-rename.md)
   - [react-native-responsive-screen](src/runtime/nodejs/libs/react-native-responsive-screen.md)
