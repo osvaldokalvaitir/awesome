@@ -977,6 +977,7 @@
   - [terser-webpack-plugin](src/runtime/nodejs/libs/terser-webpack-plugin.md)
   - [Tesseract.js](src/runtime/nodejs/libs/tesseractjs.md)
   - [Text Mask](src/runtime/nodejs/libs/react-text-mask.md)
+  - [Theme UI](src/runtime/nodejs/libs/theme-ui.md)
   - [TS Node](src/runtime/nodejs/libs/ts-node.md)
   - [ts-node-dev](src/runtime/nodejs/libs/ts-node-dev.md)
   - [TypeGraphQL](src/runtime/nodejs/libs/type-graphql.md)
