@@ -94,11 +94,17 @@ Clique [aqui](https://nodejs.org/en) para ver a documentação no site ou [aqui]
 
 - **Windows usando Chocolatey**
 
-  Para instalar o Node.js, executar no Chocolatey o seguinte comando:
+  Para instalar o Node.js com a última versão corrente, executar no Chocolatey o seguinte comando:
 
   ```
   cinst nodejs
   ```
+
+  Ou, para instalar o Node.js com a última versão estável (lts), executar no Chocolatey o seguinte comando:
+
+  ```
+  cinst nodejs-lts
+  ``` 
 
 Verifique se o Node.js está instalado executando:
 
