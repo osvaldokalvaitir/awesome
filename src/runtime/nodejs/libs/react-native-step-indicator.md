@@ -1,11 +1,11 @@
-# react-native-step-indicator
+# Modalize
 
-Uma implementação simples react-native do widget indicador de etapas compatível com o ViewPager e o ListView.
+Uma folha modal/inferior altamente personalizável que adora rolar o conteúdo.
 
 ## Documentação
 
-Clique [aqui](https://github.com/24ark/react-native-step-indicator) para ver a documentação.
+Clique [aqui](https://github.com/jeremybarbet/react-native-modalize) para ver a documentação.
 
 ## Instalação
 
-Clique [aqui](https://www.npmjs.com/package/react-native-step-indicator) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/react-native-modalize) para fazer a instalação.
