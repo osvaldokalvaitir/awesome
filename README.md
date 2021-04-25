@@ -875,6 +875,7 @@
   - [react-native-safe-area-context](src/runtime/nodejs/libs/react-native-safe-area-context.md)
   - [react-native-screens](src/runtime/nodejs/libs/react-native-screens.md)
   - [react-native-side-menu](src/runtime/nodejs/libs/react-native-side-menu.md)
+  - [react-native-simple-toast](src/runtime/nodejs/libs/react-native-simple-toast.md)
   - [react-native-size-matters](src/runtime/nodejs/libs/react-native-size-matters.md)
   - [react-native-slider](src/runtime/nodejs/libs/react-native-slider.md)
   - [react-native-snap-carousel](src/runtime/nodejs/libs/react-native-snap-carousel.md)
