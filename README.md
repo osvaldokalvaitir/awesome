@@ -878,6 +878,7 @@
   - [react-native-reanimated](src/runtime/nodejs/libs/react-native-reanimated.md)
   - [react-native-rename](src/runtime/nodejs/libs/react-native-rename.md)
   - [react-native-responsive-screen](src/runtime/nodejs/libs/react-native-responsive-screen.md)
+  - [react-native-root-siblings](src/runtime/nodejs/libs/react-native-root-siblings.md)
   - [react-native-root-toast](src/runtime/nodejs/libs/react-native-root-toast.md)
   - [react-native-safe-area-context](src/runtime/nodejs/libs/react-native-safe-area-context.md)
   - [react-native-screens](src/runtime/nodejs/libs/react-native-screens.md)
