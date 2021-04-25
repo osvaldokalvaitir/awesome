@@ -888,6 +888,7 @@
   - [react-native-svg-charts](src/runtime/nodejs/libs/react-native-svg-charts.md)
   - [react-native-swift](src/runtime/nodejs/libs/react-native-swift.md)
   - [react-native-swipe-list-view](src/runtime/nodejs/libs/react-native-swipe-list-view.md)
+  - [react-native-toast-message](src/runtime/nodejs/libs/react-native-toast-message.md)
   - [react-native-track-player](src/runtime/nodejs/libs/react-native-track-player.md)
   - [react-native-tvos](src/runtime/nodejs/libs/react-native-tvos.md)
   - [react-native-web](src/runtime/nodejs/libs/react-native-web.md)
