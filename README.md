@@ -730,6 +730,7 @@
   - [pino](src/runtime/nodejs/libs/pino.md)
   - [PM2](src/runtime/nodejs/libs/pm2.md)
   - [Paper](src/runtime/nodejs/libs/react-native-paper.md)
+  - [PeerJS](src/runtime/nodejs/libs/peerjs.md)
   - [polished](src/runtime/nodejs/libs/polished.md)
   - [Popper](src/runtime/nodejs/libs/@popperjs-core.md)
   - [Prettier](src/runtime/nodejs/libs/prettier.md)
