@@ -743,6 +743,7 @@
   - [Puppeteer](src/runtime/nodejs/libs/puppeteer.md)
   - [Rambdax](src/runtime/nodejs/libs/rambdax.md)
   - [Rate Limit Redis](src/runtime/nodejs/libs/rate-limit-redis.md)
+  - [rate-limiter-flexible](src/runtime/nodejs/libs/rate-limiter-flexible.md)
   - [Raven-node](src/runtime/nodejs/libs/raven.md)
   - [rc-calendar](src/runtime/nodejs/libs/rc-calendar.md)
   - [rc-switch](src/runtime/nodejs/libs/rc-switch.md)
