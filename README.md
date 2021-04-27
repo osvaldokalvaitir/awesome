@@ -855,6 +855,7 @@
   - [react-native-easy-toast](src/runtime/nodejs/libs/react-native-easy-toast.md)
   - [react-native-file-viewer](src/runtime/nodejs/libs/react-native-file-viewer.md)
   - [react-native-fs](src/runtime/nodejs/libs/react-native-fs.md)
+  - [react-native-fullwidth-image](src/runtime/nodejs/libs/react-native-fullwidth-image.md)
   - [react-native-geocoding](src/runtime/nodejs/libs/react-native-geocoding.md)
   - [react-native-get-random-values](src/runtime/nodejs/libs/react-native-get-random-values.md)  
   - [react-native-google-places-autocomplete](src/runtime/nodejs/libs/react-native-google-places-autocomplete.md)
