@@ -852,6 +852,7 @@
   - [react-native-appearance](src/runtime/nodejs/libs/react-native-appearance.md)
   - [react-native-app-intro-slider](src/runtime/nodejs/libs/react-native-app-intro-slider.md)
   - [react-native-background-fetch](src/runtime/nodejs/libs/react-native-background-fetch.md)
+  - [react-native-bootsplash](src/runtime/nodejs/libs/react-native-bootsplash.md)
   - [react-native-cardview](src/runtime/nodejs/libs/react-native-cardview.md)
   - [react-native-circular-progress](src/runtime/nodejs/libs/react-native-circular-progress.md)
   - [react-native-cli](src/runtime/nodejs/libs/react-native-cli.md)
