@@ -782,6 +782,7 @@
   - [React Native for macOS](src/runtime/nodejs/libs/react-native-macos.md)
   - [React Native for Windows](src/runtime/nodejs/libs/react-native-windows.md)
   - [React Native Gesture Handler](src/runtime/nodejs/libs/react-native-gesture-handler.md)
+  - [React Native Hold Menu](src/runtime/nodejs/libs/react-native-hold-menu.md)
   - [React Native Image Crop Picker](src/runtime/nodejs/libs/react-native-image-crop-picker.md)
   - [React Native Image Picker](src/runtime/nodejs/libs/react-native-image-picker.md)
   - [React Native Loading Spinner Overlay](src/runtime/nodejs/libs/react-native-loading-spinner-overlay.md)
