@@ -777,6 +777,7 @@
   - [React Native Awesome Alerts](src/runtime/nodejs/libs/react-native-awesome-alerts.md)
   - [React Native BLE PLX](src/runtime/nodejs/libs/react-native-ble-plx.md)
   - [React Native Calendars](src/runtime/nodejs/libs/react-native-calendars.md)
+  - [React Native Camera](src/runtime/nodejs/libs/react-native-camera.md)
   - [React Native Chart Kit](src/runtime/nodejs/libs/react-native-chart-kit.md)
   - [React Native DateTimePicker](src/runtime/nodejs/libs/@react-native-community-datetimepicker.md)
   - [React Native Elements](src/runtime/nodejs/libs/react-native-elements.md)
