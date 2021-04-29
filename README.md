@@ -886,6 +886,7 @@
   - [react-native-picker-select](src/runtime/nodejs/libs/react-native-picker-select.md)
   - [react-native-progress](src/runtime/nodejs/libs/react-native-progress.md)
   - [react-native-qrcode](src/runtime/nodejs/libs/react-native-qrcode.md)
+  - [react-native-qrcode-scanner](src/runtime/nodejs/libs/react-native-qrcode-scanner.md)
   - [react-native-qrcode-svg](src/runtime/nodejs/libs/react-native-qrcode-svg.md)
   - [react-native-raw-bottom-sheet](src/runtime/nodejs/libs/react-native-raw-bottom-sheet.md)
   - [react-native-reanimated](src/runtime/nodejs/libs/react-native-reanimated.md)
