@@ -843,6 +843,7 @@
   - [react-dom](src/runtime/nodejs/libs/react-dom.md)
   - [react-dropzone](src/runtime/nodejs/libs/react-dropzone.md)
   - [react-fast-compare](src/runtime/nodejs/libs/react-fast-compare.md)
+  - [react-helmet-async](src/runtime/nodejs/libs/react-helmet-async.md)
   - [react-highlight-words](src/runtime/nodejs/libs/react-highlight-words.md)
   - [react-input-mask](src/runtime/nodejs/libs/react-input-mask.md)
   - [react-lazyload](src/runtime/nodejs/libs/react-lazyload.md)
