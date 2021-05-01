@@ -546,6 +546,7 @@
   - [Device Information](src/runtime/nodejs/libs/react-native-device-info.md)
   - [Dialogflow Fulfillment Library](src/runtime/nodejs/libs/dialogflow-fulfillment.md)
   - [Dialogflow: Node.js Client](src/runtime/nodejs/libs/dialogflow.md)
+  - [diff-match-patch](src/runtime/nodejs/libs/diff-match-patch.md)
   - [Discord.js](src/runtime/nodejs/libs/discordjs.md)
   - [Docusaurus](src/runtime/nodejs/libs/docusaurus.md)
   - [dotenv](src/runtime/nodejs/libs/dotenv.md)
