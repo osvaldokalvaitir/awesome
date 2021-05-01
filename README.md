@@ -718,6 +718,7 @@
   - [node-sass](src/runtime/nodejs/libs/node-sass.md)
   - [Nodemailer](src/runtime/nodejs/libs/nodemailer.md)
   - [Nodemon](src/runtime/nodejs/libs/nodemon.md)
+  - [normalizr](src/runtime/nodejs/libs/normalizr.md)
   - [Notifee - React Native](src/runtime/nodejs/libs/@notifee-react-native.md)
   - [Nunjucks](src/runtime/nodejs/libs/nunjucks.md)
   - [Nunjucks Date Filter](src/runtime/nodejs/libs/nunjucks-date-filter.md)
