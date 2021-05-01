@@ -998,6 +998,7 @@
   - [SuperTest](src/runtime/nodejs/libs/supertest.md)
   - [Swagger UI Express](src/runtime/nodejs/libs/swagger-ui-express.md)
   - [swagger-jsdoc](src/runtime/nodejs/libs/swagger-jsdoc.md)
+  - [Swiper](src/runtime/nodejs/libs/swiper.md)
   - [SWR](src/runtime/nodejs/libs/swr.md)
   - [Tailwind CSS](src/runtime/nodejs/libs/tailwindcss.md)
   - [tailwind-rn](src/runtime/nodejs/libs/tailwind-rn.md)
