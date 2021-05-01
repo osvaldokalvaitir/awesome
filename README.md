@@ -684,6 +684,7 @@
   - [mini-css-extract-plugin](src/runtime/nodejs/libs/mini-css-extract-plugin.md)
   - [mkdirp](src/runtime/nodejs/libs/mkdirp.md)
   - [MobX](src/runtime/nodejs/libs/mobx.md)
+  - [mobx-state-tree](src/runtime/nodejs/libs/mobx-state-tree.md)
   - [Modalize](src/runtime/nodejs/libs/react-native-modalize.md)
   - [Moleculer](src/runtime/nodejs/libs/moleculer.md)
   - [Moment](src/runtime/nodejs/libs/moment.md)
