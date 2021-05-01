@@ -886,6 +886,7 @@
   - [react-native-fs](src/runtime/nodejs/libs/react-native-fs.md)
   - [react-native-fullwidth-image](src/runtime/nodejs/libs/react-native-fullwidth-image.md)
   - [react-native-geocoding](src/runtime/nodejs/libs/react-native-geocoding.md)
+  - [react-native-geolocation-service](src/runtime/nodejs/libs/react-native-geolocation-service.md)
   - [react-native-get-random-values](src/runtime/nodejs/libs/react-native-get-random-values.md)  
   - [react-native-google-places-autocomplete](src/runtime/nodejs/libs/react-native-google-places-autocomplete.md)
   - [react-native-iphone-x-helper](src/runtime/nodejs/libs/react-native-iphone-x-helper.md)
