@@ -598,6 +598,7 @@
   - [express-status-monitor](src/runtime/nodejs/libs/express-status-monitor.md)
   - [express-winston](src/runtime/nodejs/libs/express-winston.md)
   - [ExpressJS Async Errors](src/runtime/nodejs/libs/express-async-errors.md)
+  - [Fabric.js](src/runtime/nodejs/libs/fabric.md)
   - [factory-girl](src/runtime/nodejs/libs/factory-girl.md)
   - [Faker.js](src/runtime/nodejs/libs/faker.md)
   - [fast-xml-parser](src/runtime/nodejs/libs/fast-xml-parser.md)
