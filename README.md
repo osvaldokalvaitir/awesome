@@ -964,6 +964,7 @@
   - [require-directory](src/runtime/nodejs/libs/require-directory.md)
   - [requireDir](src/runtime/nodejs/libs/requiredir.md)
   - [Reselect](src/runtime/nodejs/libs/reselect.md)
+  - [rewire](src/runtime/nodejs/libs/rewire.md)
   - [rimraf](src/runtime/nodejs/libs/rimraf.md)
   - [RocketPWA](src/runtime/nodejs/libs/rocketpwa.md)
   - [RxJS](src/runtime/nodejs/libs/rxjs.md)
