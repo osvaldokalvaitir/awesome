@@ -1033,6 +1033,7 @@
   - [UglifyJS Webpack Plugin](src/runtime/nodejs/libs/uglifyjs-webpack-plugin.md)
   - [Umzug](src/runtime/nodejs/libs/umzug.md)
   - [unform](src/runtime/nodejs/libs/@rocketseat-unform.md)
+  - [use-context-selector](src/runtime/nodejs/libs/use-context-selector.md)
   - [use-debounce](src/runtime/nodejs/libs/use-debounce.md)
   - [uuid](src/runtime/nodejs/libs/uuid.md)
   - [validator.js](src/runtime/nodejs/libs/validator.md)
