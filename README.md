@@ -461,6 +461,7 @@
   - [@unform/core](src/runtime/nodejs/libs/@unform-core.md)
   - [@unform/mobile](src/runtime/nodejs/libs/@unform-mobile.md)
   - [@unform/web](src/runtime/nodejs/libs/@unform-web.md)
+  - [i18n](src/runtime/nodejs/libs/i18n.md)
   - [AdminBro](src/runtime/nodejs/libs/admin-bro.md)
   - [Adonis ACL](src/runtime/nodejs/libs/adonis-acl.md)
   - [Adonis Antl](src/runtime/nodejs/libs/@adonisjs-antl.md)
