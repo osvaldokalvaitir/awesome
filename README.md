@@ -482,6 +482,7 @@
   - [appcenter-cli](src/runtime/nodejs/libs/appcenter-cli.md)
   - [availity-reactstrap-validation](src/runtime/nodejs/libs/availity-reactstrap-validation.md)
   - [AWS SDK for JavaScript](src/runtime/nodejs/libs/aws-sdk.md)
+  - [AWS Amplify](src/runtime/nodejs/libs/aws-amplify.md)
   - [Axios](src/runtime/nodejs/libs/axios.md)
   - [axios-mock-adapter](src/runtime/nodejs/libs/axios-mock-adapter.md)
   - [axios-retry](src/runtime/nodejs/libs/axios-retry.md)
