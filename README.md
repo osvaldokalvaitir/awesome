@@ -599,6 +599,7 @@
   - [ExpressJS Async Errors](src/runtime/nodejs/libs/express-async-errors.md)
   - [factory-girl](src/runtime/nodejs/libs/factory-girl.md)
   - [Faker.js](src/runtime/nodejs/libs/faker.md)
+  - [fast-xml-parser](src/runtime/nodejs/libs/fast-xml-parser.md)
   - [FastImage](src/runtime/nodejs/libs/react-native-fast-image.md)
   - [File Loader](src/runtime/nodejs/libs/file-loader.md)
   - [filefy](src/runtime/nodejs/libs/filefy.md)
