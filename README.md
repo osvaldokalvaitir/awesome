@@ -510,6 +510,7 @@
   - [Classnames](src/runtime/nodejs/libs/classnames.md)
   - [Clean plugin for webpack](src/runtime/nodejs/libs/clean-webpack-plugin.md)
   - [CodeceptJS](src/runtime/nodejs/libs/codeceptjs.md)
+  - [CodeMirror](src/runtime/nodejs/libs/codemirror.md)
   - [color](src/runtime/nodejs/libs/color.md)
   - [color-convert](src/runtime/nodejs/libs/color-convert.md)
   - [Commitizen](src/runtime/nodejs/libs/commitizen.md)
