@@ -472,6 +472,7 @@
   - [Adonis Validator](src/runtime/nodejs/libs/@adonisjs-validator.md)
   - [AdonisJs Cli](src/runtime/nodejs/libs/@adonisjs-cli.md)
   - [AdonisJs Redis](src/runtime/nodejs/libs/@adonisjs-redis.md)
+  - [Amazon Cognito Identity SDK for JavaScript](src/runtime/nodejs/libs/amazon-cognito-identity-js.md)
   - [Amplify UI React](src/runtime/nodejs/libs/@aws-amplify-ui-react.md)
   - [ansi-regex](src/runtime/nodejs/libs/ansi-regex.md)
   - [Ant Design](src/runtime/nodejs/libs/antd.md)
