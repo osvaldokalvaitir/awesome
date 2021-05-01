@@ -840,6 +840,7 @@
   - [react-bootstrap-table2-toolkit](src/runtime/nodejs/libs/react-bootstrap-table2-toolkit.md)
   - [React-Calendar](src/runtime/nodejs/libs/react-calendar.md)
   - [react-chartjs-2](src/runtime/nodejs/libs/react-chartjs-2.md)
+  - [react-codemirror2](src/runtime/nodejs/libs/react-codemirror2.md)
   - [react-currency-format](src/runtime/nodejs/libs/react-currency-format.md)
   - [react-devtools](src/runtime/nodejs/libs/react-devtools.md)
   - [react-docgen](src/runtime/nodejs/libs/react-docgen.md)
