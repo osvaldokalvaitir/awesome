@@ -961,6 +961,7 @@
   - [Recoil](src/runtime/nodejs/libs/recoil.md)
   - [recompose](src/runtime/nodejs/libs/recompose.md)
   - [RecyclerListView](src/runtime/nodejs/libs/recyclerlistview.md)
+  - [ReDoc](src/runtime/nodejs/libs/redoc.md)
   - [Redux](src/runtime/nodejs/libs/redux.md)
   - [Redux Logger](src/runtime/nodejs/libs/redux-logger.md)
   - [Redux Offline](src/runtime/nodejs/libs/redux-offline.md)
