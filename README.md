@@ -1034,6 +1034,7 @@
   - [unform](src/runtime/nodejs/libs/@rocketseat-unform.md)
   - [use-debounce](src/runtime/nodejs/libs/use-debounce.md)
   - [uuid](src/runtime/nodejs/libs/uuid.md)
+  - [validator.js](src/runtime/nodejs/libs/validator.md)
   - [Victory](src/runtime/nodejs/libs/victory.md)
   - [Victory Native](src/runtime/nodejs/libs/victory-native.md)
   - [ViewPager](src/runtime/nodejs/libs/@react-native-community-viewpager.md)
