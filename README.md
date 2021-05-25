@@ -979,6 +979,7 @@
   - [redux-mock-store](src/runtime/nodejs/libs/redux-mock-store.md)
   - [redux-offline-queue](src/runtime/nodejs/libs/redux-offline-queue.md)
   - [Redux-Saga](src/runtime/nodejs/libs/redux-saga.md)
+  - [redux-storage](src/runtime/nodejs/libs/redux-storage.md)
   - [reduxsauce](src/runtime/nodejs/libs/reduxsauce.md)
   - [Remote Redux DevTools](src/runtime/nodejs/libs/remote-redux-devtools.md)
   - [RemoteDev](src/runtime/nodejs/libs/remotedev.md)
