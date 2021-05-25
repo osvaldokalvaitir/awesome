@@ -1057,6 +1057,7 @@
   - [Webpack Hot Middleware](src/runtime/nodejs/libs/webpack-hot-middleware.md)
   - [webpack-cli](src/runtime/nodejs/libs/webpack-cli.md)
   - [webpack-dev-server](src/runtime/nodejs/libs/webpack-dev-server.md)
+  - [Why Did You Render](src/runtime/nodejs/libs/@welldone-software-why-did-you-render.md)
   - [Windows-Build-Tools](src/runtime/nodejs/libs/windows-build-tools.md)
   - [winston](src/runtime/nodejs/libs/winston.md)
   - [XRegExp](src/runtime/nodejs/libs/xregexp.md)
