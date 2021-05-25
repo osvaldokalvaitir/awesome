@@ -978,6 +978,7 @@
   - [Redux Toolkit](src/runtime/nodejs/libs/@reduxjs-toolkit.md)
   - [Redux-First Router](src/runtime/nodejs/libs/redux-first-router.md)
   - [redux-localstorage](src/runtime/nodejs/libs/redux-localstorage.md)
+  - [redux-logic](src/runtime/nodejs/libs/redux-logic.md)
   - [redux-mock-store](src/runtime/nodejs/libs/redux-mock-store.md)
   - [redux-observable](src/runtime/nodejs/libs/redux-observable.md)
   - [redux-offline-queue](src/runtime/nodejs/libs/redux-offline-queue.md)
