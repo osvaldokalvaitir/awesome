@@ -1,6 +1,6 @@
 # React Native for Windows
 
-Crie aplicativos nativos do Windows com o React..
+Crie aplicativos nativos do Windows com o React.
 
 ## Documentação
 
