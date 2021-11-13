@@ -915,6 +915,7 @@
   - [react-native-offline](src/runtime/nodejs/libs/react-native-offline.md)
   - [react-native-onesignal](src/runtime/nodejs/libs/react-native-onesignal.md)
   - [react-native-parallax-scroll-view](src/runtime/nodejs/libs/react-native-parallax-scroll-view.md)
+  - [react-native-pdf](src/runtime/nodejs/libs/react-native-pdf.md)
   - [react-native-picker-select](src/runtime/nodejs/libs/react-native-picker-select.md)
   - [react-native-progress](src/runtime/nodejs/libs/react-native-progress.md)
   - [react-native-pull-refresh](src/runtime/nodejs/libs/react-native-pull-refresh.md)
