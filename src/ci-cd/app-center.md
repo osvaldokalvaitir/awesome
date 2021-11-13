@@ -64,11 +64,11 @@ Para configurar a build de Staging e Production no Android, siga os seguintes pr
 
 - É necessário criar uma branch chamada `staging`, clique [aqui](../version-controls/git/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
 
-- Aparecerá as branches do projeto, no caso, `master` e `staging`
+- Aparecerá as branches do projeto, no caso, `main` e `staging`
 
 - Para a build de Staging, clique na engrenagem da branch de `staging`
 
-- Para a build de Production, clique na engrenagem da branch de `master`
+- Para a build de Production, clique na engrenagem da branch de `main`
 
 - Na janela `Build configuration`:
 
@@ -164,7 +164,7 @@ Para configurar a build automática na Google Play, siga os seguintes procedimen
 
 - Em `Select a service`, selecione `GitHub`
 
-- Clique na engrenagem da branch de `master`
+- Clique na engrenagem da branch de `main`
 
 - Na janela `Build configuration`:
 
@@ -182,7 +182,7 @@ Para configurar a build automática na Google Play, siga os seguintes procedimen
 
 Se quiser utilizar os recursos de `Alpha` e `Beta` da Google Play, basta fazer as branches com os nomes dos recursos e em `Distribute builds` selecionar o recurso desejado.  
 
-**É muito importante, que toda vez que gerar uma nova build tanto para o `staging` como para o `master`, gerar o CodePush junto para aquele `staging` ou para aquele `master` com seu código atual.**
+**É muito importante, que toda vez que gerar uma nova build tanto para o `staging` como para o `main`, gerar o CodePush junto para aquele `staging` ou para aquele `main` com seu código atual.**
 
 ## Gerar Build de Staging e Production no iOS
 
@@ -202,11 +202,11 @@ Para configurar a build de Staging e Production no iOS, siga os seguintes proced
 
 - É necessário criar uma branch chamada `staging`, clique [aqui](../version-controls/git/git.md) - Siga `Comandos > Branches` para criar uma branch staging no GitHub
 
-- Aparecerá as branches do projeto, no caso, `master` e `staging`
+- Aparecerá as branches do projeto, no caso, `main` e `staging`
 
 - Para a build de Staging, clique na engrenagem da branch de `staging`
 
-- Para a build de Production, clique na engrenagem da branch de `master`
+- Para a build de Production, clique na engrenagem da branch de `main`
 
 - Na janela `Build configuration`:
 

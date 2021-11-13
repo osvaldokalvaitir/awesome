@@ -116,10 +116,10 @@ git commit -m "Descricao do commit"
 Enviar os arquivos comitados para o repositório remoto:
 
 ```
-git push origin master
+git push origin main
 ```
 
-Obs: `origin` é o caminho do repositório remoto e o `master` é o nome da branch.
+Obs: `origin` é o caminho do repositório remoto e o `main` é o nome da branch.
 
 Se você não clonou um repositório existente e deseja conectar seu repositório à um repositório remoto, é necessário incluí-lo:
 
@@ -150,7 +150,7 @@ git remote -v
 Atualizar o repositório local com os novos commits remotos:
 
 ```
-git pull origin master | git pull
+git pull origin main | git pull
 ```
 
 Se tiver algum conflito de arquivo, você terá que resolver esses conflitos manualmente.
@@ -205,7 +205,7 @@ Voltar para a branch anterior:
 git checkout -
 ```
 
-Para remover uma branch, ir para a branch `master` e executar o comando:
+Para remover uma branch, ir para a branch `main` e executar o comando:
 
 ```
 git checkout -D nome_branch
@@ -242,7 +242,7 @@ git checkout v1.0.0
 Publicar as tags no repositório remoto:
 
 ```
-git push origin master --tags
+git push origin main --tags
 ```
 
 Apagar tag localmente:
@@ -360,9 +360,9 @@ Aparecerá uma nova branch no GitHub, clique em `Compare & pull request` para ab
 
 Na tela `Open a pull request` é possível adicionar comentários e visualizar os commits feitos, depois é só clicar em `Create pull request`.
 
-O código ainda não foi incorporado para o master, nesta etapa é possível em `Reviewers`, adicionar usuários para revisar o código.
+O código ainda não foi incorporado para o main, nesta etapa é possível em `Reviewers`, adicionar usuários para revisar o código.
 
-Para incorporar o pull request para o master, clique no botão `Merge pull request`.
+Para incorporar o pull request para o main, clique no botão `Merge pull request`.
 
 No GitHub, depois que a branch for aceita fazendo o merge, aparecerá um botão chamado `delete branch`, sempre delete a branch para o repositório ficar somente com uma branch.
 
@@ -446,7 +446,7 @@ rm -rf <antigo_repositorio.git>
 
 A linguagem dos commits e das branchs devem ser escolhidas pela equipe (ex: português ou inglês) e este padrão deve ser mantido em todo o projeto.  
 
-Sempre é bom fazer uma branch quando for alterar o código na branch master.  
+Sempre é bom fazer uma branch quando for alterar o código na branch main.  
 
 Sempre que estiver trabalhando em equipe é bom fazer um pull request, pois se precisar voltar atrás é só excluir o pull request do que os vários commits realizados.
 
