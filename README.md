@@ -813,6 +813,7 @@
   - [React Native Loading Spinner Overlay](src/runtime/nodejs/libs/react-native-loading-spinner-overlay.md)
   - [React Native MaskedView](src/runtime/nodejs/libs/@react-native-community-masked-view.md)
   - [React Native Material UI](src/runtime/nodejs/libs/react-native-material-ui.md)
+  - [React Native Modalfy](src/runtime/nodejs/libs/react-native-modalfy.md)
   - [React Native Modals](src/runtime/nodejs/libs/react-native-modals.md)
   - [React Native Module for CodePush](src/runtime/nodejs/libs/react-native-code-push.md)
   - [React Native Navigation Bar Color Change](src/runtime/nodejs/libs/react-native-navigation-bar-color.md)
