@@ -905,6 +905,7 @@
   - [react-native-modal-selector](src/runtime/nodejs/libs/react-native-modal-selector.md)
   - [react-native-modalbox](src/runtime/nodejs/libs/react-native-modalbox.md)
   - [react-native-multi-slider](src/runtime/nodejs/libs/@ptomasroos-react-native-multi-slider.md)
+  - [react-native-multiple-select](src/runtime/nodejs/libs/react-native-multiple-select.md)
   - [react-native-multithreading](src/runtime/nodejs/libs/react-native-multithreading.md)
   - [react-native-offline](src/runtime/nodejs/libs/react-native-offline.md)
   - [react-native-onesignal](src/runtime/nodejs/libs/react-native-onesignal.md)
