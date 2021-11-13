@@ -39,7 +39,7 @@ heroku open
 Para enviar o projeto para o Heroku, é só dar um push no link `heroku` depois do commit:
 
 ```
-git push heroku master
+git push heroku main
 ```
 
 Para configurar as variáveis de ambiente:
