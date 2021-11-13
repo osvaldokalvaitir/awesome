@@ -872,6 +872,7 @@
   - [react-helmet-async](src/runtime/nodejs/libs/react-helmet-async.md)
   - [react-highlight-words](src/runtime/nodejs/libs/react-highlight-words.md)
   - [react-input-mask](src/runtime/nodejs/libs/react-input-mask.md)
+  - [react-intl-currency-input](src/runtime/nodejs/libs/react-intl-currency-input.md)
   - [react-lazyload](src/runtime/nodejs/libs/react-lazyload.md)
   - [React-Leaflet](src/runtime/nodejs/libs/react-leaflet.md)
   - [react-loading](src/runtime/nodejs/libs/react-loading.md)
