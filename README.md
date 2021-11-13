@@ -877,6 +877,7 @@
   - [react-native-appearance](src/runtime/nodejs/libs/react-native-appearance.md)
   - [react-native-app-intro-slider](src/runtime/nodejs/libs/react-native-app-intro-slider.md)
   - [react-native-background-fetch](src/runtime/nodejs/libs/react-native-background-fetch.md)
+  - [react-native-ble-manager](src/runtime/nodejs/libs/react-native-ble-manager.md)
   - [react-native-bluetooch-escpos-printer](src/runtime/nodejs/libs/react-native-bluetooch-escpos-printer.md)
   - [react-native-bootsplash](src/runtime/nodejs/libs/react-native-bootsplash.md)
   - [react-native-cached-image](src/runtime/nodejs/libs/react-native-cached-image.md)
