@@ -899,6 +899,7 @@
   - [react-native-dialog](src/runtime/nodejs/libs/react-native-dialog.md)
   - [react-native-dropdownalert](src/runtime/nodejs/libs/react-native-dropdownalert.md)
   - [react-native-easy-toast](src/runtime/nodejs/libs/react-native-easy-toast.md)
+  - [react-native-error-boundary](src/runtime/nodejs/libs/react-native-error-boundary.md)
   - [react-native-dotenv](src/runtime/nodejs/libs/react-native-dotenv.md)
   - [react-native-file-viewer](src/runtime/nodejs/libs/react-native-file-viewer.md)
   - [react-native-fs](src/runtime/nodejs/libs/react-native-fs.md)
