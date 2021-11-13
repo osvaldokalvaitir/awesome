@@ -922,6 +922,7 @@
   - [react-native-multiple-select](src/runtime/nodejs/libs/react-native-multiple-select.md)
   - [react-native-multithreading](src/runtime/nodejs/libs/react-native-multithreading.md)
   - [react-native-nfc-manager](src/runtime/nodejs/libs/react-native-nfc-manager.md)
+  - [react-native-notifier](src/runtime/nodejs/libs/react-native-notifier.md)
   - [react-native-offline](src/runtime/nodejs/libs/react-native-offline.md)
   - [react-native-onesignal](src/runtime/nodejs/libs/react-native-onesignal.md)
   - [react-native-parallax-scroll-view](src/runtime/nodejs/libs/react-native-parallax-scroll-view.md)
