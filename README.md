@@ -913,6 +913,7 @@
   - [react-native-maps](src/runtime/nodejs/libs/react-native-maps.md)
   - [react-native-maps-directions](src/runtime/nodejs/libs/react-native-maps-directions.md)
   - [react-native-masonry-list](src/runtime/nodejs/libs/react-native-masonry-list.md)
+  - [react-native-material-menu](src/runtime/nodejs/libs/react-native-material-menu.md)
   - [react-native-modal](src/runtime/nodejs/libs/react-native-modal.md)
   - [react-native-modal-datetime-picker](src/runtime/nodejs/libs/react-native-modal-datetime-picker.md)
   - [react-native-modal-selector](src/runtime/nodejs/libs/react-native-modal-selector.md)
