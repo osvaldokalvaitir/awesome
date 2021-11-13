@@ -948,6 +948,7 @@
   - [react-native-tvos](src/runtime/nodejs/libs/react-native-tvos.md)
   - [react-native-sqlite-storage](src/runtime/nodejs/libs/react-native-sqlite-storage.md)
   - [react-native-view-more-text](src/runtime/nodejs/libs/react-native-view-more-text.md)
+  - [react-native-wagmi-charts](src/runtime/nodejs/libs/react-native-wagmi-charts.md)
   - [react-native-web](src/runtime/nodejs/libs/react-native-web.md)
   - [react-native-youtube](src/runtime/nodejs/libs/react-native-youtube.md)
   - [react-number-format](src/runtime/nodejs/libs/react-number-format.md)
