@@ -972,6 +972,7 @@
   - [reactotron-redux](src/runtime/nodejs/libs/reactotron-redux.md)
   - [reactotron-redux-saga](src/runtime/nodejs/libs/reactotron-redux-saga.md)
   - [Reactour](src/runtime/nodejs/libs/reactour.md)
+  - [ReactPlayer](src/runtime/nodejs/libs/react-player.md)
   - [reactstrap](src/runtime/nodejs/libs/reactstrap.md)
   - [realm](src/runtime/nodejs/libs/realm.md)
   - [Recharts](src/runtime/nodejs/libs/recharts.md)
