@@ -813,6 +813,7 @@
   - [React Native Module for CodePush](src/runtime/nodejs/libs/react-native-code-push.md)
   - [React Native Navigation Bar Color Change](src/runtime/nodejs/libs/react-native-navigation-bar-color.md)
   - [React Native Notifications](src/runtime/nodejs/libs/react-native-notifications.md)
+  - [React Native Onboarding Swiper](src/runtime/nodejs/libs/react-native-onboarding-swiper.md)
   - [React Native Permissions](src/runtime/nodejs/libs/react-native-permissions.md)
   - [React Native Push Notifications](src/runtime/nodejs/libs/react-native-push-notification.md)
   - [React Native Quick Actions](src/runtime/nodejs/libs/react-native-quick-actions.md)
