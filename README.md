@@ -722,6 +722,7 @@
   - [node-loggly](src/runtime/nodejs/libs/node-loggly.md)
   - [node-mssql](src/runtime/nodejs/libs/mssql.md)
   - [node-printer](src/runtime/nodejs/libs/node-printer.md)
+  - [node-randomstring](src/runtime/nodejs/libs/randomstring.md)
   - [node-sass](src/runtime/nodejs/libs/node-sass.md)
   - [Nodemailer](src/runtime/nodejs/libs/nodemailer.md)
   - [Nodemon](src/runtime/nodejs/libs/nodemon.md)
