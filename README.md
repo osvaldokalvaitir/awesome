@@ -822,6 +822,7 @@
   - [React Native Share](src/runtime/nodejs/libs/react-native-share.md)
   - [React Native Shimmer Placeholder](src/runtime/nodejs/libs/react-native-shimmer-placeholder.md)
   - [React Native Smooth Picker](src/runtime/nodejs/libs/react-native-smooth-picker.md)
+  - [React Native Snackbar](src/runtime/nodejs/libs/react-native-snackbar.md)
   - [React Native Star Rating Component](src/runtime/nodejs/libs/react-native-star-rating.md)
   - [React Native Stories View](src/runtime/nodejs/libs/react-native-stories-view.md)
   - [React Native Tab View](src/runtime/nodejs/libs/react-native-tab-view.md)
