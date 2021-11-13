@@ -4,7 +4,7 @@ Folha inferior rolável de plataforma cruzada com suporte de virtualização, an
 
 ## Documentação
 
-Clique [aqui](https://github.com/rgommezz/react-native-scroll-bottom-sheet#readme) para ver a documentação.
+Clique [aqui](https://github.com/rgommezz/react-native-scroll-bottom-sheet) para ver a documentação.
 
 ## Instalação
 

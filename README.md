@@ -924,6 +924,7 @@
   - [react-native-root-toast](src/runtime/nodejs/libs/react-native-root-toast.md)
   - [react-native-safe-area-context](src/runtime/nodejs/libs/react-native-safe-area-context.md)
   - [react-native-screens](src/runtime/nodejs/libs/react-native-screens.md)
+  - [react-native-scroll-into-view](src/runtime/nodejs/libs/react-native-scroll-into-view.md)
   - [react-native-side-menu](src/runtime/nodejs/libs/react-native-side-menu.md)
   - [react-native-simple-toast](src/runtime/nodejs/libs/react-native-simple-toast.md)
   - [react-native-size-matters](src/runtime/nodejs/libs/react-native-size-matters.md)
