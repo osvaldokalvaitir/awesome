@@ -1036,6 +1036,7 @@
   - [serverless](src/runtime/nodejs/libs/serverless.md)
   - [Session File Store](src/runtime/nodejs/libs/session-file-store.md)
   - [sharp](src/runtime/nodejs/libs/sharp.md)
+  - [short-uuid](src/runtime/nodejs/libs/short-uuid.md)
   - [shortid](src/runtime/nodejs/libs/shortid.md)
   - [Sizeme](src/runtime/nodejs/libs/react-sizeme.md)
   - [Slider](src/runtime/nodejs/libs/@react-native-community-slider.md)
