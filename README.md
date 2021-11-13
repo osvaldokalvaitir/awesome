@@ -896,6 +896,7 @@
   - [react-native-collapsing-toolbar](src/runtime/nodejs/libs/react-native-collapsing-toolbar.md)
   - [react-native-config](src/runtime/nodejs/libs/react-native-config.md)
   - [react-native-country-picker-modal](src/runtime/nodejs/libs/react-native-country-picker-modal.md)
+  - [react-native-dialog](src/runtime/nodejs/libs/react-native-dialog.md)
   - [react-native-dropdownalert](src/runtime/nodejs/libs/react-native-dropdownalert.md)
   - [react-native-easy-toast](src/runtime/nodejs/libs/react-native-easy-toast.md)
   - [react-native-dotenv](src/runtime/nodejs/libs/react-native-dotenv.md)
