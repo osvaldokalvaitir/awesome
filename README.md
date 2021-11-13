@@ -882,6 +882,7 @@
   - [react-native-ble-manager](src/runtime/nodejs/libs/react-native-ble-manager.md)
   - [react-native-bluetooch-escpos-printer](src/runtime/nodejs/libs/react-native-bluetooch-escpos-printer.md)
   - [react-native-bootsplash](src/runtime/nodejs/libs/react-native-bootsplash.md)
+  - [react-native-bundle-visualizer](src/runtime/nodejs/libs/react-native-bundle-visualizer.md)
   - [react-native-cached-image](src/runtime/nodejs/libs/react-native-cached-image.md)
   - [react-native-cardview](src/runtime/nodejs/libs/react-native-cardview.md)
   - [react-native-circular-progress](src/runtime/nodejs/libs/react-native-circular-progress.md)
