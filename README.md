@@ -532,6 +532,7 @@
   - [Create React App](src/runtime/nodejs/libs/create-react-app.md)
   - [create-react-library](src/runtime/nodejs/libs/create-react-library.md)
   - [cross-env](src/runtime/nodejs/libs/cross-env.md)
+  - [crypto-js](src/runtime/nodejs/libs/crypto-js.md)
   - [CSS Loader](src/runtime/nodejs/libs/css-loader.md)
   - [css-vendor](src/runtime/nodejs/libs/css-vendor.md)
   - [currency.js](src/runtime/nodejs/libs/currencyjs.md)
