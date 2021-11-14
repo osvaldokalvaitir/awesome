@@ -737,6 +737,7 @@
   - [OpenAPI Generator](src/runtime/nodejs/libs/@openapitools-openapi-generator-cli.md)
   - [optimize-css-assets-webpack-plugin](src/runtime/nodejs/libs/optimize-css-assets-webpack-plugin.md)
   - [Pagar.me JavaScript](src/runtime/nodejs/libs/pagarme.md)
+  - [Paper Onboarding](src/runtime/nodejs/libs/@gorhom-paper-onboarding.md)
   - [Particles.js](src/runtime/nodejs/libs/particlesjs.md)
   - [Path-to-RegExp](src/runtime/nodejs/libs/path-to-regexp.md)
   - [PDFKit](src/runtime/nodejs/libs/pdfkit.md)
