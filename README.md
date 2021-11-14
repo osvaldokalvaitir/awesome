@@ -824,6 +824,7 @@
   - [React Native Permissions](src/runtime/nodejs/libs/react-native-permissions.md)
   - [React Native Push Notifications](src/runtime/nodejs/libs/react-native-push-notification.md)
   - [React Native Quick Actions](src/runtime/nodejs/libs/react-native-quick-actions.md)
+  - [React Native Ratings](src/runtime/nodejs/libs/react-native-ratings.md)
   - [React Native Redux Toast](src/runtime/nodejs/libs/react-native-redux-toast.md)
   - [React Native Share](src/runtime/nodejs/libs/react-native-share.md)
   - [React Native Shimmer Placeholder](src/runtime/nodejs/libs/react-native-shimmer-placeholder.md)
