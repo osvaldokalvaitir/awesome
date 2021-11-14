@@ -484,6 +484,7 @@
   - [apollo-boost](src/runtime/nodejs/libs/apollo-boost.md)
   - [apollo-link-http](src/runtime/nodejs/libs/apollo-link-http.md)
   - [appcenter-cli](src/runtime/nodejs/libs/appcenter-cli.md)
+  - [AutoCannon](src/runtime/nodejs/libs/autocannon.md)
   - [availity-reactstrap-validation](src/runtime/nodejs/libs/availity-reactstrap-validation.md)
   - [AWS Amplify](src/runtime/nodejs/libs/aws-amplify.md)
   - [AWS SDK for JavaScript](src/runtime/nodejs/libs/aws-sdk.md)
