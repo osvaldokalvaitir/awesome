@@ -703,6 +703,7 @@
   - [Mongoose](src/runtime/nodejs/libs/mongoose.md)
   - [Mongoose Paginate](src/runtime/nodejs/libs/mongoose-paginate.md)
   - [morgan](src/runtime/nodejs/libs/morgan.md)
+  - [moti](src/runtime/nodejs/libs/moti.md)
   - [Motion](src/runtime/nodejs/libs/framer-motion.md)
   - [Moveable](src/runtime/nodejs/libs/moveable.md)
   - [Multer](src/runtime/nodejs/libs/multer.md)
