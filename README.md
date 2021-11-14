@@ -1054,6 +1054,7 @@
   - [sharp](src/runtime/nodejs/libs/sharp.md)
   - [short-uuid](src/runtime/nodejs/libs/short-uuid.md)
   - [shortid](src/runtime/nodejs/libs/shortid.md)
+  - [Sideswipe](src/runtime/nodejs/libs/react-native-sideswipe.md)
   - [Sizeme](src/runtime/nodejs/libs/react-sizeme.md)
   - [Slider](src/runtime/nodejs/libs/@react-native-community-slider.md)
   - [Socket.io](src/runtime/nodejs/libs/socketio.md)
