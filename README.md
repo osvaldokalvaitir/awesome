@@ -948,6 +948,7 @@
   - [react-native-safe-area-context](src/runtime/nodejs/libs/react-native-safe-area-context.md)
   - [react-native-screens](src/runtime/nodejs/libs/react-native-screens.md)
   - [react-native-scroll-into-view](src/runtime/nodejs/libs/react-native-scroll-into-view.md)
+  - [react-native-select-multiple](src/runtime/nodejs/libs/react-native-select-multiple.md)
   - [react-native-side-menu](src/runtime/nodejs/libs/react-native-side-menu.md)
   - [react-native-signature-capture](src/runtime/nodejs/libs/react-native-signature-capture.md)
   - [react-native-simple-toast](src/runtime/nodejs/libs/react-native-simple-toast.md)
