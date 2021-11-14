@@ -1096,6 +1096,7 @@
   - [Umzug](src/runtime/nodejs/libs/umzug.md)
   - [unform](src/runtime/nodejs/libs/@rocketseat-unform.md)
   - [unique-string](src/runtime/nodejs/libs/unique-string.md)
+  - [urql](src/runtime/nodejs/libs/urql.md)
   - [use-color](src/runtime/nodejs/libs/use-color.md)
   - [use-context-selector](src/runtime/nodejs/libs/use-context-selector.md)
   - [use-debounce](src/runtime/nodejs/libs/use-debounce.md)
