@@ -285,6 +285,7 @@
 - [Blobmaker](src/design-tools/blobmaker.md)
 - [CSS Filter Generator](src/design-tools/css-filter-generator.md)
 - [CSS Generator Tool](src/design-tools/css-generator.md)
+- [Clippy](src/design-tools/clippy.md)
 - [cubic-bezier](src/design-tools/cubic-bezier.md)
 - [Get Waves](src/design-tools/get-waves.md)
 - [Glassmorphism CSS Generator](src/design-tools/glassmorphism-css-generator.md)
