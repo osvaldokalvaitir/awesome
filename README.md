@@ -702,6 +702,7 @@
   - [Modalize](src/runtime/nodejs/libs/react-native-modalize.md)
   - [Moleculer](src/runtime/nodejs/libs/moleculer.md)
   - [Moment](src/runtime/nodejs/libs/moment.md)
+  - [Monaco Editor for React](src/runtime/nodejs/libs/@monaco-editor-react.md)
   - [Mongoose](src/runtime/nodejs/libs/mongoose.md)
   - [Mongoose Paginate](src/runtime/nodejs/libs/mongoose-paginate.md)
   - [morgan](src/runtime/nodejs/libs/morgan.md)
