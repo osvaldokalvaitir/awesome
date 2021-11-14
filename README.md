@@ -478,6 +478,7 @@
   - [ansi-regex](src/runtime/nodejs/libs/ansi-regex.md)
   - [Ant Design](src/runtime/nodejs/libs/antd.md)
   - [anymatch](src/runtime/nodejs/libs/anymatch.md)
+  - [ApexCharts](src/runtime/nodejs/libs/apexcharts.md)
   - [apiDoc](src/runtime/nodejs/libs/apidoc.md)
   - [Apollo](src/runtime/nodejs/libs/apollo-server.md)
   - [Apollo Client](src/runtime/nodejs/libs/apollo-client.md)
