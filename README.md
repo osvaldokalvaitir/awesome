@@ -860,6 +860,7 @@
   - [React Table](src/runtime/nodejs/libs/react-table.md)
   - [React Testing Library](src/runtime/nodejs/libs/@testing-library-react.md)
   - [react virtualized](src/runtime/nodejs/libs/react-virtualized.md)
+  - [react-apexcharts](src/runtime/nodejs/libs/react-apexcharts.md)
   - [react-app-polyfill](src/runtime/nodejs/libs/react-app-polyfill.md)
   - [react-app-rewired](src/runtime/nodejs/libs/react-app-rewired.md)
   - [react-avatar-editor](src/runtime/nodejs/libs/react-avatar-editor.md)
