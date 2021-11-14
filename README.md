@@ -58,6 +58,7 @@
 - [Editores de Código](#editores-de-código)
 - [Emuladores](#emuladores)
 - [Erros](#erros)
+- [Ferramentas de Design](#ferramentas-de-design)
 - [Fontes](#fontes)
 - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
@@ -279,6 +280,9 @@
 ### Erros
 
 - [Sentry](src/errors/sentry.md)
+
+### Ferramentas de Design
+- [cubic-bezier](src/design-tools/cubic-bezier.md)
 
 ### Fontes
 
