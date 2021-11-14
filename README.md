@@ -774,6 +774,7 @@
   - [React Color](src/runtime/nodejs/libs/react-color.md)
   - [React Contextmenu](src/runtime/nodejs/libs/react-contextmenu.md)
   - [React Credit Cards](src/runtime/nodejs/libs/react-credit-cards.md)
+  - [React Currency Input Field Component](src/runtime/nodejs/libs/react-currency-input-field.md)
   - [React Date Picker](src/runtime/nodejs/libs/react-datepicker.md)
   - [React DnD](src/runtime/nodejs/libs/react-dnd.md)
   - [React DnD HTML5 Backend](src/runtime/nodejs/libs/react-dnd-html5-backend.md)
