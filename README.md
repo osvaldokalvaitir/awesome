@@ -1066,6 +1066,7 @@
   - [Socket.io](src/runtime/nodejs/libs/socketio.md)
   - [socket.io-client](src/runtime/nodejs/libs/socketio-client.md)
   - [sqlite3](src/runtime/nodejs/libs/sqlite3.md)
+  - [stats.js](src/runtime/nodejs/libs/statsjs.md)
   - [Storybook](src/runtime/nodejs/libs/@storybook-addon-a11y.md)
   - [Storybook Centered Decorator](src/runtime/nodejs/libs/@storybook-addon-centered.md)
   - [Storybook CLI](src/runtime/nodejs/libs/@storybook-cli.md)
