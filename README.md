@@ -1043,6 +1043,7 @@
   - [Scroll Bottom Sheet](src/runtime/nodejs/libs/react-native-scroll-bottom-sheet.md)
   - [seamless-immutable](src/runtime/nodejs/libs/seamless-immutable.md)
   - [Sequelize](src/runtime/nodejs/libs/sequelize.md)
+  - [Sequelize ERD](src/runtime/nodejs/libs/sequelize-erd.md)
   - [Sequelize-Auto](src/runtime/nodejs/libs/sequelize-auto.md)
   - [sequelize-auto-migrations](src/runtime/nodejs/libs/sequelize-auto-migrations.md)
   - [sequelize-binary-uuid](src/runtime/nodejs/libs/sequelize-binary-uuid.md)
