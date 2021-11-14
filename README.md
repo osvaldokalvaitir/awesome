@@ -922,6 +922,7 @@
   - [react-native-get-random-values](src/runtime/nodejs/libs/react-native-get-random-values.md)  
   - [react-native-google-places-autocomplete](src/runtime/nodejs/libs/react-native-google-places-autocomplete.md)
   - [react-native-html-to-pdf](src/runtime/nodejs/libs/react-native-html-to-pdf.md)
+  - [react-native-in-app-notification](src/runtime/nodejs/libs/react-native-in-app-notification.md)
   - [react-native-iphone-x-helper](src/runtime/nodejs/libs/react-native-iphone-x-helper.md)
   - [react-native-linear-gradient](src/runtime/nodejs/libs/react-native-linear-gradient.md)
   - [react-native-localize](src/runtime/nodejs/libs/react-native-localize.md)
