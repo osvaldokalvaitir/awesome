@@ -282,8 +282,9 @@
 - [Sentry](src/errors/sentry.md)
 
 ### Ferramentas de Design
-- [cubic-bezier](src/design-tools/cubic-bezier.md)
+- [Blobmaker](src/design-tools/blobmaker.md)
 - [CSS Generator Tool](src/design-tools/css-generator.md)
+- [cubic-bezier](src/design-tools/cubic-bezier.md)
 
 ### Fontes
 
