@@ -961,6 +961,7 @@
   - [react-native-swift](src/runtime/nodejs/libs/react-native-swift.md)
   - [react-native-swipe-list-view](src/runtime/nodejs/libs/react-native-swipe-list-view.md)
   - [react-native-swiper](src/runtime/nodejs/libs/react-native-swiper.md)
+  - [React-Native-Tags](src/runtime/nodejs/libs/react-native-tags.md)
   - [react-native-tags-input](src/runtime/nodejs/libs/react-native-tags-input.md)
   - [react-native-toast-message](src/runtime/nodejs/libs/react-native-toast-message.md)
   - [react-native-track-player](src/runtime/nodejs/libs/react-native-track-player.md)
