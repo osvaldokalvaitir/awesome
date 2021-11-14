@@ -930,6 +930,7 @@
   - [react-native-iphone-x-helper](src/runtime/nodejs/libs/react-native-iphone-x-helper.md)
   - [react-native-linear-gradient](src/runtime/nodejs/libs/react-native-linear-gradient.md)
   - [react-native-localize](src/runtime/nodejs/libs/react-native-localize.md)
+  - [react-native-location](src/runtime/nodejs/libs/react-native-location.md)
   - [react-native-maps](src/runtime/nodejs/libs/react-native-maps.md)
   - [react-native-maps-directions](src/runtime/nodejs/libs/react-native-maps-directions.md)
   - [react-native-masonry-list](src/runtime/nodejs/libs/react-native-masonry-list.md)
