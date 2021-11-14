@@ -283,6 +283,7 @@
 
 ### Ferramentas de Design
 - [cubic-bezier](src/design-tools/cubic-bezier.md)
+- [CSS Generator Tool](src/design-tools/css-generator.md)
 
 ### Fontes
 
