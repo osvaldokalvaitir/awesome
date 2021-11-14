@@ -832,6 +832,7 @@
   - [React Native Snackbar](src/runtime/nodejs/libs/react-native-snackbar.md)
   - [React Native Star Rating Component](src/runtime/nodejs/libs/react-native-star-rating.md)
   - [React Native Stories View](src/runtime/nodejs/libs/react-native-stories-view.md)
+  - [React Native Super Grid](src/runtime/nodejs/libs/react-native-super-grid.md)
   - [React Native Tab View](src/runtime/nodejs/libs/react-native-tab-view.md)
   - [React Native Touch ID](src/runtime/nodejs/libs/react-native-touch-id.md)
   - [React Native Vector Icons](src/runtime/nodejs/libs/react-native-vector-icons.md)
