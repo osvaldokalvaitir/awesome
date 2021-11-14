@@ -774,6 +774,7 @@
   - [React Carousel Image Gallery](src/runtime/nodejs/libs/react-image-gallery.md)
   - [React Color](src/runtime/nodejs/libs/react-color.md)
   - [React Contextmenu](src/runtime/nodejs/libs/react-contextmenu.md)
+  - [React Cool Virtual](src/runtime/nodejs/libs/react-cool-virtual.md)
   - [React Credit Cards](src/runtime/nodejs/libs/react-credit-cards.md)
   - [React Currency Input Field Component](src/runtime/nodejs/libs/react-currency-input-field.md)
   - [React Date Picker](src/runtime/nodejs/libs/react-datepicker.md)
