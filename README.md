@@ -747,6 +747,7 @@
   - [Path-to-RegExp](src/runtime/nodejs/libs/path-to-regexp.md)
   - [PDFKit](src/runtime/nodejs/libs/pdfkit.md)
   - [pdfmake](src/runtime/nodejs/libs/pdfmake.md)
+  - [perfect-scrollbar](src/runtime/nodejs/libs/perfect-scrollbar.md)
   - [Performant array to tree](src/runtime/nodejs/libs/performant-array-to-tree.md)
   - [pg](src/runtime/nodejs/libs/pg.md)
   - [Pg-generator](src/runtime/nodejs/libs/pg-generator.md)
