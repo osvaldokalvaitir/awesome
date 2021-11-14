@@ -283,6 +283,7 @@
 
 ### Ferramentas de Design
 - [Blobmaker](src/design-tools/blobmaker.md)
+- [CSS Filter Generator](src/design-tools/css-filter-generator.md)
 - [CSS Generator Tool](src/design-tools/css-generator.md)
 - [cubic-bezier](src/design-tools/cubic-bezier.md)
 - [Get Waves](src/design-tools/get-waves.md)
