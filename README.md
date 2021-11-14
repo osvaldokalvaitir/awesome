@@ -741,6 +741,7 @@
   - [Pagar.me JavaScript](src/runtime/nodejs/libs/pagarme.md)
   - [Paper Onboarding](src/runtime/nodejs/libs/@gorhom-paper-onboarding.md)
   - [Particles.js](src/runtime/nodejs/libs/particlesjs.md)
+  - [Passport](src/runtime/nodejs/libs/passport.md)
   - [Path-to-RegExp](src/runtime/nodejs/libs/path-to-regexp.md)
   - [PDFKit](src/runtime/nodejs/libs/pdfkit.md)
   - [pdfmake](src/runtime/nodejs/libs/pdfmake.md)
