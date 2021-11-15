@@ -340,6 +340,7 @@
 - [Death to Stock](src/images/death-to-stock.md)
 - [DrawKit](src/images/drawkit.md)
 - [FancyCrave](src/images/fancycrave.md)
+- [freepik](src/images/freepik.md)
 - [Freerange](src/images/freerange.md)
 - [Glaze](src/images/glaze.md)
 - [Gratisography](src/images/gratisography.md)
