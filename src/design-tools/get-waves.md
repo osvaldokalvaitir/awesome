@@ -2,6 +2,6 @@
 
 É um gerador de ondas que ajuda a fazer diferentes ondas e permite copiar e baixar o SVG.
 
-## Acesso ao Site
+## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://getwaves.io) para acessar o site.
+Clique [aqui](https://getwaves.io) para ver a documentação e acessar o serviço.
