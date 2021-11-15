@@ -319,6 +319,7 @@
 - [Pivotal Tracker](src/projects-managers/pivotaltracker.md)
 - [Taskworld](src/projects-managers/taskworld.md)
 - [Trello](src/projects-managers/trello.md)
+- [ZenHub](src/projects-managers/zenhub.md)
 
 ### Gerenciadores de Senhas
 
