@@ -355,6 +355,7 @@
 - [Picjumbo](src/images/picjumbo.md)
 - [Pixabay](src/images/pixabay.md)
 - [removebg](src/images/removebg.md)
+- [Shutterstock](src/images/shutterstock.md)
 - [Splitshire](src/images/splitshire.md)
 - [Startup Stock Photos](src/images/startup-stock-photos.md)
 - [StockSnap.io](src/images/stocksnap-io.md)
