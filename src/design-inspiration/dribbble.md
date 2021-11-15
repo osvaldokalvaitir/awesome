@@ -2,6 +2,6 @@
 
 Dribbble é o principal destino para encontrar e mostrar o trabalho criativo e o lar dos melhores profissionais de design do mundo.
 
-## Acesso ao Site
+## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://dribbble.com) para acessar o site.
+Clique [aqui](https://dribbble.com) para ver a documentação e acessar o serviço.
