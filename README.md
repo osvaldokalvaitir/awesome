@@ -328,6 +328,7 @@
 ### Ícones
 
 - [Ape Tools](src/icons/apetools.md)
+- [flaticon](src/icons/flaticon.md)
 
 ### IDEs
 
