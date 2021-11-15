@@ -2,6 +2,6 @@
 
 É um gerador de Soft-UI / Neumorfismo no qual você pode experimentar e obter o código CSS.
 
-## Acesso ao Site
+## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://neumorphism.io) para acessar o site.
+Clique [aqui](https://neumorphism.io) para ver a documentação e acessar o serviço.
