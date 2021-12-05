@@ -1320,5 +1320,5 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/
 ---
 
 <p align="center">
-Desenvolvido com 💚 por <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+Desenvolvido com 💚 por <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir</a>
 </p>
