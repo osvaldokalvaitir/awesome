@@ -731,6 +731,7 @@
   - [n8n](src/runtime/nodejs/libs/n8n.md)
   - [Native Testing Library](src/runtime/nodejs/libs/@testing-library-react-native.md)
   - [NativeBase](src/runtime/nodejs/libs/native-base.md)
+  - [Nativefier](src/runtime/nodejs/libs/nativefier.md)
   - [Netinfo](src/runtime/nodejs/libs/@react-native-community-netinfo.md)
   - [Next.js](src/runtime/nodejs/libs/next.md)
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
