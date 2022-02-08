@@ -9,3 +9,9 @@ Clique [aqui](https://github.com/a-tarasyuk/create-rx-app) para ver a documenta�
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/create-rx-app) para fazer a instalação.
+
+Instalar globalmente:
+
+```
+npm install --global create-rx-app | yarn global add create-rx-app
+```
