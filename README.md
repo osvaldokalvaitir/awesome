@@ -550,6 +550,7 @@
   - [cote](src/runtime/nodejs/libs/cote.md)
   - [Create React App](src/runtime/nodejs/libs/create-react-app.md)
   - [create-react-library](src/runtime/nodejs/libs/create-react-library.md)
+  - [Create-RX-App](src/runtime/nodejs/libs/create-rx-app.md)
   - [cross-env](src/runtime/nodejs/libs/cross-env.md)
   - [crypto-js](src/runtime/nodejs/libs/crypto-js.md)
   - [crypto-random-string](src/runtime/nodejs/libs/crypto-random-string.md)
