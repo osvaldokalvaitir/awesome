@@ -1071,6 +1071,7 @@
   - [rewire](src/runtime/nodejs/libs/rewire.md)
   - [rimraf](src/runtime/nodejs/libs/rimraf.md)
   - [RocketPWA](src/runtime/nodejs/libs/rocketpwa.md)
+  - [RSS Feed Emitter](src/runtime/nodejs/libs/rss-feed-emitter.md)
   - [RxJS](src/runtime/nodejs/libs/rxjs.md)
   - [Sass](src/runtime/nodejs/libs/sass.md)
   - [Sass Loader](src/runtime/nodejs/libs/sass-loader.md)
