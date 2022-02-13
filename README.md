@@ -1019,6 +1019,7 @@
   - [react-native-view-more-text](src/runtime/nodejs/libs/react-native-view-more-text.md)
   - [react-native-wagmi-charts](src/runtime/nodejs/libs/react-native-wagmi-charts.md)
   - [react-native-web](src/runtime/nodejs/libs/react-native-web.md)
+  - [react-native-xaml](src/runtime/nodejs/libs/react-native-xaml.md)
   - [react-native-youtube](src/runtime/nodejs/libs/react-native-youtube.md)
   - [react-number-format](src/runtime/nodejs/libs/react-number-format.md)
   - [react-paginate](src/runtime/nodejs/libs/react-paginate.md)
