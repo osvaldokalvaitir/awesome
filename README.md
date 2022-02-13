@@ -611,6 +611,7 @@
   - [expo-linear-gradient](src/runtime/nodejs/libs/expo-linear-gradient.md)
   - [expo-location](src/runtime/nodejs/libs/expo-location.md)
   - [expo-mail-composer](src/runtime/nodejs/libs/expo-mail-composer.md)
+  - [expo-optimize](src/runtime/nodejs/libs/expo-optimize.md)
   - [expo-status-bar](src/runtime/nodejs/libs/expo-status-bar.md)
   - [Express](src/runtime/nodejs/libs/express.md)
   - [Express Async Handler](src/runtime/nodejs/libs/express-async-handler.md)
