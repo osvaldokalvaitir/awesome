@@ -533,6 +533,7 @@
   - [class-validator](src/runtime/nodejs/libs/class-validator.md)
   - [Classnames](src/runtime/nodejs/libs/classnames.md)
   - [Clean plugin for webpack](src/runtime/nodejs/libs/clean-webpack-plugin.md)
+  - [cli-lambda-deploy](src/runtime/nodejs/libs/cli-lambda-deploy.md)
   - [Clipboard](src/runtime/nodejs/libs/@react-native-community-clipboard.md)
   - [CodeceptJS](src/runtime/nodejs/libs/codeceptjs.md)
   - [CodeMirror](src/runtime/nodejs/libs/codemirror.md)
