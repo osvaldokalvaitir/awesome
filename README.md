@@ -269,6 +269,7 @@
   - [Pomodoro Timer](src/code-editors/visual-studio-code/extensions/pomodoro-timer.md)
   - [Prettier - Code formatter](src/code-editors/visual-studio-code/extensions/prettier-code-formatter.md)
   - [Prisma](src/code-editors/visual-studio-code/extensions/prisma.md)
+  - [REST Client](src/code-editors/visual-studio-code/extensions/rest-client.md)
   - [Rocketseat React Native](src/code-editors/visual-studio-code/extensions/rocketseat-react-native.md)
   - [Rocketseat ReactJS](src/code-editors/visual-studio-code/extensions/rocketseat-reactjs.md)
   - [SCSS Formatter](src/code-editors/visual-studio-code/extensions/scss-formatter.md)
