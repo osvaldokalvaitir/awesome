@@ -245,6 +245,7 @@
 
   ##### Extensões
 
+  - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
   - [CodeSnap](src/code-editors/visual-studio-code/extensions/codesnap.md)
   - [Color Highlight](src/code-editors/visual-studio-code/extensions/color-highlight.md)
   - [DotEnv](src/code-editors/visual-studio-code/extensions/dotenv.md)
