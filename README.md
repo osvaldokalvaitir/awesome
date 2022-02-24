@@ -261,6 +261,7 @@
   - [GitLens - Git supercharged](src/code-editors/visual-studio-code/extensions/gitlens-git-supercharged.md)
   - [GraphQL](src/code-editors/visual-studio-code/extensions/graphql.md)
   - [Import Cost](src/code-editors/visual-studio-code/extensions/import-cost.md)
+  - [Kite AutoComplete AI Code](src/code-editors/visual-studio-code/extensions/kite-autocomplete-ai-code.md)
   - [Live Sass Compiler](src/code-editors/visual-studio-code/extensions/live-sass-compiler.md)
   - [Live Server](src/code-editors/visual-studio-code/extensions/live-server.md)
   - [Live Share](src/code-editors/visual-studio-code/extensions/live-share.md)
