@@ -249,6 +249,7 @@
   - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
   - [CodeSnap](src/code-editors/visual-studio-code/extensions/codesnap.md)
   - [Color Highlight](src/code-editors/visual-studio-code/extensions/color-highlight.md)
+  - [Color Picker](src/code-editors/visual-studio-code/extensions/color-picker.md)
   - [Docker](src/code-editors/visual-studio-code/extensions/docker.md)
   - [DotEnv](src/code-editors/visual-studio-code/extensions/dotenv.md)
   - [Dracula Official](src/code-editors/visual-studio-code/extensions/dracula-official.md)
