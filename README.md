@@ -247,7 +247,7 @@
 
   - [Auto Close Tag](src/code-editors/visual-studio-code/extensions/auto-close-tag.md)
   - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
-  - [Bracket Pair Colorizer](src/code-editors/visual-studio-code/extensions/bracket-pair-colorizer.md)
+  - [Bracket Pair Colorizer 2](src/code-editors/visual-studio-code/extensions/bracket-pair-colorizer-2.md)
   - [CodeSnap](src/code-editors/visual-studio-code/extensions/codesnap.md)
   - [Color Highlight](src/code-editors/visual-studio-code/extensions/color-highlight.md)
   - [Color Picker](src/code-editors/visual-studio-code/extensions/color-picker.md)
