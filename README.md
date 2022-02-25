@@ -280,6 +280,7 @@
   - [Settings Sync](src/code-editors/visual-studio-code/extensions/settings-sync.md)
   - [SQLite](src/code-editors/visual-studio-code/extensions/sqlite.md)
   - [Svg Preview](src/code-editors/visual-studio-code/extensions/svg-preview.md)
+  - [Tabnine AI Autocomplete](src/code-editors/visual-studio-code/extensions/tabnine-ai-autocomplete.md)
   - [Todo Tree](src/code-editors/visual-studio-code/extensions/todo-tree.md)
   - [Todo+](src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [VSCode Icons](src/code-editors/visual-studio-code/extensions/vscode-icons.md)
