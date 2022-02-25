@@ -159,6 +159,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
 
   // Configuração do Live Share
   "liveshare.featureSet": "insiders",
+
+  // Configuração do Code Spell Checker
+  "cSpell.language": "en,pt,pt_BR",
 }
 ```
 
