@@ -284,6 +284,7 @@
   - [Todo Tree](src/code-editors/visual-studio-code/extensions/todo-tree.md)
   - [Todo+](src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [VSCode Icons](src/code-editors/visual-studio-code/extensions/vscode-icons.md)
+  - [Visual Studio IntelliCode](src/code-editors/visual-studio-code/extensions/visual-studio-intellicode.md)
   - [VSCode Styled-Components](src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
 
 ### Emuladores
