@@ -106,6 +106,7 @@
 - [Marvel API](src/apis/marvel-api.md)
 - [PokéAPI](src/apis/pokeapi.md)
 - [SWAPI - The Star Wars API](src/apis/swapi.md)
+- [The Movie Database API](src/apis/the-movie-database-api.md)
 
 ### Automação de Aplicativos
 
