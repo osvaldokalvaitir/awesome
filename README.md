@@ -104,6 +104,7 @@
 - [GitHub API](src/apis/github-api.md)
 - [IBGE API](src/apis/ibge-api.md)
 - [Marvel API](src/apis/marvel-api.md)
+- [PokéAPI](src/apis/pokeapi.md)
 - [SWAPI - The Star Wars API](src/apis/swapi.md)
 
 ### Automação de Aplicativos
