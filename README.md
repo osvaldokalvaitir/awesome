@@ -204,6 +204,7 @@
 - [Adobe Color](src/colors/adobe-color.md)
 - [Colours Cafe](src/colors/colours-cafe.md)
 - [Coolors](src/colors/coolors.md)
+- [Dopely Colors](src/colors/dopely-colors.md)
 - [ui.colour](src/colors/ui-colour.md)
 
 ### Documentações
