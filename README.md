@@ -109,6 +109,7 @@
 - [SWAPI - The Star Wars API](src/apis/swapi.md)
 - [The Movie Database API](src/apis/the-movie-database-api.md)
 - [ViaCEP](src/apis/viacep.md)
+- [Weather API](src/apis/weather-api.md)
 
 ### Automação de Aplicativos
 
