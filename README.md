@@ -202,6 +202,7 @@
 ### Cores
 
 - [Adobe Color](src/colors/adobe-color.md)
+- [Colours Cafe](src/colors/colours-cafe.md)
 - [Coolors](src/colors/coolors.md)
 - [ui.colour](src/colors/ui-colour.md)
 
