@@ -108,6 +108,7 @@
 - [PokéAPI](src/apis/pokeapi.md)
 - [SWAPI - The Star Wars API](src/apis/swapi.md)
 - [The Movie Database API](src/apis/the-movie-database-api.md)
+- [ViaCEP](src/apis/viacep.md)
 
 ### Automação de Aplicativos
 
