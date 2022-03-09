@@ -298,6 +298,7 @@
   - [SQLite](src/code-editors/visual-studio-code/extensions/sqlite.md)
   - [Svg Preview](src/code-editors/visual-studio-code/extensions/svg-preview.md)
   - [Tabnine AI Autocomplete](src/code-editors/visual-studio-code/extensions/tabnine-ai-autocomplete.md)
+  - [Template String Converter](src/code-editors/visual-studio-code/extensions/template-string-converter.md)
   - [Todo Tree](src/code-editors/visual-studio-code/extensions/todo-tree.md)
   - [Todo+](src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [Thunder Client](src/code-editors/visual-studio-code/extensions/thunder-client.md)
