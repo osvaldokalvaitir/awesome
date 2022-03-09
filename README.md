@@ -293,6 +293,7 @@
   - [Rocketseat ReactJS](src/code-editors/visual-studio-code/extensions/rocketseat-reactjs.md)
   - [SCSS Formatter](src/code-editors/visual-studio-code/extensions/scss-formatter.md)
   - [Settings Sync](src/code-editors/visual-studio-code/extensions/settings-sync.md)
+  - [Split HTML Attributes](src/code-editors/visual-studio-code/extensions/split-html-attributes.md)
   - [SQLite](src/code-editors/visual-studio-code/extensions/sqlite.md)
   - [Svg Preview](src/code-editors/visual-studio-code/extensions/svg-preview.md)
   - [Tabnine AI Autocomplete](src/code-editors/visual-studio-code/extensions/tabnine-ai-autocomplete.md)
