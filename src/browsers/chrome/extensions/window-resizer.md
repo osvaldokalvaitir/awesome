@@ -1,6 +1,6 @@
 # Window Resizer
 
-Esta extensão redimensiona a janela do navegador para emular várias resoluções. É muito útilpara testar layouts em diferentes resoluções enquanto está desenvolvendo projetos.
+Esta extensão redimensiona a janela do navegador para emular várias resoluções. É muito útil para testar layouts em diferentes resoluções enquanto está desenvolvendo projetos.
 
 ## Documentação e Instalação
 
