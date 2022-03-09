@@ -149,6 +149,7 @@
   - [Redux DevTools](src/browsers/chrome/extensions/redux-devtools.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
   - [Wappalyzer](src/browsers/chrome/extensions/wappalyzer.md)
+  - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
   - [WhatFont](src/browsers/chrome/extensions/whatfont.md)
   - [Window Resizer](src/browsers/chrome/extensions/window-resizer.md)
 
