@@ -140,6 +140,7 @@
   - [CSS Scan](src/browsers/chrome/extensions/css-scan.md)
   - [Dracula DevTools Theme](src/browsers/chrome/extensions/dracula-devtools-theme.md)
   - [Full Page Screen Capture](src/browsers/chrome/extensions/full-page-screen-capture.md)
+  - [File Icons for GitHub and GitLab](src/browsers/chrome/extensions/file-icons-for-github-and-gitlab.md)
   - [GitHub Dark Theme](src/browsers/chrome/extensions/github-dark-theme.md)
   - [JSON Viewer](src/browsers/chrome/extensions/json-viewer.md)
   - [Lighthouse](src/browsers/chrome/extensions/lighthouse.md)
