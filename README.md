@@ -259,6 +259,7 @@
 
   - [Auto Close Tag](src/code-editors/visual-studio-code/extensions/auto-close-tag.md)
   - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
+  - [Better Comments](src/code-editors/visual-studio-code/extensions/better-comments.md)
   - [Bookmarks](src/code-editors/visual-studio-code/extensions/bookmarks.md)
   - [Bracket Pair Colorizer 2](src/code-editors/visual-studio-code/extensions/bracket-pair-colorizer-2.md)
   - [Brazilian Portuguese - Code Spell Checker](src/code-editors/visual-studio-code/extensions/brazilian-portuguese-code-spell-checker.md)
