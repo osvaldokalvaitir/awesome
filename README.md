@@ -506,6 +506,7 @@
   - [@react-navigation/stack](src/runtime/nodejs/libs/@react-navigation-stack.md)
   - [@sentry/node](src/runtime/nodejs/libs/@sentry-node.md)
   - [@sentry/wizard](src/runtime/nodejs/libs/@sentry-wizard.md)
+  - [@sentry/react-native](src/runtime/nodejs/libs/@sentry-react-native.md)
   - [@types/cors](src/runtime/nodejs/libs/@types-cors.md)
   - [@types/express](src/runtime/nodejs/libs/@types-express.md)
   - [@types/hapi__joi](src/runtime/nodejs/libs/@types-hapi__joi.md)
