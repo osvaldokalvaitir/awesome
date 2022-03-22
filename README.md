@@ -756,6 +756,7 @@
   - [Material-UI pickers](src/runtime/nodejs/libs/@material-ui-pickers.md)
   - [MaterializeCSS](src/runtime/nodejs/libs/materialize-css.md)
   - [merge-stream](src/runtime/nodejs/libs/merge-stream.md)
+  - [MessageBird REST API](src/runtime/nodejs/libs/messagebird-rest-api.md)
   - [micromatch](src/runtime/nodejs/libs/micromatch.md)
   - [mini-css-extract-plugin](src/runtime/nodejs/libs/mini-css-extract-plugin.md)
   - [mkdirp](src/runtime/nodejs/libs/mkdirp.md)
