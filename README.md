@@ -369,6 +369,7 @@
 - [flaticon](src/icons/flaticon.md)
 - [Icons8](src/icons/icons8.md)
 - [Iconsax](src/icons/iconsax.md)
+- [KoloIcons](src/icons/koloicons.md)
 - [MakeAppIcon](src/icons/makeappicon.md)
 
 ### IDEs
