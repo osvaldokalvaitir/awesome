@@ -416,6 +416,7 @@
 
 ### Inspiração de Design
 
+- [Awwwards](src/design-inspiration/awwwards.md)
 - [Behance](src/design-inspiration/behance.md)
 - [Dribbble](src/design-inspiration/dribbble.md)
 - [Mobbin](src/design-inspiration/mobbin.md)
