@@ -329,6 +329,7 @@
 ### Fontes
 
 - [Fira Code](src/fonts/fira-code.md)
+- [Google Fonts](src/fonts/google-fonts.md)
 
 ### Gerenciadores de Dependências NPM
 
