@@ -405,6 +405,7 @@
 - [Startup Stock Photos](src/images/startup-stock-photos.md)
 - [StockSnap.io](src/images/stocksnap-io.md)
 - [Stokpic](src/images/stokpic.md)
+- [UI8](src/images/ui8.md)
 - [unDraw](src/images/undraw.md)
 - [Unsplash](src/images/unsplash.md)
 
