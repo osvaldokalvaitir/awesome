@@ -328,6 +328,7 @@
 
 ### Fontes
 
+- [Adobe Fonts](src/fonts/adobe-fonts.md)
 - [Fira Code](src/fonts/fira-code.md)
 - [Google Fonts](src/fonts/google-fonts.md)
 
