@@ -391,6 +391,7 @@
 - [Kaboompics](src/images/kaboompics.md)
 - [LibreShot](src/images/libreshot.md)
 - [Life of Pix](src/images/life-of-pix.md)
+- [Moose](src/images/moose.md)
 - [Negative Space](src/images/negative-space.md)
 - [New Old Stock](src/images/new-old-stock.md)
 - [Pexels](src/images/pexels.md)
