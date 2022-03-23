@@ -386,6 +386,7 @@
 - [Freerange](src/images/freerange.md)
 - [Glaze](src/images/glaze.md)
 - [Gratisography](src/images/gratisography.md)
+- [Humaaans](src/images/humaaans.md)
 - [ISO Republic](src/images/iso-republic.md)
 - [Jay Mantri](src/images/jay-mantri.md)
 - [Kaboompics](src/images/kaboompics.md)
