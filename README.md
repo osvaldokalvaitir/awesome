@@ -379,6 +379,7 @@
 ### Imagens
 
 - [Blush](src/images/blush.md)
+- [Craftwork](src/images/craftwork.md)
 - [Death to Stock](src/images/death-to-stock.md)
 - [DrawKit](src/images/drawkit.md)
 - [FancyCrave](src/images/fancycrave.md)
