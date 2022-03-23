@@ -367,6 +367,7 @@
 - [Ape Tools](src/icons/apetools.md)
 - [App Icon Generator](src/icons/app-icon-generator.md)
 - [flaticon](src/icons/flaticon.md)
+- [Icons8](src/icons/icons8.md)
 - [Iconsax](src/icons/iconsax.md)
 - [MakeAppIcon](src/icons/makeappicon.md)
 
