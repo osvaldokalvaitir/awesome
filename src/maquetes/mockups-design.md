@@ -4,4 +4,4 @@ Mockups Design é um site onde você pode encontrar maquetes premium gratuitas q
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://mockups-design.com/) para ver a documentação e acessar o serviço.
+Clique [aqui](https://mockups-design.com) para ver a documentação e acessar o serviço.
