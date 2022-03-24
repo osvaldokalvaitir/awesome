@@ -330,6 +330,7 @@
 
 - [Adobe Fonts](src/fonts/adobe-fonts.md)
 - [Fira Code](src/fonts/fira-code.md)
+- [Font Squirrel](src/fonts/font-squirrel.md)
 - [Google Fonts](src/fonts/google-fonts.md)
 
 ### Gerenciadores de Dependências NPM
