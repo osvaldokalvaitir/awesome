@@ -451,6 +451,7 @@
 - [Mockups-Design](src/maquetes/mockups-design.md)
 - [Mr.Mockup](src/maquetes/mrmockup.md)
 - [Original Mockups](src/maquetes/original-mockups.md)
+- [Pixpine](src/maquetes/pixpine.md)
 - [Placeit](src/maquetes/placeit.md)
 - [Unblast](src/maquetes/unblast.md)
 
