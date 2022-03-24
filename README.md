@@ -444,6 +444,7 @@
 
 ### Maquetes
 
+- [Anthony Boyd Graphics](src/maquetes/anthony-boyd-graphics.md)
 - [Free-mockup](src/maquetes/free-mockup.md)
 - [GraphicBurger](src/maquetes/graphicburger.md)
 - [Mockupworld](src/maquetes/mockupworld.md)
