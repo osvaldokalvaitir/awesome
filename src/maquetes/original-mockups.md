@@ -4,4 +4,4 @@ Se você gosta de mockups minimalistas, o Original Mockups com certeza irá te a
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://originalmockups.com/mockups/free-mockups) para ver a documentação e acessar o serviço.
+Clique [aqui](https://originalmockups.com) para ver a documentação e acessar o serviço.

@@ -4,4 +4,4 @@ Site muito bem construído e com design agradável é o Mr. Mockup, que oferece 
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://mrmockup.com/freebies) para ver a documentação e acessar o serviço.
+Clique [aqui](https://mrmockup.com) para ver a documentação e acessar o serviço.

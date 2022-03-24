@@ -4,4 +4,4 @@ O site PixPine se declara como um grupo de entusiastas criativos que trabalham i
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://www.pixpine.com/freebies) para ver a documentação e acessar o serviço.
+Clique [aqui](https://www.pixpine.com) para ver a documentação e acessar o serviço.
