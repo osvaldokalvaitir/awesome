@@ -445,6 +445,7 @@
 ### Maquetes
 
 - [Free-mockup](src/maquetes/free-mockup.md)
+- [GraphicBurger](src/maquetes/graphicburger.md)
 - [Mockupworld](src/maquetes/mockupworld.md)
 - [Mockups-Design](src/maquetes/mockups-design.md)
 - [Placeit](src/maquetes/placeit.md)
