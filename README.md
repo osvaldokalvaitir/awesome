@@ -446,6 +446,7 @@
 
 - [Free-mockup](src/maquetes/free-mockup.md)
 - [Mockupworld](src/maquetes/mockupworld.md)
+- [Placeit](src/maquetes/placeit.md)
 
 ### Máquinas Virtuais
 
