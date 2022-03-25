@@ -136,6 +136,7 @@
 ### Browsers
 
 - [Chrome](src/browsers/chrome/chrome.md)
+- [Microsoft Edge](src/browsers/microsoft-edge/microsoft-edge.md)
 
   ##### Extensões
 
