@@ -787,6 +787,7 @@
   - [MessageBird REST API](src/runtime/nodejs/libs/messagebird-rest-api.md)
   - [micromatch](src/runtime/nodejs/libs/micromatch.md)
   - [mini-css-extract-plugin](src/runtime/nodejs/libs/mini-css-extract-plugin.md)
+  - [Mirage JS](src/runtime/nodejs/libs/mirage-js.md)
   - [mkdirp](src/runtime/nodejs/libs/mkdirp.md)
   - [MobX](src/runtime/nodejs/libs/mobx.md)
   - [mobx-state-tree](src/runtime/nodejs/libs/mobx-state-tree.md)
