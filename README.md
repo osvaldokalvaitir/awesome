@@ -147,6 +147,7 @@
   - [JSON Viewer](src/browsers/chrome/extensions/json-viewer.md)
   - [Lighthouse](src/browsers/chrome/extensions/lighthouse.md)
   - [Octotree](src/browsers/chrome/extensions/octotree.md)
+  - [Omni: Dark Theme for Chrome](src/browsers/chrome/extensions/omni-dark-theme-for-chrome.md)
   - [React Developer Tools](src/browsers/chrome/extensions/react-developer-tools.md)
   - [Redux DevTools](src/browsers/chrome/extensions/redux-devtools.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
