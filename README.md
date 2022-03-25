@@ -65,6 +65,7 @@
 - [Gerenciadores de Pacotes Node.js](#gerenciadores-de-pacotes-nodejs)
 - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
 - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
+- [IaC](#iac)
 - [Ícones](#ícones)
 - [IDEs](#ides)
 - [Imagens](#imagens)
@@ -365,6 +366,10 @@
 
 - [Keychain Access](src/passwords-managers/keychain-access.md)
 - [keytool](src/passwords-managers/keytool.md)
+
+### IaC
+
+- [Terraform](src/iac/terraform.md)
 
 ### Ícones
 
