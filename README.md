@@ -60,6 +60,7 @@
 - [Emuladores](#emuladores)
 - [Erros](#erros)
 - [Ferramentas de Design](#ferramentas-de-design)
+- [Ferramentas de Segurança](#ferramentas-de-segurança)
 - [Fontes](#fontes)
 - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
 - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
@@ -338,6 +339,7 @@
 - [Sentry](src/errors/sentry.md)
 
 ### Ferramentas de Design
+
 - [Blobmaker](src/design-tools/blobmaker.md)
 - [CSS Filter Generator](src/design-tools/css-filter-generator.md)
 - [CSS Generator Tool](src/design-tools/css-generator.md)
@@ -346,6 +348,10 @@
 - [Get Waves](src/design-tools/get-waves.md)
 - [Glassmorphism CSS Generator](src/design-tools/glassmorphism-css-generator.md)
 - [Neumorphism.io](src/design-tools/neumorphismio.md)
+
+### Ferramentas de Segurança
+
+- [JSON Web Tokens](src/security-tools/json-web-tokens.md)
 
 ### Fontes
 
