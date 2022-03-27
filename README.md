@@ -139,7 +139,7 @@
 - [Chrome](src/browsers/chrome/chrome.md)
 - [Microsoft Edge](src/browsers/microsoft-edge/microsoft-edge.md)
 
-  ##### Extensões
+  ##### Chrome - Extensões
 
   - [CSS Scan](src/browsers/chrome/extensions/css-scan.md)
   - [Dracula DevTools Theme](src/browsers/chrome/extensions/dracula-devtools-theme.md)
@@ -172,9 +172,13 @@
 
 - [Graphcool](src/api-clients/graphcool.md)
 - [Hasura](src/api-clients/hasura.md)
-- [Insomnia](src/api-clients/insomnia.md)
+- [Insomnia](src/api-clients/insomnia/insomnia.md)
 - [Postman](src/api-clients/postman.md)
 - [Prisma](src/api-clients/prisma.md)
+
+##### Insomnia - Extensões
+
+  - [Omni for Insomnia](src/api-docs/insomnia/extensions/omni-for-insomnia.md)
 
 ### Coberturas de Teste
 
@@ -261,7 +265,7 @@
 
 - [Visual Studio Code](src/code-editors/visual-studio-code/visual-studio-code.md)
 
-  ##### Extensões
+  ##### Visual Studio Code - Extensões
 
   - [Auto Close Tag](src/code-editors/visual-studio-code/extensions/auto-close-tag.md)
   - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
