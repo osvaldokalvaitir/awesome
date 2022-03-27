@@ -157,6 +157,12 @@ react-native link nome-da-biblioteca
 
 ## Erros
 
+Executar verificação de erros no projeto:
+
+```
+react-native doctor
+```
+
 # Android/iOS
 
 Lista de erros comuns enfrentados no Android/iOS:
