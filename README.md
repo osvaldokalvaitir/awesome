@@ -315,10 +315,14 @@
 ### Editores de Código Online
 
 - [Codeanywhere](src/online-code-editors/codeanywhere.md)
+- [Red Hat CodeReady Workspaces](src/online-code-editors/red-hat-codeready-workspaces.md)
 - [CodePen](src/online-code-editors/codepen.md)
 - [CodeSandbox](src/online-code-editors/codesandbox.md)
 - [Expo Snack](src/online-code-editors/expo-snack.md)
 - [GitHub Codespaces](src/online-code-editors/github-codespaces.md)
+- [Gitpod](src/online-code-editors/gitpod.md)
+- [JSFiddle](src/online-code-editors/jsfiddle.md)
+- [StackBlitz](src/online-code-editors/stackblitz.md)
 
 ### Emuladores
 
