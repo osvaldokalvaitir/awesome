@@ -56,6 +56,7 @@
 - [Documentações de API](#documentações-de-api)
 - [E-mails](#e-mails)
 - [Editores de Código](#editores-de-código)
+- [Editores de Código Online](#editores-de-código-online)
 - [Emuladores](#emuladores)
 - [Erros](#erros)
 - [Ferramentas de Design](#ferramentas-de-design)
@@ -310,6 +311,10 @@
   - [VSCode Icons](src/code-editors/visual-studio-code/extensions/vscode-icons.md)
   - [Visual Studio IntelliCode](src/code-editors/visual-studio-code/extensions/visual-studio-intellicode.md)
   - [VSCode Styled-Components](src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
+
+### Editores de Código Online
+
+- [Expo Snack](src/code-editors/expo-snack.md)
 
 ### Emuladores
 
