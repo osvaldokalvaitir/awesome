@@ -318,6 +318,7 @@
 - [CodePen](src/online-code-editors/codepen.md)
 - [CodeSandbox](src/online-code-editors/codesandbox.md)
 - [Expo Snack](src/online-code-editors/expo-snack.md)
+- [GitHub Codespaces](src/online-code-editors/github-codespaces.md)
 
 ### Emuladores
 
