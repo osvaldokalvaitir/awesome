@@ -1128,6 +1128,7 @@
   - [react-router-dom](src/runtime/nodejs/libs/react-router-dom.md)
   - [react-router-native](src/runtime/nodejs/libs/react-router-native.md)
   - [React-Select](src/runtime/nodejs/libs/react-select.md)
+  - [react-share](src/runtime/nodejs/libs/react-share.md)
   - [react-slick](src/runtime/nodejs/libs/react-slick.md)
   - [react-sound](src/runtime/nodejs/libs/react-sound.md)
   - [react-spring](src/runtime/nodejs/libs/react-spring.md)
