@@ -85,6 +85,7 @@
 - [PaaS](#paas)
 - [Plataformas de Comunicação](#plataformas-de-comunicação)
 - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
+- [Regex](#regex)
 - [Runtime](#runtime)
 - [Servidores](#servidores)
 - [Servidores Web](#servidores-web)
@@ -530,6 +531,10 @@
 - [Apple Developer](src/development-platforms/apple-developer.md)
 - [Firebase](src/development-platforms/firebase.md)
 - [Play Console](src/development-platforms/play-console.md)
+
+### Regex
+
+- [i Hate Regex](src/regex/i-hate-regex.md)
 
 ### Runtime
 
