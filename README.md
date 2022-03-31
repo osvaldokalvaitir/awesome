@@ -52,13 +52,13 @@
 - [Contêineres](#contêineres)
 - [Controles de Versão](#controles-de-versão)
 - [Cores](#cores)
-- [Documentações](#documentações)
 - [Documentações de API](#documentações-de-api)
 - [E-mails](#e-mails)
 - [Editores de Código](#editores-de-código)
 - [Editores de Código Online](#editores-de-código-online)
 - [Emuladores](#emuladores)
 - [Erros](#erros)
+- [Estudos](#estudos)
 - [Ferramentas de Design](#ferramentas-de-design)
 - [Ferramentas de Segurança](#ferramentas-de-segurança)
 - [Fontes](#fontes)
@@ -222,31 +222,6 @@
 - [Dopely Colors](src/colors/dopely-colors.md)
 - [ui.colour](src/colors/ui-colour.md)
 
-### Documentações
-
-  #### CSS
-
-  - [Can I use](src/docs/css/caniuse.md)
-  - [Codrops](src/docs/css/codrops.md)
-  - [CSS-Tricks](src/docs/css/css-tricks.md)
-
-  #### Linguagens de Programação
-
-  - [DevDocs Desktop](src/docs/programming-languages/devdocs-desktop.md)
-  - [MDN Web Docs](src/docs/programming-languages/mdn-web-docs.md)
-  - [Training Center](src/docs/programming-languages/training-center.md)
-  - [W3Schools](src/docs/programming-languages/w3schools.md)
-
-  #### Low-code
-
-  - [ToolJet](src/low-code/tooljet.md)
-
-  #### UI/UX
-
-  - [UI Lab](src/docs/ui-ux/ui-lab.md)
-  - [UX Collective](src/docs/ui-ux/ux-collective.md)
-  - [UX Planet](src/docs/ui-ux/ux-planet.md)
-
 ### Documentações de API
 
 - [GitBook](src/api-docs/gitbook.md)
@@ -338,6 +313,28 @@
 ### Erros
 
 - [Sentry](src/errors/sentry.md)
+
+### Estudos
+
+  #### CSS
+
+  - [Can I use](src/learning/css/caniuse.md)
+  - [Codrops](src/learning/css/codrops.md)
+  - [CSS-Tricks](src/learning/css/css-tricks.md)
+
+  #### Linguagens de Programação
+
+  - [DevDocs Desktop](src/learning/programming-languages/devdocs-desktop.md)
+  - [Grasshopper](src/learning/programming-languages/grasshopper.md)
+  - [MDN Web Docs](src/learning/programming-languages/mdn-web-docs.md)
+  - [Training Center](src/learning/programming-languages/training-center.md)
+  - [W3Schools](src/learning/programming-languages/w3schools.md)
+
+  #### UI/UX
+
+  - [UI Lab](src/learning/ui-ux/ui-lab.md)
+  - [UX Collective](src/learning/ui-ux/ux-collective.md)
+  - [UX Planet](src/learning/ui-ux/ux-planet.md)
 
 ### Ferramentas de Design
 
@@ -467,6 +464,10 @@
 
 - [JavaScript](src/programming-languages/javascript.md)
 - [Python](src/programming-languages/python.md)
+
+#### Low-code
+
+- [ToolJet](src/low-code/tooljet.md)
 
 ### Mapas
 
@@ -1375,7 +1376,7 @@
 
 - [Instalação do Insomnia](src/api-clients/insomnia.md)
 
-- [Instalação do DevDocs Desktop](src/docs/programming-languages/devdocs-desktop.md)
+- [Instalação do DevDocs Desktop](src/learning/programming-languages/devdocs-desktop.md)
 
 - Instalação do Gerenciador de Pacotes
 
