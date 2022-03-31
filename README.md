@@ -321,6 +321,7 @@
   - [Can I use](src/learning/css/caniuse.md)
   - [Codrops](src/learning/css/codrops.md)
   - [CSS-Tricks](src/learning/css/css-tricks.md)
+  - [Flexbox Froggy](src/learning/css/flexbox-froggy.md)
 
   #### Linguagens de Programação
 
