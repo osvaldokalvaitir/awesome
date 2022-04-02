@@ -8,11 +8,12 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare
 
 ## Configuração
 
-Depois de instalado o ESLint, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Configuração do Live Share
-  liveshare.featureSet": "insiders",
+  // Configurações do Live Share
+  "liveshare.featureSet": "insiders",
+  "liveshare.connectionMode": "relay",
 }
 ```
