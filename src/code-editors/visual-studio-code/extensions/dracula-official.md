@@ -1,6 +1,6 @@
 # Dracula Official
 
-Tema para o VSCode.
+Tema dark para o VSCode.
 
 ## Documentação e Instalação
 
@@ -12,7 +12,7 @@ Depois de instalar o tema, setar as configurações (Settings > Open settings.js
 
 ```
 {
-  // Define o tema do VSCode
+  // Define o tema de cores
   "workbench.colorTheme":"Dracula",
 }
 ```
