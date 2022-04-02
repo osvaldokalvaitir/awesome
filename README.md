@@ -261,6 +261,7 @@
   - [EditorConfig for VS Code](src/code-editors/visual-studio-code/extensions/editorconfig-for-vs-code.md)
   - [Error Lens](src/code-editors/visual-studio-code/extensions/error-lens.md)
   - [ESLint](src/code-editors/visual-studio-code/extensions/eslint.md)
+  - [Fluent Icons](src/code-editors/visual-studio-code/extensions/fluent-icons.md)
   - [GitLens - Git supercharged](src/code-editors/visual-studio-code/extensions/gitlens-git-supercharged.md)
   - [GraphQL](src/code-editors/visual-studio-code/extensions/graphql.md)
   - [Import Cost](src/code-editors/visual-studio-code/extensions/import-cost.md)
