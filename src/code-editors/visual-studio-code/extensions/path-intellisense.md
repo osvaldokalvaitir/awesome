@@ -13,6 +13,7 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 ```
 {
   // Path Intellisense
-  "typescript.suggest.paths": false
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
 }
 ```

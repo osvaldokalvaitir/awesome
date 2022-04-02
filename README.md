@@ -362,6 +362,7 @@
 - [Font Squirrel](src/fonts/font-squirrel.md)
 - [Fontmirror](src/fonts/fontmirror.md)
 - [Google Fonts](src/fonts/google-fonts.md)
+- [JetBrains Mono](src/fonts/jetbrains-mono.md)
 
 ### Gerenciadores de Dependências NPM
 

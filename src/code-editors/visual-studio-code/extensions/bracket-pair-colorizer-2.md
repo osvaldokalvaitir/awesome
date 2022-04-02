@@ -5,3 +5,16 @@ Permite que os colchetes correspondentes sejam identificados com cores. O usuár
 ## Documentação e Instalação
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) para ver a documentação e fazer a instalação.
+
+## Configuração
+
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
+
+```
+{
+  // Configurações do Bracket Pair Colorizer 2
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs":"active",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+}
+```

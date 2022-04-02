@@ -8,11 +8,11 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=rocketseat.the
 
 ## Configuração
 
-Depois de instalar o tema, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Define o tema do VSCode
+  // Define o tema de cores
   "workbench.colorTheme":"Omni",
 }
 ```

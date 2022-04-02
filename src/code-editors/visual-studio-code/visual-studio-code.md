@@ -27,6 +27,18 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 }
 ```
 
+ou
+
+```
+{
+  // Configura o tamanho e a família da fonte
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+}
+```
+
 ## Todas as Configurações
 
 Depois de adicionar a fonte e as extensões, setar as configurações (Settings > Open settings.json):
@@ -39,11 +51,14 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Na aba do arquivo aberto, aparece o nome da pasta depois do nome do arquivo
   "workbench.editor.labelFormat": "short",
 
+  // Visibilidade da barra de menu
+  "window.menuBarVisibility": "toggle",
+
   // Zoom
   "window.zoomLevel": 0,
 
   // Habilita recomendações de extensões
-  "extensions.ignoreRecommendations": false,
+  "extensions.ignoreRecommendations": true,
 
   // Desabilita a compactação de pasta se estiver vazia
   "explorer.compactFolders": false,
@@ -54,18 +69,29 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Desabilita a confirmação ao deletar
   "explorer.confirmDelete": false,
 
+  // Controla se o explorador deve renderizar pastas em um formato compacto
+  "explorer.compactFolders": false,
+
   // Aplica linhas verticais para lembrar de quebrar linha
   "editor.rulers": [80, 120],
-  "editor.formatOnSave": false,
 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
+
+  // Realce semântico desativado para todos os temas de cores
+  "editor.semanticHighlighting.enabled": false,
 
   // Desabilita o hint de documentação
   "editor.parameterHints.enabled": false,
 
   // Tamanho da tabulação
   "editor.tabSize": 2,
+
+  // Sempre selecione a primeira sugestão
+  "editor.suggestSelection": "first",
+
+  // Ações de código ao salvar
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
 
   // Guias auxiliares de navegação
   "breadcrumbs.enabled": true,
@@ -74,95 +100,159 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   "terminal.integrated.fontSize":14,
 
   // Terminal padrão no OSX
-  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.defaultProfile.osx": "/bin/zsh",
+
+  // Terminal padrão no Linux
+  "terminal.integrated.defaultProfile.linux": "/bin/zsh",
 
   // Terminal padrão no Windows
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
 
   // Auto complete de javascript em arquivos jsx
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
-  },
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
 
-  // Inclui a linguagem do javascriptreact nos arquivos html do nunjucks
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact",
-    "nunjucks": "html"
-  },
+  // Inclui a linguagem do javascriptreact
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
 
-  // Nunca atualiza os imports ao mover o arquivo
-  "javascript.updateImportsOnFileMove.enabled": "never",
+  // Habilita imports automáticos
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
 
-  // Desabilita os imports automáticos
-  "javascript.suggest.autoImports": false,
+  // Atualiza os imports ao mover o arquivo
+  "javascript.updateImportsOnFileMove.enabled": "always",
 
-  // Commitar todas as alterações quando não houver alterações em etapas
-  "git.enableSmartCommit": true,
-
-  // Configuração do Typescript
-  "typescript.tsserver.log": "verbose",
+  // Configurações do Typescript
+  "typescript.tsserver.log": "off",
   "typescript.updateImportsOnFileMove.enabled": "never",
 
-  // Path Intellisense
-  "typescript.suggest.paths": false,
+  // Sempre abra arquivos não confiáveis ​​em uma janela separada no modo restrito sem avisar
+  "security.workspace.trust.untrustedFiles": "newWindow",
 
-  // Associações de arquivos
-  "files.associations": {
-    ".sequelizerc": "javascript",
-    ".stylelintrc": "json",
-    ".prettierrc": "json"
-  },
+
 
 
   // Configurações que precisam de fonte e extensões
 
   // Configura o tamanho e a família da fonte
-  "editor.fontSize":18,
-  "editor.lineHeight":24,
-  "editor.fontFamily":"Fira Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
 
-  // Define o tema do VSCode
-  "workbench.colorTheme": "Dracula",
+  // Associações de arquivos
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv"
+  },  
+s
+  // Define o tema de cores
+  "workbench.colorTheme": "Omni",
 
-  // Define o tema dos ícones na sidebar
+  // Define o tema de cores dos produtos
+  "workbench.productIconTheme": "fluent-icons",
+
+  // Define o tema dos ícones de arquivos
   "workbench.iconTheme": "material-icon-theme",
 
-  // Define a integração do Prettier com o ESLint (_DESCONTINUADO_)
-  "prettier.eslintIntegration": true,
+  // Configurações do Material Icon Theme
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "domain": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "providers": "include",
+    "subscribers": "messages",
+    "useCases": "controller",
+    "kafka": "scripts",
+    "mappers": "meta",
+    "_shared": "shared",
+    "eslint-config": "tools",
+    "kube": "kubernetes"
+  },
+  "material-icon-theme.files.associations": {
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    "*.proto": "3d",
+    "*.webpack.js": "webpack"
+  },
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
+  "material-icon-theme.activeIconPack": "nest",
 
-  // Define a configuração do ESLint ao salvar
-  "[javascript]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[javascriptreact]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[typescript]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[typescriptreact]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
+  // Configurações do Bracket Pair Colorizer 2
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs":"active",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+
+  // Configurações do Code Spell Checker
+  "cSpell.language": "en,pt,pt_BR",
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!go",
+    "!handlebars",
+    "!haskell",
+    "!jade",
+    "!java",
+    "!latex",
+    "!php",
+    "!pug",
+    "!python",
+    "!restructuredtext",
+    "!rust",
+    "!scala",
+    "!scss"
+  ],
+
+  // Configurações do Git
+  "git.enableSmartCommit": true,
 
   // Configurações do GitLens
   "gitlens.codeLens.recentChange.enabled": false,
   "gitlens.codeLens.authors.enabled": false,
   "gitlens.codeLens.enabled": false,
 
-  // Configuração do Live Share
+  // Configurações do Live Share
   "liveshare.featureSet": "insiders",
+  "liveshare.connectionMode": "relay",
 
-  // Configuração do Code Spell Checker
-  "cSpell.language": "en,pt,pt_BR",
+  // Configurações do Prisma
+  "[prisma]": { "editor.formatOnSave": true },
+
+  // Configurações do Split HTML Attributes
+  "splitHTMLAttributes.closingBracketOnNewLine": true,
+
+  // Configurações do Tabnine
+  "tabnine.experimentalAutoImports": true,
+
+  // Configurações do Todo Tree
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
 }
 ```
 
