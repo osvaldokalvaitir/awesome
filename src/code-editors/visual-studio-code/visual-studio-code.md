@@ -11,6 +11,7 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 ### Instalação
 
 - [Fira Code](../../fonts/fira-code.md)
+- [JetBrains Mono](../../fonts/jetbrains-mono.md)
 
 ### Configuração
 
