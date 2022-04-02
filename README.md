@@ -273,6 +273,7 @@
   - [Nunjucks](src/code-editors/visual-studio-code/extensions/nunjucks.md)
   - [Omni](src/code-editors/visual-studio-code/extensions/omni.md)
   - [Path Intellisense](src/code-editors/visual-studio-code/extensions/path-intellisense.md)
+  - [Polacode](src/code-editors/visual-studio-code/extensions/polacode.md)
   - [Pomodoro Timer](src/code-editors/visual-studio-code/extensions/pomodoro-timer.md)
   - [Prettier - Code formatter](src/code-editors/visual-studio-code/extensions/prettier-code-formatter.md)
   - [Prisma](src/code-editors/visual-studio-code/extensions/prisma.md)
