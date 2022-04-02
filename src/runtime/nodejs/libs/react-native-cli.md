@@ -32,6 +32,12 @@ Exibição de uma lista de comandos possíveis:
 react-native -h
 ```
 
+### Atualização
+
+Use React Native Upgrade Helper, que é uma ferramenta da Web para dar suporte aos desenvolvedores React Native na atualização de seus aplicativos.
+
+Clique [aqui](https://react-native-community.github.io/upgrade-helper) para ver a documentação e acessar o serviço.
+
 ### Execução de Projeto para Desenvolvimento no React Native
 
 - Quando executar o projeto pela primeira vez ou quando instalar uma biblioteca que contêm código nativo que precise executar o comando `react-native link nome-da-biblioteca` (_DESCONTINUADO_), podemos executar os comandos abaixo.

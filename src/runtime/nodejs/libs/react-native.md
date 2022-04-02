@@ -12,7 +12,7 @@ Clique [aqui](https://www.npmjs.com/package/react-native) para fazer a instalaç
 
 ## Estilos
 
-Clique [aqui](https://github.com/osvaldokalvaitir/react-native-styling-cheat-sheet) para ver todas as propriedades de estilos do React Native.
+Clique [aqui](https://github.com/vhpoet/react-native-styling-cheat-sheet) para ver todas as propriedades de estilos do React Native.
 
 Observações:
 
