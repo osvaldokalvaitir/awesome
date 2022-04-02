@@ -10,11 +10,44 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=PKief.material
 
 ## Configuração
 
-Depois de instalar o tema dos ícones, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Define o tema dos ícones na sidebar
-  "workbench.iconTheme":"material-icon-theme",
+  "material-icon-theme.folders.associations": {
+    "infra": "app",
+    "entities": "class",
+    "domain": "class",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "fakes": "mock",
+    "websockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "providers": "include",
+    "subscribers": "messages",
+    "useCases": "controller",
+    "kafka": "scripts",
+    "mappers": "meta",
+    "_shared": "shared",
+    "eslint-config": "tools",
+    "kube": "kubernetes"
+  },
+  "material-icon-theme.files.associations": {
+    "ormconfig.json": "database",
+    "tsconfig.json": "tune",
+    "*.proto": "3d",
+    "*.webpack.js": "webpack"
+  },
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
+  "material-icon-theme.activeIconPack": "nest",
 }
 ```
