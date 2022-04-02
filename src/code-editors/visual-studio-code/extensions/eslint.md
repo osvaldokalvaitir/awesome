@@ -8,30 +8,11 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscod
 
 ## Configuração
 
-Depois de instalado o ESLint, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {  
-  // Define a configuração do ESLint ao salvar
-  "[javascript]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[javascriptreact]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[typescript]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
-  "[typescriptreact]": {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-    }
-  },
+  // Ações de código ao salvar
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
 }
 ```
