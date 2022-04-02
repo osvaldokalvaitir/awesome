@@ -5,3 +5,14 @@ O Tabnine é o assistente de conclusão de código de IA confiável por milhões
 ## Documentação e Instalação
 
 Clique [aqui](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) para ver a documentação e fazer a instalação.
+
+## Configuração
+
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
+
+```
+{
+  // Configurações do Tabnine
+  "tabnine.experimentalAutoImports": true,
+}
+```
