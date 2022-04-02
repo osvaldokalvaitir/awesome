@@ -351,6 +351,7 @@
 ### Ferramentas de Segurança
 
 - [JSON Web Tokens](src/security-tools/json-web-tokens.md)
+- [Let's Encrypt](src/security-tools/lets-encrypt.md)
 
 ### Fontes
 
