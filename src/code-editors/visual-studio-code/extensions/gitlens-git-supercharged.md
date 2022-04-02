@@ -8,7 +8,7 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlen
 
 ## Configuração
 
-Depois de instalado o ESLint, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {
