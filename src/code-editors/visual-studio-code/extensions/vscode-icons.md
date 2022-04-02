@@ -10,11 +10,11 @@ Clique [aqui](https://marketplace.visualstudio.com/items?itemName=robertohuertas
 
 ## Configuração
 
-Depois de instalar o tema dos ícones, setar as configurações (Settings > Open settings.json):
+Depois de instalar a extensão, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Define o tema dos ícones na sidebar
+  // Define o tema dos ícones de arquivos
   "workbench.iconTheme": "vscode-icons",
 }
 ```
