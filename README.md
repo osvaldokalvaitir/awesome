@@ -46,6 +46,7 @@
 - [Awesomes](#awesomes)
 - [Banco de dados](#banco-de-dados)
 - [Browsers](#browsers)
+- [Certificados](#certificados)
 - [CI/CD](#cicd)
 - [Clientes de API](#clientes-de-api)
 - [Coberturas de Teste](#coberturas-de-teste)
@@ -160,6 +161,13 @@
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
   - [WhatFont](src/browsers/chrome/extensions/whatfont.md)
   - [Window Resizer](src/browsers/chrome/extensions/window-resizer.md)
+
+### Certificados
+
+- [CSR Generator](src/certificates/csr-generator.md)
+- [Let's Encrypt](src/certificates/lets-encrypt.md)
+- [SSL For Free](src/certificates/ssl-for-free.md)
+- [ZeroSSL](src/certificates/zerossl.md)
 
 ### CI/CD
 
@@ -353,7 +361,6 @@
 ### Ferramentas de Segurança
 
 - [JSON Web Tokens](src/security-tools/json-web-tokens.md)
-- [Let's Encrypt](src/security-tools/lets-encrypt.md)
 
 ### Fontes
 
