@@ -681,6 +681,7 @@
   - [date-fns](src/runtime/nodejs/libs/date-fns.md)
   - [date-fns-tz](src/runtime/nodejs/libs/date-fns-tz.md)
   - [date-io](src/runtime/nodejs/libs/@date-io-date-fns.md)
+  - [Day.js](src/runtime/nodejs/libs/dayjs.md)
   - [debug](src/runtime/nodejs/libs/debug.md)
   - [del](src/runtime/nodejs/libs/del.md)
   - [Detox](src/runtime/nodejs/libs/detox.md)
