@@ -863,6 +863,7 @@
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
   - [Node MySQL 2](src/runtime/nodejs/libs/mysql2.md)
   - [Node Redis](src/runtime/nodejs/libs/redis.md)
+  - [Node Schedule](src/runtime/nodejs/libs/node-schedule.md)
   - [node-coveralls](src/runtime/nodejs/libs/coveralls.md)
   - [node-cron](src/runtime/nodejs/libs/cron.md)
   - [node-fetch](src/runtime/nodejs/libs/node-fetch.md)
