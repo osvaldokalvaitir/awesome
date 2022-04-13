@@ -764,6 +764,7 @@
   - [FullCalendar Day Grid Plugin](src/runtime/nodejs/libs/@fullcalendar-daygrid.md)
   - [FullCalendar Interaction Plugin](src/runtime/nodejs/libs/@fullcalendar-interaction.md)
   - [FullCalendar React Component](src/runtime/nodejs/libs/@fullcalendar-react.md)
+  - [Fuse.js](src/runtime/nodejs/libs/fusejs.md)
   - [Galio](src/runtime/nodejs/libs/galio-framework.md)
   - [Gatsby](src/runtime/nodejs/libs/gatsby.md)
   - [gatsby-cli](src/runtime/nodejs/libs/gatsby-cli.md)
