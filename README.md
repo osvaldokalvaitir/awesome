@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/osvaldokalvaitir/awesome/blob/main/.github/assets/img/logos/logo.png" width="200px"
+  <img src="/.github/assets/img/logos/logo.png" width="200px"
   alt="Kalvaitir.com" />
 </h1>
 
@@ -1454,7 +1454,7 @@
 
 ## :memo: Licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/osvaldokalvaitir/awesome/blob/main/LICENSE) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE) para obter mais informações.
 
 ---
 
