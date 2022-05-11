@@ -209,7 +209,7 @@
 
   #### Ferramentas
 
-  - [Docker](src/containers/docker/tools/docker-hub.md)
+  - [Docker Hub](src/containers/docker/tools/docker-hub.md)
 
 ### Controles de Versão
 
