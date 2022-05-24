@@ -1202,6 +1202,7 @@
   - [Reselect](src/runtime/nodejs/libs/reselect.md)
   - [rewire](src/runtime/nodejs/libs/rewire.md)
   - [rimraf](src/runtime/nodejs/libs/rimraf.md)
+  - [rn-tooltip](src/runtime/nodejs/libs/rn-tooltip.md)
   - [RocketPWA](src/runtime/nodejs/libs/rocketpwa.md)
   - [RSS Feed Emitter](src/runtime/nodejs/libs/rss-feed-emitter.md)
   - [RxJS](src/runtime/nodejs/libs/rxjs.md)
