@@ -262,6 +262,7 @@
   - [CodeSnap](src/code-editors/visual-studio-code/extensions/codesnap.md)
   - [Color Highlight](src/code-editors/visual-studio-code/extensions/color-highlight.md)
   - [Color Picker](src/code-editors/visual-studio-code/extensions/color-picker.md)
+  - [CSS-in-JS](src/code-editors/visual-studio-code/extensions/css-in-js.md)
   - [Docker](src/code-editors/visual-studio-code/extensions/docker.md)
   - [DotEnv](src/code-editors/visual-studio-code/extensions/dotenv.md)
   - [Dracula Official](src/code-editors/visual-studio-code/extensions/dracula-official.md)
