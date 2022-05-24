@@ -790,6 +790,7 @@
   - [gulp-rename](src/runtime/nodejs/libs/gulp-rename.md)
   - [gulp-sass](src/runtime/nodejs/libs/gulp-sass.md)
   - [gulp-uglify](src/runtime/nodejs/libs/gulp-uglify.md)
+  - [Hammer.js](src/runtime/nodejs/libs/hammerjs.md)
   - [Helmet](src/runtime/nodejs/libs/helmet.md)
   - [Heroku CLI](src/runtime/nodejs/libs/heroku.md)
   - [history](src/runtime/nodejs/libs/history.md)
