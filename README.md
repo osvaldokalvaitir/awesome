@@ -994,6 +994,7 @@
   - [React Native Test App](src/runtime/nodejs/libs/react-native-test-app.md)
   - [React Native Touch ID](src/runtime/nodejs/libs/react-native-touch-id.md)
   - [React Native Vector Icons](src/runtime/nodejs/libs/react-native-vector-icons.md)
+  - [React Native Walkthrough Tooltip](src/runtime/nodejs/libs/react-native-walkthrough-tooltip.md)
   - [React Native WebView](src/runtime/nodejs/libs/react-native-webview.md)
   - [React Navigation](src/runtime/nodejs/libs/react-navigation.md)
   - [React Navigation Drawer](src/runtime/nodejs/libs/react-navigation-drawer.md)
