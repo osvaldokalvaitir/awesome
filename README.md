@@ -569,6 +569,7 @@
   - [@expo-google-fonts/poppins](src/runtime/nodejs/libs/@expo-google-fonts-poppins.md)
   - [@expo-google-fonts/roboto](src/runtime/nodejs/libs/@expo-google-fonts-roboto.md)
   - [@expo-google-fonts/ubuntu](src/runtime/nodejs/libs/@expo-google-fonts-ubuntu.md)
+  - [@headlessui/react](src/runtime/nodejs/libs/@headlessui-react.md)
   - [@material-ui/docs](src/runtime/nodejs/libs/@material-ui-docs.md)
   - [@material-ui/icons](src/runtime/nodejs/libs/@material-ui-icons.md)
   - [@material-ui/lab](src/runtime/nodejs/libs/@material-ui-lab.md)
