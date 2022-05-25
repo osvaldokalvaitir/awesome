@@ -225,9 +225,13 @@
 ### Cores
 
 - [Adobe Color](src/colors/adobe-color.md)
+- [Color Hunt](src/colors/color-hunt.md)
+- [Color Hue](src/colors/color-hue.md)
 - [Colours Cafe](src/colors/colours-cafe.md)
 - [Coolors](src/colors/coolors.md)
 - [Dopely Colors](src/colors/dopely-colors.md)
+- [Eva AI](src/colors/eva-ai.md)
+- [Picular](src/colors/picular.md)
 - [ui.colour](src/colors/ui-colour.md)
 
 ### Documentações de API
