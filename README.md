@@ -617,6 +617,7 @@
   - [AdonisJs Redis](src/runtime/nodejs/libs/@adonisjs-redis.md)
   - [Amazon Cognito Identity SDK for JavaScript](src/runtime/nodejs/libs/amazon-cognito-identity-js.md)
   - [Amplify UI React](src/runtime/nodejs/libs/@aws-amplify-ui-react.md)
+  - [anime.js](src/runtime/nodejs/libs/animejs.md)
   - [ansi-regex](src/runtime/nodejs/libs/ansi-regex.md)
   - [Ant Design](src/runtime/nodejs/libs/antd.md)
   - [anymatch](src/runtime/nodejs/libs/anymatch.md)
