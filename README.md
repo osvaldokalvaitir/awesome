@@ -368,6 +368,7 @@
 - [Get Waves](src/design-tools/get-waves.md)
 - [Glassmorphism CSS Generator](src/design-tools/glassmorphism-css-generator.md)
 - [Neumorphism.io](src/design-tools/neumorphismio.md)
+- [PurgeCSS](src/design-tools/purgecss.md)
 - [Smooth Shadow](src/design-tools/smooth-shadow.md)
 
 ### Ferramentas de Segurança
