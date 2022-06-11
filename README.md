@@ -658,6 +658,7 @@
   - [Blur](src/runtime/nodejs/libs/@react-native-community-blur.md)
   - [Bootstrap](src/runtime/nodejs/libs/bootstrap.md)
   - [Bot Builder for Node.js](src/runtime/nodejs/libs/botbuilder.md)
+  - [Bree](src/runtime/nodejs/libs/bree.md)
   - [Browsersync](src/runtime/nodejs/libs/browser-sync.md)
   - [Bull](src/runtime/nodejs/libs/bull.md)
   - [bunyan](src/runtime/nodejs/libs/bunyan.md)
