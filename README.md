@@ -336,6 +336,7 @@
   - [Can I use](src/learning/css/caniuse.md)
   - [Codrops](src/learning/css/codrops.md)
   - [CSS-Tricks](src/learning/css/css-tricks.md)
+  - [Flexbox Defense](src/learning/css/flexbox-defense.md)
   - [Flexbox Froggy](src/learning/css/flexbox-froggy.md)
   - [Flexbox Zombies](src/learning/css/flexbox-zombies.md)
   - [Grid Garden](src/learning/css/grid-garden.md)
