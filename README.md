@@ -852,6 +852,7 @@
   - [Mapbox Maps SDK for React Native](src/runtime/nodejs/libs/@mapbox-react-native-mapbox-gl.md)
   - [Mapbox Maps SDK for React Native](src/runtime/nodejs/libs/@react-native-mapbox-gl-maps.md)
   - [MariaDB Node.js connector](src/runtime/nodejs/libs/mariadb.md)
+  - [Masonry](src/runtime/nodejs/libs/masonry-layout.md)
   - [material-table](src/runtime/nodejs/libs/material-table.md)
   - [Material-UI](src/runtime/nodejs/libs/@material-ui-core.md)
   - [Material-UI pickers](src/runtime/nodejs/libs/@material-ui-pickers.md)
