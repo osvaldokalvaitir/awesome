@@ -144,6 +144,7 @@
 
   ##### Chrome - Extensões
 
+  - [Autofill](src/browsers/chrome/extensions/autofill.md)
   - [ColorZilla](src/browsers/chrome/extensions/colorzilla.md)
   - [CSS Scan](src/browsers/chrome/extensions/css-scan.md)
   - [Dracula DevTools Theme](src/browsers/chrome/extensions/dracula-devtools-theme.md)
