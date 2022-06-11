@@ -1250,6 +1250,7 @@
   - [Sideswipe](src/runtime/nodejs/libs/react-native-sideswipe.md)
   - [Sizeme](src/runtime/nodejs/libs/react-sizeme.md)
   - [Slider](src/runtime/nodejs/libs/@react-native-community-slider.md)
+  - [slugify](src/runtime/nodejs/libs/slugify.md)
   - [Socket.io](src/runtime/nodejs/libs/socketio.md)
   - [socket.io-client](src/runtime/nodejs/libs/socketio-client.md)
   - [sqlite3](src/runtime/nodejs/libs/sqlite3.md)
