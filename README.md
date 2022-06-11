@@ -337,6 +337,7 @@
   - [Codrops](src/learning/css/codrops.md)
   - [CSS-Tricks](src/learning/css/css-tricks.md)
   - [Flexbox Froggy](src/learning/css/flexbox-froggy.md)
+  - [Grid Garden](src/learning/css/grid-garden.md)
 
   #### Linguagens de Programação
 
