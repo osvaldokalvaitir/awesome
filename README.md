@@ -159,6 +159,7 @@
   - [React Developer Tools](src/browsers/chrome/extensions/react-developer-tools.md)
   - [Redux DevTools](src/browsers/chrome/extensions/redux-devtools.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
+  - [Visual Inspector](src/browsers/chrome/extensions/visual-inspector.md)
   - [WakaTime](src/browsers/chrome/extensions/wakatime.md)
   - [Wappalyzer](src/browsers/chrome/extensions/wappalyzer.md)
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
