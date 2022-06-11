@@ -336,6 +336,7 @@
   - [100 Days CSS](src/learning/css/100-days-css.md)
   - [Can I use](src/learning/css/caniuse.md)
   - [Codrops](src/learning/css/codrops.md)
+  - [CSS Diner](src/learning/css/css-diner.md)
   - [CSS-Tricks](src/learning/css/css-tricks.md)
   - [CSSBattle](src/learning/css/cssbattle.md)
   - [Flexbox Defense](src/learning/css/flexbox-defense.md)
