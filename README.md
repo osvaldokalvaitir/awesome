@@ -360,6 +360,7 @@
 
 ### Ferramentas de Design
 
+- [Animista](src/design-tools/animista.md)
 - [Blobmaker](src/design-tools/blobmaker.md)
 - [CSS Filter Generator](src/design-tools/css-filter-generator.md)
 - [CSS Generator Tool](src/design-tools/css-generator.md)
