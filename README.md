@@ -844,6 +844,7 @@
   - [lite-server](src/runtime/nodejs/libs/lite-server.md)
   - [Lodash](src/runtime/nodejs/libs/lodash.md)
   - [LogRocket](src/runtime/nodejs/libs/logrocket.md)
+  - [LogRocket React plugin](src/runtime/nodejs/libs/logrocket-react.md)
   - [Lottie for React Native](src/runtime/nodejs/libs/lottie-react-native.md)
   - [Mapbox Maps SDK for React Native](src/runtime/nodejs/libs/@mapbox-react-native-mapbox-gl.md)
   - [Mapbox Maps SDK for React Native](src/runtime/nodejs/libs/@react-native-mapbox-gl-maps.md)
