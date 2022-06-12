@@ -1282,6 +1282,7 @@
   - [stylelint](src/runtime/nodejs/libs/stylelint.md)
   - [Sucrase](src/runtime/nodejs/libs/sucrase.md)
   - [Sucrase Jest plugin](src/runtime/nodejs/libs/@sucrase-jest-plugin.md)
+  - [supabase-js](src/runtime/nodejs/libs/@supabase-supabase-js.md)
   - [SuperTest](src/runtime/nodejs/libs/supertest.md)
   - [SVGR](src/runtime/nodejs/libs/svgr.md)
   - [Swagger UI Express](src/runtime/nodejs/libs/swagger-ui-express.md)
