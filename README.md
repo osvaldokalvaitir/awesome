@@ -1374,6 +1374,7 @@
 
   - [ElephantSQL](src/sgdbs/postgresql/elephantsql.md)
   - [Postbird](src/sgdbs/postgresql/postbird.md)
+  - [Supabase](src/sgdbs/postgresql/supabase.md)
 
 ### Sistemas Operacionais
 
