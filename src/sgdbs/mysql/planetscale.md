@@ -2,6 +2,6 @@
 
 PlanetScale é agora a plataforma MySQL mais escalável.
 
-## Documentação e Instalação
+## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://planetscale.com) para ver a documentação e fazer a instalação.
+Clique [aqui](https://planetscale.com) para ver a documentação e acessar o serviço.
