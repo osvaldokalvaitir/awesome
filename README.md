@@ -86,6 +86,7 @@
 - [PaaS](#paas)
 - [Plataformas de Comunicação](#plataformas-de-comunicação)
 - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
+- [Processamento de Streams](#processamento-de-streams)
 - [Regex](#regex)
 - [Runtime](#runtime)
 - [Servidores](#servidores)
@@ -566,6 +567,10 @@
 - [Apple Developer](src/development-platforms/apple-developer.md)
 - [Firebase](src/development-platforms/firebase.md)
 - [Play Console](src/development-platforms/play-console.md)
+
+### Processamento de Streams
+
+- [Apache Kafka](src/stream-processing/apache-kafka.md)
 
 ### Regex
 
