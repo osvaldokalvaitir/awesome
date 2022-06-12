@@ -47,6 +47,7 @@
 - [Banco de dados](#banco-de-dados)
 - [Banco de dados sem servidor](#banco-de-dados-sem-servidor)
 - [Browsers](#browsers)
+- [CDNs](#cdns)
 - [Certificados](#certificados)
 - [CI/CD](#cicd)
 - [Clientes de API](#clientes-de-api)
@@ -173,6 +174,10 @@
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
   - [WhatFont](src/browsers/chrome/extensions/whatfont.md)
   - [Window Resizer](src/browsers/chrome/extensions/window-resizer.md)
+
+### CDNs
+
+- [Cloudflare](src/cdns/cloudflare.md)
 
 ### Certificados
 
