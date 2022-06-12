@@ -1365,7 +1365,8 @@
 
   #### MySQL
   
-  - [MySQL Workbench](src/sgdbs/mysql/mysql-workbench.md)  
+  - [MySQL Workbench](src/sgdbs/mysql/mysql-workbench.md)
+  - [PlanetScale](src/sgdbs/mysql/planetscale.md)
 
   #### PostgreSQL
 
