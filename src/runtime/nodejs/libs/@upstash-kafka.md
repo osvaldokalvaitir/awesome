@@ -1,6 +1,6 @@
 # upstash-kafka
 
-Cliente Kafka baseado em HTTP para funções sem servidor (serverless) e de Edge.
+Cliente Kafka baseado em HTTP para sem servidor (serverless) e funções de Edge.
 
 ## Documentação
 
