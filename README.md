@@ -860,6 +860,7 @@
   - [jsPDF-AutoTable](src/runtime/nodejs/libs/jspdf-autotable.md)
   - [jss](src/runtime/nodejs/libs/jss.md)
   - [JW React Pagination Component](src/runtime/nodejs/libs/jw-react-pagination-component.md)
+  - [KafkaJS](src/runtime/nodejs/libs/kafkajs.md)
   - [knex.js](src/runtime/nodejs/libs/knex.md)
   - [kraken.js](src/runtime/nodejs/libs/kraken-js.md)
   - [Kue](src/runtime/nodejs/libs/kue.md)
