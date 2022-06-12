@@ -45,6 +45,7 @@
 - [Avatares](#avatares)
 - [Awesomes](#awesomes)
 - [Banco de dados](#banco-de-dados)
+- [Banco de dados sem servidor](#banco-de-dados-sem-servidor)
 - [Browsers](#browsers)
 - [Certificados](#certificados)
 - [CI/CD](#cicd)
@@ -137,6 +138,12 @@
 - [MySQL](src/databases/mysql.md)
 - [PostgreSQL](src/databases/postgresql.md)
 - [Redis](src/databases/redis.md)
+
+### Banco de dados sem servidor
+
+  #### Múltiplos
+
+  - [Upstash](src/serveless-databases/multiples/upstash.md)
 
 ### Browsers
 
