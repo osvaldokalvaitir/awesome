@@ -1346,6 +1346,7 @@
   - [Why Did You Render](src/runtime/nodejs/libs/@welldone-software-why-did-you-render.md)
   - [Windows-Build-Tools](src/runtime/nodejs/libs/windows-build-tools.md)
   - [winston](src/runtime/nodejs/libs/winston.md)
+  - [wrangler](src/runtime/nodejs/libs/wrangler.md)
   - [XRegExp](src/runtime/nodejs/libs/xregexp.md)
   - [yaml.js](src/runtime/nodejs/libs/yamljs.md)
   - [Yargs](src/runtime/nodejs/libs/yargs.md)
