@@ -157,6 +157,7 @@
   - [Autofill](src/browsers/chrome/extensions/autofill.md)
   - [ColorZilla](src/browsers/chrome/extensions/colorzilla.md)
   - [CSS Scan](src/browsers/chrome/extensions/css-scan.md)
+  - [Dark Reader](src/browsers/chrome/extensions/dark-reader.md)
   - [Dracula DevTools Theme](src/browsers/chrome/extensions/dracula-devtools-theme.md)
   - [Full Page Screen Capture](src/browsers/chrome/extensions/full-page-screen-capture.md)
   - [File Icons for GitHub and GitLab](src/browsers/chrome/extensions/file-icons-for-github-and-gitlab.md)
