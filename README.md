@@ -1345,6 +1345,7 @@
   - [Victory](src/runtime/nodejs/libs/victory.md)
   - [Victory Native](src/runtime/nodejs/libs/victory-native.md)
   - [ViewPager](src/runtime/nodejs/libs/@react-native-community-viewpager.md)
+  - [Vite](src/runtime/nodejs/libs/vite.md)
   - [Watermelon DB](src/runtime/nodejs/libs/@nozbe-watermelondb.md)
   - [web-vitals](src/runtime/nodejs/libs/web-vitals.md)
   - [webpack](src/runtime/nodejs/libs/webpack.md)
