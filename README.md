@@ -693,6 +693,7 @@
   - [Bree](src/runtime/nodejs/libs/bree.md)
   - [Browsersync](src/runtime/nodejs/libs/browser-sync.md)
   - [Bull](src/runtime/nodejs/libs/bull.md)
+  - [Bulma](src/runtime/nodejs/libs/bulma.md)
   - [bunyan](src/runtime/nodejs/libs/bunyan.md)
   - [CameraRoll](src/runtime/nodejs/libs/@react-native-community-cameraroll.md)
   - [celebrate](src/runtime/nodejs/libs/celebrate.md)
