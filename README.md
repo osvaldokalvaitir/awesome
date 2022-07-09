@@ -1361,6 +1361,7 @@
   - [Yargs](src/runtime/nodejs/libs/yargs.md)
   - [Youch](src/runtime/nodejs/libs/youch.md)
   - [Yup](src/runtime/nodejs/libs/yup.md)
+  - [Zustand](src/runtime/nodejs/libs/zustand.md)
 
 ### Servidores
 
