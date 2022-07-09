@@ -624,6 +624,7 @@
   - [@material-ui/lab](src/runtime/nodejs/libs/@material-ui-lab.md)
   - [@material-ui/styles](src/runtime/nodejs/libs/@material-ui-styles.md)
   - [@material-ui/system](src/runtime/nodejs/libs/@material-ui-system.md)
+  - [@nestjs/cli](src/runtime/nodejs/libs/@nestjs-cli.md)
   - [@prisma/cli](src/runtime/nodejs/libs/@prisma-cli.md)
   - [@react-native-menu/menu](src/runtime/nodejs/libs/@react-native-menu-menu.md)  
   - [@react-native-picker/picker](src/runtime/nodejs/libs/@react-native-picker-picker.md)
