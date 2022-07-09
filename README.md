@@ -1007,6 +1007,7 @@
   - [React Native Background Downloader](src/runtime/nodejs/libs/react-native-background-downloader.md)
   - [React Native Big List](src/runtime/nodejs/libs/react-native-big-list.md)
   - [React Native BLE PLX](src/runtime/nodejs/libs/react-native-ble-plx.md)
+  - [React Native Bottom Sheet](src/runtime/nodejs/libs/@gorhom-bottom-sheet.md)
   - [React Native Calendars](src/runtime/nodejs/libs/react-native-calendars.md)
   - [React Native Camera](src/runtime/nodejs/libs/react-native-camera.md)
   - [React Native Chart Kit](src/runtime/nodejs/libs/react-native-chart-kit.md)
