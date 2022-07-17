@@ -83,6 +83,7 @@
 - [Mapas](#mapa)
 - [Maquetes](#maquetes)
 - [Máquinas Virtuais](#máquinas-virtuais)
+- [Monitoramento de Nuvem](#monitoramento-de-nuvem)
 - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
 - [Notificações Push](#notificações-push)
 - [Orquestração de Contêineres](#orquestração-de-contêineres)
@@ -545,6 +546,10 @@
 ### Máquinas Virtuais
 
 - [VirtualBox](src/virtual-machines/virtualbox.md)
+
+### Monitoramento de Nuvem
+
+- [Datadog](src/cloud-monitoring/datadog.md)
 
 ### Monitoramento de Sistemas
 
