@@ -55,6 +55,7 @@
 - [Contêineres](#contêineres)
 - [Controles de Versão](#controles-de-versão)
 - [Cores](#cores)
+- [Criadores de portais para desenvolvedores](#criadores-de-portais-para-desenvolvedores)
 - [Criadores de sites](#criadores-de-sites)
 - [Documentações de API](#documentações-de-api)
 - [E-mails](#e-mails)
@@ -254,6 +255,10 @@
 - [Eva AI](src/colors/eva-ai.md)
 - [Picular](src/colors/picular.md)
 - [ui.colour](src/colors/ui-colour.md)
+
+### Criadores de portais para desenvolvedores
+
+- [Backstage](src/developer-portal-builders/backstage.md)
 
 ### Criadores de sites
 
