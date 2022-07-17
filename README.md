@@ -380,6 +380,7 @@
   #### Microsserviços
 
   - [Microservices.io](src/learning/microservices/Microservicesio.md)
+  - [Martin Fowler - Microservices](src/learning/microservices/martin-fowler-microservices.md)
 
   #### UI/UX
 
