@@ -975,6 +975,7 @@
   - [pg](src/runtime/nodejs/libs/pg.md)
   - [Pg-generator](src/runtime/nodejs/libs/pg-generator.md)
   - [pg-hstore](src/runtime/nodejs/libs/pg-hstore.md)
+  - [phosphor-react-native](src/runtime/nodejs/libs/phosphor-react-native.md)
   - [Picker](src/runtime/nodejs/libs/@react-native-community-picker.md)
   - [pino](src/runtime/nodejs/libs/pino.md)
   - [PM2](src/runtime/nodejs/libs/pm2.md)
