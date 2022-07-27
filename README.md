@@ -1043,7 +1043,7 @@
   - [React Native Elements](src/runtime/nodejs/libs/react-native-elements.md)
   - [React Native Emoji](src/runtime/nodejs/libs/react-native-emoji.md)
   - [React Native FBSDK](src/runtime/nodejs/libs/react-native-fbsdk.md)
-  - [React Native Firebase](src/runtime/nodejs/libs/react-native-firebase.md)
+  - [React Native Firebase](src/runtime/nodejs/libs/@react-native-firebase-app.md)
   - [React Native Floating Action](src/runtime/nodejs/libs/react-native-floating-action.md)
   - [React Native for macOS](src/runtime/nodejs/libs/react-native-macos.md)
   - [React Native for Windows](src/runtime/nodejs/libs/react-native-windows.md)
