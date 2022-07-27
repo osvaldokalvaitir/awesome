@@ -1205,6 +1205,7 @@
   - [react-native-step-indicator](src/runtime/nodejs/libs/react-native-step-indicator.md)
   - [react-native-svg](src/runtime/nodejs/libs/react-native-svg.md)
   - [react-native-svg-charts](src/runtime/nodejs/libs/react-native-svg-charts.md)
+  - [react-native-svg-transformer](src/runtime/nodejs/libs/react-native-svg-transformer.md)
   - [react-native-swift](src/runtime/nodejs/libs/react-native-swift.md)
   - [react-native-swipe-list-view](src/runtime/nodejs/libs/react-native-swipe-list-view.md)
   - [react-native-swiper](src/runtime/nodejs/libs/react-native-swiper.md)
