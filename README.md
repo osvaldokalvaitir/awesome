@@ -468,6 +468,7 @@
 - [MakeAppIcon](src/icons/makeappicon.md)
 - [Noun Project](src/icons/noun-project.md)
 - [Remix icon](src/icons/remix-icon.md)
+- [Simple Icons](src/icons/simple-icons.md)
 
 ### IDEs
 
