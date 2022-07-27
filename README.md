@@ -467,6 +467,7 @@
 - [KoloIcons](src/icons/koloicons.md)
 - [MakeAppIcon](src/icons/makeappicon.md)
 - [Noun Project](src/icons/noun-project.md)
+- [Phosphor Icons](src/icons/phosphor-icons.md)
 - [Remix icon](src/icons/remix-icon.md)
 - [Simple Icons](src/icons/simple-icons.md)
 
