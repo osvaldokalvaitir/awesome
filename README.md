@@ -1048,6 +1048,7 @@
   - [React Native Firebase - Authentication](src/runtime/nodejs/libs/@react-native-firebase-auth.md)
   - [React Native Firebase - Cloud Firestore](src/runtime/nodejs/libs/@react-native-firebase-firestore.md)
   - [React Native Firebase - Crashlytics](src/runtime/nodejs/libs/@react-native-firebase-crashlytics.md)
+  - [React Native Firebase - Dynamic Links](src/runtime/nodejs/libs/@react-native-firebase-dynamic-links.md)
   - [React Native Floating Action](src/runtime/nodejs/libs/react-native-floating-action.md)
   - [React Native for macOS](src/runtime/nodejs/libs/react-native-macos.md)
   - [React Native for Windows](src/runtime/nodejs/libs/react-native-windows.md)
