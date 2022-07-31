@@ -1044,6 +1044,7 @@
   - [React Native Emoji](src/runtime/nodejs/libs/react-native-emoji.md)
   - [React Native FBSDK](src/runtime/nodejs/libs/react-native-fbsdk.md)
   - [React Native Firebase](src/runtime/nodejs/libs/@react-native-firebase-app.md)
+  - [React Native Firebase - Authentication](src/runtime/nodejs/libs/@react-native-firebase-auth.md)
   - [React Native Firebase - Cloud Firestore](src/runtime/nodejs/libs/@react-native-firebase-firestore.md)
   - [React Native Floating Action](src/runtime/nodejs/libs/react-native-floating-action.md)
   - [React Native for macOS](src/runtime/nodejs/libs/react-native-macos.md)
