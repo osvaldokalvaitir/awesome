@@ -9,3 +9,7 @@ Clique [aqui](https://github.com/invertase/react-native-firebase) para ver a doc
 ## Instalação
 
 Clique [aqui](https://www.npmjs.com/package/@react-native-firebase/app) para fazer a instalação.
+
+### Expo - Como usar o SDK nativo do Firebase
+
+Para a instalação, é necessário fazer alguns ajustes no código nativo, se estiver utilizando o Expo com Bare Workflow, é possível utilizar o [Native Firebase Plugin][https://docs.expo.dev/guides/setup-native-firebase] para evitar estas alterações, resumidamente, precisa colocar os arquivos baixados em [Firebase > Adicionar ao aplicativo](../../../development-platforms/firebase.md) na pasta raiz, indicar sua localização e executar `expo prebuild`.
