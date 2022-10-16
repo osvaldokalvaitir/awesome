@@ -330,6 +330,7 @@
   - [Split HTML Attributes](src/code-editors/visual-studio-code/extensions/split-html-attributes.md)
   - [SQLite](src/code-editors/visual-studio-code/extensions/sqlite.md)
   - [Svg Preview](src/code-editors/visual-studio-code/extensions/svg-preview.md)
+  - [Tailwind CSS IntelliSense](src/code-editors/visual-studio-code/extensions/tailwind-css-intellisense.md)
   - [Tabnine AI Autocomplete](src/code-editors/visual-studio-code/extensions/tabnine-ai-autocomplete.md)
   - [Template String Converter](src/code-editors/visual-studio-code/extensions/template-string-converter.md)
   - [Todo Tree](src/code-editors/visual-studio-code/extensions/todo-tree.md)
