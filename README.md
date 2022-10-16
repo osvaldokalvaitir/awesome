@@ -335,6 +335,7 @@
   - [Todo Tree](src/code-editors/visual-studio-code/extensions/todo-tree.md)
   - [Todo+](src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [Thunder Client](src/code-editors/visual-studio-code/extensions/thunder-client.md)
+  - [TypeScript Error Translator](src/code-editors/visual-studio-code/extensions/typescript-error-translator.md)
   - [VSCode Icons](src/code-editors/visual-studio-code/extensions/vscode-icons.md)
   - [Visual Studio IntelliCode](src/code-editors/visual-studio-code/extensions/visual-studio-intellicode.md)
   - [VSCode Styled-Components](src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
