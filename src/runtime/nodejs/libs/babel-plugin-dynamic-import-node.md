@@ -1,17 +1,17 @@
-# babel-plugin-module-resolver
+# babel-plugin-dynamic-import-node
 
-Plugin de resolução de módulo personalizado para Babel.
+Plugin Babel para transpilar import() para um diferido require(), para node.
 
 ## Documentação
 
-Clique [aqui](https://github.com/tleunen/babel-plugin-module-resolver) para ver a documentação.
+Clique [aqui](https://github.com/airbnb/babel-plugin-dynamic-import-node) para ver a documentação.
 
 ## Instalação
 
-Clique [aqui](https://www.npmjs.com/package/babel-plugin-module-resolver) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/babel-plugin-dynamic-import-node) para fazer a instalação.
 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-plugin-module-resolver --save-dev | yarn add babel-plugin-module-resolver --dev
+npm install babel-plugin-dynamic-import-node --save-dev | yarn add babel-plugin-dynamic-import-node --dev
 ```
