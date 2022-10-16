@@ -319,6 +319,7 @@
   - [Path Intellisense](src/code-editors/visual-studio-code/extensions/path-intellisense.md)
   - [Polacode](src/code-editors/visual-studio-code/extensions/polacode.md)
   - [Pomodoro Timer](src/code-editors/visual-studio-code/extensions/pomodoro-timer.md)
+  - [PostCSS Language Support](src/code-editors/visual-studio-code/extensions/postcss-language-support.md)
   - [Prettier - Code formatter](src/code-editors/visual-studio-code/extensions/prettier-code-formatter.md)
   - [Prisma](src/code-editors/visual-studio-code/extensions/prisma.md)
   - [R Component](src/code-editors/visual-studio-code/extensions/r-component.md)
