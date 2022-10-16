@@ -702,6 +702,7 @@
   - [Babel Root Import](src/runtime/nodejs/libs/babel-plugin-root-import.md)
   - [babel-eslint](src/runtime/nodejs/libs/babel-eslint.md)
   - [babel-plugin-dynamic-import-node](src/runtime/nodejs/libs/babel-plugin-dynamic-import-node.md)
+  - [babel-plugin-module-resolver](src/runtime/nodejs/libs/babel-plugin-module-resolver.md)
   - [babel-plugin-react-transform](src/runtime/nodejs/libs/babel-plugin-react-transform.md)
   - [babel-plugin-styled-components](src/runtime/nodejs/libs/babel-plugin-styled-components.md)
   - [bcrypt.js](src/runtime/nodejs/libs/bcryptjs.md)
