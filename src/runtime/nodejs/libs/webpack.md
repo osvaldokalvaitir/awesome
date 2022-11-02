@@ -21,7 +21,7 @@ npm install webpack --save-dev | yarn add webpack --dev
 Executar o projeto para desenvolvimento (incluindo webpack-dev-server):
 
 ```
-npm dev | yarn dev
+npm run dev | yarn dev
 ```
 
 ## Construção e Execução de Projeto para Produção no ReactJS

@@ -102,19 +102,19 @@ Para mais informações, acesse [aqui](https://blog.rocketseat.com.br/3-ferramen
 Executar testes no projeto:
 
 ```
-npm test | yarn test
+npm run test | yarn test
 ```
 
 Executar testes e mostrar um relatório detalhado:
 
 ```
-npm test --coverage | yarn test --coverage
+npm run test --coverage | yarn test --coverage
 ```
 
 Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
 
 ```
-npm test --coverage --watchAll | yarn test --coverage --watchAll
+npm run test --coverage --watchAll | yarn test --coverage --watchAll
 ```
 
 ### Geração da Build do Projeto no React Native para a Google Play
