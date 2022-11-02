@@ -139,7 +139,7 @@ npm install | yarn
 Executar o projeto para desenvolvimento (incluindo Nodemon):
 
 ```
-npm dev | yarn dev
+npm run dev | yarn dev
 ```
 
 ## Execução de Testes de Projeto no Node.js
@@ -147,7 +147,7 @@ npm dev | yarn dev
 Executar testes no projeto:
 
 ```
-npm test | yarn test
+npm run test | yarn test
 ```
 
 ## Execução de Projeto para Produção no Node.js

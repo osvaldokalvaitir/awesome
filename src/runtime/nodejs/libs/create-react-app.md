@@ -35,19 +35,19 @@ npm start | yarn start
 Executar testes no projeto:
 
 ```
-npm test | yarn test
+npm run test | yarn test
 ```
 
 Executar testes e mostrar um relatório detalhado:
 
 ```
-npm test --coverage | yarn test --coverage
+npm run test --coverage | yarn test --coverage
 ```
 
 Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
 
 ```
-npm test --coverage --watchAll | yarn test --coverage --watchAll
+npm run test --coverage --watchAll | yarn test --coverage --watchAll
 ```
 
 ## Construção e Execução de Projeto para Produção no ReactJS
