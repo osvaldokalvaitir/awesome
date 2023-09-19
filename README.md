@@ -90,7 +90,8 @@
   - [IDEs](#ides)
   - [Imagens](#imagens-1)
   - [Inspetores de Aplicativo](#inspetores-de-aplicativo)
-  - [Inspiração de Design](#inspiração-de-design)
+  - [Inspirações de Design](#inspirações-de-design)
+  - [Inteligências Artificiais](#inteligências-artificiais)
   - [Kits de Desenvolvimento](#kits-de-desenvolvimento)
   - [Linguagens de Programação](#linguagens-de-programação-1)
     - [Low-code](#low-code)
@@ -547,13 +548,17 @@
 - [Flipper](src/apps-inspectors/flipper.md)
 - [Reactotron](src/apps-inspectors/reactotron.md)
 
-### Inspiração de Design
+### Inspirações de Design
 
 - [Awwwards](src/design-inspiration/awwwards.md)
 - [Behance](src/design-inspiration/behance.md)
 - [Dribbble](src/design-inspiration/dribbble.md)
 - [Mobbin](src/design-inspiration/mobbin.md)
 - [Pinterest](src/design-inspiration/pinterest.md)
+
+### Inteligências Artificiais
+
+- [OpenAI](src/artificial-intelligences/openai.md)] 
 
 ### Kits de Desenvolvimento
 
