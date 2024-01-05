@@ -1423,6 +1423,7 @@
   - [use-debounce](src/runtime/nodejs/libs/use-debounce.md)
   - [uuid](src/runtime/nodejs/libs/uuid.md)
   - [validator.js](src/runtime/nodejs/libs/validator.md)
+  - [Vercel AI SDK](src/runtime/nodejs/libs/ai.md)
   - [Victory](src/runtime/nodejs/libs/victory.md)
   - [Victory Native](src/runtime/nodejs/libs/victory-native.md)
   - [ViewPager](src/runtime/nodejs/libs/@react-native-community-viewpager.md)
