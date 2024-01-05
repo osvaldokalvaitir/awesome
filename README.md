@@ -1480,6 +1480,7 @@
   #### PostgreSQL
 
   - [ElephantSQL](src/sgdbs/postgresql/elephantsql.md)
+  - [Neon](src/sgdbs/postgresql/neon.md)
   - [Postbird](src/sgdbs/postgresql/postbird.md)
   - [Supabase](src/sgdbs/postgresql/supabase.md)
 
