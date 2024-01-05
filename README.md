@@ -808,6 +808,7 @@
   - [Docusaurus](src/runtime/nodejs/libs/docusaurus.md)
   - [dotenv](src/runtime/nodejs/libs/dotenv.md)
   - [download-git-repo](src/runtime/nodejs/libs/download-git-repo.md)
+  - [Drizzle ORM](src/runtime/nodejs/libs/drizzle-orm.md)
   - [Dropzone.js Component for React](src/runtime/nodejs/libs/react-dropzone-component.md)
   - [Ducks](src/runtime/nodejs/libs/ducks.md)
   - [Ejs](src/runtime/nodejs/libs/ejs.md)
