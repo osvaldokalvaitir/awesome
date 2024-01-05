@@ -674,6 +674,8 @@
   - [@expo-google-fonts/ubuntu](src/runtime/nodejs/libs/@expo-google-fonts-ubuntu.md)
   - [@fastify/cors](src/runtime/nodejs/libs/@fastify-cors.md)
   - [@fastify/multipart](src/runtime/nodejs/libs/@fastify-multipart.md)
+  - [@ffmpeg/ffmpeg](src/runtime/nodejs/libs/@ffmpeg-ffmpeg.md)
+  - [@ffmpeg/util](src/runtime/nodejs/libs/@ffmpeg-util.md)
   - [@gluestack-ui/themed](src/runtime/nodejs/libs/@gluestack-ui-themed.md)
   - [@headlessui/react](src/runtime/nodejs/libs/@headlessui-react.md)
   - [@linaria/babel-preset](src/runtime/nodejs/libs/@linaria-babel-preset.md)
