@@ -909,6 +909,7 @@
   - [Helmet](src/runtime/nodejs/libs/helmet.md)
   - [Heroku CLI](src/runtime/nodejs/libs/heroku.md)
   - [history](src/runtime/nodejs/libs/history.md)
+  - [Hono](src/runtime/nodejs/libs/hono.md)
   - [HTML Loader](src/runtime/nodejs/libs/html-loader.md)
   - [HTML Webpack Plugin](src/runtime/nodejs/libs/html-webpack-plugin.md)
   - [HTTP Status codes for Node](src/runtime/nodejs/libs/http-status.md)
