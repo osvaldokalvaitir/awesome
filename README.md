@@ -474,6 +474,7 @@
 
 - [iceScrum](src/projects-managers/icescrum.md)
 - [Jira](src/projects-managers/jira.md)
+- [Linear](src/projects-managers/linear.md)
 - [Monday](src/projects-managers/monday.md)
 - [Pipefy](src/projects-managers/pipefy.md)
 - [Pivotal Tracker](src/projects-managers/pivotaltracker.md)
