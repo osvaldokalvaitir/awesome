@@ -984,6 +984,7 @@
   - [Nativefier](src/runtime/nodejs/libs/nativefier.md)
   - [Netinfo](src/runtime/nodejs/libs/@react-native-community-netinfo.md)
   - [Next.js](src/runtime/nodejs/libs/next.md)
+  - [next-themes](src/runtime/nodejs/libs/next-themes.md)
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
   - [Node MySQL 2](src/runtime/nodejs/libs/mysql2.md)
   - [Node Redis](src/runtime/nodejs/libs/redis.md)
