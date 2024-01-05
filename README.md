@@ -1292,6 +1292,7 @@
   - [react-share](src/runtime/nodejs/libs/react-share.md)
   - [react-slick](src/runtime/nodejs/libs/react-slick.md)
   - [react-sound](src/runtime/nodejs/libs/react-sound.md)
+  - [React Spinners](src/runtime/nodejs/libs/react-spinners.md)
   - [react-spring](src/runtime/nodejs/libs/react-spring.md)
   - [react-stripe-elements](src/runtime/nodejs/libs/react-stripe-elements.md)
   - [react-switch](src/runtime/nodejs/libs/react-switch.md)
