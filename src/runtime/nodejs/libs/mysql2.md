@@ -8,4 +8,4 @@ Clique [aqui](https://github.com/sidorares/node-mysql2) para ver a documentaçã
 
 ## Instalação
 
-Clique [aqui](https://www.npmjs.com/package/mysqlhttps://www.npmjs.com/package/mysql2) para fazer a instalação.
+Clique [aqui](https://www.npmjs.com/package/mysql2) para fazer a instalação.
