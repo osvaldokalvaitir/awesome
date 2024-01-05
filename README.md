@@ -1174,6 +1174,7 @@
   - [react-intl-currency-input](src/runtime/nodejs/libs/react-intl-currency-input.md)
   - [react-lazyload](src/runtime/nodejs/libs/react-lazyload.md)
   - [React-Leaflet](src/runtime/nodejs/libs/react-leaflet.md)
+  - [react-loader-spinner](src/runtime/nodejs/libs/react-loader-spinner.md)
   - [react-loading](src/runtime/nodejs/libs/react-loading.md)
   - [react-map-gl](src/runtime/nodejs/libs/react-map-gl.md)
   - [react-modal](src/runtime/nodejs/libs/react-modal.md)
