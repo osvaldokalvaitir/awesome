@@ -672,6 +672,7 @@
   - [@expo-google-fonts/poppins](src/runtime/nodejs/libs/@expo-google-fonts-poppins.md)
   - [@expo-google-fonts/roboto](src/runtime/nodejs/libs/@expo-google-fonts-roboto.md)
   - [@expo-google-fonts/ubuntu](src/runtime/nodejs/libs/@expo-google-fonts-ubuntu.md)
+  - [@gluestack-ui/themed](src/runtime/nodejs/libs/@gluestack-ui-themed.md)
   - [@headlessui/react](src/runtime/nodejs/libs/@headlessui-react.md)
   - [@linaria/babel-preset](src/runtime/nodejs/libs/@linaria-babel-preset.md)
   - [@linaria/core](src/runtime/nodejs/libs/@linaria-core.md)
