@@ -1393,6 +1393,7 @@
   - [Swiper](src/runtime/nodejs/libs/swiper.md)
   - [SWR](src/runtime/nodejs/libs/swr.md)
   - [Tailwind CSS](src/runtime/nodejs/libs/tailwindcss.md)
+  - [tailwind-merge](src/runtime/nodejs/libs/tailwind-merge.md)
   - [tailwind-rn](src/runtime/nodejs/libs/tailwind-rn.md)
   - [Tedious](src/runtime/nodejs/libs/tedious.md)
   - [terser-webpack-plugin](src/runtime/nodejs/libs/terser-webpack-plugin.md)
