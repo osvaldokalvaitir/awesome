@@ -1033,6 +1033,7 @@
   - [Portalize](src/runtime/nodejs/libs/react-native-portalize.md)
   - [PostCSS](src/runtime/nodejs/libs/postcss.md)
   - [Prettier](src/runtime/nodejs/libs/prettier.md)
+  - [Prettier plugin for Tailwind CSS](src/runtime/nodejs/libs/prettier-plugin-tailwindcss.md)
   - [prettier-eslint](src/runtime/nodejs/libs/prettier-eslint.md)
   - [Prisma](src/runtime/nodejs/libs/prisma.md)
   - [prop-types](src/runtime/nodejs/libs/prop-types.md)
