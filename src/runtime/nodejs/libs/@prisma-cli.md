@@ -1,4 +1,4 @@
-# @prisma/cli
+# @prisma/cli (_DESCONTINUADO_)
 
 Kit de ferramentas de banco de dados moderno para consultar, migrar e modelar seu banco de dados.
 
