@@ -1,4 +1,4 @@
-# Settings Sync
+# Settings Sync (_DESCONTINUADO_)
 
 Sincronize configurações, snippets, temas, ícones de arquivo, inicialização, atalhos de teclado, áreas de trabalho e extensões em várias máquinas usando GitHub Gist.
 
