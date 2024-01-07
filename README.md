@@ -725,6 +725,7 @@
   - [@unform/web](src/runtime/nodejs/libs/@unform-web.md)
   - [@vitejs/plugin-react](src/runtime/nodejs/libs/@vitejs-plugin-react.md)
   - [i18n](src/runtime/nodejs/libs/i18n.md)
+  - [i18next](src/runtime/nodejs/libs/i18next.md)
   - [AdminBro](src/runtime/nodejs/libs/admin-bro.md)
   - [Adonis ACL](src/runtime/nodejs/libs/adonis-acl.md)
   - [Adonis Antl](src/runtime/nodejs/libs/@adonisjs-antl.md)
@@ -1014,6 +1015,7 @@
   - [Netinfo](src/runtime/nodejs/libs/@react-native-community-netinfo.md)
   - [Next SEO](src/runtime/nodejs/libs/next-seo.md)
   - [Next.js](src/runtime/nodejs/libs/next.md)
+  - [next-i18next](src/runtime/nodejs/libs/next-i18next.md)
   - [next-themes](src/runtime/nodejs/libs/next-themes.md)
   - [ngrok](src/runtime/nodejs/libs/ngrok.md)
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
@@ -1215,6 +1217,7 @@
   - [react-helmet-async](src/runtime/nodejs/libs/react-helmet-async.md)
   - [react-highlight-words](src/runtime/nodejs/libs/react-highlight-words.md)
   - [react-input-mask](src/runtime/nodejs/libs/react-input-mask.md)
+  - [react-i18next](src/runtime/nodejs/libs/react-i18next.md)
   - [react-intl-currency-input](src/runtime/nodejs/libs/react-intl-currency-input.md)
   - [react-lazyload](src/runtime/nodejs/libs/react-lazyload.md)
   - [React-Leaflet](src/runtime/nodejs/libs/react-leaflet.md)
@@ -1497,6 +1500,7 @@
   - [Youch](src/runtime/nodejs/libs/youch.md)
   - [Yup](src/runtime/nodejs/libs/yup.md)
   - [Zod](src/runtime/nodejs/libs/zod.md)
+  - [Zod Internationalization](src/runtime/nodejs/libs/zod-i18n-map.md)
   - [Zustand](src/runtime/nodejs/libs/zustand.md)
 
 ### Servidores
