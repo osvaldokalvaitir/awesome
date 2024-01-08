@@ -361,6 +361,7 @@
   - [PostCSS Language Support](src/code-editors/visual-studio-code/extensions/postcss-language-support.md)
   - [Prettier - Code formatter](src/code-editors/visual-studio-code/extensions/prettier-code-formatter.md)
   - [Prisma](src/code-editors/visual-studio-code/extensions/prisma.md)
+  - [Quokka.js](src/code-editors/visual-studio-code/extensions/quokka-js.md)
   - [R Component](src/code-editors/visual-studio-code/extensions/r-component.md)
   - [Regex Previewer](src/code-editors/visual-studio-code/extensions/regex-previewer.md)
   - [REST Client](src/code-editors/visual-studio-code/extensions/rest-client.md)
