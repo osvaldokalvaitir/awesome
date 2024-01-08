@@ -328,6 +328,7 @@
   - [Color Highlight](src/code-editors/visual-studio-code/extensions/color-highlight.md)
   - [Color Picker](src/code-editors/visual-studio-code/extensions/color-picker.md)
   - [Console Ninja](src/code-editors/visual-studio-code/extensions/console-ninja.md)
+  - [CSS Modules](src/code-editors/visual-studio-code/extensions/css-modules.md)
   - [CSS-in-JS](src/code-editors/visual-studio-code/extensions/css-in-js.md)
   - [Deno](src/code-editors/visual-studio-code/extensions/deno.md)
   - [Docker](src/code-editors/visual-studio-code/extensions/docker.md)
