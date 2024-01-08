@@ -1,10 +1,10 @@
-# Storybook
+# storybook-addon-a11y
 
-O Storybook é um ambiente de desenvolvimento para componentes da interface do usuário. Ele permite que você navegue em uma biblioteca de componentes, visualize os diferentes estados de cada componente, e desenvolva e teste componentes de maneira interativa.
+Este complemento do Storybook pode ser útil para tornar os componentes da IU mais acessíveis.
 
 ## Documentação
 
-Clique [aqui](https://github.com/storybookjs/storybook) para ver a documentação.
+Clique [aqui](https://github.com/storybookjs/storybook/tree/next/code/addons/a11y) para ver a documentação.
 
 ## Instalação
 
