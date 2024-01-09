@@ -43,6 +43,7 @@
   - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
   - [Alternância de Recursos](#alternância-de-recursos)
   - [APIs](#apis)
+  - [Assinaturas Digitais](#assinaturas-digitais)
   - [Automação de Aplicativos](#automação-de-aplicativos)
   - [Avatares](#avatares)
   - [Awesomes](#awesomes)
@@ -156,6 +157,13 @@
 - [The Movie Database API](src/apis/the-movie-database-api.md)
 - [ViaCEP](src/apis/viacep.md)
 - [Weather API](src/apis/weather-api.md)
+
+### Assinaturas Digitais
+
+- [Clicksign](src/digital-signatures/clicksign.md)
+- [D4Sign](src/digital-signatures/d4sign.md)
+- [DocuSign](src/digital-signatures/docusign.md)
+- [ZapSign](src/digital-signatures/zapsign.md)
 
 ### Automação de Aplicativos
 
