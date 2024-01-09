@@ -313,7 +313,9 @@
 ### E-mails
 
 - [Amazon SES](src/emails/amazon-ses.md)
+- [Mailchimp](src/emails/mailchimp.md)
 - [Mailgun](src/emails/mailgun.md)
+- [Mailjet](src/emails/mailjet.md)
 - [Mailtrap](src/emails/mailtrap.md)
 - [SendGrid](src/emails/sendgrid.md)
 - [SparkPost](src/emails/sparkpost.md)
