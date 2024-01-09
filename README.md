@@ -1458,6 +1458,7 @@
   - [Style Loader](src/runtime/nodejs/libs/style-loader.md)
   - [styled-components](src/runtime/nodejs/libs/styled-components.md)
   - [stylelint](src/runtime/nodejs/libs/stylelint.md)
+  - [StyleX](src/runtime/nodejs/libs/@stylexjs-stylex.md)
   - [Sucrase](src/runtime/nodejs/libs/sucrase.md)
   - [Sucrase Jest plugin](src/runtime/nodejs/libs/@sucrase-jest-plugin.md)
   - [supabase-js](src/runtime/nodejs/libs/@supabase-supabase-js.md)
