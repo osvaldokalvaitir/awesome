@@ -43,7 +43,7 @@
   - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
   - [Alternância de Recursos](#alternância-de-recursos)
   - [APIs](#apis)
-  - [Assinaturas Digitais](#assinaturas-digitais)
+  - [Assinatura Digital](#assinatura-digital)
   - [Automação de Aplicativos](#automação-de-aplicativos)
   - [Avatares](#avatares)
   - [Awesomes](#awesomes)
@@ -110,12 +110,13 @@
   - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
   - [Processamento de Streams](#processamento-de-streams)
   - [Regex](#regex)
-  - [Registros de Domínios](#registros-de-domínios)
+  - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
       - [Bibliotecas](#bibliotecas)
   - [Servidores](#servidores)
   - [Servidores Web](#servidores-web)
   - [Serviços de Armazenamento](#serviços-de-armazenamento)
+  - [Serviços de Autenticação e Autorização](#serviços-de-autenticação-e-autorização)
   - [Serviços de Monitoramento de Arquivos](#serviços-de-monitoramento-de-arquivos)
   - [SGDBs](#sgdbs)
     - [Múltiplos](#múltiplos-1)
@@ -158,12 +159,12 @@
 - [ViaCEP](src/apis/viacep.md)
 - [Weather API](src/apis/weather-api.md)
 
-### Assinaturas Digitais
+### Assinatura Digital
 
-- [Clicksign](src/digital-signatures/clicksign.md)
-- [D4Sign](src/digital-signatures/d4sign.md)
-- [DocuSign](src/digital-signatures/docusign.md)
-- [ZapSign](src/digital-signatures/zapsign.md)
+- [Clicksign](src/digital-signature/clicksign.md)
+- [D4Sign](src/digital-signature/d4sign.md)
+- [DocuSign](src/digital-signature/docusign.md)
+- [ZapSign](src/digital-signature/zapsign.md)
 
 ### Automação de Aplicativos
 
@@ -684,7 +685,7 @@
 
 - [i Hate Regex](src/regex/i-hate-regex.md)
 
-### Registros de Domínios
+### Registros de Domínio
 
 - [Domain.com](src/domain-registrations/domain-com.md)
 - [GoDaddy](src/domain-registrations/godaddy.md)
@@ -1564,6 +1565,10 @@
 
 - [Amazon S3](src/storage-services/amazon-s3.md)
 - [Google Cloud Storage](src/storage-services/google-cloud-storage.md)
+
+### Serviços de Autenticação e Autorização
+
+
 
 ### Serviços de Monitoramento de Arquivos
 

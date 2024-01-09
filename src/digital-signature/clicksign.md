@@ -1,6 +1,6 @@
 # Clicksign
 
- Assine seus documentos com validade jurídica usando Clicksign.
+Assine seus documentos com validade jurídica usando Clicksign.
 
 ## Documentação e Acesso ao Serviço
 
