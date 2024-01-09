@@ -125,6 +125,7 @@
   - [Terminais](#terminais)
       - [Gerenciador de Plugins](#gerenciador-de-plugins)
       - [Prompt](#prompt)
+  - [Transferência de Arquivos](#transferência-de-arquivos)
   - [UI/UX](#uiux-1)
   - [Virtualização de Macs](#virtualização-de-macs)
   - [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
@@ -561,6 +562,7 @@
 - [Startup Stock Photos](src/images/startup-stock-photos.md)
 - [StockSnap.io](src/images/stocksnap-io.md)
 - [Stokpic](src/images/stokpic.md)
+- [StorySet](src/images/storyset.md)
 - [UI8](src/images/ui8.md)
 - [unDraw](src/images/undraw.md)
 - [Unsplash](src/images/unsplash.md)
@@ -1598,6 +1600,10 @@
   - [Spaceship ZSH](src/terminals/oh-my-zsh/prompt/spaceship-zsh.md)
 
 - [Terminal.app](src/terminals/terminal.app.md)
+
+### Transferência de Arquivos
+
+- [WeTransfer](src/file-transfers/wetransfer.md)
 
 ### UI/UX
 
