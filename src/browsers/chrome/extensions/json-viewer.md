@@ -4,7 +4,7 @@
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) para ver a documentação e fazer a instalação.
 
 ## Tema
 

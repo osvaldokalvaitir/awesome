@@ -4,4 +4,4 @@ O Wappalyzer é um utilitário de plataforma cruzada que descobre as tecnologias
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) para ver a documentação e fazer a instalação.

@@ -4,4 +4,4 @@ Extensão do navegador que leva a sua experiência ao GitHub para o próximo ní
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) para ver a documentação e fazer a instalação.

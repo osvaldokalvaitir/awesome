@@ -4,4 +4,4 @@ Clique em qualquer componente do navegador para abrir seu código em seu IDE. Su
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chromewebstore.google.com/detail/npbfdllefekhdplbkdigpncggmojpefi?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chromewebstore.google.com/detail/npbfdllefekhdplbkdigpncggmojpefi) para ver a documentação e fazer a instalação.

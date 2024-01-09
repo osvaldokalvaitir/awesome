@@ -4,4 +4,4 @@ O Lighthouse é uma ferramenta automatizada e de código aberto para melhorar o 
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) para ver a documentação e fazer a instalação.
