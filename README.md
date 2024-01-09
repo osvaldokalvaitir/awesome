@@ -1411,6 +1411,7 @@
   - [RxJS](src/runtime/nodejs/libs/rxjs.md)
   - [Sass](src/runtime/nodejs/libs/sass.md)
   - [Sass Loader](src/runtime/nodejs/libs/sass-loader.md)
+  - [Satori](src/runtime/nodejs/libs/satori.md)
   - [Scroll Bottom Sheet](src/runtime/nodejs/libs/react-native-scroll-bottom-sheet.md)
   - [Scrollbar Plugin for Tailwind CSS](src/runtime/nodejs/libs/tailwind-scrollbar.md)
   - [seamless-immutable](src/runtime/nodejs/libs/seamless-immutable.md)
