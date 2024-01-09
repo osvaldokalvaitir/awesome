@@ -1568,7 +1568,13 @@
 
 ### Serviços de Autenticação e Autorização
 
-
+- [Auth0](src/authentication-and-authorization-services/auth0.md)
+- [Authorizer](src/authentication-and-authorization-services/authorizer.md)
+- [AWS Cognito](src/authentication-and-authorization-services/aws-cognito.md)
+- [Clerk](src/authentication-and-authorization-services/clerk.md)
+- [Firebase Authentication](src/authentication-and-authorization-services/firebase-authentication.md)
+- [Keycloak](src/authentication-and-authorization-services/keycloak.md)
+- [SuperTokens](src/authentication-and-authorization-services/supertokens.md)
 
 ### Serviços de Monitoramento de Arquivos
 

@@ -1,6 +1,6 @@
 # Auth0
 
-Auth0 é uma plataforma de autenticação e autorização como serviço (Identity as a Service - IDaaS). Oferece soluções para gerenciamento de identidade e acesso, permitindo que desenvolvedores integrem facilmente autenticação segura em suas aplicações.
+O Auth0 é a solução mais completa atualmente, possui praticamente todas funcionalidades que você precisaria. O ponto de dor aqui é a precificação que pode ficar bem salgada a partir de 7000 usuários mensais que é seu plano gratuito. O Auth0 também possui uma documentação simples e é muito rápido integrá-lo no seu projeto.
 
 ## Documentação e Acesso ao Serviço
 
