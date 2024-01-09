@@ -6,4 +6,4 @@ Obs: Essa extensão é paga e requer uma licença para usar. Você pode comprar 
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) para ver a documentação e fazer a instalação.

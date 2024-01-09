@@ -4,4 +4,4 @@ A extensão adiciona várias ferramentas de desenvolvedor web, facilitando ainda
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) para ver a documentação e fazer a instalação.

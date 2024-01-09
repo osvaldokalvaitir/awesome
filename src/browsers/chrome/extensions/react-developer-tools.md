@@ -4,7 +4,7 @@ React Developer Tools é uma extensão do Chrome DevTools para a biblioteca de c
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) para ver a documentação e fazer a instalação.
 
 ## Tema
 

@@ -193,6 +193,7 @@
   - [JSON Viewer](src/browsers/chrome/extensions/json-viewer.md)
   - [Lighthouse](src/browsers/chrome/extensions/lighthouse.md)
   - [Locator JS](src/browsers/chrome/extensions/locator-js.md)
+  - [Mobile Simulator](src/browsers/chrome/extensions/mobile-simulator.md)
   - [Octotree](src/browsers/chrome/extensions/octotree.md)
   - [Omni: Dark Theme for Chrome](src/browsers/chrome/extensions/omni-dark-theme-for-chrome.md)
   - [Pesticide for Chrome](src/browsers/chrome/extensions/pesticide-for-chrome.md)

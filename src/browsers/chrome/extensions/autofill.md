@@ -4,4 +4,4 @@ Um preenchimento de formulários, recuperação de formulários, trechos de text
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/autofill/nlmmgnhgdeffjkdckmikfpnddkbbfkkk/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/autofill/nlmmgnhgdeffjkdckmikfpnddkbbfkkk) para ver a documentação e fazer a instalação.

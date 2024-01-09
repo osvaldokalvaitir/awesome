@@ -4,4 +4,4 @@ Esta extensão redimensiona a janela do navegador para emular várias resoluçõ
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) para ver a documentação e fazer a instalação.

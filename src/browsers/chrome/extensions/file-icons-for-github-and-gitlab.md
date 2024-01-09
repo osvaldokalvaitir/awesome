@@ -4,4 +4,4 @@ Com essa extensão você terá os ícones do VSCode dentro do seu repositório G
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) para ver a documentação e fazer a instalação.

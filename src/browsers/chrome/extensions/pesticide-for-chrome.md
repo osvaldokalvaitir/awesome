@@ -4,4 +4,4 @@ Esta extensão insere o CSS Pesticide na página atual, delineando cada elemento
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi/related?hl=pt-BR) para ver a documentação e fazer a instalação.
+Clique [aqui](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) para ver a documentação e fazer a instalação.
