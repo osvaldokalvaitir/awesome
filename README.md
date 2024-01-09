@@ -1463,6 +1463,7 @@
   - [toad-scheduler](src/runtime/nodejs/libs/toad-scheduler.md)
   - [TS Node](src/runtime/nodejs/libs/ts-node.md)
   - [ts-node-dev](src/runtime/nodejs/libs/ts-node-dev.md)
+  - [tsup](src/runtime/nodejs/libs/tsup.md)
   - [tsx](src/runtime/nodejs/libs/tsx.md)
   - [Turborepo](src/runtime/nodejs/libs/turbo.md)
   - [TypeGraphQL](src/runtime/nodejs/libs/type-graphql.md)
