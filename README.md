@@ -41,6 +41,7 @@
 
 - [:book: Conteúdo](#book-conteúdo)
   - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
+  - [Alternância de Recursos](#alternância-de-recursos)
   - [APIs](#apis)
   - [Automação de Aplicativos](#automação-de-aplicativos)
   - [Avatares](#avatares)
@@ -135,6 +136,10 @@
 ### Acesso Remoto no Servidor
 
 - [PuTTY](src/remote-access-server/putty.md)
+
+### Alternância de Recursos
+
+- [ConfigCat](src/feature-flags/configcat.md)
 
 ### APIs
 
