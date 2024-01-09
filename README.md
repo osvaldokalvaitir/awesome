@@ -679,6 +679,7 @@
   - [@babel/preset-env](src/runtime/nodejs/libs/@babel-preset-env.md)
   - [@babel/preset-react](src/runtime/nodejs/libs/@babel-preset-react.md)
   - [@bigheads/core](src/runtime/nodejs/libs/@bigheads-core.md)
+  - [@changesets/cli](src/runtime/nodejs/libs/@changesets-cli.md)
   - [@commitlint/cli](src/runtime/nodejs/libs/@commitlint-cli.md)
   - [@commitlint/config-conventional](src/runtime/nodejs/libs/@commitlint-config-conventional.md)
   - [@emotion/react](src/runtime/nodejs/libs/@emotion-react.md)
