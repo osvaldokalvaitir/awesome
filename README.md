@@ -109,6 +109,7 @@
   - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
   - [Processamento de Streams](#processamento-de-streams)
   - [Regex](#regex)
+  - [Registros de Domínios](#registros-de-domínios)
   - [Runtime](#runtime)
       - [Bibliotecas](#bibliotecas)
   - [Servidores](#servidores)
@@ -674,6 +675,12 @@
 ### Regex
 
 - [i Hate Regex](src/regex/i-hate-regex.md)
+
+### Registros de Domínios
+
+- [Domain.com](src/domain-registrations/domain-com.md)
+- [GoDaddy](src/domain-registrations/godaddy.md)
+- [Locaweb](src/domain-registrations/locaweb.md)
 
 ### Runtime
 
