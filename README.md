@@ -46,8 +46,8 @@
   - [Automação de Aplicativos](#automação-de-aplicativos)
   - [Avatares](#avatares)
   - [Awesomes](#awesomes)
-  - [Banco de dados](#banco-de-dados)
-  - [Banco de dados sem servidor](#banco-de-dados-sem-servidor)
+  - [Banco de Dados](#banco-de-dados)
+  - [Banco de Dados sem Servidor](#banco-de-dados-sem-servidor)
     - [Múltiplos](#múltiplos)
   - [Browsers](#browsers)
       - [Chrome - Extensões](#chrome---extensões)
@@ -64,8 +64,8 @@
     - [Ferramentas](#ferramentas-1)
   - [Conversores de Código](#conversores-de-código)
   - [Cores](#cores)
-  - [Criadores de portais para desenvolvedores](#criadores-de-portais-para-desenvolvedores)
-  - [Criadores de sites](#criadores-de-sites)
+  - [Criadores de Portais para Desenvolvedores](#criadores-de-portais-para-desenvolvedores)
+  - [Criadores de Sites](#criadores-de-sites)
   - [Documentações de API](#documentações-de-api)
   - [E-mails](#e-mails)
   - [Editores de Código](#editores-de-código)
@@ -123,7 +123,7 @@
   - [Sistemas Operacionais](#sistemas-operacionais)
   - [Temas](#temas)
   - [Terminais](#terminais)
-      - [Gerenciador de plugins](#gerenciador-de-plugins)
+      - [Gerenciador de Plugins](#gerenciador-de-plugins)
       - [Prompt](#prompt)
   - [UI/UX](#uiux-1)
   - [Virtualização de Macs](#virtualização-de-macs)
@@ -167,14 +167,14 @@
 
 - [React Native Directory](src/awesomes/react-native-directory.md)
 
-### Banco de dados
+### Banco de Dados
 
 - [MongoDB](src/databases/mongodb.md)
 - [MySQL](src/databases/mysql.md)
 - [PostgreSQL](src/databases/postgresql.md)
 - [Redis](src/databases/redis.md)
 
-### Banco de dados sem servidor
+### Banco de Dados sem Servidor
 
   #### Múltiplos
 
@@ -294,11 +294,11 @@
 - [Picular](src/colors/picular.md)
 - [ui.colour](src/colors/ui-colour.md)
 
-### Criadores de portais para desenvolvedores
+### Criadores de Portais para Desenvolvedores
 
 - [Backstage](src/developer-portal-builders/backstage.md)
 
-### Criadores de sites
+### Criadores de Sites
 
 - [Framer](src/website-builder/framer.md)
 
@@ -1589,7 +1589,7 @@
 
 - [Oh My Zsh](src/terminals/oh-my-zsh/oh-my-zsh.md)
 
-  ##### Gerenciador de plugins
+  ##### Gerenciador de Plugins
 
   - [Zplugin](src/terminals/oh-my-zsh/plugin-manager/zplugin.md)
 
