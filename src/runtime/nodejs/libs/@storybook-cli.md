@@ -18,6 +18,14 @@ Iniciar o Storybook no projeto (instalar):
 npx -p @storybook/cli sb init
 ```
 
+Ou
+
+Iniciar o Storybook com o Vite (antes é necessário instalar o [Vite](vite.md)):
+
+```
+npx storybook init --builder @storybook/builder-vite --type react
+```
+
 Rodar o Storybook:
 
 ```
