@@ -755,6 +755,7 @@
   - [apollo-boost](src/runtime/nodejs/libs/apollo-boost.md)
   - [apollo-link-http](src/runtime/nodejs/libs/apollo-link-http.md)
   - [appcenter-cli](src/runtime/nodejs/libs/appcenter-cli.md)
+  - [Ariakit](src/runtime/nodejs/libs/@ariakit-react.md)
   - [AutoAnimate](src/runtime/nodejs/libs/@formkit-auto-animate.md)
   - [AutoCannon](src/runtime/nodejs/libs/autocannon.md)
   - [Autoprefixer](src/runtime/nodejs/libs/autoprefixer.md)
