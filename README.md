@@ -73,7 +73,6 @@
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
   - [Emuladores](#emuladores)
-  - [Erros](#erros)
   - [Estudos](#estudos)
     - [CSS](#css)
     - [Linguagens de Programação](#linguagens-de-programação)
@@ -101,6 +100,7 @@
   - [Mapas](#mapas)
   - [Maquetes](#maquetes)
   - [Máquinas Virtuais](#máquinas-virtuais)
+  - [Monitoramento de Erros](#monitoramento-de-erros)
   - [Monitoramento de Nuvem](#monitoramento-de-nuvem)
   - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
   - [Notificações Push](#notificações-push)
@@ -130,6 +130,7 @@
   - [Terminais](#terminais)
       - [Gerenciador de Plugins](#gerenciador-de-plugins)
       - [Prompt](#prompt)
+  - [Tradutores de Erros](#tradutores-de-erros)
   - [Transferência de Arquivos](#transferência-de-arquivos)
   - [UI/UX](#uiux-1)
   - [Virtualização de Macs](#virtualização-de-macs)
@@ -425,10 +426,6 @@
 - [Android Studio](src/emulators/android-studio.md)
 - [Genymotion](src/emulators/genymotion.md)
 
-### Erros
-
-- [Sentry](src/errors/sentry.md)
-
 ### Estudos
 
   #### CSS
@@ -640,6 +637,10 @@
 ### Máquinas Virtuais
 
 - [VirtualBox](src/virtual-machines/virtualbox.md)
+
+### Monitoramento de Erros
+
+- [Sentry](src/errors-monitoring/sentry.md)
 
 ### Monitoramento de Nuvem
 
@@ -1641,6 +1642,10 @@
   - [Spaceship ZSH](src/terminals/oh-my-zsh/prompt/spaceship-zsh.md)
 
 - [Terminal.app](src/terminals/terminal.app.md)
+
+### Tradutores de Erros
+
+- [TypeScript Error Translator](src/error-translators/typescript-error-translator.md)
 
 ### Transferência de Arquivos
 
