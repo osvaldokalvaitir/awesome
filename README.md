@@ -243,6 +243,7 @@
 - [CodeShip](src/ci-cd/codeship.md)
 - [Jenkins](src/ci-cd/jenkins.md)
 - [Railway](src/ci-cd/railway.md)
+- [Render](src/ci-cd/render.md)
 - [Travis CI](src/ci-cd/travis-ci.md)
 
 ### Clientes de API
