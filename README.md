@@ -1061,6 +1061,7 @@
   - [Next.js](src/runtime/nodejs/libs/next.md)
   - [next-i18next](src/runtime/nodejs/libs/next-i18next.md)
   - [next-themes](src/runtime/nodejs/libs/next-themes.md)
+  - [NextAuth.js](src/runtime/nodejs/libs/next-auth.md)
   - [ngrok](src/runtime/nodejs/libs/ngrok.md)
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
   - [Node MySQL 2](src/runtime/nodejs/libs/mysql2.md)
