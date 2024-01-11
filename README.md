@@ -124,6 +124,7 @@
     - [MySQL](#mysql)
     - [PostgreSQL](#postgresql)
   - [Sistemas Operacionais](#sistemas-operacionais)
+  - [SMS](#sms)
   - [Temas](#temas)
   - [Terminais](#terminais)
       - [Gerenciador de Plugins](#gerenciador-de-plugins)
@@ -1609,6 +1610,10 @@
 ### Sistemas Operacionais
 
 - [Ubuntu](src/os/ubuntu.md)
+
+### SMS
+
+- [SMS Dev](src/sms/sms-dev.md)
 
 ### Temas
 
