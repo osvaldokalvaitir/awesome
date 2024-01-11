@@ -459,6 +459,7 @@
   #### UI/UX
 
   - [UI Lab](src/learning/ui-ux/ui-lab.md)
+  - [Userpilot](src/learning/ui-ux/userpilot.md)
   - [UX Collective](src/learning/ui-ux/ux-collective.md)
   - [UX Planet](src/learning/ui-ux/ux-planet.md)
 
