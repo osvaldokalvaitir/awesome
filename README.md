@@ -79,6 +79,7 @@
     - [Linguagens de Programação](#linguagens-de-programação)
     - [Microsserviços](#microsserviços)
     - [UI/UX](#uiux)
+  - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
   - [Ferramentas de Design](#ferramentas-de-design)
   - [Ferramentas de Segurança](#ferramentas-de-segurança)
   - [Fontes](#fontes)
@@ -462,6 +463,10 @@
   - [Userpilot](src/learning/ui-ux/userpilot.md)
   - [UX Collective](src/learning/ui-ux/ux-collective.md)
   - [UX Planet](src/learning/ui-ux/ux-planet.md)
+
+### Ferramentas de Colaboração
+
+- [Confluence](src/collaboration-tools/confluence.md)
 
 ### Ferramentas de Design
 
