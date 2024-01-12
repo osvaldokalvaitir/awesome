@@ -788,6 +788,7 @@
   - [anymatch](src/runtime/nodejs/libs/anymatch.md)
   - [ApexCharts](src/runtime/nodejs/libs/apexcharts.md)
   - [apiDoc](src/runtime/nodejs/libs/apidoc.md)
+  - [APIGratis - SDK NODEJS](src/runtime/nodejs/libs/apigratis-sdk-nodejs.md)
   - [Apollo](src/runtime/nodejs/libs/apollo-server.md)
   - [Apollo Client](src/runtime/nodejs/libs/apollo-client.md)
   - [apollo-boost](src/runtime/nodejs/libs/apollo-boost.md)
