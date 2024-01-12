@@ -14,6 +14,9 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
+  // Define o tema dos ícones de arquivos
+  "workbench.iconTheme": "material-icon-theme",
+
   "material-icon-theme.folders.associations": {
     "infra": "app",
     "entities": "class",

@@ -12,10 +12,23 @@ Clique [aqui](https://code.visualstudio.com) para ver a documentação e fazer a
 
 - [Fira Code](../../fonts/fira-code.md)
 - [JetBrains Mono](../../fonts/jetbrains-mono.md)
+- [JetBrainsMono Nerd Font](../../fonts/jetbrainsmono-nerd-font.md)
 
-### Configuração
+### Configuração de fonte do editor
 
 Depois de instalar a fonte, setar as configurações (Settings > Open settings.json):
+
+```
+{
+  // Configura o tamanho e a família da fonte
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+}
+```
+
+ou
 
 ```
 {
@@ -27,15 +40,15 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 }
 ```
 
-ou
+### Configuração de fonte do terminal
+
+Depois de instalar a fonte, setar as configurações (Settings > Open settings.json):
 
 ```
 {
-  // Configura o tamanho e a família da fonte
-  "editor.fontSize": 16,
-  "editor.lineHeight": 26,
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
+  // Configura o tamanho e a família da fonte do terminal
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 }
 ```
 
@@ -60,6 +73,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Habilita recomendações de extensões
   "extensions.ignoreRecommendations": true,
 
+  // Agrupa arquivos relacionados
+  "explorer.fileNesting.enabled": true,
+
   // Desabilita a compactação de pasta se estiver vazia
   "explorer.compactFolders": false,
 
@@ -77,6 +93,10 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
+
+  // Desabilita barra de rolagem
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
 
   // Realce semântico desativado para todos os temas de cores
   "editor.semanticHighlighting.enabled": false,
@@ -96,8 +116,9 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Guias auxiliares de navegação
   "breadcrumbs.enabled": true,
 
-  // Aumenta a fonte do terminal
-  "terminal.integrated.fontSize":14,
+  // Configura o tamanho e a família da fonte do terminal
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
   // Terminal padrão no OSX
   "terminal.integrated.defaultProfile.osx": "/bin/zsh",
@@ -134,8 +155,8 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Configurações que precisam de fonte e extensões
 
   // Configura o tamanho e a família da fonte
-  "editor.fontSize": 16,
-  "editor.lineHeight": 26,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
 
