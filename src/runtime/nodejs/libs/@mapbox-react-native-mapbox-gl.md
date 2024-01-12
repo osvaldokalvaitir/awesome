@@ -1,8 +1,8 @@
-# Mapbox Maps SDK for React Native
+# Mapbox Maps SDK for React Native (_DESCONTINUADO_)
 
 Um componente oficial do React Native para criar mapas com o [Mapbox Maps SDK for iOS](https://docs.mapbox.com/ios/maps/overview) e [Mapbox Maps SDK for Android](https://docs.mapbox.com/android/maps/overview).  
 
-Biblioteca (_DESCONTINUADA_), foi alterada para a biblioteca [@react-native-mapbox-gl/maps](@react-native-mapbox-gl-maps.md).  
+Esta biblioteca está descontinuada, usar a [@react-native-mapbox-gl/maps](@react-native-mapbox-gl-maps.md).  
 
 Obs: Uma outra opção seria a biblioteca [react-native-maps](react-native-maps.md).
 

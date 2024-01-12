@@ -1,8 +1,8 @@
-# react-bootstrap-table
+# react-bootstrap-table (_DESCONTINUADO_)
 
 Uma tabela de Bootstrap criada com React.js.
 
-Esta biblioteca está descontinuada, usar a biblioteca [react-bootstrap-table-next](react-bootstrap-table-next.md).
+Esta biblioteca está descontinuada, usar [react-bootstrap-table-next](react-bootstrap-table-next.md).
 
 ## Documentação
 
