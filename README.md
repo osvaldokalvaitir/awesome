@@ -535,6 +535,7 @@
 - [App Icon Generator](src/icons/app-icon-generator.md)
 - [flaticon](src/icons/flaticon.md)
 - [Heroicons](src/icons/heroicons.md)
+- [IconKitchen](src/icons/iconkitchen.md)
 - [Icons8](src/icons/icons8.md)
 - [Iconsax](src/icons/iconsax.md)
 - [KoloIcons](src/icons/koloicons.md)
