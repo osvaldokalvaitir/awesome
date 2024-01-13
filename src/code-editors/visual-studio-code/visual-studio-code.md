@@ -94,10 +94,6 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Aplica um sinal visual na esquerda da linha selecionada
   "editor.renderLineHighlight":"gutter",
 
-  // Desabilita barra de rolagem
-  "editor.scrollbar.horizontal": "hidden",
-  "editor.scrollbar.vertical": "hidden",
-
   // Realce semântico desativado para todos os temas de cores
   "editor.semanticHighlighting.enabled": false,
 
