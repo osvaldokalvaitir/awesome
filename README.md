@@ -81,6 +81,7 @@
     - [Linguagens de Programação](#linguagens-de-programação)
     - [Microsserviços](#microsserviços)
     - [UI/UX](#uiux)
+  - [Ferramentas de BI](#ferramentas-de-bi)
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
   - [Ferramentas de Design](#ferramentas-de-design)
   - [Ferramentas de Segurança](#ferramentas-de-segurança)
@@ -506,6 +507,12 @@
   - [Userpilot](src/learning/ui-ux/userpilot.md)
   - [UX Collective](src/learning/ui-ux/ux-collective.md)
   - [UX Planet](src/learning/ui-ux/ux-planet.md)
+
+### Ferramentas de BI
+
+- [Metabase](src/bi-tools/metabase.md)
+- [Microsoft Power BI](src/bi-tools/microsoft-power-bi.md)
+- [Redash](src/bi-tools/redash.md)
 
 ### Ferramentas de Colaboração
 
