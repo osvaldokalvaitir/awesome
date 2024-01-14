@@ -52,6 +52,7 @@
     - [Múltiplos](#múltiplos)
   - [Browsers](#browsers)
       - [Chrome - Extensões](#chrome---extensões)
+  - [Bancos de Imagens](#bancos-de-imagens)
   - [CDNs](#cdns)
   - [Certificados](#certificados)
   - [CI/CD](#cicd)
@@ -72,6 +73,7 @@
   - [Editores de Código](#editores-de-código)
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
+  - [Editores de Imagens](#editores-de-imagens)
   - [Emuladores](#emuladores)
   - [Estudos](#estudos)
     - [CSS](#css)
@@ -90,7 +92,6 @@
   - [IaC](#iac)
   - [Ícones](#ícones)
   - [IDEs](#ides)
-  - [Imagens](#imagens-1)
   - [Inspetores de Aplicativo](#inspetores-de-aplicativo)
   - [Inspiração de Design](#inspiração-de-design)
   - [Inteligências Artificiais](#inteligências-artificiais)
@@ -226,6 +227,38 @@
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
   - [WhatFont](src/browsers/chrome/extensions/whatfont.md)
   - [Window Resizer](src/browsers/chrome/extensions/window-resizer.md)
+
+### Bancos de Imagens
+
+- [Craftwork](src/image-banks/craftwork.md)
+- [Death to Stock](src/image-banks/death-to-stock.md)
+- [DrawKit](src/image-banks/drawkit.md)
+- [FancyCrave](src/image-banks/fancycrave.md)
+- [freepik](src/image-banks/freepik.md)
+- [Freerange](src/image-banks/freerange.md)
+- [Glaze](src/image-banks/glaze.md)
+- [Gratisography](src/image-banks/gratisography.md)
+- [Humaaans](src/image-banks/humaaans.md)
+- [ISO Republic](src/image-banks/iso-republic.md)
+- [Jay Mantri](src/image-banks/jay-mantri.md)
+- [Kaboompics](src/image-banks/kaboompics.md)
+- [LibreShot](src/image-banks/libreshot.md)
+- [Life of Pix](src/image-banks/life-of-pix.md)
+- [Moose](src/image-banks/moose.md)
+- [Negative Space](src/image-banks/negative-space.md)
+- [New Old Stock](src/image-banks/new-old-stock.md)
+- [Pexels](src/image-banks/pexels.md)
+- [Picjumbo](src/image-banks/picjumbo.md)
+- [Pixabay](src/image-banks/pixabay.md)
+- [Shutterstock](src/image-banks/shutterstock.md)
+- [Splitshire](src/image-banks/splitshire.md)
+- [Startup Stock Photos](src/image-banks/startup-stock-photos.md)
+- [StockSnap.io](src/image-banks/stocksnap-io.md)
+- [Stokpic](src/image-banks/stokpic.md)
+- [StorySet](src/image-banks/storyset.md)
+- [UI8](src/image-banks/ui8.md)
+- [unDraw](src/image-banks/undraw.md)
+- [Unsplash](src/image-banks/unsplash.md)
 
 ### CDNs
 
@@ -422,6 +455,11 @@
 - [JSFiddle](src/online-code-editors/jsfiddle.md)
 - [StackBlitz](src/online-code-editors/stackblitz.md)
 
+### Editores de Imagens
+
+- [Blush](src/image-editors/blush.md)
+- [removebg](src/image-editors/removebg.md)
+
 ### Emuladores
 
 - [Android Studio](src/emulators/android-studio.md)
@@ -549,40 +587,6 @@
 ### IDEs
 
 - [XCode](src/ides/xcode.md)
-
-### Imagens
-
-- [Blush](src/images/blush.md)
-- [Craftwork](src/images/craftwork.md)
-- [Death to Stock](src/images/death-to-stock.md)
-- [DrawKit](src/images/drawkit.md)
-- [FancyCrave](src/images/fancycrave.md)
-- [freepik](src/images/freepik.md)
-- [Freerange](src/images/freerange.md)
-- [Glaze](src/images/glaze.md)
-- [Gratisography](src/images/gratisography.md)
-- [Humaaans](src/images/humaaans.md)
-- [ISO Republic](src/images/iso-republic.md)
-- [Jay Mantri](src/images/jay-mantri.md)
-- [Kaboompics](src/images/kaboompics.md)
-- [LibreShot](src/images/libreshot.md)
-- [Life of Pix](src/images/life-of-pix.md)
-- [Moose](src/images/moose.md)
-- [Negative Space](src/images/negative-space.md)
-- [New Old Stock](src/images/new-old-stock.md)
-- [Pexels](src/images/pexels.md)
-- [Picjumbo](src/images/picjumbo.md)
-- [Pixabay](src/images/pixabay.md)
-- [removebg](src/images/removebg.md)
-- [Shutterstock](src/images/shutterstock.md)
-- [Splitshire](src/images/splitshire.md)
-- [Startup Stock Photos](src/images/startup-stock-photos.md)
-- [StockSnap.io](src/images/stocksnap-io.md)
-- [Stokpic](src/images/stokpic.md)
-- [StorySet](src/images/storyset.md)
-- [UI8](src/images/ui8.md)
-- [unDraw](src/images/undraw.md)
-- [Unsplash](src/images/unsplash.md)
 
 ### Inspetores de Aplicativo
 
