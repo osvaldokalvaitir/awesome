@@ -137,6 +137,7 @@
   - [Tradutores de Erros](#tradutores-de-erros)
   - [Transferência de Arquivos](#transferência-de-arquivos)
   - [UI/UX](#uiux-1)
+      - [Figma - Extensões](#figma---extensões)
   - [Virtualização de Macs](#virtualização-de-macs)
   - [VoIP](#voip)
   - [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
@@ -295,9 +296,9 @@
 - [Postman](src/api-clients/postman.md)
 - [Prisma](src/api-clients/prisma.md)
 
-##### Insomnia - Extensões
+  ##### Insomnia - Extensões
 
-  - [Omni for Insomnia](src/api-docs/insomnia/extensions/omni-for-insomnia.md)
+    - [Omni for Insomnia](src/api-docs/insomnia/extensions/omni-for-insomnia.md)
 
 ### Coberturas de Teste
 
@@ -1702,6 +1703,10 @@
 - [Sketch](src/ui-ux/sketch.md)
 - [Whimsical](src/ui-ux/whimsical.md)
 - [Zeplin](src/ui-ux/zeplin.md)
+
+  ##### Figma - Extensões
+
+    - [Iconify](src/ui-ux/figma/extensions/iconify.md)
 
 ### Virtualização de Macs
 
