@@ -68,12 +68,13 @@
   - [Cores](#cores)
   - [Criadores de Portais para Desenvolvedores](#criadores-de-portais-para-desenvolvedores)
   - [Criadores de Sites](#criadores-de-sites)
+  - [Criadores e Editores de Imagens](#criadores-e-editores-de-imagens)
+  - [Criadores e Editores de Vídeos](#criadores-e-editores-de-vídeos)
   - [Documentações de API](#documentações-de-api)
   - [E-mails](#e-mails)
   - [Editores de Código](#editores-de-código)
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
-  - [Editores de Imagens](#editores-de-imagens)
   - [Emuladores](#emuladores)
   - [Estudos](#estudos)
     - [CSS](#css)
@@ -351,6 +352,16 @@
 
 - [Framer](src/website-builder/framer.md)
 
+### Criadores e Editores de Imagens
+
+- [Blush](src/creators-and-image-editors/blush.md)
+- [removebg](src/creators-and-image-editors/removebg.md)
+
+### Criadores e Editores de Vídeos
+
+- [InVideo](src/creators-and-video-editors/invideo.md)
+- [Synthesia](src/creators-and-video-editors/synthesia.md)
+
 ### Documentações de API
 
 - [GitBook](src/api-docs/gitbook.md)
@@ -454,11 +465,6 @@
 - [Gitpod](src/online-code-editors/gitpod.md)
 - [JSFiddle](src/online-code-editors/jsfiddle.md)
 - [StackBlitz](src/online-code-editors/stackblitz.md)
-
-### Editores de Imagens
-
-- [Blush](src/image-editors/blush.md)
-- [removebg](src/image-editors/removebg.md)
 
 ### Emuladores
 
