@@ -360,6 +360,7 @@
 ### Criadores e Editores de Vídeos
 
 - [InVideo](src/creators-and-video-editors/invideo.md)
+- [Kaiber](src/creators-and-video-editors/kaiber.md)
 - [Synthesia](src/creators-and-video-editors/synthesia.md)
 
 ### Documentações de API
