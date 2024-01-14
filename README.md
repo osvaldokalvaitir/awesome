@@ -359,6 +359,7 @@
 ### Criadores e Editores de Imagens
 
 - [Blush](src/creators-and-image-editors/blush.md)
+- [PicWish](src/creators-and-image-editors/picwish.md)
 - [removebg](src/creators-and-image-editors/removebg.md)
 
 ### Criadores e Editores de Vídeos
