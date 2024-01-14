@@ -127,6 +127,7 @@
     - [MongoDB](#mongodb)
     - [MySQL](#mysql)
     - [PostgreSQL](#postgresql)
+    - [Redis](#redis)
   - [Sistemas Operacionais](#sistemas-operacionais)
   - [SMS](#sms)
   - [Temas](#temas)
@@ -1645,6 +1646,10 @@
   - [Neon](src/sgdbs/postgresql/neon.md)
   - [Postbird](src/sgdbs/postgresql/postbird.md)
   - [Supabase](src/sgdbs/postgresql/supabase.md)
+
+  #### Redis
+
+  - [RedisInsight](src/sgdbs/redis/redisinsight.md)
 
 ### Sistemas Operacionais
 
