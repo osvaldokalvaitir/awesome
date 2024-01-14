@@ -1666,6 +1666,8 @@
 
 ### Terminais
 
+- [Fig](src/terminals/fig.md)
+
 - [Hyper](src/terminals/hyper.md)
 
 - [Oh My Zsh](src/terminals/oh-my-zsh/oh-my-zsh.md)
