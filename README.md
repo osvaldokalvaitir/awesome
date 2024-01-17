@@ -1291,6 +1291,7 @@
   - [react-fast-compare](src/runtime/nodejs/libs/react-fast-compare.md)
   - [react-helmet-async](src/runtime/nodejs/libs/react-helmet-async.md)
   - [react-highlight-words](src/runtime/nodejs/libs/react-highlight-words.md)
+  - [react-hotkeys-hook](src/runtime/nodejs/libs/react-hotkeys-hook.md)
   - [react-input-mask](src/runtime/nodejs/libs/react-input-mask.md)
   - [react-i18next](src/runtime/nodejs/libs/react-i18next.md)
   - [react-intersection-observer](src/runtime/nodejs/libs/react-intersection-observer.md)
