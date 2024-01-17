@@ -129,7 +129,7 @@
   - [Sistemas Operacionais](#sistemas-operacionais)
   - [SMS](#sms)
   - [Temas](#temas)
-  - [Terminais](#terminais)
+  - [Linhas de comando](#linhas-de-comando)
       - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
       - [Oh My Zsh - Prompt](#oh-my-zsh---prompt)
   - [Tradutores de Erros](#tradutores-de-erros)
@@ -1668,27 +1668,27 @@
 
 - [Dracula](src/themes/dracula.md)
 
-### Terminais
+### Linhas de comando
 
-- [Fig](src/terminals/fig.md)
+- [Fig](src/command-lines/fig.md)
 
-- [Hyper](src/terminals/hyper.md)
+- [Hyper](src/command-lines/hyper.md)
 
-- [Oh My Zsh](src/terminals/oh-my-zsh.md)
+- [Oh My Zsh](src/command-lines/oh-my-zsh.md)
 
-- [Starship](src/terminals/starship.md)
+- [Starship](src/command-lines/starship.md)
 
-- [Warp](src/terminals/warp.md)
+- [Warp](src/command-lines/warp.md)
 
   ##### Oh My Zsh - Gerenciador de Plugins
 
-  - [Zplugin](src/terminals/oh-my-zsh/plugin-managers/zplugin.md)
+  - [Zplugin](src/command-lines/oh-my-zsh/plugin-managers/zplugin.md)
 
   ##### Oh My Zsh - Prompt
 
-  - [Spaceship ZSH](src/terminals/oh-my-zsh/prompts/spaceship-zsh.md)
+  - [Spaceship ZSH](src/command-lines/oh-my-zsh/prompts/spaceship-zsh.md)
 
-- [Terminal.app](src/terminals/terminal.app.md)
+- [Terminal.app](src/command-lines/terminal.app.md)
 
 ### Tradutores de Erros
 
@@ -1736,9 +1736,9 @@
 
 - Instalação e Configuração do Terminal
 
-  - [Linux](src/terminals/oh-my-zsh/oh-my-zsh.md)
-  - [macOS](src/terminals/oh-my-zsh/oh-my-zsh.md)
-  - [Windows](src/terminals/hyper.md)
+  - [Linux](src/command-lines/oh-my-zsh/oh-my-zsh.md)
+  - [macOS](src/command-lines/oh-my-zsh/oh-my-zsh.md)
+  - [Windows](src/command-lines/hyper.md)
 
 - [Instalação e Configuração do Chrome](src/browsers/chrome/chrome.md)
 
