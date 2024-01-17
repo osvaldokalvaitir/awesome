@@ -1,6 +1,6 @@
 # Metabase
 
- Análise rápida com UX amigável e ferramentas integradas para permitir que sua empresa explore os dados por conta própria.
+Análise rápida com UX amigável e ferramentas integradas para permitir que sua empresa explore os dados por conta própria.
 
 ## Documentação e Acesso ao Serviço
 
