@@ -85,6 +85,7 @@
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
   - [Ferramentas de Design](#ferramentas-de-design)
   - [Ferramentas de Segurança](#ferramentas-de-segurança)
+  - [Ferramentas de SEO](#ferramentas-de-seo)
   - [Fontes](#fontes)
   - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
   - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
@@ -542,6 +543,10 @@
 ### Ferramentas de Segurança
 
 - [JSON Web Tokens](src/security-tools/json-web-tokens.md)
+
+### Ferramentas de SEO
+
+- [AlsoAsked](src/seo-tools/alsoasked.md)
 
 ### Fontes
 
