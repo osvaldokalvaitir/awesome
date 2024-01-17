@@ -1676,6 +1676,8 @@
 
 - [Oh My Zsh](src/terminals/oh-my-zsh.md)
 
+- [Starship](src/terminals/starship.md)
+
 - [Warp](src/terminals/warp.md)
 
   ##### Oh My Zsh - Gerenciador de Plugins
