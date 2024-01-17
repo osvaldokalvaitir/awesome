@@ -385,7 +385,8 @@
 - [DevDocs Desktop](src/study-documentations-and-blogs/devdocs-desktop.md)
 - [Martin Fowler - Microservices](src/study-documentations-and-blogs/martin-fowler-microservices.md)
 - [MDN Web Docs](src/study-documentations-and-blogs/mdn-web-docs.md)
-- [Microservices.io](src/study-documentations-and-blogs/Microservicesio.md)
+- [Microservices.io](src/study-documentations-and-blogs/microservicesio.md)
+- [State of Databases](src/study-documentations-and-blogs/state-of-databases.md)
 - [Training Center](src/study-documentations-and-blogs/training-center.md)
 - [UI Lab](src/study-documentations-and-blogs/ui-lab.md)
 - [UX Collective](src/study-documentations-and-blogs/ux-collective.md)
@@ -498,6 +499,7 @@
 - [Metabase](src/bi-tools/metabase.md)
 - [Microsoft Power BI](src/bi-tools/microsoft-power-bi.md)
 - [Redash](src/bi-tools/redash.md)
+- [Tableau](src/bi-tools/tableau.md)
 
 ### Ferramentas de Colaboração
 
