@@ -118,6 +118,7 @@
   - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
       - [Node.js - Bibliotecas](#nodejs---bibliotecas)
+  - [Segurança e Desempenho Web](#segurança-e-desempenho-web)
   - [Servidores](#servidores)
   - [Servidores Web](#servidores-web)
   - [Serviços de Armazenamento](#serviços-de-armazenamento)
@@ -1613,6 +1614,10 @@
   - [Zod](src/runtime/nodejs/libs/zod.md)
   - [Zod Internationalization](src/runtime/nodejs/libs/zod-i18n-map.md)
   - [Zustand](src/runtime/nodejs/libs/zustand.md)
+
+### Segurança e Desempenho Web
+
+- [Cloudflare](src/security-and-web-performance/cloudflare.md)
 
 ### Servidores
 
