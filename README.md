@@ -71,6 +71,7 @@
   - [Criadores de Sites](#criadores-de-sites)
   - [Criadores e Editores de Imagens](#criadores-e-editores-de-imagens)
   - [Criadores e Editores de Vídeos](#criadores-e-editores-de-vídeos)
+  - [DNS](#dns)
   - [Documentações de API](#documentações-de-api)
   - [Documentações de Estudos e Blogs](#documentações-de-estudos-e-blogs)
   - [E-mails](#e-mails)
@@ -376,6 +377,10 @@
 - [InVideo](src/creators-and-video-editors/invideo.md)
 - [Kaiber](src/creators-and-video-editors/kaiber.md)
 - [Synthesia](src/creators-and-video-editors/synthesia.md)
+
+### DNS
+
+- [NsLookup.io](src/dns/nslookupio.md)
 
 ### Documentações de API
 
