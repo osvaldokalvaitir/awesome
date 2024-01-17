@@ -4,7 +4,7 @@ O DevDocs.io combina várias documentações de API em uma interface rápida, or
 
 ## Instalação
 
-Clique [aqui](https://devdocs.egoist.moe) para fazer o download da instalação.
+Clique [aqui](https://devdocs.io) para fazer o download da instalação.
 
 ## Documentação
 

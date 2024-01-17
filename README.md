@@ -71,16 +71,12 @@
   - [Criadores e Editores de Imagens](#criadores-e-editores-de-imagens)
   - [Criadores e Editores de Vídeos](#criadores-e-editores-de-vídeos)
   - [Documentações de API](#documentações-de-api)
+  - [Documentações de Estudos e Blogs](#documentações-de-estudos-e-blogs)
   - [E-mails](#e-mails)
   - [Editores de Código](#editores-de-código)
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
   - [Emuladores](#emuladores)
-  - [Estudos](#estudos)
-    - [CSS](#css)
-    - [Linguagens de Programação](#linguagens-de-programação)
-    - [Microsserviços](#microsserviços)
-    - [UI/UX](#uiux)
   - [Ferramentas de BI](#ferramentas-de-bi)
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
   - [Ferramentas de Design](#ferramentas-de-design)
@@ -98,8 +94,9 @@
   - [Inspetores de Aplicativo](#inspetores-de-aplicativo)
   - [Inspiração de Design](#inspiração-de-design)
   - [Inteligências Artificiais](#inteligências-artificiais)
+  - [Jogos de Aprendizagem](#jogos-de-aprendizagem)
   - [Kits de Desenvolvimento](#kits-de-desenvolvimento)
-  - [Linguagens de Programação](#linguagens-de-programação-1)
+  - [Linguagens de Programação](#linguagens-de-programação)
     - [Low-code](#low-code)
   - [Mapas](#mapas)
   - [Maquetes](#maquetes)
@@ -137,7 +134,7 @@
       - [Prompt](#prompt)
   - [Tradutores de Erros](#tradutores-de-erros)
   - [Transferência de Arquivos](#transferência-de-arquivos)
-  - [UI/UX](#uiux-1)
+  - [UI/UX](#uiux)
       - [Figma - Extensões](#figma---extensões)
   - [Virtualização de Macs](#virtualização-de-macs)
   - [VoIP](#voip)
@@ -380,6 +377,21 @@
 - [Stoplight](src/api-docs/stoplight.md)
 - [Swagger](src/api-docs/swagger.md)
 
+### Documentações de Estudos e Blogs
+
+- [Can I use](src/study-documentations-and-blogs/caniuse.md)
+- [Codrops](src/study-documentations-and-blogs/codrops.md)
+- [CSS-Tricks](src/study-documentations-and-blogs/css-tricks.md)
+- [DevDocs Desktop](src/study-documentations-and-blogs/devdocs-desktop.md)
+- [Martin Fowler - Microservices](src/study-documentations-and-blogs/martin-fowler-microservices.md)
+- [MDN Web Docs](src/study-documentations-and-blogs/mdn-web-docs.md)
+- [Microservices.io](src/study-documentations-and-blogs/Microservicesio.md)
+- [Training Center](src/study-documentations-and-blogs/training-center.md)
+- [UI Lab](src/study-documentations-and-blogs/ui-lab.md)
+- [UX Collective](src/study-documentations-and-blogs/ux-collective.md)
+- [UX Planet](src/study-documentations-and-blogs/ux-planet.md)
+- [W3Schools](src/study-documentations-and-blogs/w3schools.md)
+
 ### E-mails
 
 - [Amazon SES](src/emails/amazon-ses.md)
@@ -480,41 +492,6 @@
 
 - [Android Studio](src/emulators/android-studio.md)
 - [Genymotion](src/emulators/genymotion.md)
-
-### Estudos
-
-  #### CSS
-
-  - [100 Days CSS](src/learning/css/100-days-css.md)
-  - [Can I use](src/learning/css/caniuse.md)
-  - [Codrops](src/learning/css/codrops.md)
-  - [CSS Diner](src/learning/css/css-diner.md)
-  - [CSS-Tricks](src/learning/css/css-tricks.md)
-  - [CSSBattle](src/learning/css/cssbattle.md)
-  - [Flexbox Defense](src/learning/css/flexbox-defense.md)
-  - [Flexbox Froggy](src/learning/css/flexbox-froggy.md)
-  - [Flexbox Zombies](src/learning/css/flexbox-zombies.md)
-  - [Grid Garden](src/learning/css/grid-garden.md)
-
-  #### Linguagens de Programação
-
-  - [DevDocs Desktop](src/learning/programming-languages/devdocs-desktop.md)
-  - [Grasshopper](src/learning/programming-languages/grasshopper.md)
-  - [MDN Web Docs](src/learning/programming-languages/mdn-web-docs.md)
-  - [Training Center](src/learning/programming-languages/training-center.md)
-  - [W3Schools](src/learning/programming-languages/w3schools.md)
-
-  #### Microsserviços
-
-  - [Microservices.io](src/learning/microservices/Microservicesio.md)
-  - [Martin Fowler - Microservices](src/learning/microservices/martin-fowler-microservices.md)
-
-  #### UI/UX
-
-  - [UI Lab](src/learning/ui-ux/ui-lab.md)
-  - [Userpilot](src/learning/ui-ux/userpilot.md)
-  - [UX Collective](src/learning/ui-ux/ux-collective.md)
-  - [UX Planet](src/learning/ui-ux/ux-planet.md)
 
 ### Ferramentas de BI
 
@@ -631,6 +608,17 @@
 
 - [OpenAI](src/artificial-intelligences/openai.md)
 - [Tokenizer](src/artificial-intelligences/tokenizer.md)
+
+### Jogos de Aprendizagem
+
+- [100 Days CSS](src/learning-games/100-days-css.md)
+- [CSSBattle](src/learning-games/cssbattle.md)
+- [CSS Diner](src/learning-games/css-diner.md)
+- [Flexbox Defense](src/learning-games/flexbox-defense.md)
+- [Flexbox Froggy](src/learning-games/flexbox-froggy.md)
+- [Flexbox Zombies](src/learning-games/flexbox-zombies.md)
+- [Grasshopper](src/learning-games/grasshopper.md)
+- [Grid Garden](src/learning-games/grid-garden.md)
 
 ### Kits de Desenvolvimento
 
@@ -1713,6 +1701,7 @@
 - [Maze](src/ui-ux/maze.md)
 - [Miro](src/ui-ux/miro.md)
 - [Sketch](src/ui-ux/sketch.md)
+- [Userpilot](src/learning/ui-ux/userpilot.md)
 - [Whimsical](src/ui-ux/whimsical.md)
 - [Zeplin](src/ui-ux/zeplin.md)
 
@@ -1744,8 +1733,6 @@
 - [Instalação e Configuração do Chrome](src/browsers/chrome/chrome.md)
 
 - [Instalação do Insomnia](src/api-clients/insomnia.md)
-
-- [Instalação do DevDocs Desktop](src/learning/programming-languages/devdocs-desktop.md)
 
 - Instalação do Gerenciador de Pacotes
 
