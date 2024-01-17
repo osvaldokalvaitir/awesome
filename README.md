@@ -53,6 +53,7 @@
   - [Browsers](#browsers)
       - [Chrome - Extensões](#chrome---extensões)
   - [Bancos de Imagens](#bancos-de-imagens)
+  - [Cálculos](#cálculos)
   - [CDNs](#cdns)
   - [Certificados](#certificados)
   - [CI/CD](#cicd)
@@ -266,6 +267,10 @@
 - [UI8](src/image-banks/ui8.md)
 - [unDraw](src/image-banks/undraw.md)
 - [Unsplash](src/image-banks/unsplash.md)
+
+### Cálculos
+
+- [SplitC](src/calculations/splitc.md)
 
 ### CDNs
 
