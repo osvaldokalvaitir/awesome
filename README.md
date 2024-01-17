@@ -360,6 +360,7 @@
 
 ### Criadores e Editores de Imagens
 
+- [Animated Drawings](src/creators-and-image-editors/animated-drawings.md)
 - [Blush](src/creators-and-image-editors/blush.md)
 - [PicWish](src/creators-and-image-editors/picwish.md)
 - [removebg](src/creators-and-image-editors/removebg.md)
