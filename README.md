@@ -157,7 +157,10 @@
 ### APIs
 
 - [Brasil API](src/apis/brasil-api.md)
+- [Edamam](src/apis/edamam.md)
 - [ExchangeRate-API](src/apis/exchangerate-api.md)
+- [Fake Store API](src/apis/fake-store-api.md)
+- [FavQs](src/apis/favqs.md)
 - [GitHub API](src/apis/github-api.md)
 - [IBGE API](src/apis/ibge-api.md)
 - [Marvel API](src/apis/marvel-api.md)
