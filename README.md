@@ -489,6 +489,8 @@
 - [Gitpod](src/online-code-editors/gitpod.md)
 - [JSFiddle](src/online-code-editors/jsfiddle.md)
 - [StackBlitz](src/online-code-editors/stackblitz.md)
+- [tailwindPlay](src/online-code-editors/tailwindplay.md)
+- [TS Playground](src/online-code-editors/ts-playground.md)
 
 ### Emuladores
 
