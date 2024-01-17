@@ -1500,6 +1500,7 @@
   - [slugify](src/runtime/nodejs/libs/slugify.md)
   - [Socket.io](src/runtime/nodejs/libs/socketio.md)
   - [socket.io-client](src/runtime/nodejs/libs/socketio-client.md)
+  - [Solid](src/runtime/nodejs/libs/solid.md)
   - [sqlite3](src/runtime/nodejs/libs/sqlite3.md)
   - [stats.js](src/runtime/nodejs/libs/statsjs.md)
   - [Stitches Core](src/runtime/nodejs/libs/@stitches-core.md)
