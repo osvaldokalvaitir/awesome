@@ -60,10 +60,10 @@
       - [Insomnia - Extensões](#insomnia---extensões)
   - [Coberturas de Teste](#coberturas-de-teste)
   - [Contêineres](#contêineres)
-    - [Imagens](#imagens)
-    - [Ferramentas](#ferramentas)
+      - [Docker - Imagens](#docker---imagens)
+      - [Docker - Ferramentas](#docker---ferramentas)
   - [Controles de Versão](#controles-de-versão)
-    - [Ferramentas](#ferramentas-1)
+      - [Git - Ferramentas](#git---ferramentas)
   - [Conversores de Código](#conversores-de-código)
   - [Cores](#cores)
   - [Criadores de Portais para Desenvolvedores](#criadores-de-portais-para-desenvolvedores)
@@ -97,7 +97,7 @@
   - [Jogos de Aprendizagem](#jogos-de-aprendizagem)
   - [Kits de Desenvolvimento](#kits-de-desenvolvimento)
   - [Linguagens de Programação](#linguagens-de-programação)
-    - [Low-code](#low-code)
+  - [Low-code](#low-code)
   - [Mapas](#mapas)
   - [Maquetes](#maquetes)
   - [Máquinas Virtuais](#máquinas-virtuais)
@@ -105,7 +105,7 @@
   - [Monitoramento de Nuvem](#monitoramento-de-nuvem)
   - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
   - [Notificações Push](#notificações-push)
-      - [Certificados](#certificados-1)
+      - [OneSignal - Certificados](#onesignal---certificados)
   - [Orquestração de Contêineres](#orquestração-de-contêineres)
   - [PaaS](#paas)
   - [Plataformas de Comunicação](#plataformas-de-comunicação)
@@ -114,7 +114,7 @@
   - [Regex](#regex)
   - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
-      - [Bibliotecas](#bibliotecas)
+      - [Node.js - Bibliotecas](#nodejs---bibliotecas)
   - [Servidores](#servidores)
   - [Servidores Web](#servidores-web)
   - [Serviços de Armazenamento](#serviços-de-armazenamento)
@@ -130,8 +130,8 @@
   - [SMS](#sms)
   - [Temas](#temas)
   - [Terminais](#terminais)
-      - [Gerenciador de Plugins](#gerenciador-de-plugins)
-      - [Prompt](#prompt)
+      - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
+      - [Oh My Zsh - Prompt](#oh-my-zsh---prompt)
   - [Tradutores de Erros](#tradutores-de-erros)
   - [Transferência de Arquivos](#transferência-de-arquivos)
   - [UI/UX](#uiux)
@@ -203,8 +203,9 @@
 
 ### Browsers
 
-- [Chrome](src/browsers/chrome/chrome.md)
-- [Microsoft Edge](src/browsers/microsoft-edge/microsoft-edge.md)
+- [Chrome](src/browsers/chrome.md)
+- [Microsoft Edge](src/browsers/microsoft-edge.md)
+- [Sizzy](src/browsers/sizzy.md)
 
   ##### Chrome - Extensões
 
@@ -293,13 +294,13 @@
 - [Graphcool](src/api-clients/graphcool.md)
 - [Hasura](src/api-clients/hasura.md)
 - [HTTPie](src/api-clients/httpie.md)
-- [Insomnia](src/api-clients/insomnia/insomnia.md)
+- [Insomnia](src/api-clients/insomnia.md)
 - [Postman](src/api-clients/postman.md)
 - [Prisma](src/api-clients/prisma.md)
 
   ##### Insomnia - Extensões
 
-    - [Omni for Insomnia](src/api-docs/insomnia/extensions/omni-for-insomnia.md)
+    - [Omni for Insomnia](src/api-clients/insomnia/extensions/omni-for-insomnia.md)
 
 ### Coberturas de Teste
 
@@ -308,9 +309,9 @@
 
 ### Contêineres
 
-- [Docker](src/containers/docker/docker.md)
+- [Docker](src/containers/docker.md)
 
-  #### Imagens
+  ##### Docker - Imagens
 
   - [kartoza/postgis](src/containers/docker/images/kartoza-postgis.md)
   - [mongo](src/containers/docker/images/mongo.md)
@@ -318,15 +319,15 @@
   - [postgres](src/containers/docker/images/postgres.md)
   - [redis:alpine](src/containers/docker/images/redis-alpine.md)
 
-  #### Ferramentas
+  ##### Docker - Ferramentas
 
   - [Docker Hub](src/containers/docker/tools/docker-hub.md)
 
 ### Controles de Versão
 
-- [Git](src/version-controls/git/git.md)
+- [Git](src/version-controls/git.md)
 
-  #### Ferramentas
+  ##### Git - Ferramentas
 
   - [Git Command Explorer](src/version-controls/git/tools/gitexplorer.md)
   - [GitHub CLI](src/version-controls/git/tools/github-cli.md)
@@ -405,7 +406,7 @@
 
 ### Editores de Código
 
-- [Visual Studio Code](src/code-editors/visual-studio-code/visual-studio-code.md)
+- [Visual Studio Code](src/code-editors/visual-studio-code.md)
 
   ##### Visual Studio Code - Extensões
 
@@ -632,7 +633,7 @@
 - [JavaScript](src/programming-languages/javascript.md)
 - [Python](src/programming-languages/python.md)
 
-#### Low-code
+### Low-code
 
 - [ToolJet](src/low-code/tooljet.md)
 
@@ -675,9 +676,9 @@
 
 ### Notificações Push
 
-- [OneSignal](src/push-notifications/onesignal/onesignal.md)
+- [OneSignal](src/push-notifications/onesignal.md)
 
-  ##### Certificados
+  ##### OneSignal - Certificados
 
   - [The Provisionator](src/push-notifications/onesignal/certificates/the-provisionator.md)
 
@@ -726,7 +727,7 @@
 
 - [Node.js](src/runtime/nodejs/nodejs.md)
 
-  ##### Bibliotecas
+  ##### Node.js - Bibliotecas
 
   - [@babel-plugin-proposal-class-properties](src/runtime/nodejs/libs/@babel-plugin-proposal-class-properties.md)
   - [@babel/core](src/runtime/nodejs/libs/@babel-core.md)
@@ -1670,15 +1671,17 @@
 
 - [Hyper](src/terminals/hyper.md)
 
-- [Oh My Zsh](src/terminals/oh-my-zsh/oh-my-zsh.md)
+- [Oh My Zsh](src/terminals/oh-my-zsh.md)
 
-  ##### Gerenciador de Plugins
+- [Warp](src/terminals/warp.md)
 
-  - [Zplugin](src/terminals/oh-my-zsh/plugin-manager/zplugin.md)
+  ##### Oh My Zsh - Gerenciador de Plugins
 
-  ##### Prompt
+  - [Zplugin](src/terminals/oh-my-zsh/plugin-managers/zplugin.md)
 
-  - [Spaceship ZSH](src/terminals/oh-my-zsh/prompt/spaceship-zsh.md)
+  ##### Oh My Zsh - Prompt
+
+  - [Spaceship ZSH](src/terminals/oh-my-zsh/prompts/spaceship-zsh.md)
 
 - [Terminal.app](src/terminals/terminal.app.md)
 
