@@ -78,6 +78,7 @@
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
   - [Emuladores](#emuladores)
+  - [Feedback dos Usuários](#feedback-dos-usuários)
   - [Ferramentas de BI](#ferramentas-de-bi)
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
   - [Ferramentas de Design](#ferramentas-de-design)
@@ -502,6 +503,12 @@
 
 - [Android Studio](src/emulators/android-studio.md)
 - [Genymotion](src/emulators/genymotion.md)
+
+### Feedback dos Usuários
+
+- [Appzi](src/user-feedback/appzi.md)
+- [Hotjar](src/user-feedback/hotjar.md)
+- [SatisMeter](src/user-feedback/satismeter.md)
 
 ### Ferramentas de BI
 
