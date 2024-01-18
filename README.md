@@ -40,7 +40,9 @@
 ## :book: Conteúdo
 
 - [:book: Conteúdo](#book-conteúdo)
-  - [Acesso Remoto no Servidor](#acesso-remoto-no-servidor)
+  - [Acesso Remoto a Dispositivos](#acesso-remoto-a-dispositivos)
+  - [Acesso Remoto a Servidores](#acesso-remoto-a-servidores)
+  - [Acesso Remoto a Servidores Locais](#acesso-remoto-a-servidores-locais)
   - [Alternância de Recursos](#alternância-de-recursos)
   - [APIs](#apis)
   - [Assinatura Digital](#assinatura-digital)
@@ -69,6 +71,7 @@
   - [Cores](#cores)
   - [Criadores de Portais para Desenvolvedores](#criadores-de-portais-para-desenvolvedores)
   - [Criadores de Sites](#criadores-de-sites)
+  - [Criadores e Editores de Áudios](#criadores-e-editores-de-áudios)
   - [Criadores e Editores de Imagens](#criadores-e-editores-de-imagens)
   - [Criadores e Editores de Vídeos](#criadores-e-editores-de-vídeos)
   - [DNS](#dns)
@@ -79,6 +82,7 @@
       - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
   - [Emuladores](#emuladores)
+  - [Espelhamentos de Tela](#espelhamentos-de-tela)
   - [Feedback dos Usuários](#feedback-dos-usuários)
   - [Ferramentas de BI](#ferramentas-de-bi)
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
@@ -148,9 +152,18 @@
     - [Outras Configurações](#outras-configurações)
 - [:memo: Licença](#memo-licença)
 
-### Acesso Remoto no Servidor
+### Acesso Remoto a Dispositivos
+
+- [AnyDesk](src/remote-access/anydesk.md)
+- [TeamViewer](src/remote-access/teamviewer.md)
+
+### Acesso Remoto a Servidores
 
 - [PuTTY](src/remote-access-server/putty.md)
+
+### Acesso Remoto a Servidores Locais
+
+- [ngrok](src/remote-access-local-server/ngrok.md)
 
 ### Alternância de Recursos
 
@@ -366,18 +379,35 @@
 
 - [Framer](src/website-builder/framer.md)
 
+### Criadores e Editores de Áudios
+
+- [AIVA](src/creators-and-audio-editors/aiva.md)
+- [Audacity](src/creators-and-audio-editors/audacity.md)
+- [Ecrett Music](src/creators-and-audio-editors/ecrett-music.md)
+- [ElevenLabs](src/creators-and-audio-editors/elevenlabs.md)
+- [Loudly](src/creators-and-audio-editors/loudly.md)
+- [Mubert](src/creators-and-audio-editors/mubert.md)
+- [MuseNet](src/creators-and-audio-editors/musenet.md)
+- [Soundful](src/creators-and-audio-editors/soundful.md)
+
 ### Criadores e Editores de Imagens
 
 - [Animated Drawings](src/creators-and-image-editors/animated-drawings.md)
 - [Blush](src/creators-and-image-editors/blush.md)
+- [DALL-E](src/creators-and-image-editors/dall-e.md)
+- [Midjourney](src/creators-and-image-editors/midjourney.md)
 - [PicWish](src/creators-and-image-editors/picwish.md)
 - [removebg](src/creators-and-image-editors/removebg.md)
+- [Stable Diffusion](src/creators-and-image-editors/stable-diffusion.md)
 
 ### Criadores e Editores de Vídeos
 
+- [D-ID](src/creators-and-video-editors/d-id.md)
 - [InVideo](src/creators-and-video-editors/invideo.md)
 - [Kaiber](src/creators-and-video-editors/kaiber.md)
+- [Pika](src/creators-and-video-editors/pika.md)
 - [Synthesia](src/creators-and-video-editors/synthesia.md)
+- [VideoPoet](src/creators-and-video-editors/videopoet.md)
 
 ### DNS
 
@@ -509,6 +539,12 @@
 
 - [Android Studio](src/emulators/android-studio.md)
 - [Genymotion](src/emulators/genymotion.md)
+
+### Espelhamentos de Tela
+
+- [AirDroid](src/screen-mirroring/airdroid.md)
+- [scrcpy](src/screen-mirroring/scrcpy.md)
+- [Vysor](src/screen-mirroring/vysor.md)
 
 ### Feedback dos Usuários
 
@@ -1740,7 +1776,30 @@
 
   ##### Figma - Extensões
 
+    - [Anima](src/ui-ux/figma/extensions/anima.md)
+    - [Apple Design Resources](src/ui-ux/figma/extensions/apple-design-resources.md)
+    - [Arc](src/ui-ux/figma/extensions/arc.md)
+    - [Artboard Studio Mockups](src/ui-ux/figma/extensions/artboard-studio-mockups.md)
+    - [Clay Mockups 3D](src/ui-ux/figma/extensions/clay-mockups-3d.md)
+    - [Contrast](src/ui-ux/figma/extensions/contrast.md)
+    - [Export Kit](src/ui-ux/figma/extensions/export-kit.md)
+    - [Figma to Code](src/ui-ux/figma/extensions/figma-to-code.md)
+    - [html.to.design](src/ui-ux/figma/extensions/html-to-design.md)
     - [Iconify](src/ui-ux/figma/extensions/iconify.md)
+    - [Icons8](src/ui-ux/figma/extensions/icons8.md)
+    - [IconScout](src/ui-ux/figma/extensions/iconscout.md)
+    - [iOS 15 UI Kit for Figma](src/ui-ux/figma/extensions/ios-15-ui-kit-for-figma.md)
+    - [iOS 16 UI Kit for Figma](src/ui-ux/figma/extensions/ios-16-ui-kit-for-figma.md)
+    - [Lorem Ipsum](src/ui-ux/figma/extensions/lorem-ipsum.md)
+    - [Lucide Icons](src/ui-ux/figma/extensions/lucide-icons.md)
+    - [Material 3 Design Kit](src/ui-ux/figma/extensions/material-3-design-kit.md)
+    - [Mockup](src/ui-ux/figma/extensions/mockup.md)
+    - [Node Frame](src/ui-ux/figma/extensions/node-frame.md)
+    - [SmoothShadow](src/ui-ux/figma/extensions/smoothshadow.md)
+    - [Tailwind CSS Color Generator](src/ui-ux/figma/extensions/tailwind-css-color-generator.md)
+    - [Tailwind CSS Styles](src/ui-ux/figma/extensions/tailwind-css-styles.md)
+    - [UI Faces](src/ui-ux/figma/extensions/ui-faces.md)
+    - [Vectary 3D Elements](src/ui-ux/figma/extensions/vectary-3d-elements.md)
 
 ### Virtualização de Macs
 
