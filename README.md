@@ -43,6 +43,7 @@
   - [Acesso Remoto a Dispositivos](#acesso-remoto-a-dispositivos)
   - [Acesso Remoto a Servidores](#acesso-remoto-a-servidores)
   - [Acesso Remoto a Servidores Locais](#acesso-remoto-a-servidores-locais)
+  - [Agentes Virtuais](#agentes-virtuais)
   - [Alternância de Recursos](#alternância-de-recursos)
   - [APIs](#apis)
   - [Assinatura Digital](#assinatura-digital)
@@ -99,7 +100,6 @@
   - [IDEs](#ides)
   - [Inspetores de Aplicativo](#inspetores-de-aplicativo)
   - [Inspiração de Design](#inspiração-de-design)
-  - [Inteligências Artificiais](#inteligências-artificiais)
   - [Jogos de Aprendizagem](#jogos-de-aprendizagem)
   - [Kits de Desenvolvimento](#kits-de-desenvolvimento)
   - [Linguagens de Programação](#linguagens-de-programação)
@@ -114,8 +114,10 @@
       - [OneSignal - Certificados](#onesignal---certificados)
   - [Orquestração de Contêineres](#orquestração-de-contêineres)
   - [PaaS](#paas)
+  - [Plataformas de Aprendizado de Máquina](#plataformas-de-aprendizado-de-máquina)
   - [Plataformas de Comunicação](#plataformas-de-comunicação)
   - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
+  - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
   - [Processamento de Streams](#processamento-de-streams)
   - [Regex](#regex)
   - [Registros de Domínio](#registros-de-domínio)
@@ -166,6 +168,11 @@
 ### Acesso Remoto a Servidores Locais
 
 - [ngrok](src/remote-access-local-server/ngrok.md)
+
+### Agentes Virtuais
+
+- [Claude](src/virtual-agents/claude.md)
+- [Forefront](src/virtual-agents/forefront.md)
 
 ### Alternância de Recursos
 
@@ -667,11 +674,6 @@
 - [Mobbin](src/design-inspiration/mobbin.md)
 - [Pinterest](src/design-inspiration/pinterest.md)
 
-### Inteligências Artificiais
-
-- [OpenAI](src/artificial-intelligences/openai.md)
-- [Tokenizer](src/artificial-intelligences/tokenizer.md)
-
 ### Jogos de Aprendizagem
 
 - [100 Days CSS](src/learning-games/100-days-css.md)
@@ -756,6 +758,10 @@
 - [Tsuru](src/paas/tsuru.md)
 - [Vercel](src/paas/vercel.md)
 
+### Plataformas de Aprendizado de Máquina
+
+- [OpenAI](src/machine-learning-platforms/openai.md)
+
 ### Plataformas de Comunicação
 
 - [Discord](src/communication-platforms/discord.md)
@@ -769,6 +775,13 @@
 - [Apple Developer](src/development-platforms/apple-developer.md)
 - [Firebase](src/development-platforms/firebase.md)
 - [Play Console](src/development-platforms/play-console.md)
+
+# Processamento de Linguagem Natural
+
+- [ChatGPT](src/natural-language-processing/chatgpt.md)
+- [MeaningCloud](src/natural-language-processing/meaningcloud.md)
+- [Tokenizer](src/natural-language-processing/tokenizer.md)
+- [Watson](src/natural-language-processing/watson.md)
 
 ### Processamento de Streams
 
@@ -1697,7 +1710,7 @@
   - [Amazon RDS](src/sgdbs/multiples/amazon-rds.md)
   - [Beekeeper Studio](src/sgdbs/multiples/beekeeper-studio.md)
   - [DBeaver](src/sgdbs/multiples/dbeaver.md)
-  - [Upstash](src/serveless-databases/multiples/upstash.md)
+  - [Upstash](src/sgdbs/multiples/upstash.md)
 
   #### DynamoDB
 
