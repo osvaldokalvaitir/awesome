@@ -92,7 +92,6 @@
   - [Fontes](#fontes)
   - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
   - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
-  - [Gerenciadores de Pacotes Node.js](#gerenciadores-de-pacotes-nodejs)
   - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
   - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
   - [IaC](#iac)
@@ -123,6 +122,8 @@
   - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
       - [Node.js - Bibliotecas](#nodejs---bibliotecas)
+      - [Node.js - Gerenciadores de Pacotes](#nodejs---gerenciadores-de-pacotes)
+      - [Node.js - Gerenciadores de Versões](#nodejs---gerenciadores-de-versões)
   - [Segurança e Desempenho Web](#segurança-e-desempenho-web)
   - [Servidores](#servidores)
   - [Servidores Web](#servidores-web)
@@ -395,6 +396,7 @@
 
 ### Criadores e Editores de Imagens
 
+- [Adobe Firefly](src/creators-and-image-editors/adobe-firefly.md)
 - [Animated Drawings](src/creators-and-image-editors/animated-drawings.md)
 - [Blush](src/creators-and-image-editors/blush.md)
 - [DALL-E](src/creators-and-image-editors/dall-e.md)
@@ -614,11 +616,6 @@
 - [cURL](src/packages-managers/curl.md)
 - [Homebrew](src/packages-managers/homebrew.md)
 
-### Gerenciadores de Pacotes Node.js
-
-- [npm](src/node-packages-managers/npm.md)
-- [Yarn](src/node-packages-managers/yarn.md)
-
 ### Gerenciadores de Projetos
 
 - [iceScrum](src/projects-managers/icescrum.md)
@@ -761,6 +758,7 @@
 ### Plataformas de Aprendizado de Máquina
 
 - [OpenAI](src/machine-learning-platforms/openai.md)
+- [Adobe Sensei](src/machine-learning-platforms/adobe-sensei.md)
 
 ### Plataformas de Comunicação
 
@@ -776,7 +774,7 @@
 - [Firebase](src/development-platforms/firebase.md)
 - [Play Console](src/development-platforms/play-console.md)
 
-# Processamento de Linguagem Natural
+### Processamento de Linguagem Natural
 
 - [ChatGPT](src/natural-language-processing/chatgpt.md)
 - [MeaningCloud](src/natural-language-processing/meaningcloud.md)
@@ -799,7 +797,9 @@
 
 ### Runtime
 
-- [Node.js](src/runtime/nodejs/nodejs.md)
+- [Bun](src/runtime/bun.md)
+- [Deno](src/runtime/deno.md)
+- [Node.js](src/runtime/nodejs.md)
 
   ##### Node.js - Bibliotecas
 
@@ -1150,10 +1150,12 @@
   - [Moveable](src/runtime/nodejs/libs/moveable.md)
   - [Multer](src/runtime/nodejs/libs/multer.md)
   - [mysql](src/runtime/nodejs/libs/mysql.md)
+  - [n](src/runtime/nodejs/libs/n.md)
   - [n8n](src/runtime/nodejs/libs/n8n.md)
   - [Native Testing Library](src/runtime/nodejs/libs/@testing-library-react-native.md)
   - [NativeBase](src/runtime/nodejs/libs/native-base.md)
   - [Nativefier](src/runtime/nodejs/libs/nativefier.md)
+  - [Necord](src/runtime/nodejs/libs/necord.md)
   - [Netinfo](src/runtime/nodejs/libs/@react-native-community-netinfo.md)
   - [Next SEO](src/runtime/nodejs/libs/next-seo.md)
   - [Next.js](src/runtime/nodejs/libs/next.md)
@@ -1668,6 +1670,16 @@
   - [Zod Internationalization](src/runtime/nodejs/libs/zod-i18n-map.md)
   - [Zustand](src/runtime/nodejs/libs/zustand.md)
 
+  ##### Node.js - Gerenciadores de Pacotes
+
+  - [npm](src/runtime/nodejs/packages-managers/npm.md)
+  - [pnpm](src/runtime/nodejs/packages-managers/pnpm.md)
+  - [Yarn](src/runtime/nodejs/packages-managers/yarn.md)
+
+  ##### Node.js - Gerenciadores de Versões
+
+  - [NVM](src/runtime/nodejs/versions-managers/nvm.md)
+
 ### Segurança e Desempenho Web
 
 - [Cloudflare](src/security-and-web-performance/cloudflare.md)
@@ -1865,7 +1877,7 @@
   - [macOS](src/packages-managers/homebrew.md)
   - [Windows](src/packages-managers/chocolatey.md)
 
-- [Instalação do Node.js](src/runtime/nodejs/nodejs.md)
+- [Instalação do Node.js](src/runtime/nodejs.md)
 
 - [Instalação do Yarn](src/node-packages-managers/yarn.md)
 
@@ -1898,11 +1910,11 @@
 
 #### Instalação de Projeto
 
-- [Instalação de dependências de projeto](src/runtime/nodejs/nodejs.md)
+- [Instalação de dependências de projeto](src/runtime/nodejs.md)
 
 #### Execução de Projeto (Desenvolvimento, Depuração, Testes e Produção)
 
-- [Projeto em Node.js](src/runtime/nodejs/nodejs.md)
+- [Projeto em Node.js](src/runtime/nodejs.md)
 
 - [Projeto em ReactJS](src/runtime/nodejs/libs/create-react-app.md)
 

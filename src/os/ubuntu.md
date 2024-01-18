@@ -38,7 +38,7 @@ apt-get upgrade
 
 ### Instalação do Node.js
 
-Clique [aqui](../runtime/nodejs/nodejs.md) e siga `Instalação > Linux usando cURL`.
+Clique [aqui](../runtime/nodejs.md) e siga `Instalação > Linux usando cURL`.
 
 ### Instalação do PM2
 
