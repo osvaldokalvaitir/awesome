@@ -50,8 +50,6 @@
   - [Avatares](#avatares)
   - [Awesomes](#awesomes)
   - [Banco de Dados](#banco-de-dados)
-  - [Banco de Dados sem Servidor](#banco-de-dados-sem-servidor)
-    - [Múltiplos](#múltiplos)
   - [Browsers](#browsers)
       - [Chrome - Extensões](#chrome---extensões)
   - [Bancos de Imagens](#bancos-de-imagens)
@@ -74,6 +72,7 @@
   - [Criadores e Editores de Áudios](#criadores-e-editores-de-áudios)
   - [Criadores e Editores de Imagens](#criadores-e-editores-de-imagens)
   - [Criadores e Editores de Vídeos](#criadores-e-editores-de-vídeos)
+  - [CRMs](#crms)
   - [DNS](#dns)
   - [Documentações de API](#documentações-de-api)
   - [Documentações de Estudos e Blogs](#documentações-de-estudos-e-blogs)
@@ -129,13 +128,16 @@
   - [Serviços de Autenticação e Autorização](#serviços-de-autenticação-e-autorização)
   - [Serviços de Monitoramento de Arquivos](#serviços-de-monitoramento-de-arquivos)
   - [SGDBs](#sgdbs)
-    - [Múltiplos](#múltiplos-1)
+    - [Múltiplos](#múltiplos)
+    - [DynamoDB](#dynamodb)
+    - [Fauna](#fauna)
     - [MongoDB](#mongodb)
     - [MySQL](#mysql)
     - [PostgreSQL](#postgresql)
     - [Redis](#redis)
   - [Sistemas Operacionais](#sistemas-operacionais)
   - [SMS](#sms)
+  - [Soluções Integradas para Empresas](#soluções-integradas-para-empresas)
   - [Temas](#temas)
   - [Linhas de comando](#linhas-de-comando)
       - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
@@ -211,12 +213,6 @@
 - [MySQL](src/databases/mysql.md)
 - [PostgreSQL](src/databases/postgresql.md)
 - [Redis](src/databases/redis.md)
-
-### Banco de Dados sem Servidor
-
-  #### Múltiplos
-
-  - [Upstash](src/serveless-databases/multiples/upstash.md)
 
 ### Browsers
 
@@ -408,6 +404,13 @@
 - [Pika](src/creators-and-video-editors/pika.md)
 - [Synthesia](src/creators-and-video-editors/synthesia.md)
 - [VideoPoet](src/creators-and-video-editors/videopoet.md)
+
+### CRMs
+
+- [Microsoft Dynamics 365](src/crms/microsoft-dynamics-365.md)
+- [Pipedrive](src/crms/pipedrive.md)
+- [Salesforce](src/crms/salesforce.md)
+- [Zendesk](src/crms/zendesk.md)
 
 ### DNS
 
@@ -741,6 +744,7 @@
 
 ### Orquestração de Contêineres
 
+- [Amazon ECS](src/containers-orchestration/amazon-ecs.md)
 - [Docker Swarm](src/containers-orchestration/docker-swarm.md)
 - [Kubernetes](src/containers-orchestration/kubernetes.md)
 
@@ -1689,8 +1693,19 @@
 
   #### Múltiplos
 
+  - [Amazon Aurora Serverless](src/sgdbs/multiples/amazon-aurora-serverless.md)
+  - [Amazon RDS](src/sgdbs/multiples/amazon-rds.md)
   - [Beekeeper Studio](src/sgdbs/multiples/beekeeper-studio.md)
   - [DBeaver](src/sgdbs/multiples/dbeaver.md)
+  - [Upstash](src/serveless-databases/multiples/upstash.md)
+
+  #### DynamoDB
+
+  - [Amazon DynamoDB](src/sgdbs/multiples/amazon-dynamodb.md)
+
+  #### Fauna
+
+  - [Fauna](src/sgdbs/fauna/fauna.md)
 
   #### MongoDB
 
@@ -1722,6 +1737,11 @@
 ### SMS
 
 - [SMS Dev](src/sms/sms-dev.md)
+
+### Soluções Integradas para Empresas
+
+- [Microsoft 365](src/integrated-solutions-for-businesses/microsoft-365.md)
+- [Zoho](src/integrated-solutions-for-businesses/zoho.md)
 
 ### Temas
 
