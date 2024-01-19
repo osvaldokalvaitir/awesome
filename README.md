@@ -1683,6 +1683,7 @@
 ### Segurança e Desempenho Web
 
 - [Cloudflare](src/security-and-web-performance/cloudflare.md)
+- [Have I Been Pwned?](src/security-and-web-performance/have-i-been-pwned.md)
 
 ### Servidores
 
