@@ -311,6 +311,7 @@
 - [Buddy](src/ci-cd/buddy.md)
 - [CircleCI](src/ci-cd/circleci.md)
 - [CodeShip](src/ci-cd/codeship.md)
+- [GitHub Actions](src/ci-cd/github-actions.md)
 - [Jenkins](src/ci-cd/jenkins.md)
 - [Railway](src/ci-cd/railway.md)
 - [Render](src/ci-cd/render.md)
@@ -635,6 +636,13 @@
 - [Keychain Access](src/passwords-managers/keychain-access.md)
 - [keytool](src/passwords-managers/keytool.md)
 
+### Hospedagem de Sites
+
+- [GitHub Pages](src/websites-hosting/github-pages.md)
+- [HostGator](src/websites-hosting/hostgator.md)
+- [Hostinger](src/websites-hosting/hostinger.md)
+- [Locaweb](src/websites-hosting/locaweb.md)
+
 ### IaC
 
 - [Terraform](src/iac/terraform.md)
@@ -803,7 +811,6 @@
 
 - [Domain.com](src/domain-registrations/domain-com.md)
 - [GoDaddy](src/domain-registrations/godaddy.md)
-- [Locaweb](src/domain-registrations/locaweb.md)
 
 ### Runtime
 
