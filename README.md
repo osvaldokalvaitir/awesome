@@ -94,6 +94,7 @@
   - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
   - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
   - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
+  - [Hospedagem de Sites](#hospedagem-de-sites)
   - [IaC](#iac)
   - [Ícones](#ícones)
   - [IDEs](#ides)
