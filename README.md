@@ -113,6 +113,7 @@
       - [OneSignal - Certificados](#onesignal---certificados)
   - [Orquestração de Contêineres](#orquestração-de-contêineres)
   - [PaaS](#paas)
+  - [Pagamentos Online](#pagamentos-online)
   - [Plataformas de Aprendizado de Máquina](#plataformas-de-aprendizado-de-máquina)
   - [Plataformas de Comunicação](#plataformas-de-comunicação)
   - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
@@ -754,6 +755,14 @@
 - [Netlify](src/paas/netlify.md)
 - [Tsuru](src/paas/tsuru.md)
 - [Vercel](src/paas/vercel.md)
+
+### Pagamentos Online
+
+- [Adyen](src/online-payments/adyen.md)
+- [pagar.me](src/online-payments/pagar-me.md)
+- [PagBank](src/online-payments/pagbank.md)
+- [PayPal](src/online-payments/paypal.md)
+- [Stripe](src/online-payments/stripe.md)
 
 ### Plataformas de Aprendizado de Máquina
 
