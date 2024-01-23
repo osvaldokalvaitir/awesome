@@ -158,7 +158,6 @@ Executar o projeto para produção:
 npm start | yarn start
 ```
 
-
 ## Publicação de Projeto no NPM
 
 Criar conta no npm:
@@ -206,3 +205,15 @@ Se não der certo o comando acima, acrescente `--force`:
 ```
 npm unpublish --force
 ```
+
+## Configuração da Instalação do Python associado ao NPM
+
+Criar conta no npm:
+
+```
+npm config set python <caminho_arquivo>
+```
+
+Onde:
+
+- `<caminho_arquivo>` - caminho do arquivo python. Ex: `C:\Python310\python.exe`
