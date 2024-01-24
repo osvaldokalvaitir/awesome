@@ -1701,6 +1701,7 @@
 
 - [Cloudflare](src/security-and-web-performance/cloudflare.md)
 - [Have I Been Pwned?](src/security-and-web-performance/have-i-been-pwned.md)
+- [Personal Data Leak Check](src/security-and-web-performance/personal-data-leak-check.md)
 
 ### Servidores
 
