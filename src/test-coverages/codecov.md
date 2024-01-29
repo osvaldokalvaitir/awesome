@@ -4,4 +4,4 @@ Melhore o fluxo de trabalho e a qualidade da revisão de código. O Codecov forn
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://coveralls.io) para ver a documentação e acessar o serviço.
+Clique [aqui](https://about.codecov.io) para ver a documentação e acessar o serviço.
