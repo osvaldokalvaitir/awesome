@@ -863,6 +863,8 @@
   - [@sentry/node](src/runtime/nodejs/libs/@sentry-node.md)
   - [@sentry/wizard](src/runtime/nodejs/libs/@sentry-wizard.md)
   - [@sentry/react-native](src/runtime/nodejs/libs/@sentry-react-native.md)
+  - [@t3-oss/env-core](src/runtime/nodejs/libs/@t3-oss-env-core.md)
+  - [@t3-oss/env-nextjs](src/runtime/nodejs/libs/@t3-oss-env-nextjs.md)
   - [@tauri-apps/cli](src/runtime/nodejs/libs/@tauri-apps-cli.md)
   - [@tiptap/pm](src/runtime/nodejs/libs/@tiptap-pm.md)
   - [@tiptap/react](src/runtime/nodejs/libs/@tiptap-react.md)
