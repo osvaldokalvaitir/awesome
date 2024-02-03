@@ -1802,6 +1802,8 @@
 
 - [Fig](src/command-lines/fig.md)
 
+- [GitHub CLI](src/command-lines/github-cli.md)
+
 - [Hyper](src/command-lines/hyper.md)
 
 - [Oh My Zsh](src/command-lines/oh-my-zsh.md)
