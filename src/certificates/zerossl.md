@@ -4,4 +4,4 @@ Proteção SSL para qualquer um. Rápido. De confiança. Gratuito.
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://zerossl.com) para ver a documentação.
+Clique [aqui](https://zerossl.com) para ver a documentação e acessar o serviço.

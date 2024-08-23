@@ -4,4 +4,4 @@ Desenvolva e amplie seu negócio com o PagBank. Conheça as nossas APIs, Bibliot
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://dev.pagbank.uol.com.br) para ver a documentação.
+Clique [aqui](https://dev.pagbank.uol.com.br) para ver a documentação e acessar o serviço.

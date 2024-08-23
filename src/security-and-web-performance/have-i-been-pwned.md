@@ -4,4 +4,4 @@ O "Have I Been Pwned?" (HIBP) é um serviço online que permite aos usuários ve
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://haveibeenpwned.com) para ver a documentação.
+Clique [aqui](https://haveibeenpwned.com) para ver a documentação e acessar o serviço.

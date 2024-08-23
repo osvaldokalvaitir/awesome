@@ -4,4 +4,4 @@ O Amazon Elastic Container Service (ECS) é um serviço totalmente gerenciado de
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://aws.amazon.com/ecs) para ver a documentação.
+Clique [aqui](https://aws.amazon.com/ecs) para ver a documentação e acessar o serviço.

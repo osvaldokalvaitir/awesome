@@ -4,4 +4,4 @@ O Pagar.me é uma solução de pagamentos para quem atua no mundo digital. Diver
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://pagar.me) para ver a documentação.
+Clique [aqui](https://pagar.me) para ver a documentação e acessar o serviço.

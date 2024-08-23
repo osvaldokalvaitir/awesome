@@ -4,4 +4,4 @@ Estrutura extensível de baixo código para criar aplicativos de negócios. Cone
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://github.com/ToolJet/ToolJet) para ver a documentação.
+Clique [aqui](https://github.com/ToolJet/ToolJet) para ver a documentação e acessar o serviço.

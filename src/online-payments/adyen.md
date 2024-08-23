@@ -4,4 +4,4 @@ A plataforma de pagamento que substitui todas as outras. Pagamentos, dados e ges
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://www.adyen.com) para ver a documentação.
+Clique [aqui](https://www.adyen.com) para ver a documentação e acessar o serviço.

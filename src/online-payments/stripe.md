@@ -4,4 +4,4 @@ Infraestrutura de pagamentos para a internet. Milhões de empresas de todos os t
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://stripe.com) para ver a documentação.
+Clique [aqui](https://stripe.com) para ver a documentação e acessar o serviço.
