@@ -4,4 +4,4 @@ O objetivo da Let’s Encrypt e do protocolo ACME é tornar possível a configur
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://letsencrypt.org/pt-br) para ver a documentação.
+Clique [aqui](https://letsencrypt.org/pt-br) para ver a documentação e acessar o serviço.

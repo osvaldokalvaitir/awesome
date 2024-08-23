@@ -4,4 +4,4 @@
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://alsoasked.com) para ver a documentação.
+Clique [aqui](https://alsoasked.com) para ver a documentação e acessar o serviço.

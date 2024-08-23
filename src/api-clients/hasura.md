@@ -4,4 +4,4 @@ O Hasura é um mecanismo de código aberto que se conecta aos seus bancos de dad
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://hasura.io) para ver a documentação.
+Clique [aqui](https://hasura.io) para ver a documentação e acessar o serviço.

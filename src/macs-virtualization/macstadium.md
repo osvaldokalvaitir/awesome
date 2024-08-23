@@ -4,4 +4,4 @@ A MacStadium é o único fornecedor de soluções em nuvem de classe empresarial
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://www.macstadium.com) para ver a documentação.
+Clique [aqui](https://www.macstadium.com) para ver a documentação e acessar o serviço.

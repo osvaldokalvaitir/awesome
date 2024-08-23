@@ -4,4 +4,4 @@ O MacinCloud fornece servidores Mac gerenciados e dedicados em nuvem, soluções
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://www.macincloud.com) para ver a documentação.
+Clique [aqui](https://www.macincloud.com) para ver a documentação e acessar o serviço.

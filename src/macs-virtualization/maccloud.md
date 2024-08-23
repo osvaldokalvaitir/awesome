@@ -4,4 +4,4 @@ Planos de servidor dedicado virtual com tecnologia OS X Server. A solução perf
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](http://maccloud.me) para ver a documentação.
+Clique [aqui](http://maccloud.me) para ver a documentação e acessar o serviço.
