@@ -4,4 +4,4 @@ Os JSON Web Tokens são um método RFC 7519 aberto e padrão do setor para repre
 
 ## Documentação e Acesso ao Serviço
 
-Clique [aqui](https://jwt.io) para ver a documentação.
+Clique [aqui](https://jwt.io) para ver a documentação e acessar o serviço.

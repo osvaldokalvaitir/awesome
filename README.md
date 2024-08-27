@@ -91,6 +91,7 @@
   - [Ferramentas de SEO](#ferramentas-de-seo)
   - [Fontes](#fontes)
   - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
+  - [Gerenciadores de Links e URLs](#gerenciadores-de-links-e-urls)
   - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
   - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
   - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
@@ -321,6 +322,7 @@
 
 - [Graphcool](src/api-clients/graphcool.md)
 - [Hasura](src/api-clients/hasura.md)
+- [Hoppscotch](src/api-clients/hoppscotch.md)
 - [HTTPie](src/api-clients/httpie.md)
 - [Insomnia](src/api-clients/insomnia.md)
 - [Postman](src/api-clients/postman.md)
@@ -413,6 +415,7 @@
 - [D-ID](src/creators-and-video-editors/d-id.md)
 - [InVideo](src/creators-and-video-editors/invideo.md)
 - [Kaiber](src/creators-and-video-editors/kaiber.md)
+- [Kling AI](src/creators-and-video-editors/kling-ai.md)
 - [Pika](src/creators-and-video-editors/pika.md)
 - [Synthesia](src/creators-and-video-editors/synthesia.md)
 - [VideoPoet](src/creators-and-video-editors/videopoet.md)
@@ -514,6 +517,7 @@
   - [Prisma](src/code-editors/visual-studio-code/extensions/prisma.md)
   - [Quokka.js](src/code-editors/visual-studio-code/extensions/quokka-js.md)
   - [R Component](src/code-editors/visual-studio-code/extensions/r-component.md)
+  - [React Native IDE](src/code-editors/visual-studio-code/extensions/react-native-ide.md)
   - [Regex Previewer](src/code-editors/visual-studio-code/extensions/regex-previewer.md)
   - [REST Client](src/code-editors/visual-studio-code/extensions/rest-client.md)
   - [Rocketseat React Native](src/code-editors/visual-studio-code/extensions/rocketseat-react-native.md)
@@ -613,6 +617,10 @@
 
 - [Greenkeeper](src/npm-dependencies-managers/greenkeeper.md)
 
+### Gerenciadores de Links e URLs
+
+- [Dub.co](src/links-and-urls-managers/dubco.md)
+
 ### Gerenciadores de Pacotes
 
 - [Chocolatey](src/packages-managers/chocolatey.md)
@@ -672,6 +680,7 @@
 
 - [Flipper](src/apps-inspectors/flipper.md)
 - [Reactotron](src/apps-inspectors/reactotron.md)
+- [Webhook.Cool](src/apps-inspectors/webhook-cool.md)
 
 ### Inspiração de Design
 
@@ -759,9 +768,11 @@
 
 ### PaaS
 
+- [Fly.io](src/paas/fly-io.md)
 - [Glitch](src/paas/glitch.md)
 - [Heroku](src/paas/heroku.md)
 - [Netlify](src/paas/netlify.md)
+- [Render](src/paas/render.md)
 - [Tsuru](src/paas/tsuru.md)
 - [Vercel](src/paas/vercel.md)
 
@@ -781,6 +792,7 @@
 ### Plataformas de Comunicação
 
 - [Discord](src/communication-platforms/discord.md)
+- [interprefy](src/communication-platforms/interprefy.md)
 - [Microsoft Teams](src/communication-platforms/microsoft-teams.md)
 - [Rocket.Chat](src/communication-platforms/rocket.chat.md)
 - [Slack](src/communication-platforms/slack.md)
@@ -837,6 +849,7 @@
   - [@expo-google-fonts/roboto](src/runtime/nodejs/libs/@expo-google-fonts-roboto.md)
   - [@expo-google-fonts/ubuntu](src/runtime/nodejs/libs/@expo-google-fonts-ubuntu.md)
   - [@fastify/cors](src/runtime/nodejs/libs/@fastify-cors.md)
+  - [@fastify/helmet](src/runtime/nodejs/libs/@fastify-helmet.md)
   - [@fastify/multipart](src/runtime/nodejs/libs/@fastify-multipart.md)
   - [@ffmpeg/ffmpeg](src/runtime/nodejs/libs/@ffmpeg-ffmpeg.md)
   - [@ffmpeg/util](src/runtime/nodejs/libs/@ffmpeg-util.md)
@@ -942,6 +955,8 @@
   - [Bulma](src/runtime/nodejs/libs/bulma.md)
   - [bunyan](src/runtime/nodejs/libs/bunyan.md)
   - [CameraRoll](src/runtime/nodejs/libs/@react-native-community-cameraroll.md)
+  - [CASL Ability](src/runtime/nodejs/libs/@casl-ability.md)
+  - [CASL React](src/runtime/nodejs/libs/@casl-react.md)
   - [celebrate](src/runtime/nodejs/libs/celebrate.md)
   - [CEP Promise](src/runtime/nodejs/libs/cep-promise.md)
   - [Chakra UI](src/runtime/nodejs/libs/@chakra-ui-core.md)
@@ -1176,9 +1191,11 @@
   - [mysql](src/runtime/nodejs/libs/mysql.md)
   - [n](src/runtime/nodejs/libs/n.md)
   - [n8n](src/runtime/nodejs/libs/n8n.md)
+  - [Nano ID](src/runtime/nodejs/libs/nanoid.md)
   - [Native Testing Library](src/runtime/nodejs/libs/@testing-library-react-native.md)
   - [NativeBase](src/runtime/nodejs/libs/native-base.md)
   - [Nativefier](src/runtime/nodejs/libs/nativefier.md)
+  - [NativeWind](src/runtime/nodejs/libs/nativewind.md)
   - [Necord](src/runtime/nodejs/libs/necord.md)
   - [Netinfo](src/runtime/nodejs/libs/@react-native-community-netinfo.md)
   - [Next SEO](src/runtime/nodejs/libs/next-seo.md)
@@ -1186,6 +1203,7 @@
   - [next-i18next](src/runtime/nodejs/libs/next-i18next.md)
   - [next-themes](src/runtime/nodejs/libs/next-themes.md)
   - [NextAuth.js](src/runtime/nodejs/libs/next-auth.md)
+  - [NextUI](src/runtime/nodejs/libs/@nextui-org-react.md)
   - [ngrok](src/runtime/nodejs/libs/ngrok.md)
   - [Nivo](src/runtime/nodejs/libs/nivo.md)
   - [Node MySQL 2](src/runtime/nodejs/libs/mysql2.md)
@@ -1207,6 +1225,7 @@
   - [nookies](src/runtime/nodejs/libs/nookies.md)
   - [normalizr](src/runtime/nodejs/libs/normalizr.md)
   - [Notifee - React Native](src/runtime/nodejs/libs/@notifee-react-native.md)
+  - [npm-run-all](src/runtime/nodejs/libs/npm-run-all.md)
   - [Nunjucks](src/runtime/nodejs/libs/nunjucks.md)
   - [Nunjucks Date Filter](src/runtime/nodejs/libs/nunjucks-date-filter.md)
   - [Nunjucks Date Filter Local](src/runtime/nodejs/libs/nunjucks-date-filter-local.md)
@@ -1653,6 +1672,7 @@
   - [TypeORM](src/runtime/nodejs/libs/typeorm.md)
   - [TypeScript](src/runtime/nodejs/libs/typescript.md)
   - [UglifyJS Webpack Plugin](src/runtime/nodejs/libs/uglifyjs-webpack-plugin.md)
+  - [ulid](src/runtime/nodejs/libs/ulid.md)
   - [Umzug](src/runtime/nodejs/libs/umzug.md)
   - [unform](src/runtime/nodejs/libs/@rocketseat-unform.md)
   - [unique-string](src/runtime/nodejs/libs/unique-string.md)
@@ -1680,6 +1700,7 @@
   - [Webpack Hot Middleware](src/runtime/nodejs/libs/webpack-hot-middleware.md)
   - [webpack-cli](src/runtime/nodejs/libs/webpack-cli.md)
   - [webpack-dev-server](src/runtime/nodejs/libs/webpack-dev-server.md)
+  - [whatsapp-web.js](src/runtime/nodejs/libs/whatsapp-web-js.md)
   - [Why Did You Render](src/runtime/nodejs/libs/@welldone-software-why-did-you-render.md)
   - [Windows-Build-Tools](src/runtime/nodejs/libs/windows-build-tools.md)
   - [Windstitch](src/runtime/nodejs/libs/windstitch.md)
