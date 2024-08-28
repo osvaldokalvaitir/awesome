@@ -577,6 +577,7 @@
 
 - [Metabase](src/bi-tools/metabase.md)
 - [Microsoft Power BI](src/bi-tools/microsoft-power-bi.md)
+- [PostHog](src/bi-tools/posthog.md)
 - [Redash](src/bi-tools/redash.md)
 - [Tableau](src/bi-tools/tableau.md)
 
