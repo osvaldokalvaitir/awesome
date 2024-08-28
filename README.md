@@ -253,6 +253,7 @@
   - [Speechify Text to Speech Voice Reader](src/browsers/chrome/extensions/speechify-text-to-speech-voice-reader.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
   - [Visual Inspector](src/browsers/chrome/extensions/visual-inspector.md)
+  - [VS Code Speech](src/browsers/chrome/extensions/vs-code-speech.md)
   - [WakaTime](src/browsers/chrome/extensions/wakatime.md)
   - [Wappalyzer](src/browsers/chrome/extensions/wappalyzer.md)
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
