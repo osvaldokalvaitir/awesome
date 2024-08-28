@@ -108,11 +108,11 @@
   - [Mapas](#mapas)
   - [Maquetes](#maquetes)
   - [Máquinas Virtuais](#máquinas-virtuais)
+  - [Mensageria e Notificações](#mensageria-e-notificações)
+      - [OneSignal - Certificados](#onesignal---certificados)
   - [Monitoramento de Erros](#monitoramento-de-erros)
   - [Monitoramento de Nuvem](#monitoramento-de-nuvem)
   - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
-  - [Notificações Push](#notificações-push)
-      - [OneSignal - Certificados](#onesignal---certificados)
   - [Orquestração de Contêineres](#orquestração-de-contêineres)
   - [PaaS](#paas)
   - [Pagamentos Online](#pagamentos-online)
@@ -740,6 +740,15 @@
 
 - [VirtualBox](src/virtual-machines/virtualbox.md)
 
+### Mensageria e Notificações
+
+- [Amazon SNS](src/messaging-and-notifications/amazon-sns.md)
+- [OneSignal](src/messaging-and-notifications/onesignal.md)
+
+  ##### OneSignal - Certificados
+
+  - [The Provisionator](src/messaging-and-notifications/onesignal/certificates/the-provisionator.md)
+
 ### Monitoramento de Erros
 
 - [Sentry](src/errors-monitoring/sentry.md)
@@ -752,14 +761,6 @@
 
 - [Grafana](src/systems-monitoring/grafana.md)
 - [Prometheus](src/systems-monitoring/prometheus.md)
-
-### Notificações Push
-
-- [OneSignal](src/push-notifications/onesignal.md)
-
-  ##### OneSignal - Certificados
-
-  - [The Provisionator](src/push-notifications/onesignal/certificates/the-provisionator.md)
 
 ### Orquestração de Contêineres
 
