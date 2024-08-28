@@ -89,6 +89,7 @@
   - [Ferramentas de Design](#ferramentas-de-design)
   - [Ferramentas de Segurança](#ferramentas-de-segurança)
   - [Ferramentas de SEO](#ferramentas-de-seo)
+  - [Filas e Mensageria](#filas-e-mensageria)
   - [Fontes](#fontes)
   - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
   - [Gerenciadores de Links e URLs](#gerenciadores-de-links-e-urls)
@@ -604,6 +605,10 @@
 ### Ferramentas de SEO
 
 - [AlsoAsked](src/seo-tools/alsoasked.md)
+
+### Filas e Mensageria
+
+- [Amazon SQS](src/queues-and-messaging/amazon-sqs.md)
 
 ### Fontes
 
