@@ -1734,6 +1734,7 @@
 
 ### Servidores
 
+- [Amazon EC2](src/servers/amazon-ec2.md)
 - [Amazon Web Services (AWS)](src/servers/amazon-web-services.md)
 - [DigitalOcean](src/servers/digitalocean.md)
 - [Google Cloud Platform](src/servers/google-cloud-platform.md)
