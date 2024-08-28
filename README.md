@@ -210,6 +210,7 @@
 ### Automação de Aplicativos
 
 - [fastlane](src/apps-automation/fastlane.md)
+- [Selenium](src/apps-automation/selenium.md)
 
 ### Avatares
 
