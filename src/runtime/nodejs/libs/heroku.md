@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/heroku) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install --global heroku | yarn global add heroku
+npm install --global heroku
 ```
 
 ## Comandos do CLI

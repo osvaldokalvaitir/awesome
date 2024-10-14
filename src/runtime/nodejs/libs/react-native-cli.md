@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/react-native-cli) para fazer a insta
 Instalar globalmente:
 
 ```
-npm install --global react-native-cli | yarn global add react-native-cli
+npm install --global react-native-cli
 ```
 
 Obs: Prefira usar o npm para instalar, porque pode ocorrer que o yarn não consiga registrar o Path, com isso é necessário entrar [aqui](https://yarnpkg.com/lang/en/docs/cli/global) e seguir `Adding the install location to your PATH`.
@@ -102,19 +102,19 @@ Para mais informações, acesse [aqui](https://blog.rocketseat.com.br/3-ferramen
 Executar testes no projeto:
 
 ```
-npm run test | yarn test
+npm run test
 ```
 
 Executar testes e mostrar um relatório detalhado:
 
 ```
-npm run test --coverage | yarn test --coverage
+npm run test --coverage
 ```
 
 Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
 
 ```
-npm run test --coverage --watchAll | yarn test --coverage --watchAll
+npm run test --coverage --watchAll
 ```
 
 ### Geração da Build do Projeto no React Native para a Google Play

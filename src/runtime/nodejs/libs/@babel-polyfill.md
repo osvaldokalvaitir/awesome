@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/polyfill) para fazer a instal
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/polyfill --save-dev | yarn add @babel/polyfill --dev
+npm install @babel/polyfill --save-dev
 ```

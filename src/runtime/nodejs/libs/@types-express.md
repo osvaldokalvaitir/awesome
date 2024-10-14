@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/express) para fazer a instala
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/express --save-dev | yarn add @types/express --dev
+npm install @types/express --save-dev
 ```

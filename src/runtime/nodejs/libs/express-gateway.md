@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/express-gateway) para fazer a instal
 Instalar globalmente:
 
 ```
-npm install --global express-gateway | yarn global add express-gateway
+npm install --global express-gateway
 ```
 
 Criando um Gateway:

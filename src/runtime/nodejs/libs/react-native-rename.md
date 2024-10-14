@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/react-native-rename) para fazer a in
 Instalar globalmente:
 
 ```
-npm install --global react-native-rename | yarn global add react-native-rename
+npm install --global react-native-rename
 ```

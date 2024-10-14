@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/electron) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install electron --save-dev | yarn add electron --dev
+npm install electron --save-dev
 ```
 
 ## Execução de Projeto para Desenvolvimento no Electron
@@ -21,5 +21,5 @@ npm install electron --save-dev | yarn add electron --dev
 Executar o projeto para desenvolvimento:
 
 ```
-npm start | yarn start
+npm start
 ```

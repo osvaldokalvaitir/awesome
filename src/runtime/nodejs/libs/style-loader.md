@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/style-loader) para fazer a instalaç
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install style-loader --save-dev | yarn add style-loader --dev
+npm install style-loader --save-dev
 ```

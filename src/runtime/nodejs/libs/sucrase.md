@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/sucrase) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install sucrase --save-dev | yarn add sucrase --dev
+npm install sucrase --save-dev
 ```

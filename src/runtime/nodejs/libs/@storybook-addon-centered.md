@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@storybook/addon-centered) para faze
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @storybook/addon-centered --save-dev | yarn add @storybook/addon-centered --dev
+npm install @storybook/addon-centered --save-dev
 ```

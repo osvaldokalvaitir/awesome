@@ -29,5 +29,5 @@ npx storybook init --builder @storybook/builder-vite --type react
 Rodar o Storybook:
 
 ```
-npm run storybook | yarn storybook
+npm run storybook
 ```

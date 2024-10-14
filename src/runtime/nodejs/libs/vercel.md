@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/vercel) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install --global vercel | yarn global add vercel
+npm install --global vercel
 ```
 
 ## Comandos do CLI

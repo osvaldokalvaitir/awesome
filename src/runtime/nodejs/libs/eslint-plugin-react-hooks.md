@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-react-hooks) para faze
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-react-hooks --save-dev | yarn add eslint-plugin-react-hooks --dev
+npm install eslint-plugin-react-hooks --save-dev
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/cross-env) para fazer a instalação
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install cross-env --save-dev | yarn add cross-env --dev
+npm install cross-env --save-dev
 ```

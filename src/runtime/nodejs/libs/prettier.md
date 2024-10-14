@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/prettier) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install prettier --save-dev | yarn add prettier --dev
+npm install prettier --save-dev
 ```

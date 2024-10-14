@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@storybook/storybook-deployer) para 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @storybook/storybook-deployer --save-dev | yarn add @storybook/storybook-deployer --dev
+npm install @storybook/storybook-deployer --save-dev
 ```

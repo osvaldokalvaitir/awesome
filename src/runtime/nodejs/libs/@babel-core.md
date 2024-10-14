@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/core) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/core --save-dev | yarn add @babel/core --dev
+npm install @babel/core --save-dev
 ```

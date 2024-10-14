@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@sucrase/jest-plugin) para fazer a i
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @sucrase/jest-plugin --save-dev | yarn add @sucrase/jest-plugin --dev
+npm install @sucrase/jest-plugin --save-dev
 ```

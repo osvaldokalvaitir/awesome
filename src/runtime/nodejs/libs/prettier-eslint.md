@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/prettier-eslint) para fazer a instal
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install prettier-eslint --save-dev | yarn add prettier-eslint --dev
+npm install prettier-eslint --save-dev
 ```

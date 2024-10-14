@@ -15,13 +15,13 @@ Clique [aqui](https://www.npmjs.com/package/typescript) para fazer a instalaçã
 Criar um arquivo json de configuração do TypeScript:
 
 ```
-npm tsc --init || yarn tsc --init
+npm tsc --init
 ```
 
 Converter o código TypeScript para Javascript:
 
 ```
-npm tsc || yarn tsc
+npm tsc
 ```
 
 ## Execução de Projeto para Desenvolvimento no Node.js
@@ -29,7 +29,7 @@ npm tsc || yarn tsc
 Executar o projeto para desenvolvimento (incluindo ts-node-dev):
 
 ```
-npm dev:server | yarn dev:server
+npm dev:server
 ```
 
 

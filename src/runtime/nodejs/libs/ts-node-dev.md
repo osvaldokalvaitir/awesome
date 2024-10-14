@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/ts-node-dev) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install ts-node-dev --save-dev | yarn add ts-node-dev --dev
+npm install ts-node-dev --save-dev
 ```

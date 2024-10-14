@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-plugin-module-resolver) para f
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-plugin-module-resolver --save-dev | yarn add babel-plugin-module-resolver --dev
+npm install babel-plugin-module-resolver --save-dev
 ```

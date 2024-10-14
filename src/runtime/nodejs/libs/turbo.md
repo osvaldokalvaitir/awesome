@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/turbo) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install turbo --save-dev | yarn add turbo --dev
+npm install turbo --save-dev
 ```

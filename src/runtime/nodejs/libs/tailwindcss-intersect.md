@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/tailwindcss-intersect) para fazer a 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install tailwindcss-intersect --save-dev | yarn add tailwindcss-intersect --dev
+npm install tailwindcss-intersect --save-dev
 ```

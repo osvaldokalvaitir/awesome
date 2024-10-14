@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) para fazer a
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-jsx-a11y --save-dev | yarn add eslint-plugin-jsx-a11y --dev
+npm install eslint-plugin-jsx-a11y --save-dev
 ```

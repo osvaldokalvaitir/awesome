@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@rocketseat/eslint-config) para faze
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @rocketseat/eslint-config --save-dev | yarn add @rocketseat/eslint-config --dev
+npm install @rocketseat/eslint-config --save-dev
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/mini-css-extract-plugin) para fazer 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install mini-css-extract-plugin --save-dev | yarn add mini-css-extract-plugin --dev
+npm install mini-css-extract-plugin --save-dev
 ```

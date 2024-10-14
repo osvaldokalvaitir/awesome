@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@testing-library/jest-native) para f
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @testing-library/jest-native --save-dev | yarn add @testing-library/jest-native --dev
+npm install @testing-library/jest-native --save-dev
 ```

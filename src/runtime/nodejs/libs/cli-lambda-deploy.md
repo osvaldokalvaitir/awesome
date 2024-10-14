@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/aws-lambda) para fazer a instalaçã
 Instalar globalmente:
 
 ```
-npm install --global aws-lambda | yarn global add aws-lambda
+npm install --global aws-lambda
 ```

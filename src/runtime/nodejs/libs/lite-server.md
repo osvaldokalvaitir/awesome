@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/lite-server) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install lite-server --save-dev | yarn add lite-server --dev
+npm install lite-server --save-dev
 ```

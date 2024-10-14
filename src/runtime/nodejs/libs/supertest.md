@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/supertest) para fazer a instalação
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install supertest --save-dev | yarn add supertest --dev
+npm install supertest --save-dev
 ```

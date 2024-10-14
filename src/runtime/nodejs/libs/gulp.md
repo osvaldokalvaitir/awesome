@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/gulp) para fazer a instalação.
 Executar o projeto para desenvolvimento:
 
 ```
-npm start | yarn start
+npm start
 ```

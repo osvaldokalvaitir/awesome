@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/nativefier) para fazer a instalaçã
 Instalar globalmente:
 
 ```
-npm install --global nativefier | yarn global add nativefier
+npm install --global nativefier
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@openapitools/openapi-generator-cli)
 Instalar globalmente:
 
 ```
-npm install --global @openapitools/openapi-generator-cli | yarn global add @openapitools/openapi-generator-cli
+npm install --global @openapitools/openapi-generator-cli
 ```

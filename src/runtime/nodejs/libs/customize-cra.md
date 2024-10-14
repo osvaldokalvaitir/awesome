@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/customize-cra) para fazer a instalaÃ
 Instalar como dependÃªncia de desenvolvimento:
 
 ```
-npm install customize-cra --save-dev | yarn add customize-cra --dev
+npm install customize-cra --save-dev
 ```

@@ -15,7 +15,7 @@ Clique [aqui](https://www.npmjs.com/package/remote-redux-devtools) para fazer a 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install remote-redux-devtools --save-dev | yarn add remote-redux-devtools --dev
+npm install remote-redux-devtools --save-dev
 ```
 
 ## Execução do Remote Redux DevTools
@@ -53,5 +53,5 @@ No package.json adicione o script:
 Para executar o script:
 
 ```
-npm run redux-devtool | yarn run redux-devtool
+npm run redux-devtool
 ```

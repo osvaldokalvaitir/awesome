@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/webpack-dev-server) para fazer a ins
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install webpack-dev-server --save-dev | yarn add webpack-dev-server --dev
+npm install webpack-dev-server --save-dev
 ```

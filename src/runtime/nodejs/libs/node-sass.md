@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/node-sass) para fazer a instalação
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install node-sass --save-dev | yarn add node-sass --dev
+npm install node-sass --save-dev
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-loader) para fazer a instalaç
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-loader --save-dev | yarn add babel-loader --dev
+npm install babel-loader --save-dev
 ```

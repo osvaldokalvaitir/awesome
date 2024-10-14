@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-react-native) para faz
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-react-native --save-dev | yarn add eslint-plugin-react-native --dev
+npm install eslint-plugin-react-native --save-dev
 ```

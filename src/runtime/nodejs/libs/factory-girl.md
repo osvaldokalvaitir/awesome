@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/factory-girl) para fazer a instalaç
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install factory-girl --save-dev | yarn add factory-girl --dev
+npm install factory-girl --save-dev
 ```

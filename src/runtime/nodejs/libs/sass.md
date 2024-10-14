@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/sass) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install --global sass | yarn global add sass
+npm install --global sass
 ```

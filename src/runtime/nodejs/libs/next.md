@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/next) para fazer a instalação.
 Criar projeto:
 
 ```
-npx create-next-app@latest | yarn create next-app
+npx create-next-app@latest
 ```

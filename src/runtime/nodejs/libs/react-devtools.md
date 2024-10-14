@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/react-devtools) para fazer a instala
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install react-devtools --save-dev | yarn add react-devtools --dev
+npm install react-devtools --save-dev
 ```
 
 ## Execução do react-devtools
@@ -39,5 +39,5 @@ No package.json adicione o script:
 Para executar o script:
 
 ```
-npm run react-devtool | yarn run react-devtool
+npm run react-devtool
 ```

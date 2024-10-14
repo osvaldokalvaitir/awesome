@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/@nextui-org/react) para fazer a inst
 Instalar globalmente:
 
 ```
-npm install --global nextui-cli | yarn global add nextui-cli
+npm install --global nextui-cli
 ```
 
 ## Comandos do CLI

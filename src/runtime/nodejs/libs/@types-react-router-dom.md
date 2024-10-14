@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/react-router-dom) para fazer 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/react-router-dom --save-dev | yarn add @types/react-router-dom --dev
+npm install @types/react-router-dom --save-dev
 ```

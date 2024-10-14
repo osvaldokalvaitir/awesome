@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/tailwind-scrollbar) para fazer a ins
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install tailwind-scrollbar --save-dev | yarn add tailwind-scrollbar --dev
+npm install tailwind-scrollbar --save-dev
 ```

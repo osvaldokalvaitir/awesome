@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-eslint) para fazer a instalaç
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-eslint --save-dev | yarn add babel-eslint --dev
+npm install babel-eslint --save-dev
 ```

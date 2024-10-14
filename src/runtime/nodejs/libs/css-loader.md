@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/css-loader) para fazer a instalaçã
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install css-loader --save-dev | yarn add css-loader --dev
+npm install css-loader --save-dev
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/plugin-proposal-class-propert
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel-plugin-proposal-class-properties --save-dev | yarn add @babel-plugin-proposal-class-properties --dev
+npm install @babel-plugin-proposal-class-properties --save-dev
 ```

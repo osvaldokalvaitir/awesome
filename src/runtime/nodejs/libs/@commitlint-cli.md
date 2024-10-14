@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/@commitlint/cli) para fazer a instal
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @commitlint/cli --save-dev | yarn add @commitlint/cli --dev
+npm install @commitlint/cli --save-dev
 ```

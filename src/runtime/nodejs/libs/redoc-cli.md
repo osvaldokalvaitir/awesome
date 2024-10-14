@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/redoc-cli) para fazer a instalação
 Instalar globalmente:
 
 ```
-npm install --global redoc-cli | yarn global add redoc-cli
+npm install --global redoc-cli
 ```

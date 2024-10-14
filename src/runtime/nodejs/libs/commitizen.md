@@ -15,7 +15,7 @@ Clique [aqui](https://www.npmjs.com/package/commitizen) para fazer a instalaçã
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install commitizen --save-dev | yarn add commitizen --dev
+npm install commitizen --save-dev
 ```
 
 ## Comandos do CLI
@@ -24,10 +24,4 @@ Depois de instalar, inicialize seu projeto para usar o adaptador cz-conventional
 
 ```
 npm commitizen init cz-conventional-changelog --save-dev --save-exact
-```
-
-ou:
-
-```
-yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 ```

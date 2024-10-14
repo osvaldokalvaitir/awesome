@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/styled-components) para fazer
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/react-leaflet --save-dev | yarn add @types/react-leaflet --dev
+npm install @types/react-leaflet --save-dev
 ```

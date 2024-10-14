@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@svgr/core) para fazer a instalaçã
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @svgr/core --save-dev | yarn add @svgr/core --dev
+npm install @svgr/core --save-dev
 ```

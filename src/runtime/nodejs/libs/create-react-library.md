@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/create-react-library) para fazer a i
 Instalar globalmente:
 
 ```
-npm install --global create-react-library | yarn global add create-react-library
+npm install --global create-react-library
 ```

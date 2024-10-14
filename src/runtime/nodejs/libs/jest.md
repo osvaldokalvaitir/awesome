@@ -13,13 +13,13 @@ Clique [aqui](https://www.npmjs.com/package/jest) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install jest --save-dev | yarn add jest --dev
+npm install jest --save-dev
 ```
 
 É necessário setar um arquivo de configuração com o comando:
 
 ```
-npx jest --init | yarn jest --init
+npx jest --init
 ```
 
 ### Instalação no projeto Node.js

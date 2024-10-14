@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/react-docgen) para fazer a instalaç
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install react-docgen --save-dev | yarn add react-docgen --dev
+npm install react-docgen --save-dev
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/copy-webpack-plugin) para fazer a in
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install copy-webpack-plugin --save-dev | yarn add copy-webpack-plugin --dev
+npm install copy-webpack-plugin --save-dev
 ```

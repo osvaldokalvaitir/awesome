@@ -17,11 +17,11 @@ Clique [aqui](https://www.npmjs.com/package/knex) para fazer a instalação.
 Criar migrations pendentes no banco de dados:
 
 ```
-npx knex --knexfile knexfile.ts migrate:latest | yarn knex --knexfile knexfile.ts migrate:latest
+npx knex --knexfile knexfile.ts migrate:latest
 ```
 
 Criar seed:
 
 ```
-npx knex --knexfile knexfile.ts seed:run | yarn knex --knexfile knexfile.ts seed:run
+npx knex --knexfile knexfile.ts seed:run
 ```

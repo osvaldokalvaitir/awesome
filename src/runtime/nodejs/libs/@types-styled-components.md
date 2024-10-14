@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/styled-components) para fazer
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/styled-components --save-dev | yarn add @types/styled-components --dev
+npm install @types/styled-components --save-dev
 ```

@@ -21,11 +21,11 @@ npx changeset init
 Adicionar conjunto de alterações, execute o comando e siga as instruções:
 
 ```
-npm run changeset | yarn changeset
+npm run changeset
 ```
 
 Para criar os changelogs e alterar a versão nos pacotes:
 
 ```
-npm run version-packages | yarn version-packages
+npm run version-packages
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/enzyme) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install enzyme --save-dev | yarn add enzyme --dev
+npm install enzyme --save-dev
 ```

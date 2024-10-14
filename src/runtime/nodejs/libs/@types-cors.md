@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/cors) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/cors --save-dev | yarn add @types/cors --dev
+npm install @types/cors --save-dev
 ```

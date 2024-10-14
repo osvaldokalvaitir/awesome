@@ -13,13 +13,13 @@ Clique [aqui](https://www.npmjs.com/package/create-react-app) para fazer a insta
 Instalar globalmente:
 
 ```
-npm install --global create-react-app | yarn global add create-react-app
+npm install --global create-react-app
 ```
 
 Criação de novo projeto:
 
 ```
-npx create-react-app nome_app | yarn create react-app nome_app
+npx create-react-app nome_app
 ```
 
 ## Execução de Projeto para Desenvolvimento no ReactJS
@@ -27,7 +27,7 @@ npx create-react-app nome_app | yarn create react-app nome_app
 Executar o projeto para desenvolvimento (incluindo internamente o Nodemon):
 
 ```
-npm start | yarn start
+npm start
 ```
 
 ## Execução de Testes de Projeto no ReactJS
@@ -35,19 +35,19 @@ npm start | yarn start
 Executar testes no projeto:
 
 ```
-npm run test | yarn test
+npm run test
 ```
 
 Executar testes e mostrar um relatório detalhado:
 
 ```
-npm run test --coverage | yarn test --coverage
+npm run test --coverage
 ```
 
 Obs: Nos testes executados não apareceu nenhum arquivo no Coverage Report, aparece se eu executar o comando:
 
 ```
-npm run test --coverage --watchAll | yarn test --coverage --watchAll
+npm run test --coverage --watchAll
 ```
 
 ## Construção e Execução de Projeto para Produção no ReactJS
@@ -55,5 +55,5 @@ npm run test --coverage --watchAll | yarn test --coverage --watchAll
 Construir e executar o projeto para produção:
 
 ```
-npm run build | yarn run build
+npm run build
 ```

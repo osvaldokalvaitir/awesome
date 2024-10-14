@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/expo-cli) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install --global expo-cli | yarn global add expo-cli
+npm install --global expo-cli
 ```
 
 Atualmente, não é mais necessário instalar a biblioteca do expo, pois é possível executar os comandos pelo npx.

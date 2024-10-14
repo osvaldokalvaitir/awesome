@@ -13,7 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-simple-import-sort) pa
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-simple-import-sort
- --save-dev | yarn add eslint-plugin-simple-import-sort
- --dev
+npm install eslint-plugin-simple-import-sort --save-dev
 ```

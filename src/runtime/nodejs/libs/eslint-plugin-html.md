@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-html) para fazer a ins
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-html --save-dev | yarn add eslint-plugin-html --dev
+npm install eslint-plugin-html --save-dev
 ```

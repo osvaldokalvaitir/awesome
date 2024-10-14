@@ -13,12 +13,8 @@ Clique [aqui](https://www.npmjs.com/package/json-server) para fazer a instalaç�
 Instalar globalmente:
 
 ```
-npm install --global json-server | yarn global add json-server
+npm install --global json-server
 ```
-
-## Erro
-
-Ocorreu um erro ao tentar instalar com o yarn, mas foi resolvido instalando com o npm.
 
 ## Execução de API
 

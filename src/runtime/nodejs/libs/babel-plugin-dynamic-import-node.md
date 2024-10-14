@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-plugin-dynamic-import-node) pa
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-plugin-dynamic-import-node --save-dev | yarn add babel-plugin-dynamic-import-node --dev
+npm install babel-plugin-dynamic-import-node --save-dev
 ```

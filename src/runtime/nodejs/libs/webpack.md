@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/webpack) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install webpack --save-dev | yarn add webpack --dev
+npm install webpack --save-dev
 ```
 
 ## Execução de Projeto para Desenvolvimento no ReactJS
@@ -21,7 +21,7 @@ npm install webpack --save-dev | yarn add webpack --dev
 Executar o projeto para desenvolvimento (incluindo webpack-dev-server):
 
 ```
-npm run dev | yarn dev
+npm run dev
 ```
 
 ## Construção e Execução de Projeto para Produção no ReactJS
@@ -29,11 +29,11 @@ npm run dev | yarn dev
 Construir e executar o projeto para produção:
 
 ```
-npm prod | yarn prod
+npm prod
 ```
 
 ou 
 
 ```
-npm build | yarn build
+npm build
 ```

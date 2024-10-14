@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/lerna) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install lerna --save-dev | yarn add lerna --dev
+npm install lerna --save-dev
 ```

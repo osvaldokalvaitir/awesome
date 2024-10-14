@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/wrangler) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install wrangler --save-dev | yarn add wrangler --dev
+npm install wrangler --save-dev
 ```

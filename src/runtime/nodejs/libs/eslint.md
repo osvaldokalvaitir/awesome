@@ -13,13 +13,13 @@ Clique [aqui](https://www.npmjs.com/package/eslint) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint --save-dev | yarn add eslint --dev
+npm install eslint --save-dev
 ```
 
 É necessário setar um arquivo de configuração com o comando:
 
 ```
-npx eslint --init | yarn eslint --init
+npx eslint --init
 ```
 
 Se instalar o ESLint com o Yarn, ele criará o arquivo `package-lock.json`, então depois que terminar a instalação e configuração, delete o arquivo e execute o comando abaixo para instalar as dependências com o yarn:
@@ -106,7 +106,7 @@ E criar o arquivo .eslintrc manualmente.
 Para realizar um fix em vários arquivos de uma pasta:
 
 ```
-npx eslint --fix <pasta> --ext <extensao> | yarn eslint --fix <pasta> --ext <extensao>
+npx eslint --fix <pasta> --ext <extensao>
 ```
 
 Onde:

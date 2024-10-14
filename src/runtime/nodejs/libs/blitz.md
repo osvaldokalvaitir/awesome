@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/blitz) para fazer a instalação.
 Instalar globalmente:
 
 ```
-npm install --global blitz | yarn global add blitz
+npm install --global blitz
 ```

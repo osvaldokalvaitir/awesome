@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@storybook/addon-info) para fazer a 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @storybook/addon-info --save-dev | yarn add @storybook/addon-info --dev
+npm install @storybook/addon-info --save-dev
 ```

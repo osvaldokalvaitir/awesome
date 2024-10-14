@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/plugin-transform-runtime) par
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/plugin-transform-runtime --save-dev | yarn add @babel/plugin-transform-runtime --dev
+npm install @babel/plugin-transform-runtime --save-dev
 ```

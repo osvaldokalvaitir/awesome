@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/node) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/node --save-dev | yarn add @types/node --dev
+npm install @types/node --save-dev
 ```

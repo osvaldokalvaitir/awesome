@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/file-loader) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install file-loader --save-dev | yarn add file-loader --dev
+npm install file-loader --save-dev
 ```

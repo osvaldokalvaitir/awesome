@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/preset-react) para fazer a in
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/preset-react --save-dev | yarn add @babel/preset-react --dev
+npm install @babel/preset-react --save-dev
 ```

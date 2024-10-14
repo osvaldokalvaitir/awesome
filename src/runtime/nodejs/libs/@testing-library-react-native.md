@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@testing-library/react-native) para 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @testing-library/react-native --save-dev | yarn add @testing-library/react-native --dev
+npm install @testing-library/react-native --save-dev
 ```

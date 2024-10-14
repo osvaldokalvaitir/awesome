@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-import-helpers) para f
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-import-helpers --save-dev | yarn add eslint-plugin-import-helpers --dev
+npm install eslint-plugin-import-helpers --save-dev
 ```

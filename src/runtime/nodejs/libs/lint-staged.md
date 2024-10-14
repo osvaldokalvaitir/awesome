@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/lint-staged) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install lint-staged --save-dev | yarn add lint-staged --dev
+npm install lint-staged --save-dev
 ```

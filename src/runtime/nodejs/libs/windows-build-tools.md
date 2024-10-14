@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/windows-build-tools) para fazer a in
 Instalar globalmente:
 
 ```
-npm install --global windows-build-tools | yarn global add windows-build-tools
+npm install --global windows-build-tools
 ```

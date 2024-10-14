@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/ghost-cli) para fazer a instalação
 Instalar globalmente:
 
 ```
-npm install --global ghost-cli | yarn global add ghost-cli
+npm install --global ghost-cli
 ```
 
 ## Comandos do CLI

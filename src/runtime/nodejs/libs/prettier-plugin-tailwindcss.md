@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/prettier-plugin-tailwindcss) para fa
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install prettier-plugin-tailwindcss --save-dev | yarn add prettier-plugin-tailwindcss --dev
+npm install prettier-plugin-tailwindcss --save-dev
 ```

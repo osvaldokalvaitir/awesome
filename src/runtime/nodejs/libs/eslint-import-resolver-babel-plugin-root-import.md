@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-import-resolver-babel-plugin-
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-import-resolver-babel-plugin-root-import --save-dev | yarn add eslint-import-resolver-babel-plugin-root-import --dev
+npm install eslint-import-resolver-babel-plugin-root-import --save-dev
 ```

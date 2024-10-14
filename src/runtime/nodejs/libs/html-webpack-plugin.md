@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/html-webpack-plugin) para fazer a in
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install html-webpack-plugin --save-dev | yarn add html-webpack-plugin --dev
+npm install html-webpack-plugin --save-dev
 ```

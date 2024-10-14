@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/video.js) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install video.js --save-dev | yarn add video.js --dev
+npm install video.js --save-dev
 ```

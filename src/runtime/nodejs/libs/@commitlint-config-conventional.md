@@ -15,5 +15,5 @@ Clique [aqui](https://www.npmjs.com/package/@commitlint/config-conventional) par
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @commitlint/config-conventional --save-dev | yarn add @commitlint/config-conventional --dev
+npm install @commitlint/config-conventional --save-dev
 ```

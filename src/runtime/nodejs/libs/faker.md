@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/faker) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install faker --save-dev | yarn add faker --dev
+npm install faker --save-dev
 ```

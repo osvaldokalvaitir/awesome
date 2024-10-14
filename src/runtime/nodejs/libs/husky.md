@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/husky) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install husky --save-dev | yarn add husky --dev
+npm install husky --save-dev
 ```

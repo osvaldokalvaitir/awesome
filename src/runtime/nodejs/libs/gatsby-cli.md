@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/gatsby-cli) para fazer a instalaçã
 Instalar globalmente:
 
 ```
-npm install --global gatsby-cli | yarn global add gatsby-cli
+npm install --global gatsby-cli
 ```
 
 ## Comandos do CLI

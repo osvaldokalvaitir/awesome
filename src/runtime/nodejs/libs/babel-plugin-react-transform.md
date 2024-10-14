@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-plugin-react-transform) para f
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-plugin-react-transform --save-dev | yarn add babel-plugin-react-transform --dev
+npm install babel-plugin-react-transform --save-dev
 ```

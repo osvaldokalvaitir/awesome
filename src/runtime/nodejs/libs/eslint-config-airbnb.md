@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-config-airbnb) para fazer a i
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-config-airbnb --save-dev | yarn add eslint-config-airbnb --dev
+npm install eslint-config-airbnb --save-dev
 ```

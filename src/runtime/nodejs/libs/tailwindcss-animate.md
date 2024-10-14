@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/tailwindcss-animate) para fazer a in
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install tailwindcss-animate --save-dev | yarn add tailwindcss-animate --dev
+npm install tailwindcss-animate --save-dev
 ```

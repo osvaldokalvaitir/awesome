@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/enzyme-adapter-react-16) para fazer 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install enzyme-adapter-react-16 --save-dev | yarn add enzyme-adapter-react-16 --dev
+npm install enzyme-adapter-react-16 --save-dev
 ```

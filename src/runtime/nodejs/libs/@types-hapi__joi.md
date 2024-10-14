@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/hapi__joi) para fazer a insta
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @types/hapi__joi --save-dev | yarn add @types/hapi__joi --dev
+npm install @types/hapi__joi --save-dev
 ```

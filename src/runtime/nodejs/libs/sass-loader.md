@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/sass-loader) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install sass-loader --save-dev | yarn add sass-loader --dev
+npm install sass-loader --save-dev
 ```

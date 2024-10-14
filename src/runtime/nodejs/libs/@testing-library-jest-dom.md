@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@testing-library/jest-dom) para faze
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @testing-library/jest-dom --save-dev | yarn add @testing-library/jest-dom --dev
+npm install @testing-library/jest-dom --save-dev
 ```

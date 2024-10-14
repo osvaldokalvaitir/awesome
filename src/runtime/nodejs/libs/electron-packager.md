@@ -13,11 +13,11 @@ Clique [aqui](https://www.npmjs.com/package/electron-packager) para fazer a inst
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install electron-packager --save-dev | yarn add electron-packager --dev
+npm install electron-packager --save-dev
 ```
 
 Para usar o CLI, instalar globalmente:
 
 ```
-npm install --global electron-packager | yarn global add electron-packager
+npm install --global electron-packager
 ```

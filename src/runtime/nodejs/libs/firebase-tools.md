@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/firebase-tools) para fazer a instala
 Instalar globalmente:
 
 ```
-npm install --global firebase-tools | yarn global add firebase-tools
+npm install --global firebase-tools
 ```
 
 ## Comandos do CLI

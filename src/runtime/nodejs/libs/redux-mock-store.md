@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/redux-mock-store) para fazer a insta
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install redux-mock-store --save-dev | yarn add redux-mock-store --dev
+npm install redux-mock-store --save-dev
 ```

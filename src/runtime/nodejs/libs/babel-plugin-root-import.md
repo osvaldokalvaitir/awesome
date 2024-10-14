@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/babel-plugin-root-import) para fazer
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install babel-plugin-root-import --save-dev | yarn add babel-plugin-root-import --dev
+npm install babel-plugin-root-import --save-dev
 ```

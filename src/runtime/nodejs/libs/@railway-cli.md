@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@railway/cli) para fazer a instalaç
 Instalar globalmente:
 
 ```
-npm install --global @railway/cli | yarn global add @railway/cli
+npm install --global @railway/cli
 ```

@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/webpack-cli) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install webpack-cli --save-dev | yarn add webpack-cli --dev
+npm install webpack-cli --save-dev
 ```

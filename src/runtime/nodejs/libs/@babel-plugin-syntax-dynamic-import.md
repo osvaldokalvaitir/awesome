@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/plugin-syntax-dynamic-import)
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/plugin-syntax-dynamic-import --save-dev | yarn add @babel/plugin-syntax-dynamic-import --dev
+npm install @babel/plugin-syntax-dynamic-import --save-dev
 ```

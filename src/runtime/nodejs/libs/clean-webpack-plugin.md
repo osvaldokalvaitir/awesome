@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/clean-webpack-plugin) para fazer a i
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install clean-webpack-plugin --save-dev | yarn add clean-webpack-plugin --dev
+npm install clean-webpack-plugin --save-dev
 ```

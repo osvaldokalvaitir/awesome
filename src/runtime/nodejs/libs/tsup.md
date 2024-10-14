@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/tsup) para fazer a instalação.
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install tsup --save-dev | yarn add tsup --dev
+npm install tsup --save-dev
 ```

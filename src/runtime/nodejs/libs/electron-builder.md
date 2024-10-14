@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/electron-builder) para fazer a insta
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install electron-builder --save-dev | yarn add electron-builder --dev
+npm install electron-builder --save-dev
 ```

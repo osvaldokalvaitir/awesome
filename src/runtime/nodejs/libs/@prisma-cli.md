@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/@prisma/cli) para fazer a instalaç�
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @prisma/cli --save-dev | yarn add @prisma/cli --dev
+npm install @prisma/cli --save-dev
 ```
 
 ## Comandos do CLI

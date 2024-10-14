@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/uglifyjs-webpack-plugin) para fazer 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install uglifyjs-webpack-plugin --save-dev | yarn add uglifyjs-webpack-plugin --dev
+npm install uglifyjs-webpack-plugin --save-dev
 ```

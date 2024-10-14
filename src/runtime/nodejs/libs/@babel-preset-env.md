@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@babel/preset-env) para fazer a inst
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install @babel/preset-env --save-dev | yarn add @babel/preset-env --dev
+npm install @babel/preset-env --save-dev
 ```

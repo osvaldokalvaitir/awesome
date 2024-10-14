@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/eslint-plugin-react) para fazer a in
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install eslint-plugin-react --save-dev | yarn add eslint-plugin-react --dev
+npm install eslint-plugin-react --save-dev
 ```

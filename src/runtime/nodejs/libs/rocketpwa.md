@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/rocketpwa) para fazer a instalação
 Instalar globalmente:
 
 ```
-npm install --global rocketpwa | yarn global add rocketpwa
+npm install --global rocketpwa
 ```
 
 ## Comandos do CLI

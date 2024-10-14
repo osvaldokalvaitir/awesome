@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/axios-mock-adapter) para fazer a ins
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install axios-mock-adapter --save-dev | yarn add axios-mock-adapter --dev
+npm install axios-mock-adapter --save-dev
 ```

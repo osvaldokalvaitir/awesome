@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/@types/multer) para fazer a instalaÃ
 Instalar como dependÃªncia de desenvolvimento:
 
 ```
-npm install @types/multer --save-dev | yarn add @types/multer --dev
+npm install @types/multer --save-dev
 ```

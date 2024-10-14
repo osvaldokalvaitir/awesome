@@ -1,4 +1,4 @@
-# react-native-svg
+# React Native SVG
 
 Biblioteca SVG para projetos web com React Native, React Native Web e React.
 

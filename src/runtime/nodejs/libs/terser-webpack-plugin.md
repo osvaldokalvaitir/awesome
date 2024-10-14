@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/terser-webpack-plugin) para fazer a 
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install terser-webpack-plugin --save-dev | yarn add terser-webpack-plugin --dev
+npm install terser-webpack-plugin --save-dev
 ```

@@ -126,12 +126,12 @@ Para atualizar a NPM para a versão mais recente:
 
 ## Instalação de Projeto
 
-Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
+Depois de instalado o Node.js, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
 
 Instalar as dependências do projeto:
 
 ```
-npm install | yarn
+npm install
 ```
 
 ## Execução de Projeto para Desenvolvimento no Node.js
@@ -139,7 +139,7 @@ npm install | yarn
 Executar o projeto para desenvolvimento (incluindo Nodemon):
 
 ```
-npm run dev | yarn dev
+npm run dev
 ```
 
 ## Execução de Testes de Projeto no Node.js
@@ -147,7 +147,7 @@ npm run dev | yarn dev
 Executar testes no projeto:
 
 ```
-npm run test | yarn test
+npm run test
 ```
 
 ## Execução de Projeto para Produção no Node.js
@@ -155,7 +155,7 @@ npm run test | yarn test
 Executar o projeto para produção:
 
 ```
-npm start | yarn start
+npm run start
 ```
 
 ## Publicação de Projeto no NPM

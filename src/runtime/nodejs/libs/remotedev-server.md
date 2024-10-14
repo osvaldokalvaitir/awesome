@@ -13,5 +13,5 @@ Clique [aqui](https://www.npmjs.com/package/remotedev-server) para fazer a insta
 Instalar como dependência de desenvolvimento:
 
 ```
-npm install remotedev-server --save-dev | yarn add remotedev-server --dev
+npm install remotedev-server --save-dev
 ```

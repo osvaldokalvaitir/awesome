@@ -13,7 +13,7 @@ Clique [aqui](https://www.npmjs.com/package/appcenter-cli) para fazer a instala√
 Instalar globalmente:
 
 ```
-npm install --global appcenter-cli | yarn global add appcenter-cli
+npm install --global appcenter-cli
 ```
 
 ## Comandos do CLI
