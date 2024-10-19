@@ -750,6 +750,7 @@
 ### Mensageria e Notificações
 
 - [Amazon SNS](src/messaging-and-notifications/amazon-sns.md)
+- [Novu](src/messaging-and-notifications/novu.md)
 - [OneSignal](src/messaging-and-notifications/onesignal.md)
 
   ##### OneSignal - Certificados
