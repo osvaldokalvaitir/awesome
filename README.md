@@ -697,6 +697,7 @@
 - [Awwwards](src/design-inspiration/awwwards.md)
 - [Behance](src/design-inspiration/behance.md)
 - [Dribbble](src/design-inspiration/dribbble.md)
+- [Frontend Mentor](src/design-inspiration/frontend-mentor.md)
 - [Mobbin](src/design-inspiration/mobbin.md)
 - [Pinterest](src/design-inspiration/pinterest.md)
 
