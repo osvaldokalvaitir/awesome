@@ -63,7 +63,7 @@ react-native run-android
 
 ## Documentação e Instalação
 
-Clique [aqui](https://www.genymotion.com/) para ver a documentação e fazer a instalação.
+Clique [aqui](https://www.genymotion.com) para ver a documentação e fazer a instalação.
 
 ## Erro
 

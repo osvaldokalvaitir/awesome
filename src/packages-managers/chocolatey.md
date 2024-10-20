@@ -4,7 +4,7 @@ Gerenciador de pacotes para o Windows.
 
 ## Documentação e Instalação
 
-Clique [aqui](https://chocolatey.org/) para ver a documentação e outras opções de instalação.
+Clique [aqui](https://chocolatey.org) para ver a documentação e outras opções de instalação.
 
 ## Instalação
 

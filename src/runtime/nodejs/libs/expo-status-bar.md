@@ -4,7 +4,7 @@ Fornece a mesma interface que a API React Native StatusBar, mas com padrões lig
 
 ## Documentação
 
-Clique [aqui](https://docs.expo.io/versions/v38.0.0/sdk/status-bar/) para ver a documentação.
+Clique [aqui](https://docs.expo.io/versions/v38.0.0/sdk/status-bar) para ver a documentação.
 
 ## Instalação
 

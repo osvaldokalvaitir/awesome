@@ -18,4 +18,4 @@ VirtualBox é um software de virtualização da Oracle, que visa criar ambientes
 
 ## Documentação
 
-Clique [aqui](https://www.virtualbox.org/) para ver a documentação.
+Clique [aqui](https://www.virtualbox.org) para ver a documentação.

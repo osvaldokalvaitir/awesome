@@ -1,6 +1,6 @@
 # @types/node
 
-Este pacote contém definições de tipo para o [Node.js](http://nodejs.org/).
+Este pacote contém definições de tipo para o [Node.js](http://nodejs.org).
 
 ## Documentação
 
