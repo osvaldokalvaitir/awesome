@@ -4,4 +4,4 @@ Este site fornece uma interface RESTful API para objetos altamente detalhados co
 
 ## Documentação e Acesso à API
 
-Clique [aqui](https://pokeapi.co) para ver a documentação e [aqui](https://pokeapi.co/api/v2/) para acessar a API.
+Clique [aqui](https://pokeapi.co) para ver a documentação e [aqui](https://pokeapi.co/api/v2) para acessar a API.
