@@ -145,6 +145,7 @@
   - [Sistemas Operacionais](#sistemas-operacionais)
   - [SMS](#sms)
   - [Soluções Integradas para Empresas](#soluções-integradas-para-empresas)
+  - [Tarefas em Segundo Plano e Agendadores](#tarefas-em-segundo-plano-e-agendadores)
   - [Temas](#temas)
   - [Linhas de comando](#linhas-de-comando)
       - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
@@ -1828,6 +1829,10 @@
 
 - [Microsoft 365](src/integrated-solutions-for-businesses/microsoft-365.md)
 - [Zoho](src/integrated-solutions-for-businesses/zoho.md)
+
+### Tarefas em Segundo Plano e Agendadores
+
+- [Trigger.dev](src/background-jobs-and-schedulers/trigger-dev.md)
 
 ### Temas
 
