@@ -1137,6 +1137,7 @@
   - [i18n](src/runtime/nodejs/libs/i18n.md)
   - [i18next](src/runtime/nodejs/libs/i18next.md)
   - [Immer](src/runtime/nodejs/libs/immer.md)
+  - [iconv-lite](src/runtime/nodejs/libs/iconv-lite.md)
   - [InMemoryCache](src/runtime/nodejs/libs/apollo-cache-inmemory.md)
   - [Insomnia Documenter](src/runtime/nodejs/libs/insomnia-documenter.md)
   - [Intl.js](src/runtime/nodejs/libs/intl.md)
