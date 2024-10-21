@@ -973,6 +973,7 @@
   - [celebrate](src/runtime/nodejs/libs/celebrate.md)
   - [CEP Promise](src/runtime/nodejs/libs/cep-promise.md)
   - [Chakra UI](src/runtime/nodejs/libs/@chakra-ui-core.md)
+  - [chardet](src/runtime/nodejs/libs/chardet.md)
   - [Chart.js](src/runtime/nodejs/libs/chartjs.md)
   - [Class Variance Authority](src/runtime/nodejs/libs/class-variance-authority.md)
   - [class-validator](src/runtime/nodejs/libs/class-validator.md)
