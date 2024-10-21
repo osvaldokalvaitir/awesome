@@ -1153,6 +1153,7 @@
   - [joi-to-swagger](src/runtime/nodejs/libs/joi-to-swagger.md)
   - [jQuery](src/runtime/nodejs/libs/jquery.md)
   - [jQuery Easing Plugin](src/runtime/nodejs/libs/jquery-easing.md)
+  - [JsChardet](src/runtime/nodejs/libs/jschardet.md)
   - [JSON Server](src/runtime/nodejs/libs/json-server.md)
   - [Json Web Token](src/runtime/nodejs/libs/jsonwebtoken.md)
   - [jsPDF-AutoTable](src/runtime/nodejs/libs/jspdf-autotable.md)
