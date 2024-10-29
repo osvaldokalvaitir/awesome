@@ -211,11 +211,6 @@ s
   },
   "material-icon-theme.activeIconPack": "nest",
 
-  // Configurações do Bracket Pair Colorizer 2
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs":"active",
-  "bracket-pair-colorizer-2.depreciation-notice": false,
-
   // Configurações do Code Spell Checker
   "cSpell.language": "en,pt,pt_BR",
   "cSpell.enableFiletypes": [
@@ -255,9 +250,6 @@ s
 
   // Configurações do Split HTML Attributes
   "splitHTMLAttributes.closingBracketOnNewLine": true,
-
-  // Configurações do Tabnine
-  "tabnine.experimentalAutoImports": true,
 
   // Configurações do Todo Tree
   "todo-tree.general.tags": [
