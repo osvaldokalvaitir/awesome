@@ -941,6 +941,7 @@
   - [Ariakit](src/runtime/nodejs/libs/@ariakit-react.md)
   - [AutoAnimate](src/runtime/nodejs/libs/@formkit-auto-animate.md)
   - [AutoCannon](src/runtime/nodejs/libs/autocannon.md)
+  - [Automerge](src/runtime/nodejs/libs/@automerge-automerge.md)
   - [Autoprefixer](src/runtime/nodejs/libs/autoprefixer.md)
   - [availity-reactstrap-validation](src/runtime/nodejs/libs/availity-reactstrap-validation.md)
   - [AWS Amplify](src/runtime/nodejs/libs/aws-amplify.md)
