@@ -1,4 +1,4 @@
-# Bracket Pair Colorizer 2
+# Bracket Pair Colorizer 2 (_DESCONTINUADO_)
 
 Permite que os colchetes correspondentes sejam identificados com cores. O usuário pode definir quais caracteres combinar e quais cores usar, além de definir um conjunto de cores para cada tipo de colchetes.
 
