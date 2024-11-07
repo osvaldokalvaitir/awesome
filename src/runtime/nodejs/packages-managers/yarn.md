@@ -65,4 +65,116 @@ Verifique se o Yarn está instalado executando:
 
 ```
 yarn -v
-```  
+```
+
+## Comandos
+
+### Básicos
+
+Verificar a versão do Yarn:
+
+```
+yarn -v
+```
+
+Para atualizar o Yarn para a versão mais recente:
+
+```
+yarn set version latest
+```
+
+Para desinstalar o Yarn:
+
+```
+npm uninstall -g yarn
+```
+
+Verificar a versão de um pacote:
+
+```
+yarn info <nome_pacote> version
+```
+
+Verificar os pacotes instalados:
+
+```
+yarn list
+```
+
+Verificar os pacotes instalados globalmente:
+
+```
+yarn list -g
+```
+
+Verificar os pacotes desatualizados:
+
+```
+yarn outdated
+```
+
+Verificar os pacotes desatualizados globalmente:
+
+```
+yarn outdated -g
+```
+
+Verificar os scripts disponíveis:
+
+```
+yarn run
+```
+
+Executar um script:
+
+```
+yarn run <nome_script>
+```
+
+### Instalação de Pacotes
+
+Instalar as dependências do projeto:
+
+```
+yarn install
+```
+
+Instalar um pacote:
+
+```
+yarn add <nome_pacote>
+```
+
+Instalar um pacote como dependência de desenvolvimento:
+
+```
+yarn add <nome_pacote> --dev
+```
+
+Instalar um pacote globalmente:
+
+```
+yarn global add <nome_pacote>
+```
+
+### Atualização de Pacotes
+
+Atualizar todos os pacotes:
+
+```
+yarn upgrade
+```
+
+Atualizar um pacote:
+
+```
+yarn upgrade <nome_pacote>
+```
+
+### Remoção de Pacotes
+
+Remover um pacote:
+
+```
+yarn remove <nome_pacote>
+```
