@@ -237,6 +237,7 @@
   ##### Chrome - Extensões
 
   - [Autofill](src/browsers/chrome/extensions/autofill.md)
+  - [axe DevTools - Web Accessibility Testing](src/browsers/chrome/extensions/axe-devtools-web-accessibility-testing.md)
   - [ColorZilla](src/browsers/chrome/extensions/colorzilla.md)
   - [CSS Scan](src/browsers/chrome/extensions/css-scan.md)
   - [Dark Reader](src/browsers/chrome/extensions/dark-reader.md)
@@ -256,8 +257,6 @@
   - [Speechify Text to Speech Voice Reader](src/browsers/chrome/extensions/speechify-text-to-speech-voice-reader.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
   - [Visual Inspector](src/browsers/chrome/extensions/visual-inspector.md)
-  - [VS Code Speech](src/browsers/chrome/extensions/vs-code-speech.md)
-  - [WakaTime](src/browsers/chrome/extensions/wakatime.md)
   - [Wappalyzer](src/browsers/chrome/extensions/wappalyzer.md)
   - [Web Developer](src/browsers/chrome/extensions/web-developer.md)
   - [WhatFont](src/browsers/chrome/extensions/whatfont.md)
@@ -542,9 +541,11 @@
   - [Todo+](src/code-editors/visual-studio-code/extensions/todo-plus.md)
   - [Thunder Client](src/code-editors/visual-studio-code/extensions/thunder-client.md)
   - [TypeScript Error Translator](src/code-editors/visual-studio-code/extensions/typescript-error-translator.md)
+  - [VS Code Speech](src/code-editors/visual-studio-code/extensions/vs-code-speech.md)
   - [VSCode Icons](src/code-editors/visual-studio-code/extensions/vscode-icons.md)
   - [Visual Studio IntelliCode](src/code-editors/visual-studio-code/extensions/visual-studio-intellicode.md)
   - [VSCode Styled-Components](src/code-editors/visual-studio-code/extensions/vscode-styled-components.md)
+  - [WakaTime](src/code-editors/visual-studio-code/extensions/wakatime.md)
 
 ### Editores de Código Online
 
