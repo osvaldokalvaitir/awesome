@@ -254,6 +254,7 @@
   - [Pesticide for Chrome](src/browsers/chrome/extensions/pesticide-for-chrome.md)
   - [React Developer Tools](src/browsers/chrome/extensions/react-developer-tools.md)
   - [Redux DevTools](src/browsers/chrome/extensions/redux-devtools.md)
+  - [Screen Reader](src/browsers/chrome/extensions/screen-reader.md)
   - [Speechify Text to Speech Voice Reader](src/browsers/chrome/extensions/speechify-text-to-speech-voice-reader.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
   - [Visual Inspector](src/browsers/chrome/extensions/visual-inspector.md)
