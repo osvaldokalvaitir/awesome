@@ -490,6 +490,7 @@
   - [CSS Modules](src/code-editors/visual-studio-code/extensions/css-modules.md)
   - [CSS-in-JS](src/code-editors/visual-studio-code/extensions/css-in-js.md)
   - [Deno](src/code-editors/visual-studio-code/extensions/deno.md)
+  - [Dependi](src/code-editors/visual-studio-code/extensions/dependi.md)
   - [Docker](src/code-editors/visual-studio-code/extensions/docker.md)
   - [DotEnv](src/code-editors/visual-studio-code/extensions/dotenv.md)
   - [Dracula Official](src/code-editors/visual-studio-code/extensions/dracula-official.md)
