@@ -246,6 +246,7 @@
   - [File Icons for GitHub and GitLab](src/browsers/chrome/extensions/file-icons-for-github-and-gitlab.md)
   - [GitHub Dark Theme](src/browsers/chrome/extensions/github-dark-theme.md)
   - [JSON Viewer](src/browsers/chrome/extensions/json-viewer.md)
+  - [Landmark Navigation via Keyboard or Pop-up](src/browsers/chrome/extensions/landmark-navigation-via-keyboard-or-pop-up.md)
   - [Lighthouse](src/browsers/chrome/extensions/lighthouse.md)
   - [Locator JS](src/browsers/chrome/extensions/locator-js.md)
   - [Mobile Simulator](src/browsers/chrome/extensions/mobile-simulator.md)
