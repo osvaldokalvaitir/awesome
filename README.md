@@ -848,6 +848,7 @@
 
   ##### Node.js - Bibliotecas
 
+  - [@axe-core/react](src/runtime/nodejs/libs/@axe-core-react.md)
   - [@babel-plugin-proposal-class-properties](src/runtime/nodejs/libs/@babel-plugin-proposal-class-properties.md)
   - [@babel/core](src/runtime/nodejs/libs/@babel-core.md)
   - [@babel/polyfill](src/runtime/nodejs/libs/@babel-polyfill.md)
