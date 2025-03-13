@@ -163,8 +163,11 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
     ".prettierrc": "json",
     "*.tsx": "typescriptreact",
     ".env.*": "dotenv"
-  },  
-s
+  },
+
+  // Configurações de final de linha
+  "files.eol": "\n",
+
   // Define o tema de cores
   "workbench.colorTheme": "Omni",
 
