@@ -1,4 +1,4 @@
-# bitnami/postgresql1
+# bitnami/postgresql
 
 Imagem mais segura do PostgreSQL para o ambiente Docker.
 
