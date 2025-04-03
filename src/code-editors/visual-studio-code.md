@@ -134,6 +134,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   // Habilita imports automáticos
   "javascript.suggest.autoImports": true,
   "typescript.suggest.autoImports": true,
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
 
   // Atualiza os imports ao mover o arquivo
   "javascript.updateImportsOnFileMove.enabled": "always",
