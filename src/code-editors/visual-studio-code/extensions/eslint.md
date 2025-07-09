@@ -12,7 +12,6 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {  
-  // Ações de código ao salvar
   "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
 }
 ```

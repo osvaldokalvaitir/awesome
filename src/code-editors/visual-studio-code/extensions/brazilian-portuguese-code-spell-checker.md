@@ -12,7 +12,6 @@ Depois de instalado o dicionário, setar as configurações (Settings > Open set
 
 ```
 {  
-  // Configuração do Code Spell Checker
   "cSpell.language": "en,pt,pt_BR",
 }
 ```

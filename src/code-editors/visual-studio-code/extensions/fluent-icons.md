@@ -12,7 +12,6 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Define o tema de cores dos produtos
   "workbench.productIconTheme": "fluent-icons",
 }
 ```

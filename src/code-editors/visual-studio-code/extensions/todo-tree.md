@@ -12,7 +12,6 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Configurações do Todo Tree
   "todo-tree.general.tags": [
     "BUG",
     "HACK",
