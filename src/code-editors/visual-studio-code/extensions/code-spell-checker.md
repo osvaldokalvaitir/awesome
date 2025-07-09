@@ -12,25 +12,24 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Configurações do Code Spell Checker
-  "cSpell.enableFiletypes": [
-    "!asciidoc",
-    "!c",
-    "!cpp",
-    "!csharp",
-    "!go",
-    "!handlebars",
-    "!haskell",
-    "!jade",
-    "!java",
-    "!latex",
-    "!php",
-    "!pug",
-    "!python",
-    "!restructuredtext",
-    "!rust",
-    "!scala",
-    "!scss"
-  ],
+  "cSpell.enabledFileTypes": {
+    "asciidoc": false,
+    "c": false,
+    "cpp": false,
+    "csharp": false,
+    "go": false,
+    "handlebars": false,
+    "haskell": false,
+    "jade": false,
+    "java": false,
+    "latex": false,
+    "php": false,
+    "pug": false,
+    "python": false,
+    "restructuredtext": false,
+    "rust": false,
+    "scala": false,
+    "scss": false
+  },
 }
 ```

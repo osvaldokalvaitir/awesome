@@ -12,7 +12,6 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Configurações do Tailwind CSS IntelliSense
   "tailwindCSS.experimental.classRegex": [
     ["cva\\(([^)]*)\\)", "[\"']([^\"']*).*?[\"'`]"]
   ]

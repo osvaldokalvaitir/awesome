@@ -20,165 +20,182 @@ Depois de instalar a fonte, setar as configurações (Settings > Open settings.j
 
 ```
 {
-  // Configura o tamanho e a família da fonte
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.8,
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
-}
-```
-
-ou
-
-```
-{
-  // Configura o tamanho e a família da fonte
-  "editor.fontSize":18,
-  "editor.lineHeight":24,
-  "editor.fontFamily":"Fira Code",
-  "editor.fontLigatures": true,
-}
-```
-
-### Configuração de fonte do terminal
-
-Depois de instalar a fonte, setar as configurações (Settings > Open settings.json):
-
-```
-{
-  // Configura o tamanho e a família da fonte do terminal
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-}
-```
-
-## Todas as Configurações
-
-Depois de adicionar a fonte e as extensões, setar as configurações (Settings > Open settings.json):
-
-```
-{
-  // Um novo arquivo em branco não é mais aberto na inicialização
+  // WORKBENCH & WINDOW
   "workbench.startupEditor": "newUntitledFile",
-
-  // Na aba do arquivo aberto, aparece o nome da pasta depois do nome do arquivo
   "workbench.editor.labelFormat": "short",
-
-  // Visibilidade da barra de menu
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
   "window.menuBarVisibility": "toggle",
 
-  // Zoom
-  "window.zoomLevel": 0,
-
-  // Habilita recomendações de extensões
-  "extensions.ignoreRecommendations": true,
-
-  // Agrupa arquivos relacionados
-  "explorer.fileNesting.enabled": true,
-
-  // Desabilita a compactação de pasta se estiver vazia
-  "explorer.compactFolders": false,
-
-  // Desabilita a confirmação ao arrastar-e-soltar
-  "explorer.confirmDragAndDrop": false,
-
-  // Desabilita a confirmação ao deletar
-  "explorer.confirmDelete": false,
-
-  // Controla se o explorador deve renderizar pastas em um formato compacto
-  "explorer.compactFolders": false,
-
-  // Aplica linhas verticais para lembrar de quebrar linha
-  "editor.rulers": [80, 120],
-
-  // Aplica um sinal visual na esquerda da linha selecionada
-  "editor.renderLineHighlight":"gutter",
-
-  // Realce semântico desativado para todos os temas de cores
-  "editor.semanticHighlighting.enabled": false,
-
-  // Desabilita o hint de documentação
-  "editor.parameterHints.enabled": false,
-
-  // Tamanho da tabulação
-  "editor.tabSize": 2,
-
-  // Sempre selecione a primeira sugestão
-  "editor.suggestSelection": "first",
-
-  // Ações de código ao salvar
-  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
-
-  // Guias auxiliares de navegação
-  "breadcrumbs.enabled": true,
-
-  // Configura o tamanho e a família da fonte do terminal
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-
-  // Terminal padrão no OSX
-  "terminal.integrated.defaultProfile.osx": "/bin/zsh",
-
-  // Terminal padrão no Linux
-  "terminal.integrated.defaultProfile.linux": "/bin/zsh",
-
-  // Terminal padrão no Windows
-  "terminal.integrated.defaultProfile.windows": "Command Prompt",
-
-  // Auto complete de javascript em arquivos jsx
-  "emmet.syntaxProfiles": { "javascript": "jsx" },
-
-  // Inclui a linguagem do javascriptreact
-  "emmet.includeLanguages": { "javascript": "javascriptreact" },
-
-  // Habilita imports automáticos
-  "javascript.suggest.autoImports": true,
-  "typescript.suggest.autoImports": true,
-  "typescript.preferences.preferTypeOnlyAutoImports": true,
-
-  // Atualiza os imports ao mover o arquivo
-  "javascript.updateImportsOnFileMove.enabled": "always",
-
-  // Configurações do Typescript
-  "typescript.tsserver.log": "off",
-  "typescript.updateImportsOnFileMove.enabled": "never",
-
-  // Sempre abra arquivos não confiáveis ​​em uma janela separada no modo restrito sem avisar
-  "security.workspace.trust.untrustedFiles": "newWindow",
-
-
-
-
-  // Configurações que precisam de fonte e extensões
-
-  // Configura o tamanho e a família da fonte
+  // EDITOR - CORE
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
 
-  // Associações de arquivos
+  // EDITOR - ACTIONS & FORMATTING
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+
+  // EDITOR - THEME CUSTOMIZATION
+  "editor.tokenColorCustomizations": {
+    "[*Light*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#000"
+          }
+        }
+      ]
+    },
+    "[*Dark*]": {
+      "textMateRules": [
+        {
+          "scope": "ref.matchtext",
+          "settings": {
+            "foreground": "#fff"
+          }
+        }
+      ]
+    },
+    "textMateRules": []
+  },
+
+  // EXPLORER & FILES
+  "explorer.fileNesting.enabled": true,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "files.eol": "\n",
   "files.associations": {
     ".sequelizerc": "javascript",
     ".stylelintrc": "json",
     ".prettierrc": "json",
     "*.tsx": "typescriptreact",
-    ".env.*": "dotenv"
+    ".env.*": "dotenv",
+    ".env*": "dotenv"
   },
 
-  // Configurações de final de linha
-  "files.eol": "\n",
+  // NAVIGATION
+  "breadcrumbs.enabled": true,
 
-  // Define o tema de cores
-  "workbench.colorTheme": "Omni",
+  // DIFF EDITOR
+  "diffEditor.ignoreTrimWhitespace": false,
 
-  // Define o tema de cores dos produtos
-  "workbench.productIconTheme": "fluent-icons",
+  // TERMINAL
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.defaultProfile.osx": "/bin/zsh",
+  "terminal.integrated.env.osx": {},
+  "terminal.integrated.defaultProfile.linux": "/bin/zsh",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.env.windows": {},
 
-  // Define o tema dos ícones de arquivos
-  "workbench.iconTheme": "material-icon-theme",
+  // JAVASCRIPT & TYPESCRIPT
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsserver.log": "off",
 
-  // Configurações do Material Icon Theme
+  // EMMET
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  // SECURITY
+  "security.workspace.trust.untrustedFiles": "newWindow",
+
+  // EXTENSIONS
+  "extensions.ignoreRecommendations": true,
+
+  // EXTENSION CONFIGURATIONS
+  
+  // ChatGPT
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "C:\\Users\\Dal\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+    "C:\\Users\\Dal\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true
+  },
+
+  // Code Spell Checker
+  "cSpell.language": "en,pt,pt_BR",
+  "cSpell.enabledFileTypes": {
+    "asciidoc": false,
+    "c": false,
+    "cpp": false,
+    "csharp": false,
+    "go": false,
+    "handlebars": false,
+    "haskell": false,
+    "jade": false,
+    "java": false,
+    "latex": false,
+    "php": false,
+    "pug": false,
+    "python": false,
+    "restructuredtext": false,
+    "rust": false,
+    "scala": false,
+    "scss": false
+  },
+
+  // Console Ninja
+  "console-ninja.featureSet": "Community",
+
+  // Dotenv
+  "dotenv.enableAutocloaking": false,
+
+  // Git
+  "git.enableSmartCommit": true,
+
+  // GitHub Copilot
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": false
+  },
+
+  // GitHub Pull Requests
+  "githubPullRequests.terminalLinksHandler": "github",
+  "githubPullRequests.pullBranch": "never",
+
+  // GitLens
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+
+  // Live Share
+  "liveshare.featureSet": "insiders",
+  "liveshare.connectionMode": "relay",
+
+  // Material Icon Theme
   "material-icon-theme.folders.associations": {
     "infra": "app",
     "entities": "class",
@@ -215,47 +232,44 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
   },
   "material-icon-theme.activeIconPack": "nest",
 
-  // Configurações do Code Spell Checker
-  "cSpell.language": "en,pt,pt_BR",
-  "cSpell.enableFiletypes": [
-    "!asciidoc",
-    "!c",
-    "!cpp",
-    "!csharp",
-    "!go",
-    "!handlebars",
-    "!haskell",
-    "!jade",
-    "!java",
-    "!latex",
-    "!php",
-    "!pug",
-    "!python",
-    "!restructuredtext",
-    "!rust",
-    "!scala",
-    "!scss"
+  // PostgreSQL
+  "pgsql.serverGroups": [
+    {
+      "name": "Servers",
+      "id": "662983E8-C524-4252-A887-561F6FD5E995",
+      "isDefault": true
+    }
+  ],
+  "pgsql.connections": [
+    {
+      "id": "24148F4F-573E-4D5C-8AFE-052C4B700F04",
+      "groupId": "662983E8-C524-4252-A887-561F6FD5E995",
+      "authenticationType": "SqlLogin",
+      "connectTimeout": 15,
+      "applicationName": "vscode-pgsql",
+      "clientEncoding": "utf8",
+      "sslmode": "require",
+      "password": "",
+      "user": "postgres",
+      "database": "dbprod01",
+      "server": "prismapro-instance-1.cqzjqsedeu8t.sa-east-1.rds.amazonaws.com",
+      "profileName": "Prisma Production",
+      "port": "5432",
+      "displayName": "Prisma Production",
+      "savePassword": true,
+      "expiresOn": 0
+    }
   ],
 
-  // Configurações do Git
-  "git.enableSmartCommit": true,
-
-  // Configurações do GitLens
-  "gitlens.codeLens.recentChange.enabled": false,
-  "gitlens.codeLens.authors.enabled": false,
-  "gitlens.codeLens.enabled": false,
-
-  // Configurações do Live Share
-  "liveshare.featureSet": "insiders",
-  "liveshare.connectionMode": "relay",
-
-  // Configurações do Prisma
-  "[prisma]": { "editor.formatOnSave": true },
-
-  // Configurações do Split HTML Attributes
+  // Split HTML Attributes
   "splitHTMLAttributes.closingBracketOnNewLine": true,
 
-  // Configurações do Todo Tree
+  // Tailwind CSS IntelliSense
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]
+  ],
+
+  // Todo Tree
   "todo-tree.general.tags": [
     "BUG",
     "HACK",
@@ -265,7 +279,7 @@ Depois de adicionar a fonte e as extensões, setar as configurações (Settings 
     "[ ]",
     "[x]"
   ],
-  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)"
 }
 ```
 

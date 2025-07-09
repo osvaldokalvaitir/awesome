@@ -12,7 +12,6 @@ Depois de instalar a extensão, setar as configurações (Settings > Open settin
 
 ```
 {
-  // Configurações do Bracket Pair Colorizer 2
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs":"active",
   "bracket-pair-colorizer-2.depreciation-notice": false,
