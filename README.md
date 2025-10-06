@@ -52,20 +52,20 @@
   - [Awesomes](#awesomes)
   - [Banco de Dados](#banco-de-dados)
   - [Browsers](#browsers)
-      - [Chrome - Extensões](#chrome---extensões)
+    - [Chrome - Extensões](#chrome---extensões)
   - [Bancos de Imagens](#bancos-de-imagens)
   - [Cálculos](#cálculos)
   - [CDNs](#cdns)
   - [Certificados](#certificados)
   - [CI/CD](#cicd)
   - [Clientes de API](#clientes-de-api)
-      - [Insomnia - Extensões](#insomnia---extensões)
+    - [Insomnia - Extensões](#insomnia---extensões)
   - [Coberturas de Teste](#coberturas-de-teste)
   - [Contêineres](#contêineres)
-      - [Docker - Imagens](#docker---imagens)
-      - [Docker - Ferramentas](#docker---ferramentas)
+    - [Docker - Imagens](#docker---imagens)
+    - [Docker - Ferramentas](#docker---ferramentas)
   - [Controles de Versão](#controles-de-versão)
-      - [Git - Ferramentas](#git---ferramentas)
+    - [Git - Ferramentas](#git---ferramentas)
   - [Conversores de Código](#conversores-de-código)
   - [Cores](#cores)
   - [Criadores de Portais para Desenvolvedores](#criadores-de-portais-para-desenvolvedores)
@@ -79,7 +79,7 @@
   - [Documentações de Estudos e Blogs](#documentações-de-estudos-e-blogs)
   - [E-mails](#e-mails)
   - [Editores de Código](#editores-de-código)
-      - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
+    - [Visual Studio Code - Extensões](#visual-studio-code---extensões)
   - [Editores de Código Online](#editores-de-código-online)
   - [Emuladores](#emuladores)
   - [Espelhamentos de Tela](#espelhamentos-de-tela)
@@ -110,7 +110,7 @@
   - [Maquetes](#maquetes)
   - [Máquinas Virtuais](#máquinas-virtuais)
   - [Mensageria e Notificações](#mensageria-e-notificações)
-      - [OneSignal - Certificados](#onesignal---certificados)
+    - [OneSignal - Certificados](#onesignal---certificados)
   - [Monitoramento de Erros](#monitoramento-de-erros)
   - [Monitoramento de Nuvem](#monitoramento-de-nuvem)
   - [Monitoramento de Sistemas](#monitoramento-de-sistemas)
@@ -125,9 +125,9 @@
   - [Regex](#regex)
   - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
-      - [Node.js - Bibliotecas](#nodejs---bibliotecas)
-      - [Node.js - Gerenciadores de Pacotes](#nodejs---gerenciadores-de-pacotes)
-      - [Node.js - Gerenciadores de Versões](#nodejs---gerenciadores-de-versões)
+    - [Node.js - Bibliotecas](#nodejs---bibliotecas)
+    - [Node.js - Gerenciadores de Pacotes](#nodejs---gerenciadores-de-pacotes)
+    - [Node.js - Gerenciadores de Versões](#nodejs---gerenciadores-de-versões)
   - [Segurança e Desempenho Web](#segurança-e-desempenho-web)
   - [Servidores](#servidores)
   - [Servidores Web](#servidores-web)
@@ -148,12 +148,12 @@
   - [Tarefas em Segundo Plano e Agendadores](#tarefas-em-segundo-plano-e-agendadores)
   - [Temas](#temas)
   - [Linhas de comando](#linhas-de-comando)
-      - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
-      - [Oh My Zsh - Prompt](#oh-my-zsh---prompt)
+    - [Oh My Zsh - Gerenciador de Plugins](#oh-my-zsh---gerenciador-de-plugins)
+    - [Oh My Zsh - Prompt](#oh-my-zsh---prompt)
   - [Tradutores de Erros](#tradutores-de-erros)
   - [Transferência de Arquivos](#transferência-de-arquivos)
   - [UI/UX](#uiux)
-      - [Figma - Extensões](#figma---extensões)
+    - [Figma - Extensões](#figma---extensões)
   - [Virtualização de Macs](#virtualização-de-macs)
   - [VoIP](#voip)
   - [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
@@ -234,7 +234,7 @@
 - [Microsoft Edge](src/browsers/microsoft-edge.md)
 - [Sizzy](src/browsers/sizzy.md)
 
-  ##### Chrome - Extensões
+  #### Chrome - Extensões
 
   - [Autofill](src/browsers/chrome/extensions/autofill.md)
   - [axe DevTools - Web Accessibility Testing](src/browsers/chrome/extensions/axe-devtools-web-accessibility-testing.md)
@@ -318,6 +318,8 @@
 - [Buddy](src/ci-cd/buddy.md)
 - [CircleCI](src/ci-cd/circleci.md)
 - [CodeShip](src/ci-cd/codeship.md)
+- [Expo Application Services](src/ci-cd/expo-application-services.md)
+- [Fastlane](src/ci-cd/fastlane.md)
 - [GitHub Actions](src/ci-cd/github-actions.md)
 - [Jenkins](src/ci-cd/jenkins.md)
 - [Railway](src/ci-cd/railway.md)
@@ -334,9 +336,9 @@
 - [Postman](src/api-clients/postman.md)
 - [Prisma](src/api-clients/prisma.md)
 
-  ##### Insomnia - Extensões
-
-    - [Omni for Insomnia](src/api-clients/insomnia/extensions/omni-for-insomnia.md)
+  #### Insomnia - Extensões
+  
+  - [Omni for Insomnia](src/api-clients/insomnia/extensions/omni-for-insomnia.md)
 
 ### Coberturas de Teste
 
@@ -347,7 +349,7 @@
 
 - [Docker](src/containers/docker.md)
 
-  ##### Docker - Imagens
+  #### Docker - Imagens
 
   - [kartoza/postgis](src/containers/docker/images/kartoza-postgis.md)
   - [mongo](src/containers/docker/images/mongo.md)
@@ -355,7 +357,7 @@
   - [postgres](src/containers/docker/images/postgres.md)
   - [redis:alpine](src/containers/docker/images/redis-alpine.md)
 
-  ##### Docker - Ferramentas
+  #### Docker - Ferramentas
 
   - [Docker Hub](src/containers/docker/tools/docker-hub.md)
 
@@ -363,7 +365,7 @@
 
 - [Git](src/version-controls/git.md)
 
-  ##### Git - Ferramentas
+  #### Git - Ferramentas
 
   - [Git Command Explorer](src/version-controls/git/tools/gitexplorer.md)
   - [GitHub CLI](src/version-controls/git/tools/github-cli.md)
@@ -475,7 +477,7 @@
 
 - [Visual Studio Code](src/code-editors/visual-studio-code.md)
 
-  ##### Visual Studio Code - Extensões
+  #### Visual Studio Code - Extensões
 
   - [Auto Close Tag](src/code-editors/visual-studio-code/extensions/auto-close-tag.md)
   - [Auto Rename Tag](src/code-editors/visual-studio-code/extensions/auto-rename-tag.md)
@@ -502,6 +504,7 @@
   - [EditorConfig for VS Code](src/code-editors/visual-studio-code/extensions/editorconfig-for-vs-code.md)
   - [Error Lens](src/code-editors/visual-studio-code/extensions/error-lens.md)
   - [ESLint](src/code-editors/visual-studio-code/extensions/eslint.md)
+  - [Expo Tools](src/code-editors/visual-studio-code/extensions/expo-tools.md)
   - [Figma for VS Code](src/code-editors/visual-studio-code/extensions/figma-for-vs-code.md)
   - [Fluent Icons](src/code-editors/visual-studio-code/extensions/fluent-icons.md)
   - [GitHub Copilot](src/code-editors/visual-studio-code/extensions/github-copilot.md)
@@ -764,7 +767,7 @@
 - [Novu](src/messaging-and-notifications/novu.md)
 - [OneSignal](src/messaging-and-notifications/onesignal.md)
 
-  ##### OneSignal - Certificados
+  #### OneSignal - Certificados
 
   - [The Provisionator](src/messaging-and-notifications/onesignal/certificates/the-provisionator.md)
 
@@ -824,6 +827,7 @@
 - [Apple Developer](src/development-platforms/apple-developer.md)
 - [Firebase](src/development-platforms/firebase.md)
 - [Play Console](src/development-platforms/play-console.md)
+- [TestFlight](src/development-platforms/testflight.md)
 
 ### Processamento de Linguagem Natural
 
@@ -851,7 +855,7 @@
 - [Deno](src/runtime/deno.md)
 - [Node.js](src/runtime/nodejs.md)
 
-  ##### Node.js - Bibliotecas
+  #### Node.js - Bibliotecas
 
   - [@axe-core/react](src/runtime/nodejs/libs/@axe-core-react.md)
   - [@babel-plugin-proposal-class-properties](src/runtime/nodejs/libs/@babel-plugin-proposal-class-properties.md)
@@ -870,6 +874,7 @@
   - [@expo-google-fonts/poppins](src/runtime/nodejs/libs/@expo-google-fonts-poppins.md)
   - [@expo-google-fonts/roboto](src/runtime/nodejs/libs/@expo-google-fonts-roboto.md)
   - [@expo-google-fonts/ubuntu](src/runtime/nodejs/libs/@expo-google-fonts-ubuntu.md)
+  - [expo-updates](src/runtime/nodejs/libs/expo-updates.md)
   - [@fastify/cors](src/runtime/nodejs/libs/@fastify-cors.md)
   - [@fastify/helmet](src/runtime/nodejs/libs/@fastify-helmet.md)
   - [@fastify/multipart](src/runtime/nodejs/libs/@fastify-multipart.md)
@@ -1744,13 +1749,13 @@
   - [Zod Internationalization](src/runtime/nodejs/libs/zod-i18n-map.md)
   - [Zustand](src/runtime/nodejs/libs/zustand.md)
 
-  ##### Node.js - Gerenciadores de Pacotes
+  #### Node.js - Gerenciadores de Pacotes
 
   - [npm](src/runtime/nodejs/packages-managers/npm.md)
   - [pnpm](src/runtime/nodejs/packages-managers/pnpm.md)
   - [Yarn](src/runtime/nodejs/packages-managers/yarn.md)
 
-  ##### Node.js - Gerenciadores de Versões
+  #### Node.js - Gerenciadores de Versões
 
   - [NVM](src/runtime/nodejs/versions-managers/nvm.md)
 
@@ -1867,11 +1872,11 @@
 
 - [Warp](src/command-lines/warp.md)
 
-  ##### Oh My Zsh - Gerenciador de Plugins
+  #### Oh My Zsh - Gerenciador de Plugins
 
   - [Zplugin](src/command-lines/oh-my-zsh/plugin-managers/zplugin.md)
 
-  ##### Oh My Zsh - Prompt
+  #### Oh My Zsh - Prompt
 
   - [Spaceship ZSH](src/command-lines/oh-my-zsh/prompts/spaceship-zsh.md)
 
@@ -1902,7 +1907,7 @@
 - [Whimsical](src/ui-ux/whimsical.md)
 - [Zeplin](src/ui-ux/zeplin.md)
 
-  ##### Figma - Extensões
+  #### Figma - Extensões
 
     - [Anima](src/ui-ux/figma/extensions/anima.md)
     - [Apple Design Resources](src/ui-ux/figma/extensions/apple-design-resources.md)
