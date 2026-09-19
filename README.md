@@ -355,6 +355,7 @@
   - [mongo](src/containers/docker/images/mongo.md)
   - [mysql](src/containers/docker/images/mysql.md)
   - [postgres](src/containers/docker/images/postgres.md)
+  - [redis](src/containers/docker/images/redis.md)
   - [redis:alpine](src/containers/docker/images/redis-alpine.md)
 
   #### Docker - Ferramentas
