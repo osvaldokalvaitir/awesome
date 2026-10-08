@@ -363,6 +363,7 @@
 
   #### Docker - Imagens
 
+  - [bitnami/postgresql](src/containers/docker/images/bitnami-postgresql.md)
   - [kartoza/postgis](src/containers/docker/images/kartoza-postgis.md)
   - [mongo](src/containers/docker/images/mongo.md)
   - [mysql](src/containers/docker/images/mysql.md)
@@ -843,8 +844,9 @@
 
 ### Plataformas de Aprendizado de Máquina
 
-- [OpenAI](src/machine-learning-platforms/openai.md)
 - [Adobe Sensei](src/machine-learning-platforms/adobe-sensei.md)
+- [Hugging Face](src/machine-learning-platforms/hugging-face.md)
+- [OpenAI](src/machine-learning-platforms/openai.md)
 
 ### Plataformas de Comunicação
 

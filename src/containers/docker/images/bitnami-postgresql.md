@@ -4,7 +4,7 @@ Imagem mais segura do PostgreSQL para o ambiente Docker.
 
 ## Configurações
 
-Nome da imagem: `bitnami/postgresql`
+Nome da imagem: `bitnami/postgresql`  
 Porta: `5432`  
 Usuário: `docker`  
 Senha: `docker`
