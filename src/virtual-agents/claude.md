@@ -1,6 +1,6 @@
 # Claude
 
-Claude é uma ferramenta de inteligência artificial voltada para design e criatividade. Ele pode ser usado para gerar designs, layouts ou outros elementos visuais com base em parâmetros definidos.
+Claude é um assistente de inteligência artificial criado pela Anthropic. Ajuda em conversas, escrita, análise de documentos e imagens, pesquisas e programação, e também está disponível via API e no Claude Code, ferramenta para desenvolvimento direto no terminal e no editor de código.
 
 ## Documentação e Acesso ao Serviço
 
