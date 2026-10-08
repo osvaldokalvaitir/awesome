@@ -58,6 +58,18 @@ Ou pelo npx:
 npx expo install <nome_biblioteca>
 ```
 
+Correção das versões das dependências para as compatíveis com a versão do SDK do Expo do projeto:
+
+```
+npx expo install --fix
+```
+
+Exibição das informações do ambiente (sistema operacional, versões do Node.js, Expo, SDKs, etc.), útil para diagnosticar problemas e abrir issues:
+
+```
+npx expo-env-info
+```
+
 Exibição de uma lista de comandos possíveis:
 
 ```

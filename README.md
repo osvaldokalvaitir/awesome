@@ -61,6 +61,7 @@
   - [Clientes de API](#clientes-de-api)
     - [Insomnia - Extensões](#insomnia---extensões)
   - [Coberturas de Teste](#coberturas-de-teste)
+  - [Componentes de UI](#componentes-de-ui)
   - [Contêineres](#contêineres)
     - [Docker - Imagens](#docker---imagens)
     - [Docker - Ferramentas](#docker---ferramentas)
@@ -91,10 +92,12 @@
   - [Ferramentas de SEO](#ferramentas-de-seo)
   - [Filas e Mensageria](#filas-e-mensageria)
   - [Fontes](#fontes)
+  - [Gateways de API](#gateways-de-api)
   - [Gerenciadores de Dependências NPM](#gerenciadores-de-dependências-npm)
   - [Gerenciadores de Links e URLs](#gerenciadores-de-links-e-urls)
   - [Gerenciadores de Pacotes](#gerenciadores-de-pacotes)
   - [Gerenciadores de Projetos](#gerenciadores-de-projetos)
+  - [Gerenciadores de Segredos](#gerenciadores-de-segredos)
   - [Gerenciadores de Senhas](#gerenciadores-de-senhas)
   - [Hospedagem de Sites](#hospedagem-de-sites)
   - [IaC](#iac)
@@ -122,6 +125,7 @@
   - [Plataformas de Desenvolvimento](#plataformas-de-desenvolvimento)
   - [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
   - [Processamento de Streams](#processamento-de-streams)
+  - [Raspagem de Dados](#raspagem-de-dados)
   - [Regex](#regex)
   - [Registros de Domínio](#registros-de-domínio)
   - [Runtime](#runtime)
@@ -130,6 +134,7 @@
     - [Node.js - Gerenciadores de Versões](#nodejs---gerenciadores-de-versões)
   - [Segurança e Desempenho Web](#segurança-e-desempenho-web)
   - [Servidores](#servidores)
+  - [Servidores MCP](#servidores-mcp)
   - [Servidores Web](#servidores-web)
   - [Serviços de Armazenamento](#serviços-de-armazenamento)
   - [Serviços de Autenticação e Autorização](#serviços-de-autenticação-e-autorização)
@@ -178,7 +183,9 @@
 ### Agentes Virtuais
 
 - [Claude](src/virtual-agents/claude.md)
+- [DeepSeek](src/virtual-agents/deepseek.md)
 - [Forefront](src/virtual-agents/forefront.md)
+- [Manus](src/virtual-agents/manus.md)
 
 ### Alternância de Recursos
 
@@ -257,6 +264,7 @@
   - [Redux DevTools](src/browsers/chrome/extensions/redux-devtools.md)
   - [Screen Reader](src/browsers/chrome/extensions/screen-reader.md)
   - [Speechify Text to Speech Voice Reader](src/browsers/chrome/extensions/speechify-text-to-speech-voice-reader.md)
+  - [SVG Grabber](src/browsers/chrome/extensions/svg-grabber.md)
   - [VisBug](src/browsers/chrome/extensions/visbug.md)
   - [Visual Inspector](src/browsers/chrome/extensions/visual-inspector.md)
   - [Wappalyzer](src/browsers/chrome/extensions/wappalyzer.md)
@@ -345,6 +353,10 @@
 - [Codecov](src/test-coverages/codecov.md)
 - [Coveralls](src/test-coverages/coveralls.md)
 
+### Componentes de UI
+
+- [Reacticx](src/ui-components/reacticx.md)
+
 ### Contêineres
 
 - [Docker](src/containers/docker.md)
@@ -354,6 +366,7 @@
   - [kartoza/postgis](src/containers/docker/images/kartoza-postgis.md)
   - [mongo](src/containers/docker/images/mongo.md)
   - [mysql](src/containers/docker/images/mysql.md)
+  - [pgvector/pgvector](src/containers/docker/images/pgvector.md)
   - [postgres](src/containers/docker/images/postgres.md)
   - [redis](src/containers/docker/images/redis.md)
   - [redis:alpine](src/containers/docker/images/redis-alpine.md)
@@ -442,8 +455,10 @@
 
 ### Documentações de API
 
+- [EventCatalog](src/api-docs/eventcatalog.md)
 - [GitBook](src/api-docs/gitbook.md)
 - [Insomnia Designer](src/api-docs/insomnia-designer.md)
+- [Mintlify](src/api-docs/mintlify.md)
 - [ReadMe](src/api-docs/readme.md)
 - [Stoplight](src/api-docs/stoplight.md)
 - [Swagger](src/api-docs/swagger.md)
@@ -471,6 +486,7 @@
 - [Mailgun](src/emails/mailgun.md)
 - [Mailjet](src/emails/mailjet.md)
 - [Mailtrap](src/emails/mailtrap.md)
+- [Resend](src/emails/resend.md)
 - [SendGrid](src/emails/sendgrid.md)
 - [SparkPost](src/emails/sparkpost.md)
 
@@ -635,6 +651,10 @@
 - [Google Fonts](src/fonts/google-fonts.md)
 - [JetBrains Mono](src/fonts/jetbrains-mono.md)
 
+### Gateways de API
+
+- [Kong](src/api-gateways/kong.md)
+
 ### Gerenciadores de Dependências NPM
 
 - [Greenkeeper](src/npm-dependencies-managers/greenkeeper.md)
@@ -651,6 +671,7 @@
 
 ### Gerenciadores de Projetos
 
+- [ClickUp](src/projects-managers/clickup.md)
 - [iceScrum](src/projects-managers/icescrum.md)
 - [Jira](src/projects-managers/jira.md)
 - [Linear](src/projects-managers/linear.md)
@@ -660,6 +681,11 @@
 - [Taskworld](src/projects-managers/taskworld.md)
 - [Trello](src/projects-managers/trello.md)
 - [ZenHub](src/projects-managers/zenhub.md)
+
+### Gerenciadores de Segredos
+
+- [Doppler](src/secrets-managers/doppler.md)
+- [Infisical](src/secrets-managers/infisical.md)
 
 ### Gerenciadores de Senhas
 
@@ -693,6 +719,7 @@
 - [Phosphor Icons](src/icons/phosphor-icons.md)
 - [Remix icon](src/icons/remix-icon.md)
 - [Simple Icons](src/icons/simple-icons.md)
+- [Thiings](src/icons/thiings.md)
 
 ### IDEs
 
@@ -736,6 +763,8 @@
 
 ### Low-code
 
+- [Flowise](src/low-code/flowise.md)
+- [n8n](src/low-code/n8n.md)
 - [ToolJet](src/low-code/tooljet.md)
 
 ### Mapas
@@ -756,6 +785,7 @@
 - [Original Mockups](src/maquetes/original-mockups.md)
 - [Pixpine](src/maquetes/pixpine.md)
 - [Placeit](src/maquetes/placeit.md)
+- [Progressier](src/maquetes/progressier.md)
 - [Unblast](src/maquetes/unblast.md)
 
 ### Máquinas Virtuais
@@ -765,6 +795,7 @@
 ### Mensageria e Notificações
 
 - [Amazon SNS](src/messaging-and-notifications/amazon-sns.md)
+- [Evolution API](src/messaging-and-notifications/evolution-api.md)
 - [Novu](src/messaging-and-notifications/novu.md)
 - [OneSignal](src/messaging-and-notifications/onesignal.md)
 
@@ -793,6 +824,7 @@
 
 ### PaaS
 
+- [Cloudflare Pages](src/paas/cloudflare-pages.md)
 - [Fly.io](src/paas/fly-io.md)
 - [Glitch](src/paas/glitch.md)
 - [Heroku](src/paas/heroku.md)
@@ -841,6 +873,10 @@
 
 - [Apache Kafka](src/stream-processing/apache-kafka.md)
 
+### Raspagem de Dados
+
+- [Apify](src/web-scraping/apify.md)
+
 ### Regex
 
 - [i Hate Regex](src/regex/i-hate-regex.md)
@@ -879,6 +915,8 @@
   - [@fastify/cors](src/runtime/nodejs/libs/@fastify-cors.md)
   - [@fastify/helmet](src/runtime/nodejs/libs/@fastify-helmet.md)
   - [@fastify/multipart](src/runtime/nodejs/libs/@fastify-multipart.md)
+  - [@fastify/swagger](src/runtime/nodejs/libs/@fastify-swagger.md)
+  - [@fastify/swagger-ui](src/runtime/nodejs/libs/@fastify-swagger-ui.md)
   - [@ffmpeg/ffmpeg](src/runtime/nodejs/libs/@ffmpeg-ffmpeg.md)
   - [@ffmpeg/util](src/runtime/nodejs/libs/@ffmpeg-util.md)
   - [@gluestack-ui/themed](src/runtime/nodejs/libs/@gluestack-ui-themed.md)
@@ -888,6 +926,7 @@
   - [@linaria/core](src/runtime/nodejs/libs/@linaria-core.md)
   - [@linaria/react](src/runtime/nodejs/libs/@linaria-react.md)
   - [@linaria/shaker](src/runtime/nodejs/libs/@linaria-shaker.md)
+  - [@lodev09/react-native-true-sheet](src/runtime/nodejs/libs/@lodev09-react-native-true-sheet.md)
   - [@material-ui/docs](src/runtime/nodejs/libs/@material-ui-docs.md)
   - [@material-ui/icons](src/runtime/nodejs/libs/@material-ui-icons.md)
   - [@material-ui/lab](src/runtime/nodejs/libs/@material-ui-lab.md)
@@ -907,6 +946,7 @@
   - [@sentry/react-native](src/runtime/nodejs/libs/@sentry-react-native.md)
   - [@t3-oss/env-core](src/runtime/nodejs/libs/@t3-oss-env-core.md)
   - [@t3-oss/env-nextjs](src/runtime/nodejs/libs/@t3-oss-env-nextjs.md)
+  - [@tabler/icons-react-native](src/runtime/nodejs/libs/@tabler-icons-react-native.md)
   - [@tauri-apps/cli](src/runtime/nodejs/libs/@tauri-apps-cli.md)
   - [@tiptap/pm](src/runtime/nodejs/libs/@tiptap-pm.md)
   - [@tiptap/react](src/runtime/nodejs/libs/@tiptap-react.md)
@@ -1095,6 +1135,7 @@
   - [Faker.js](src/runtime/nodejs/libs/faker.md)
   - [fast-xml-parser](src/runtime/nodejs/libs/fast-xml-parser.md)
   - [fastify](src/runtime/nodejs/libs/fastify.md)
+  - [fastify-plugin](src/runtime/nodejs/libs/fastify-plugin.md)
   - [FastImage](src/runtime/nodejs/libs/react-native-fast-image.md)
   - [File Loader](src/runtime/nodejs/libs/file-loader.md)
   - [filefy](src/runtime/nodejs/libs/filefy.md)
@@ -1180,6 +1221,7 @@
   - [knex.js](src/runtime/nodejs/libs/knex.md)
   - [kraken.js](src/runtime/nodejs/libs/kraken-js.md)
   - [Kue](src/runtime/nodejs/libs/kue.md)
+  - [ky](src/runtime/nodejs/libs/ky.md)
   - [LCOV Result Merger](src/runtime/nodejs/libs/lcov-result-merger.md)
   - [Leaflet](src/runtime/nodejs/libs/leaflet.md)
   - [Lerna](src/runtime/nodejs/libs/lerna.md)
@@ -1267,7 +1309,9 @@
   - [Official React Native SDK for Stream Chat](src/runtime/nodejs/libs/stream-chat-react-native.md)
   - [OpenAPI Generator](src/runtime/nodejs/libs/@openapitools-openapi-generator-cli.md)
   - [OpenAI Node API Library](src/runtime/nodejs/libs/openai.md)
+  - [OpenNext](src/runtime/nodejs/libs/opennext.md)
   - [optimize-css-assets-webpack-plugin](src/runtime/nodejs/libs/optimize-css-assets-webpack-plugin.md)
+  - [p-limit](src/runtime/nodejs/libs/p-limit.md)
   - [Pagar.me JavaScript](src/runtime/nodejs/libs/pagarme.md)
   - [Paper](src/runtime/nodejs/libs/react-native-paper.md)
   - [Paper Onboarding](src/runtime/nodejs/libs/@gorhom-paper-onboarding.md)
@@ -1330,6 +1374,7 @@
   - [React DnD](src/runtime/nodejs/libs/react-dnd.md)
   - [React DnD HTML5 Backend](src/runtime/nodejs/libs/react-dnd-html5-backend.md)
   - [React Dragula](src/runtime/nodejs/libs/react-dragula.md)
+  - [React Email](src/runtime/nodejs/libs/react-email.md)
   - [React Feather Icons](src/runtime/nodejs/libs/react-feather.md)
   - [React Flow](src/runtime/nodejs/libs/react-flow.md)
   - [React Game Engine](src/runtime/nodejs/libs/react-game-engine.md)
@@ -1361,6 +1406,7 @@
   - [React Native Elements](src/runtime/nodejs/libs/react-native-elements.md)
   - [React Native Emoji](src/runtime/nodejs/libs/react-native-emoji.md)
   - [React Native FBSDK](src/runtime/nodejs/libs/react-native-fbsdk.md)
+  - [React Native FBSDK Next](src/runtime/nodejs/libs/react-native-fbsdk-next.md)
   - [React Native Firebase](src/runtime/nodejs/libs/@react-native-firebase-app.md)
   - [React Native Firebase - Analytics](src/runtime/nodejs/libs/@react-native-firebase-analytics.md)
   - [React Native Firebase - Authentication](src/runtime/nodejs/libs/@react-native-firebase-auth.md)
@@ -1773,6 +1819,11 @@
 - [DigitalOcean](src/servers/digitalocean.md)
 - [Google Cloud Platform](src/servers/google-cloud-platform.md)
 
+### Servidores MCP
+
+- [MCP Servers](src/mcp-servers/mcp-servers.md)
+- [Smithery](src/mcp-servers/smithery.md)
+
 ### Servidores Web
 
 - [Apache](src/web-servers/apache.md)
@@ -1832,6 +1883,7 @@
   - [ElephantSQL](src/sgdbs/postgresql/elephantsql.md)
   - [Neon](src/sgdbs/postgresql/neon.md)
   - [Postbird](src/sgdbs/postgresql/postbird.md)
+  - [Postico](src/sgdbs/postgresql/postico.md)
   - [Supabase](src/sgdbs/postgresql/supabase.md)
 
   #### Redis
