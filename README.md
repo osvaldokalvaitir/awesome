@@ -160,6 +160,7 @@
     - [Figma - Extensões](#figma---extensões)
   - [Virtualização de Macs](#virtualização-de-macs)
   - [VoIP](#voip)
+  - [WhatsApp](#whatsapp)
   - [Guia - Configuração de Ambiente](#guia---configuração-de-ambiente)
     - [Instalação de Projeto](#instalação-de-projeto)
     - [Execução de Projeto (Desenvolvimento, Depuração, Testes e Produção)](#execução-de-projeto-desenvolvimento-depuração-testes-e-produção)
@@ -791,7 +792,6 @@
 ### Mensageria e Notificações
 
 - [Amazon SNS](src/messaging-and-notifications/amazon-sns.md)
-- [Evolution API](src/messaging-and-notifications/evolution-api.md)
 - [Novu](src/messaging-and-notifications/novu.md)
 - [OneSignal](src/messaging-and-notifications/onesignal.md)
 
@@ -1995,6 +1995,10 @@
 
 - [Callix](src/voip/callix.md)
 - [NVOIP](src/voip/nvoip.md)
+
+### WhatsApp
+
+- [Evolution API](src/whatsapp/evolution-api.md)
 
 ### Guia - Configuração de Ambiente
 
