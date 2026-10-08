@@ -61,7 +61,6 @@
   - [Clientes de API](#clientes-de-api)
     - [Insomnia - Extensões](#insomnia---extensões)
   - [Coberturas de Teste](#coberturas-de-teste)
-  - [Componentes de UI](#componentes-de-ui)
   - [Contêineres](#contêineres)
     - [Docker - Imagens](#docker---imagens)
     - [Docker - Ferramentas](#docker---ferramentas)
@@ -352,10 +351,6 @@
 
 - [Codecov](src/test-coverages/codecov.md)
 - [Coveralls](src/test-coverages/coveralls.md)
-
-### Componentes de UI
-
-- [Reacticx](src/ui-components/reacticx.md)
 
 ### Contêineres
 
@@ -1628,6 +1623,7 @@
   - [react-tagsinput](src/runtime/nodejs/libs/react-tagsinput.md)
   - [react-toastify](src/runtime/nodejs/libs/react-toastify.md)
   - [react-transition-group](src/runtime/nodejs/libs/react-transition-group.md)
+  - [Reacticx](src/runtime/nodejs/libs/reacticx.md)
   - [reactotron-react-js](src/runtime/nodejs/libs/reactotron-react-js.md)
   - [reactotron-react-native](src/runtime/nodejs/libs/reactotron-react-native.md)
   - [reactotron-redux](src/runtime/nodejs/libs/reactotron-redux.md)
