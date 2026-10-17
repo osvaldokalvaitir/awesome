@@ -1,6 +1,6 @@
 # nuqs
 
-Gerenciador de estado de parâmetros de pesquisa de tipo seguro para Next.js.
+Gerenciador de estado de parâmetros de pesquisa de tipo seguro para React e Next.js. Ideal para guardar filtros, paginação, buscas e abas na URL.
 
 ## Documentação
 
