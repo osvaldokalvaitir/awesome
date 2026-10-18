@@ -61,6 +61,7 @@
   - [Clientes de API](#clientes-de-api)
     - [Insomnia - Extensões](#insomnia---extensões)
   - [Coberturas de Teste](#coberturas-de-teste)
+  - [Componentes de UI](#componentes-de-ui)
   - [Contêineres](#contêineres)
     - [Docker - Imagens](#docker---imagens)
     - [Docker - Ferramentas](#docker---ferramentas)
@@ -86,6 +87,7 @@
   - [Feedback dos Usuários](#feedback-dos-usuários)
   - [Ferramentas de BI](#ferramentas-de-bi)
   - [Ferramentas de Colaboração](#ferramentas-de-colaboração)
+  - [Ferramentas de Desenvolvimento com IA](#ferramentas-de-desenvolvimento-com-ia)
   - [Ferramentas de Design](#ferramentas-de-design)
   - [Ferramentas de Segurança](#ferramentas-de-segurança)
   - [Ferramentas de SEO](#ferramentas-de-seo)
@@ -353,6 +355,10 @@
 - [Codecov](src/test-coverages/codecov.md)
 - [Coveralls](src/test-coverages/coveralls.md)
 
+### Componentes de UI
+
+- [Origin UI](src/ui-components/origin-ui.md)
+
 ### Contêineres
 
 - [Docker](src/containers/docker.md)
@@ -575,6 +581,7 @@
 - [Codeanywhere](src/online-code-editors/codeanywhere.md)
 - [Red Hat CodeReady Workspaces](src/online-code-editors/red-hat-codeready-workspaces.md)
 - [CodePen](src/online-code-editors/codepen.md)
+- [Coder](src/online-code-editors/coder.md)
 - [CodeSandbox](src/online-code-editors/codesandbox.md)
 - [Expo Snack](src/online-code-editors/expo-snack.md)
 - [GitHub Codespaces](src/online-code-editors/github-codespaces.md)
@@ -612,6 +619,12 @@
 ### Ferramentas de Colaboração
 
 - [Confluence](src/collaboration-tools/confluence.md)
+
+### Ferramentas de Desenvolvimento com IA
+
+- [Claude Code](src/ai-development-tools/claude-code.md)
+- [Conductor](src/ai-development-tools/conductor.md)
+- [Spec Kit](src/ai-development-tools/spec-kit.md)
 
 ### Ferramentas de Design
 
@@ -810,11 +823,13 @@
 ### Monitoramento de Sistemas
 
 - [Grafana](src/systems-monitoring/grafana.md)
+- [OpenTelemetry](src/systems-monitoring/opentelemetry.md)
 - [Prometheus](src/systems-monitoring/prometheus.md)
 
 ### Orquestração de Contêineres
 
 - [Amazon ECS](src/containers-orchestration/amazon-ecs.md)
+- [Amazon EKS](src/containers-orchestration/amazon-eks.md)
 - [Docker Swarm](src/containers-orchestration/docker-swarm.md)
 - [Kubernetes](src/containers-orchestration/kubernetes.md)
 
@@ -832,6 +847,7 @@
 ### Pagamentos Online
 
 - [Adyen](src/online-payments/adyen.md)
+- [Appmax](src/online-payments/appmax.md)
 - [pagar.me](src/online-payments/pagar-me.md)
 - [PagBank](src/online-payments/pagbank.md)
 - [PayPal](src/online-payments/paypal.md)
@@ -841,7 +857,9 @@
 
 - [Adobe Sensei](src/machine-learning-platforms/adobe-sensei.md)
 - [Hugging Face](src/machine-learning-platforms/hugging-face.md)
+- [LM Studio](src/machine-learning-platforms/lm-studio.md)
 - [OpenAI](src/machine-learning-platforms/openai.md)
+- [OpenRouter](src/machine-learning-platforms/openrouter.md)
 
 ### Plataformas de Comunicação
 
@@ -900,6 +918,7 @@
   - [@babel/preset-env](src/runtime/nodejs/libs/@babel-preset-env.md)
   - [@babel/preset-react](src/runtime/nodejs/libs/@babel-preset-react.md)
   - [@bigheads/core](src/runtime/nodejs/libs/@bigheads-core.md)
+  - [@biomejs/biome](src/runtime/nodejs/libs/@biomejs-biome.md)
   - [@changesets/cli](src/runtime/nodejs/libs/@changesets-cli.md)
   - [@commitlint/cli](src/runtime/nodejs/libs/@commitlint-cli.md)
   - [@commitlint/config-conventional](src/runtime/nodejs/libs/@commitlint-config-conventional.md)
@@ -1010,6 +1029,8 @@
   - [babel-plugin-styled-components](src/runtime/nodejs/libs/babel-plugin-styled-components.md)
   - [bcrypt.js](src/runtime/nodejs/libs/bcryptjs.md)
   - [Bee-Queue](src/runtime/nodejs/libs/bee-queue.md)
+  - [Better Auth](src/runtime/nodejs/libs/better-auth.md)
+  - [Better T Stack](src/runtime/nodejs/libs/create-better-t-stack.md)
   - [Blitz](src/runtime/nodejs/libs/blitz.md)
   - [Bluebird](src/runtime/nodejs/libs/bluebird.md)
   - [Blur](src/runtime/nodejs/libs/@react-native-community-blur.md)
@@ -1217,6 +1238,7 @@
   - [Keen-Slider](src/runtime/nodejs/libs/keen-slider.md)
   - [knex.js](src/runtime/nodejs/libs/knex.md)
   - [kraken.js](src/runtime/nodejs/libs/kraken-js.md)
+  - [Kubb](src/runtime/nodejs/libs/kubb.md)
   - [Kue](src/runtime/nodejs/libs/kue.md)
   - [ky](src/runtime/nodejs/libs/ky.md)
   - [LCOV Result Merger](src/runtime/nodejs/libs/lcov-result-merger.md)
@@ -1308,6 +1330,7 @@
   - [OpenAI Node API Library](src/runtime/nodejs/libs/openai.md)
   - [OpenNext](src/runtime/nodejs/libs/opennext.md)
   - [optimize-css-assets-webpack-plugin](src/runtime/nodejs/libs/optimize-css-assets-webpack-plugin.md)
+  - [Orval](src/runtime/nodejs/libs/orval.md)
   - [p-limit](src/runtime/nodejs/libs/p-limit.md)
   - [Pagar.me JavaScript](src/runtime/nodejs/libs/pagarme.md)
   - [Paper](src/runtime/nodejs/libs/react-native-paper.md)
@@ -1368,6 +1391,7 @@
   - [React Credit Cards](src/runtime/nodejs/libs/react-credit-cards.md)
   - [React Currency Input Field Component](src/runtime/nodejs/libs/react-currency-input-field.md)
   - [React Date Picker](src/runtime/nodejs/libs/react-datepicker.md)
+  - [React Day Picker](src/runtime/nodejs/libs/react-day-picker.md)
   - [React DnD](src/runtime/nodejs/libs/react-dnd.md)
   - [React DnD HTML5 Backend](src/runtime/nodejs/libs/react-dnd-html5-backend.md)
   - [React Dragula](src/runtime/nodejs/libs/react-dragula.md)
@@ -1945,6 +1969,7 @@
 
 - [Adobe XD](src/ui-ux/adobe-xd.md)
 - [Balsamiq Wireframes](src/ui-ux/balsamiq-wireframes.md)
+- [Claude Design](src/ui-ux/claude-design.md)
 - [Contrast Checker](src/ui-ux/contrast-checker.md)
 - [Figma](src/ui-ux/figma.md)
 - [Grid.Guide](src/ui-ux/grid-guide.md)
@@ -2067,7 +2092,7 @@
 
 - [Docker](src/containers/docker/docker.md)
 
-- [Git](src/version-controls/git/git.md)
+- [Git](src/version-controls/git.md)
 
 - [GitHub](src/version-controls/git/tools/github.md)
 
