@@ -622,6 +622,7 @@
 
 ### Ferramentas de Desenvolvimento com IA
 
+- [Claude Code](src/ai-development-tools/claude-code.md)
 - [Conductor](src/ai-development-tools/conductor.md)
 - [Spec Kit](src/ai-development-tools/spec-kit.md)
 
