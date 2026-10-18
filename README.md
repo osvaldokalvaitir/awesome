@@ -829,6 +829,7 @@
 ### Orquestração de Contêineres
 
 - [Amazon ECS](src/containers-orchestration/amazon-ecs.md)
+- [Amazon EKS](src/containers-orchestration/amazon-eks.md)
 - [Docker Swarm](src/containers-orchestration/docker-swarm.md)
 - [Kubernetes](src/containers-orchestration/kubernetes.md)
 
