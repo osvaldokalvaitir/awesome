@@ -2090,7 +2090,7 @@
 
 - [Docker](src/containers/docker/docker.md)
 
-- [Git](src/version-controls/git/git.md)
+- [Git](src/version-controls/git.md)
 
 - [GitHub](src/version-controls/git/tools/github.md)
 
