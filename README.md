@@ -219,6 +219,7 @@
 
 ### Automação de Aplicativos
 
+- [agent-qa](src/apps-automation/agent-qa.md)
 - [fastlane](src/apps-automation/fastlane.md)
 - [Selenium](src/apps-automation/selenium.md)
 
